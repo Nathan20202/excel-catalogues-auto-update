@@ -233,6 +233,18 @@ function Backup-Workbook {
     return $backupPath
 }
 
+function Backup-FileBeforeRepair {
+    param([string]$OriginalPath)
+
+    New-Item -ItemType Directory -Path $BackupFolder -Force | Out-Null
+    $baseName = [IO.Path]::GetFileNameWithoutExtension($OriginalPath)
+    $extension = [IO.Path]::GetExtension($OriginalPath)
+    $stamp = Get-Date -Format "yyyyMMdd-HHmmss"
+    $backupPath = Join-Path $BackupFolder "$baseName-$stamp-avant-reparation$extension"
+    Copy-Item -LiteralPath $OriginalPath -Destination $backupPath -Force
+    return $backupPath
+}
+
 if (-not (Test-Path -LiteralPath $Dossier -PathType Container)) {
     throw "Dossier introuvable : $Dossier"
 }
@@ -280,8 +292,38 @@ try {
             if ($null -eq $workbook) {
                 # Ne pas actualiser les liaisons externes pendant l'ouverture et
                 # demander explicitement une ouverture en lecture/ecriture.
-                $workbook = $excel.Workbooks.Open($file.FullName, 0, $false)
-                $openedHere = $true
+                try {
+                    $workbook = $excel.Workbooks.Open($file.FullName, 0, $false)
+                    $openedHere = $true
+                }
+                catch {
+                    # Certains classeurs produits par une bibliotheque Open XML
+                    # sont lisibles mais Excel demande une reparation silencieuse.
+                    # Conserver l'original avant d'autoriser xlRepairFile (1).
+                    $repairBackup = Backup-FileBeforeRepair -OriginalPath $file.FullName
+                    Write-Log "$($file.Name) : ouverture standard refusee ; tentative de reparation. Original conserve dans $repairBackup" "AVERTISSEMENT"
+
+                    $missing = [Type]::Missing
+                    $workbook = $excel.Workbooks.Open(
+                        $file.FullName,
+                        0,
+                        $false,
+                        $missing,
+                        $missing,
+                        $missing,
+                        $true,
+                        $missing,
+                        $missing,
+                        $missing,
+                        $false,
+                        $missing,
+                        $false,
+                        $true,
+                        1
+                    )
+                    $openedHere = $true
+                    Write-Log "$($file.Name) : classeur ouvert en mode reparation Excel." "AVERTISSEMENT"
+                }
             }
 
             $stage = "identification"
