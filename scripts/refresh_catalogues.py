@@ -39,6 +39,7 @@ CHECK_LIMITS = {
     "gcdl": 120,
     "tech": 260,
     "activities": 240,
+    "english": 220,
 }
 
 
