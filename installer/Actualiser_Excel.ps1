@@ -99,6 +99,20 @@ function Test-EqualCellValue {
     return ([string]$Left).Trim() -eq ([string]$Right).Trim()
 }
 
+function Set-WorksheetCellValue {
+    param($Worksheet, [string]$Address, $Value)
+
+    $range = $Worksheet.Range($Address)
+    # Excel refuse l'ecriture dans une cellule fusionnee qui n'est pas la
+    # cellule superieure gauche (HRESULT 0x800A03EC). Toujours viser la cellule
+    # principale de la zone fusionnee rend le moteur compatible avec tous les
+    # tableaux de bord.
+    if ($range.MergeCells -eq $true) {
+        $range = $range.MergeArea.Cells.Item(1, 1)
+    }
+    $range.Value2 = $Value
+}
+
 function Set-NewRowDefaults {
     param($Table, [int]$RowIndex, $Dataset, [hashtable]$HeaderMap)
     foreach ($property in $Dataset.defaultPersonalValues.PSObject.Properties) {
@@ -253,13 +267,24 @@ try {
     foreach ($file in $files) {
         $workbook = $null
         $openedHere = $false
+        $stage = "ouverture"
         try {
+            # Les fichiers telecharges depuis un navigateur peuvent conserver
+            # la marque Windows "provenant d'Internet". Excel les ouvre alors
+            # en affichage protege et l'automatisation COM echoue sur Open.
+            # Les .xlsx ne contiennent pas de macros VBA ; on peut donc retirer
+            # cette marque pour les classeurs du dossier choisi par l'utilisateur.
+            Unblock-File -LiteralPath $file.FullName -ErrorAction SilentlyContinue
+
             $workbook = Get-OpenWorkbook -Excel $excel -FullPath $file.FullName
             if ($null -eq $workbook) {
-                $workbook = $excel.Workbooks.Open($file.FullName)
+                # Ne pas actualiser les liaisons externes pendant l'ouverture et
+                # demander explicitement une ouverture en lecture/ecriture.
+                $workbook = $excel.Workbooks.Open($file.FullName, 0, $false)
                 $openedHere = $true
             }
 
+            $stage = "identification"
             $updateSheet = $null
             $key = ""
             try {
@@ -290,9 +315,15 @@ try {
                 $updateSheet = $workbook.Worksheets.Item([string]$workbookConfig.updateSheet)
             }
 
+            if ($workbook.ReadOnly) {
+                throw "Le classeur est en lecture seule. Ferme Excel, attends la fin de la synchronisation OneDrive, puis relance."
+            }
+
+            $stage = "sauvegarde de securite"
             $backupPath = Backup-Workbook -Workbook $workbook -OriginalPath $file.FullName
             Write-Log "Sauvegarde créée : $backupPath"
 
+            $stage = "mise a jour des donnees"
             $bookAdded = 0
             $bookUpdated = 0
             $latestRemote = ""
@@ -307,16 +338,27 @@ try {
                 )
             }
 
-            $excel.CalculateFull()
+            # Le recalcul complet peut echouer a cause d'un autre classeur deja
+            # ouvert dans Excel. Cela ne doit pas annuler les donnees mises a jour.
+            try {
+                $excel.CalculateFull()
+            }
+            catch {
+                Write-Log "$($file.Name) : recalcul complet ignore ($($_.Exception.Message))." "AVERTISSEMENT"
+            }
+
+            $stage = "ecriture du statut"
             $status = "Dernière actualisation : {0}`n{1} nouvelle(s) ligne(s) • {2} cellule(s) publique(s) mise(s) à jour`nSource : {3}" -f (
                 Get-Date -Format "dd/MM/yyyy HH:mm"
             ), $bookAdded, $bookUpdated, $latestRemote
             $statusCell = if ([string]::IsNullOrWhiteSpace([string]$workbookConfig.statusCell)) { "F6" } else { [string]$workbookConfig.statusCell }
             $lastUpdateCell = if ([string]::IsNullOrWhiteSpace([string]$workbookConfig.lastUpdateCell)) { "N62" } else { [string]$workbookConfig.lastUpdateCell }
             $resultCell = if ([string]::IsNullOrWhiteSpace([string]$workbookConfig.resultCell)) { "N63" } else { [string]$workbookConfig.resultCell }
-            $updateSheet.Range($statusCell).Value2 = $status
-            $updateSheet.Range($lastUpdateCell).Value2 = (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
-            $updateSheet.Range($resultCell).Value2 = "$bookAdded|$bookUpdated"
+            Set-WorksheetCellValue -Worksheet $updateSheet -Address $statusCell -Value $status
+            Set-WorksheetCellValue -Worksheet $updateSheet -Address $lastUpdateCell -Value (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
+            Set-WorksheetCellValue -Worksheet $updateSheet -Address $resultCell -Value "$bookAdded|$bookUpdated"
+
+            $stage = "enregistrement final"
             $workbook.Save()
 
             if ($openedHere) {
@@ -328,7 +370,7 @@ try {
             Write-Log "$($file.Name) actualisé avec succès."
         }
         catch {
-            $message = "$($file.Name) : $($_.Exception.Message)"
+            $message = "$($file.Name) [$stage] : $($_.Exception.Message)"
             $errors.Add($message)
             Write-Log $message "ERREUR"
             if ($null -ne $workbook -and $openedHere) {
