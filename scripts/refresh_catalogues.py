@@ -38,6 +38,7 @@ CHECK_LIMITS = {
     "cinema": 0,
     "gcdl": 120,
     "tech": 260,
+    "activities": 240,
 }
 
 

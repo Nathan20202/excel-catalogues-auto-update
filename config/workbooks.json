@@ -965,6 +965,78 @@
         }
       ]
     },
+    "activities": {
+      "label": "Activités — Cabourg, Paris, Orsay, Mende, Saint-Cyprien et Boulouris",
+      "fileName": "Guide_Activites_6_Villes_et_Alentours_2026.xlsx",
+      "cadence": "Hebdomadaire — jeudi + enrichissement mensuel",
+      "updateSheet": "Cabourg",
+      "keyCell": "AZ1",
+      "statusCell": "AZ4",
+      "lastUpdateCell": "AZ2",
+      "resultCell": "AZ3",
+      "datasets": [
+        {
+          "sheet": "Cabourg",
+          "table": "ActivitiesCabourg",
+          "file": "data/activites/cabourg.json",
+          "recordCount": 74,
+          "idColumn": "ID",
+          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+        },
+        {
+          "sheet": "Paris",
+          "table": "ActivitiesParis",
+          "file": "data/activites/paris.json",
+          "recordCount": 100,
+          "idColumn": "ID",
+          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+        },
+        {
+          "sheet": "Orsay",
+          "table": "ActivitiesOrsay",
+          "file": "data/activites/orsay.json",
+          "recordCount": 55,
+          "idColumn": "ID",
+          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+        },
+        {
+          "sheet": "Mende",
+          "table": "ActivitiesMende",
+          "file": "data/activites/mende.json",
+          "recordCount": 65,
+          "idColumn": "ID",
+          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+        },
+        {
+          "sheet": "Saint-Cyprien",
+          "table": "ActivitiesSaintCyprien",
+          "file": "data/activites/saint-cyprien.json",
+          "recordCount": 77,
+          "idColumn": "ID",
+          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+        },
+        {
+          "sheet": "Boulouris",
+          "table": "ActivitiesBoulouris",
+          "file": "data/activites/boulouris.json",
+          "recordCount": 82,
+          "idColumn": "ID",
+          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+        }
+      ]
+    },
     "gcdl": {
       "label": "Google Cloud Digital Leader",
       "fileName": "Google_Cloud_Digital_Leader_Master.xlsx",

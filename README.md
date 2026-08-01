@@ -1,6 +1,6 @@
 # Excel Catalogues Auto Update
 
-Infrastructure gratuite d’actualisation pour six classeurs Excel personnels :
+Infrastructure gratuite d’actualisation pour sept classeurs Excel personnels :
 
 - films, séries et animés ;
 - marques de vêtements ;
@@ -8,6 +8,7 @@ Infrastructure gratuite d’actualisation pour six classeurs Excel personnels :
 - codes promo, cashback et comparateurs ;
 - Google Cloud Digital Leader.
 - guide Tech & High-Tech : meilleurs achats, rapports qualité/prix et configurations PC.
+- guide des activités de Cabourg, Paris, Orsay, Mende, Saint-Cyprien et Boulouris, avec leurs alentours.
 
 Le classeur Google Cloud comprend trois examens blancs complets de 60 questions et leurs trois corrigés détaillés. Les réponses saisies restent locales et sont protégées lors de chaque actualisation.
 
@@ -42,6 +43,7 @@ Aucun abonnement, aucune clé API et aucun secret GitHub ne sont nécessaires su
 | Marques de vêtements | Le 3 de chaque mois |
 | Google Cloud Digital Leader | Le 5 de chaque mois et détection des changements officiels |
 | Tech & High-Tech | Chaque samedi, avec validation éditoriale mensuelle minimum |
+| Activités des six villes | Chaque jeudi, avec enrichissement éditorial mensuel |
 
 Tous les workflows peuvent aussi être lancés manuellement depuis l’onglet **Actions** de GitHub.
 
