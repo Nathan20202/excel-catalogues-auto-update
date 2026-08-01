@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store
+Actualisation.log
+_sauvegardes_actualisation/
+

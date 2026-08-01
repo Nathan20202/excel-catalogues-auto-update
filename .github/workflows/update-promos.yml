@@ -1,0 +1,35 @@
+name: Actualiser codes promo et comparateurs
+
+on:
+  schedule:
+    - cron: "55 4 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-promos
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Contrôler les services et extensions
+        run: python scripts/refresh_catalogues.py --catalog promo
+      - name: Valider
+        run: python scripts/validate.py
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "excel-catalogues-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Actualiser promotions et comparateurs"
+          git push
+

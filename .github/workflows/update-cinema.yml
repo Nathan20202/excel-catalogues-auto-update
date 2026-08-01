@@ -1,0 +1,35 @@
+name: Actualiser cinéma, séries et animés
+
+on:
+  schedule:
+    - cron: "15 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-cinema
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Actualiser les notes et détecter les nouveautés
+        run: python scripts/refresh_catalogues.py --catalog cinema
+      - name: Valider
+        run: python scripts/validate.py
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "excel-catalogues-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Actualiser cinéma et séries"
+          git push
+
