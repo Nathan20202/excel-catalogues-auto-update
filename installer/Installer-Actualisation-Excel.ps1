@@ -20,6 +20,16 @@ function Download-File {
     param([string]$Url, [string]$Destination)
     Invoke-WebRequest -Uri $Url -OutFile $Destination -UseBasicParsing -TimeoutSec 120
     Unblock-File -LiteralPath $Destination -ErrorAction SilentlyContinue
+
+    # Windows PowerShell 5.1 interprete parfois un script UTF-8 sans BOM avec
+    # l'ancien encodage Windows, ce qui transforme les accents en "Ã©". Reecrire
+    # les scripts PowerShell avec un BOM UTF-8 evite ce probleme d'affichage.
+    if ([IO.Path]::GetExtension($Destination) -ieq ".ps1") {
+        $utf8NoBom = [Text.UTF8Encoding]::new($false)
+        $utf8WithBom = [Text.UTF8Encoding]::new($true)
+        $content = [IO.File]::ReadAllText($Destination, $utf8NoBom)
+        [IO.File]::WriteAllText($Destination, $content, $utf8WithBom)
+    }
 }
 
 if ([string]::IsNullOrWhiteSpace($DossierCible)) {
@@ -90,4 +100,3 @@ $answer = [System.Windows.Forms.MessageBox]::Show(
 if ($answer -eq [System.Windows.Forms.DialogResult]::Yes) {
     Start-Process -FilePath $launcherPath -WorkingDirectory $DossierCible
 }
-
