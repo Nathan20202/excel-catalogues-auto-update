@@ -812,6 +812,9 @@
       "cadence": "Hebdomadaire — samedi + validation mensuelle",
       "updateSheet": "00 - Actualisation",
       "keyCell": "N60",
+      "statusCell": "A6",
+      "lastUpdateCell": "N62",
+      "resultCell": "N63",
       "datasets": [
         {
           "sheet": "02 - Guide express",
