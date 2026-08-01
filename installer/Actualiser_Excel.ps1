@@ -99,6 +99,27 @@ function Test-EqualCellValue {
     return ([string]$Left).Trim() -eq ([string]$Right).Trim()
 }
 
+function ConvertTo-ExcelCellValue {
+    param($Value)
+
+    if ($null -eq $Value) {
+        return $null
+    }
+    # Invoke-RestMethod de Windows PowerShell 5.1 deserialise certains nombres
+    # JSON en System.Decimal. L'automatisation COM d'Excel n'accepte pas toujours
+    # VT_DECIMAL pour Value2 ; un Double est le type numerique natif attendu.
+    if ($Value -is [decimal]) {
+        return [double]$Value
+    }
+    if ($Value -is [long] -or $Value -is [ulong]) {
+        return [double]$Value
+    }
+    if ($Value -is [DateTime]) {
+        return [double]$Value.ToOADate()
+    }
+    return $Value
+}
+
 function Set-WorksheetCellValue {
     param($Worksheet, [string]$Address, $Value)
 
@@ -122,7 +143,7 @@ function Set-NewRowDefaults {
         }
         $cell = $Table.DataBodyRange.Cells.Item($RowIndex, $HeaderMap[$columnName])
         if ([string]::IsNullOrWhiteSpace([string]$cell.Value2)) {
-            $cell.Value2 = $property.Value
+            $cell.Value2 = ConvertTo-ExcelCellValue -Value $property.Value
         }
     }
     if ($RowIndex -gt 1) {
@@ -200,7 +221,7 @@ function Update-Dataset {
                 continue
             }
             $cell = $table.DataBodyRange.Cells.Item($rowIndex, $headers[$columnName])
-            $newValue = $property.Value
+            $newValue = ConvertTo-ExcelCellValue -Value $property.Value
             if (-not (Test-EqualCellValue -Left $cell.Value2 -Right $newValue)) {
                 $cell.Value2 = $newValue
                 $updatedCells++
