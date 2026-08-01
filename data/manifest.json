@@ -327,6 +327,28 @@
         }
       ]
     },
+    "tech": {
+      "label": "Guide Tech & High-Tech",
+      "fileName": "Guide_Tech_High_Tech_Meilleurs_Achats_2026.xlsx",
+      "cadence": "Hebdomadaire — samedi + validation mensuelle",
+      "datasets": [
+        {"sheet": "02 - Guide express", "table": "TechQuickGuide", "file": "data/tech/guide-express.json", "recordCount": 40},
+        {"sheet": "03 - Configurations PC", "table": "TechPcConfigurations", "file": "data/tech/configurations-pc.json", "recordCount": 54},
+        {"sheet": "04 - Composants PC", "table": "TechPcComponents", "file": "data/tech/composants-pc.json", "recordCount": 50},
+        {"sheet": "05 - Ordinateurs", "table": "TechComputers", "file": "data/tech/ordinateurs.json", "recordCount": 28},
+        {"sheet": "06 - Mobiles & wearables", "table": "TechMobileWearables", "file": "data/tech/mobiles-wearables.json", "recordCount": 36},
+        {"sheet": "07 - Écrans & projection", "table": "TechDisplays", "file": "data/tech/ecrans-projection.json", "recordCount": 30},
+        {"sheet": "08 - Audio", "table": "TechAudio", "file": "data/tech/audio.json", "recordCount": 32},
+        {"sheet": "09 - Gaming & VR", "table": "TechGamingVr", "file": "data/tech/gaming-vr.json", "recordCount": 32},
+        {"sheet": "10 - Photo vidéo drones", "table": "TechCameraDrone", "file": "data/tech/photo-video-drones.json", "recordCount": 34},
+        {"sheet": "11 - Réseau & stockage", "table": "TechNetworkStorage", "file": "data/tech/reseau-stockage.json", "recordCount": 32},
+        {"sheet": "12 - Maison connectée", "table": "TechSmartHome", "file": "data/tech/maison-connectee.json", "recordCount": 34},
+        {"sheet": "13 - Bureau & accessoires", "table": "TechDeskAccessories", "file": "data/tech/bureau-accessoires.json", "recordCount": 36},
+        {"sheet": "14 - Makers & énergie", "table": "TechMakersEnergy", "file": "data/tech/makers-energie.json", "recordCount": 28},
+        {"sheet": "15 - Mobilité & auto", "table": "TechMobilityAuto", "file": "data/tech/mobilite-auto.json", "recordCount": 24},
+        {"sheet": "16 - Sources & méthode", "table": "TechSourceRegister", "file": "data/tech/sources.json", "recordCount": 347}
+      ]
+    },
     "gcdl": {
       "label": "Google Cloud Digital Leader",
       "fileName": "Google_Cloud_Digital_Leader_Master.xlsx",
