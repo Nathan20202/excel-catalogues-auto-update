@@ -6,6 +6,18 @@ param(
 
 $ErrorActionPreference = "Stop"
 $ProgressPreference = "SilentlyContinue"
+
+# Le lanceur CMD peut transmettre un guillemet parasite lorsqu'un chemin cité
+# se termine par un antislash. Nettoyer puis normaliser le dossier avant toute
+# utilisation évite l'erreur Test-Path « Caractères non conformes ».
+$Dossier = ([string]$Dossier).Trim().Trim('"')
+try {
+    $Dossier = [IO.Path]::GetFullPath($Dossier)
+}
+catch {
+    throw "Chemin de dossier non valide : $Dossier"
+}
+
 $RawBase = "https://raw.githubusercontent.com/Nathan20202/excel-catalogues-auto-update/main"
 $ConfigUrl = "$RawBase/config/workbooks.json"
 $LogPath = Join-Path $Dossier "Actualisation.log"
