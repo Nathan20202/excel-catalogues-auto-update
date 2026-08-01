@@ -1,0 +1,969 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.0.0",
+  "repository": "Nathan20202/excel-catalogues-auto-update",
+  "rawBase": "https://raw.githubusercontent.com/Nathan20202/excel-catalogues-auto-update/main",
+  "workbooks": {
+    "promo": {
+      "label": "Codes promo, cashback & comparateurs",
+      "fileName": "Guide_Codes_Promo_Cashback_Comparateurs_Prix_2026.xlsx",
+      "cadence": "Hebdomadaire — vendredi",
+      "updateSheet": "00 - Actualisation",
+      "keyCell": "N60",
+      "datasets": [
+        {
+          "sheet": "02 - Codes & cashback",
+          "table": "PromoCashbackDirectory",
+          "file": "data/promo/codes-cashback.json",
+          "recordCount": 21,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Suivi",
+            "Économie perso (€)",
+            "Note perso /10",
+            "Favori",
+            "Commentaire"
+          ],
+          "formulaColumns": [
+            "Score /10",
+            "Niveau"
+          ],
+          "defaultPersonalValues": {
+            "Suivi": "☐ À tester",
+            "Favori": "☆ Non"
+          }
+        },
+        {
+          "sheet": "03 - Extensions",
+          "table": "ExtensionDirectory",
+          "file": "data/promo/extensions.json",
+          "recordCount": 11,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Suivi",
+            "Économie perso (€)",
+            "Note perso /10",
+            "Favori",
+            "Commentaire"
+          ],
+          "formulaColumns": [
+            "Score /10",
+            "Niveau"
+          ],
+          "defaultPersonalValues": {
+            "Suivi": "☐ À tester",
+            "Favori": "☆ Non"
+          }
+        },
+        {
+          "sheet": "04 - Comparateurs",
+          "table": "GeneralComparators",
+          "file": "data/promo/comparateurs.json",
+          "recordCount": 10,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Suivi",
+            "Économie perso (€)",
+            "Note perso /10",
+            "Favori",
+            "Commentaire"
+          ],
+          "formulaColumns": [
+            "Score /10",
+            "Niveau"
+          ],
+          "defaultPersonalValues": {
+            "Suivi": "☐ À tester",
+            "Favori": "☆ Non"
+          }
+        },
+        {
+          "sheet": "05 - Spécialisés",
+          "table": "SpecializedComparators",
+          "file": "data/promo/specialises.json",
+          "recordCount": 18,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Suivi",
+            "Économie perso (€)",
+            "Note perso /10",
+            "Favori",
+            "Commentaire"
+          ],
+          "formulaColumns": [
+            "Score /10",
+            "Niveau"
+          ],
+          "defaultPersonalValues": {
+            "Suivi": "☐ À tester",
+            "Favori": "☆ Non"
+          }
+        },
+        {
+          "sheet": "06 - Guide par achat",
+          "table": "PurchaseGuide",
+          "file": "data/promo/guide-achats.json",
+          "recordCount": 24,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "07 - Méthode",
+          "table": "SecurityChecklist",
+          "file": "data/promo/securite.json",
+          "recordCount": 12,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "07 - Méthode",
+          "table": "CoreSources",
+          "file": "data/promo/sources.json",
+          "recordCount": 18,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        }
+      ]
+    },
+    "pokemon": {
+      "label": "Sites européens de cartes Pokémon",
+      "fileName": "Guide_Sites_Cartes_Pokemon_FR_Europe_2026.xlsx",
+      "cadence": "Hebdomadaire — mercredi",
+      "updateSheet": "00 - Actualisation",
+      "keyCell": "N60",
+      "datasets": [
+        {
+          "sheet": "02 - Annuaire",
+          "table": "PokemonSitesDirectory",
+          "file": "data/pokemon/annuaire-part-001.json",
+          "recordCount": 201,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Suivi",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Suivi": "☐ À tester",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Annuaire",
+          "table": "PokemonSitesDirectory",
+          "file": "data/pokemon/annuaire-part-002.json",
+          "recordCount": 35,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Suivi",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Suivi": "☐ À tester",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "03 - France",
+          "table": "FranceSitesView",
+          "file": "data/pokemon/france.json",
+          "recordCount": 116,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [
+            "Suivi",
+            "Note perso",
+            "Wishlist"
+          ],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "04 - Europe",
+          "table": "EuropeSitesView",
+          "file": "data/pokemon/europe.json",
+          "recordCount": 120,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [
+            "Suivi",
+            "Note perso",
+            "Wishlist"
+          ],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "05 - Guide par besoin",
+          "table": "BuyingNeedsGuide",
+          "file": "data/pokemon/guide-besoins.json",
+          "recordCount": 25,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "06 - Magasins physiques",
+          "table": "PhysicalStoresView",
+          "file": "data/pokemon/magasins-physiques.json",
+          "recordCount": 118,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [
+            "Suivi",
+            "Note perso",
+            "Wishlist"
+          ],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "07 - Enseignes pérennes",
+          "table": "DurableStoresView",
+          "file": "data/pokemon/enseignes-perennes.json",
+          "recordCount": 128,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [
+            "Suivi",
+            "Note perso",
+            "Wishlist"
+          ],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "08 - Marketplaces & risques",
+          "table": "MarketplaceRiskView",
+          "file": "data/pokemon/marketplaces-risques.json",
+          "recordCount": 49,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [
+            "Suivi",
+            "Note perso",
+            "Wishlist"
+          ],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "10 - Sources & méthode",
+          "table": "SourceRegister",
+          "file": "data/pokemon/sources.json",
+          "recordCount": 23,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "10 - Sources & méthode",
+          "table": "MethodLegend",
+          "file": "data/pokemon/methode.json",
+          "recordCount": 12,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "10 - Sources & méthode",
+          "table": "SafetyChecklist",
+          "file": "data/pokemon/securite.json",
+          "recordCount": 12,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        }
+      ]
+    },
+    "fashion": {
+      "label": "Marques de vêtements",
+      "fileName": "Guide_Marques_Vetements_Zara_a_Hermes_2026.xlsx",
+      "cadence": "Mensuelle — le 3",
+      "updateSheet": "00 - Actualisation",
+      "keyCell": "N60",
+      "datasets": [
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-001.json",
+          "recordCount": 167,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-002.json",
+          "recordCount": 164,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-003.json",
+          "recordCount": 164,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-004.json",
+          "recordCount": 165,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-005.json",
+          "recordCount": 166,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-006.json",
+          "recordCount": 161,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-007.json",
+          "recordCount": 161,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-008.json",
+          "recordCount": 164,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-009.json",
+          "recordCount": 164,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-010.json",
+          "recordCount": 31,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Wishlist",
+            "Commentaire personnel"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À découvrir",
+            "Wishlist": ""
+          }
+        },
+        {
+          "sheet": "03 - Styles",
+          "table": "GuideStyles",
+          "file": "data/fashion/styles.json",
+          "recordCount": 43,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Test personnel",
+            "Notes"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À explorer"
+          }
+        },
+        {
+          "sheet": "04 - Pièces",
+          "table": "GuidePieces",
+          "file": "data/fashion/pieces.json",
+          "recordCount": 84,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Notes personnelles"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À explorer"
+          }
+        },
+        {
+          "sheet": "05 - Sélections",
+          "table": "SelectionsMarques",
+          "file": "data/fashion/selections.json",
+          "recordCount": 317,
+          "idColumn": "ID ligne",
+          "preserveColumns": [
+            "Note personnelle"
+          ],
+          "formulaColumns": [
+            "Statut"
+          ],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "06 - Maisons & groupes",
+          "table": "GroupesMode",
+          "file": "data/fashion/maisons-groupes.json",
+          "recordCount": 22,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "08 - Sources & méthode",
+          "table": "SourcesMode",
+          "file": "data/fashion/sources.json",
+          "recordCount": 12,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        }
+      ]
+    },
+    "cinema": {
+      "label": "Films, séries & animés",
+      "fileName": "Cinema_Series_Cultes_1895_2026.xlsx",
+      "cadence": "Hebdomadaire — lundi",
+      "updateSheet": "00 - Actualisation",
+      "keyCell": "N60",
+      "datasets": [
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-001.json",
+          "recordCount": 244,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-002.json",
+          "recordCount": 243,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-003.json",
+          "recordCount": 244,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-004.json",
+          "recordCount": 240,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-005.json",
+          "recordCount": 242,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-006.json",
+          "recordCount": 236,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-007.json",
+          "recordCount": 237,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-008.json",
+          "recordCount": 237,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-009.json",
+          "recordCount": 151,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "03 - Séries",
+          "table": "SeriesCultes",
+          "file": "data/cinema/series-part-001.json",
+          "recordCount": 239,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "03 - Séries",
+          "table": "SeriesCultes",
+          "file": "data/cinema/series-part-002.json",
+          "recordCount": 239,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "03 - Séries",
+          "table": "SeriesCultes",
+          "file": "data/cinema/series-part-003.json",
+          "recordCount": 149,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "04 - Ta liste",
+          "table": "TaListeAttente",
+          "file": "data/cinema/ta-liste.json",
+          "recordCount": 79,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut",
+            "Note perso /10",
+            "Date vue",
+            "Commentaire"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "05 - Sagas & ordre",
+          "table": "OrdresSagas",
+          "file": "data/cinema/sagas-ordre.json",
+          "recordCount": 431,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Statut"
+          ],
+          "formulaColumns": [],
+          "defaultPersonalValues": {
+            "Statut": "☐ À voir"
+          }
+        },
+        {
+          "sheet": "06 - Parcours",
+          "table": "ParcoursGuide",
+          "file": "data/cinema/parcours.json",
+          "recordCount": 190,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [
+            "Statut synchronisé"
+          ],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "08 - Sources & méthode",
+          "table": "SourcesCinema",
+          "file": "data/cinema/sources.json",
+          "recordCount": 9,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        }
+      ]
+    },
+    "gcdl": {
+      "label": "Google Cloud Digital Leader",
+      "fileName": "Google_Cloud_Digital_Leader_Master.xlsx",
+      "cadence": "Mensuelle + alerte au changement officiel",
+      "updateSheet": "00 - Actualisation",
+      "keyCell": "N60",
+      "datasets": [
+        {
+          "sheet": "01 Cours complet",
+          "table": "CourseMasterTable",
+          "file": "data/gcdl/cours.json",
+          "recordCount": 226,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "02 Examen blanc",
+          "table": "MockExamTable",
+          "file": "data/gcdl/examen-blanc.json",
+          "recordCount": 60,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Votre réponse"
+          ],
+          "formulaColumns": [
+            "Résultat"
+          ],
+          "defaultPersonalValues": {
+            "Votre réponse": ""
+          }
+        },
+        {
+          "sheet": "03 Corrigé examen",
+          "table": "MockAnswerTable",
+          "file": "data/gcdl/corrige-examen.json",
+          "recordCount": 60,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "06 Examen blanc 2",
+          "table": "MockExam2Table",
+          "file": "data/gcdl/examen-blanc-2.json",
+          "recordCount": 60,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Votre réponse"
+          ],
+          "formulaColumns": [
+            "Résultat"
+          ],
+          "defaultPersonalValues": {
+            "Votre réponse": ""
+          }
+        },
+        {
+          "sheet": "07 Corrigé examen 2",
+          "table": "MockAnswer2Table",
+          "file": "data/gcdl/corrige-examen-2.json",
+          "recordCount": 60,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "08 Examen blanc 3",
+          "table": "MockExam3Table",
+          "file": "data/gcdl/examen-blanc-3.json",
+          "recordCount": 60,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Votre réponse"
+          ],
+          "formulaColumns": [
+            "Résultat"
+          ],
+          "defaultPersonalValues": {
+            "Votre réponse": ""
+          }
+        },
+        {
+          "sheet": "09 Corrigé examen 3",
+          "table": "MockAnswer3Table",
+          "file": "data/gcdl/corrige-examen-3.json",
+          "recordCount": 60,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "04 Banque questions",
+          "table": "QuestionBankTable",
+          "file": "data/gcdl/banque-questions-part-001.json",
+          "recordCount": 453,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Votre réponse"
+          ],
+          "formulaColumns": [
+            "Résultat"
+          ],
+          "defaultPersonalValues": {
+            "Votre réponse": ""
+          }
+        },
+        {
+          "sheet": "04 Banque questions",
+          "table": "QuestionBankTable",
+          "file": "data/gcdl/banque-questions-part-002.json",
+          "recordCount": 225,
+          "idColumn": "ID",
+          "preserveColumns": [
+            "Votre réponse"
+          ],
+          "formulaColumns": [
+            "Résultat"
+          ],
+          "defaultPersonalValues": {
+            "Votre réponse": ""
+          }
+        },
+        {
+          "sheet": "05 Réponses banque",
+          "table": "QuestionBankAnswerTable",
+          "file": "data/gcdl/reponses-banque-part-001.json",
+          "recordCount": 265,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "05 Réponses banque",
+          "table": "QuestionBankAnswerTable",
+          "file": "data/gcdl/reponses-banque-part-002.json",
+          "recordCount": 268,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "05 Réponses banque",
+          "table": "QuestionBankAnswerTable",
+          "file": "data/gcdl/reponses-banque-part-003.json",
+          "recordCount": 145,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        }
+      ]
+    }
+  }
+}

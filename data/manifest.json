@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 1,
+  "release": "2026.08.01",
+  "generatedAt": "2026-08-01T00:00:00+02:00",
+  "repository": "Nathan20202/excel-catalogues-auto-update",
+  "privacy": "Public catalogue data only. Personal statuses, notes, answers, favourites and comments remain local.",
+  "workbooks": {
+    "promo": {
+      "label": "Codes promo, cashback & comparateurs",
+      "fileName": "Guide_Codes_Promo_Cashback_Comparateurs_Prix_2026.xlsx",
+      "cadence": "Hebdomadaire — vendredi",
+      "datasets": [
+        {
+          "sheet": "02 - Codes & cashback",
+          "table": "PromoCashbackDirectory",
+          "file": "data/promo/codes-cashback.json",
+          "recordCount": 21
+        },
+        {
+          "sheet": "03 - Extensions",
+          "table": "ExtensionDirectory",
+          "file": "data/promo/extensions.json",
+          "recordCount": 11
+        },
+        {
+          "sheet": "04 - Comparateurs",
+          "table": "GeneralComparators",
+          "file": "data/promo/comparateurs.json",
+          "recordCount": 10
+        },
+        {
+          "sheet": "05 - Spécialisés",
+          "table": "SpecializedComparators",
+          "file": "data/promo/specialises.json",
+          "recordCount": 18
+        },
+        {
+          "sheet": "06 - Guide par achat",
+          "table": "PurchaseGuide",
+          "file": "data/promo/guide-achats.json",
+          "recordCount": 24
+        },
+        {
+          "sheet": "07 - Méthode",
+          "table": "SecurityChecklist",
+          "file": "data/promo/securite.json",
+          "recordCount": 12
+        },
+        {
+          "sheet": "07 - Méthode",
+          "table": "CoreSources",
+          "file": "data/promo/sources.json",
+          "recordCount": 18
+        }
+      ]
+    },
+    "pokemon": {
+      "label": "Sites européens de cartes Pokémon",
+      "fileName": "Guide_Sites_Cartes_Pokemon_FR_Europe_2026.xlsx",
+      "cadence": "Hebdomadaire — mercredi",
+      "datasets": [
+        {
+          "sheet": "02 - Annuaire",
+          "table": "PokemonSitesDirectory",
+          "file": "data/pokemon/annuaire-part-001.json",
+          "recordCount": 201
+        },
+        {
+          "sheet": "02 - Annuaire",
+          "table": "PokemonSitesDirectory",
+          "file": "data/pokemon/annuaire-part-002.json",
+          "recordCount": 35
+        },
+        {
+          "sheet": "03 - France",
+          "table": "FranceSitesView",
+          "file": "data/pokemon/france.json",
+          "recordCount": 116
+        },
+        {
+          "sheet": "04 - Europe",
+          "table": "EuropeSitesView",
+          "file": "data/pokemon/europe.json",
+          "recordCount": 120
+        },
+        {
+          "sheet": "05 - Guide par besoin",
+          "table": "BuyingNeedsGuide",
+          "file": "data/pokemon/guide-besoins.json",
+          "recordCount": 25
+        },
+        {
+          "sheet": "06 - Magasins physiques",
+          "table": "PhysicalStoresView",
+          "file": "data/pokemon/magasins-physiques.json",
+          "recordCount": 118
+        },
+        {
+          "sheet": "07 - Enseignes pérennes",
+          "table": "DurableStoresView",
+          "file": "data/pokemon/enseignes-perennes.json",
+          "recordCount": 128
+        },
+        {
+          "sheet": "08 - Marketplaces & risques",
+          "table": "MarketplaceRiskView",
+          "file": "data/pokemon/marketplaces-risques.json",
+          "recordCount": 49
+        },
+        {
+          "sheet": "10 - Sources & méthode",
+          "table": "SourceRegister",
+          "file": "data/pokemon/sources.json",
+          "recordCount": 23
+        },
+        {
+          "sheet": "10 - Sources & méthode",
+          "table": "MethodLegend",
+          "file": "data/pokemon/methode.json",
+          "recordCount": 12
+        },
+        {
+          "sheet": "10 - Sources & méthode",
+          "table": "SafetyChecklist",
+          "file": "data/pokemon/securite.json",
+          "recordCount": 12
+        }
+      ]
+    },
+    "fashion": {
+      "label": "Marques de vêtements",
+      "fileName": "Guide_Marques_Vetements_Zara_a_Hermes_2026.xlsx",
+      "cadence": "Mensuelle — le 3",
+      "datasets": [
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-001.json",
+          "recordCount": 167
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-002.json",
+          "recordCount": 164
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-003.json",
+          "recordCount": 164
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-004.json",
+          "recordCount": 165
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-005.json",
+          "recordCount": 166
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-006.json",
+          "recordCount": 161
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-007.json",
+          "recordCount": 161
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-008.json",
+          "recordCount": 164
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-009.json",
+          "recordCount": 164
+        },
+        {
+          "sheet": "02 - Marques",
+          "table": "CatalogueMarques",
+          "file": "data/fashion/marques-part-010.json",
+          "recordCount": 31
+        },
+        {
+          "sheet": "03 - Styles",
+          "table": "GuideStyles",
+          "file": "data/fashion/styles.json",
+          "recordCount": 43
+        },
+        {
+          "sheet": "04 - Pièces",
+          "table": "GuidePieces",
+          "file": "data/fashion/pieces.json",
+          "recordCount": 84
+        },
+        {
+          "sheet": "05 - Sélections",
+          "table": "SelectionsMarques",
+          "file": "data/fashion/selections.json",
+          "recordCount": 317
+        },
+        {
+          "sheet": "06 - Maisons & groupes",
+          "table": "GroupesMode",
+          "file": "data/fashion/maisons-groupes.json",
+          "recordCount": 22
+        },
+        {
+          "sheet": "08 - Sources & méthode",
+          "table": "SourcesMode",
+          "file": "data/fashion/sources.json",
+          "recordCount": 12
+        }
+      ]
+    },
+    "cinema": {
+      "label": "Films, séries & animés",
+      "fileName": "Cinema_Series_Cultes_1895_2026.xlsx",
+      "cadence": "Hebdomadaire — lundi",
+      "datasets": [
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-001.json",
+          "recordCount": 244
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-002.json",
+          "recordCount": 243
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-003.json",
+          "recordCount": 244
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-004.json",
+          "recordCount": 240
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-005.json",
+          "recordCount": 242
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-006.json",
+          "recordCount": 236
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-007.json",
+          "recordCount": 237
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-008.json",
+          "recordCount": 237
+        },
+        {
+          "sheet": "02 - Films",
+          "table": "FilmsCultes",
+          "file": "data/cinema/films-part-009.json",
+          "recordCount": 151
+        },
+        {
+          "sheet": "03 - Séries",
+          "table": "SeriesCultes",
+          "file": "data/cinema/series-part-001.json",
+          "recordCount": 239
+        },
+        {
+          "sheet": "03 - Séries",
+          "table": "SeriesCultes",
+          "file": "data/cinema/series-part-002.json",
+          "recordCount": 239
+        },
+        {
+          "sheet": "03 - Séries",
+          "table": "SeriesCultes",
+          "file": "data/cinema/series-part-003.json",
+          "recordCount": 149
+        },
+        {
+          "sheet": "04 - Ta liste",
+          "table": "TaListeAttente",
+          "file": "data/cinema/ta-liste.json",
+          "recordCount": 79
+        },
+        {
+          "sheet": "05 - Sagas & ordre",
+          "table": "OrdresSagas",
+          "file": "data/cinema/sagas-ordre.json",
+          "recordCount": 431
+        },
+        {
+          "sheet": "06 - Parcours",
+          "table": "ParcoursGuide",
+          "file": "data/cinema/parcours.json",
+          "recordCount": 190
+        },
+        {
+          "sheet": "08 - Sources & méthode",
+          "table": "SourcesCinema",
+          "file": "data/cinema/sources.json",
+          "recordCount": 9
+        }
+      ]
+    },
+    "gcdl": {
+      "label": "Google Cloud Digital Leader",
+      "fileName": "Google_Cloud_Digital_Leader_Master.xlsx",
+      "cadence": "Mensuelle + alerte au changement officiel",
+      "datasets": [
+        {
+          "sheet": "01 Cours complet",
+          "table": "CourseMasterTable",
+          "file": "data/gcdl/cours.json",
+          "recordCount": 226
+        },
+        {
+          "sheet": "02 Examen blanc",
+          "table": "MockExamTable",
+          "file": "data/gcdl/examen-blanc.json",
+          "recordCount": 60
+        },
+        {
+          "sheet": "03 Corrigé examen",
+          "table": "MockAnswerTable",
+          "file": "data/gcdl/corrige-examen.json",
+          "recordCount": 60
+        },
+        {
+          "sheet": "06 Examen blanc 2",
+          "table": "MockExam2Table",
+          "file": "data/gcdl/examen-blanc-2.json",
+          "recordCount": 60
+        },
+        {
+          "sheet": "07 Corrigé examen 2",
+          "table": "MockAnswer2Table",
+          "file": "data/gcdl/corrige-examen-2.json",
+          "recordCount": 60
+        },
+        {
+          "sheet": "08 Examen blanc 3",
+          "table": "MockExam3Table",
+          "file": "data/gcdl/examen-blanc-3.json",
+          "recordCount": 60
+        },
+        {
+          "sheet": "09 Corrigé examen 3",
+          "table": "MockAnswer3Table",
+          "file": "data/gcdl/corrige-examen-3.json",
+          "recordCount": 60
+        },
+        {
+          "sheet": "04 Banque questions",
+          "table": "QuestionBankTable",
+          "file": "data/gcdl/banque-questions-part-001.json",
+          "recordCount": 453
+        },
+        {
+          "sheet": "04 Banque questions",
+          "table": "QuestionBankTable",
+          "file": "data/gcdl/banque-questions-part-002.json",
+          "recordCount": 225
+        },
+        {
+          "sheet": "05 Réponses banque",
+          "table": "QuestionBankAnswerTable",
+          "file": "data/gcdl/reponses-banque-part-001.json",
+          "recordCount": 265
+        },
+        {
+          "sheet": "05 Réponses banque",
+          "table": "QuestionBankAnswerTable",
+          "file": "data/gcdl/reponses-banque-part-002.json",
+          "recordCount": 268
+        },
+        {
+          "sheet": "05 Réponses banque",
+          "table": "QuestionBankAnswerTable",
+          "file": "data/gcdl/reponses-banque-part-003.json",
+          "recordCount": 145
+        }
+      ]
+    }
+  }
+}
