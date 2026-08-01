@@ -249,19 +249,33 @@ try {
             }
 
             $updateSheet = $null
+            $key = ""
             try {
                 $updateSheet = $workbook.Worksheets.Item("00 - Actualisation")
+                $key = ([string]$updateSheet.Range("N60").Value2).Trim()
             }
             catch {
+                foreach ($candidateSheet in @($workbook.Worksheets)) {
+                    $candidateKey = ([string]$candidateSheet.Range("AZ1").Value2).Trim()
+                    if ($null -ne $config.workbooks.PSObject.Properties[$candidateKey]) {
+                        $updateSheet = $candidateSheet
+                        $key = $candidateKey
+                        break
+                    }
+                }
+            }
+            if ($null -eq $updateSheet -or [string]::IsNullOrWhiteSpace($key)) {
                 if ($openedHere) {
                     $workbook.Close($false)
                 }
                 continue
             }
-            $key = ([string]$updateSheet.Range("N60").Value2).Trim()
             $workbookConfig = $config.workbooks.PSObject.Properties[$key].Value
             if ($null -eq $workbookConfig) {
                 throw "Clé de classeur inconnue : '$key'."
+            }
+            if (-not [string]::IsNullOrWhiteSpace([string]$workbookConfig.updateSheet)) {
+                $updateSheet = $workbook.Worksheets.Item([string]$workbookConfig.updateSheet)
             }
 
             $backupPath = Backup-Workbook -Workbook $workbook -OriginalPath $file.FullName
@@ -285,9 +299,12 @@ try {
             $status = "Dernière actualisation : {0}`n{1} nouvelle(s) ligne(s) • {2} cellule(s) publique(s) mise(s) à jour`nSource : {3}" -f (
                 Get-Date -Format "dd/MM/yyyy HH:mm"
             ), $bookAdded, $bookUpdated, $latestRemote
-            $updateSheet.Range("F6").Value2 = $status
-            $updateSheet.Range("N62").Value2 = (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
-            $updateSheet.Range("N63").Value2 = "$bookAdded|$bookUpdated"
+            $statusCell = if ([string]::IsNullOrWhiteSpace([string]$workbookConfig.statusCell)) { "F6" } else { [string]$workbookConfig.statusCell }
+            $lastUpdateCell = if ([string]::IsNullOrWhiteSpace([string]$workbookConfig.lastUpdateCell)) { "N62" } else { [string]$workbookConfig.lastUpdateCell }
+            $resultCell = if ([string]::IsNullOrWhiteSpace([string]$workbookConfig.resultCell)) { "N63" } else { [string]$workbookConfig.resultCell }
+            $updateSheet.Range($statusCell).Value2 = $status
+            $updateSheet.Range($lastUpdateCell).Value2 = (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
+            $updateSheet.Range($resultCell).Value2 = "$bookAdded|$bookUpdated"
             $workbook.Save()
 
             if ($openedHere) {
