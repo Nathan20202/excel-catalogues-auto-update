@@ -349,6 +349,19 @@
         {"sheet": "16 - Sources & méthode", "table": "TechSourceRegister", "file": "data/tech/sources.json", "recordCount": 347}
       ]
     },
+    "activities": {
+      "label": "Activités — Cabourg, Paris, Orsay, Mende, Saint-Cyprien et Boulouris",
+      "fileName": "Guide_Activites_6_Villes_et_Alentours_2026.xlsx",
+      "cadence": "Hebdomadaire — jeudi + enrichissement mensuel",
+      "datasets": [
+        {"sheet": "Cabourg", "table": "ActivitiesCabourg", "file": "data/activites/cabourg.json", "recordCount": 74},
+        {"sheet": "Paris", "table": "ActivitiesParis", "file": "data/activites/paris.json", "recordCount": 100},
+        {"sheet": "Orsay", "table": "ActivitiesOrsay", "file": "data/activites/orsay.json", "recordCount": 55},
+        {"sheet": "Mende", "table": "ActivitiesMende", "file": "data/activites/mende.json", "recordCount": 65},
+        {"sheet": "Saint-Cyprien", "table": "ActivitiesSaintCyprien", "file": "data/activites/saint-cyprien.json", "recordCount": 77},
+        {"sheet": "Boulouris", "table": "ActivitiesBoulouris", "file": "data/activites/boulouris.json", "recordCount": 82}
+      ]
+    },
     "gcdl": {
       "label": "Google Cloud Digital Leader",
       "fileName": "Google_Cloud_Digital_Leader_Master.xlsx",
