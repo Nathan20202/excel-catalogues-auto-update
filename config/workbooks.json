@@ -1037,6 +1037,188 @@
         }
       ]
     },
+    "english": {
+      "label": "English Pro C1-C2 — monde du travail",
+      "fileName": "English_Pro_C1_C2_Master.xlsx",
+      "cadence": "Hebdomadaire — dimanche + enrichissement mensuel",
+      "updateSheet": "00 - Dashboard",
+      "keyCell": "AZ1",
+      "statusCell": "AZ4",
+      "lastUpdateCell": "AZ2",
+      "resultCell": "AZ3",
+      "datasets": [
+        {
+          "sheet": "01 - Diagnostic C1-C2",
+          "table": "DiagnosticTable",
+          "file": "data/english/diagnostic.json",
+          "recordCount": 60,
+          "idColumn": "ID",
+          "preserveColumns": ["Your answer", "Status", "Notes"],
+          "formulaColumns": ["Result", "Points"],
+          "defaultPersonalValues": {"Your answer": "", "Status": "☐ Not started", "Notes": ""}
+        },
+        {
+          "sheet": "02 - Parcours 16 sem.",
+          "table": "PathTable",
+          "file": "data/english/path.json",
+          "recordCount": 80,
+          "idColumn": "ID",
+          "preserveColumns": ["Status", "Planned date", "Completed date", "Score", "Notes"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Status": "☐ Not started", "Planned date": "", "Completed date": "", "Score": "", "Notes": ""}
+        },
+        {
+          "sheet": "03 - Missions",
+          "table": "MissionsTable",
+          "file": "data/english/missions.json",
+          "recordCount": 120,
+          "idColumn": "ID",
+          "preserveColumns": ["Status", "Date", "Score", "Reflection"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Status": "☐ Not started", "Date": "", "Score": "", "Reflection": ""}
+        },
+        {
+          "sheet": "04 - Business English",
+          "table": "BusinessTable",
+          "file": "data/english/business.json",
+          "recordCount": 88,
+          "idColumn": "ID",
+          "preserveColumns": ["Mastery", "Last review", "Personal example"],
+          "formulaColumns": ["Next review"],
+          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Personal example": ""}
+        },
+        {
+          "sheet": "05 - Cyber & Cloud",
+          "table": "CyberTable",
+          "file": "data/english/cyber-cloud.json",
+          "recordCount": 117,
+          "idColumn": "ID",
+          "preserveColumns": ["Mastery", "Last review", "Personal example"],
+          "formulaColumns": ["Next review"],
+          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Personal example": ""}
+        },
+        {
+          "sheet": "06 - Email Lab",
+          "table": "EmailTable",
+          "file": "data/english/email-lab.json",
+          "recordCount": 48,
+          "idColumn": "ID",
+          "preserveColumns": ["Status", "Personal draft", "Score", "Date", "Notes"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Status": "☐ Not started", "Personal draft": "", "Score": "", "Date": "", "Notes": ""}
+        },
+        {
+          "sheet": "07 - Meetings & Neg.",
+          "table": "MeetingsTable",
+          "file": "data/english/meetings.json",
+          "recordCount": 74,
+          "idColumn": "ID",
+          "preserveColumns": ["Status", "Score", "Date", "Notes"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Status": "☐ Not started", "Score": "", "Date": "", "Notes": ""}
+        },
+        {
+          "sheet": "08 - Presentations",
+          "table": "PresentationsTable",
+          "file": "data/english/presentations.json",
+          "recordCount": 41,
+          "idColumn": "ID",
+          "preserveColumns": ["Status", "Date", "Score", "Notes"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Status": "☐ Not started", "Date": "", "Score": "", "Notes": ""}
+        },
+        {
+          "sheet": "09 - Grammar Precision",
+          "table": "GrammarTable",
+          "file": "data/english/grammar.json",
+          "recordCount": 50,
+          "idColumn": "ID",
+          "preserveColumns": ["Your answer", "Status", "Notes"],
+          "formulaColumns": ["Result", "Points"],
+          "defaultPersonalValues": {"Your answer": "", "Status": "☐ Not started", "Notes": ""}
+        },
+        {
+          "sheet": "10 - Collocations",
+          "table": "CollocationsTable",
+          "file": "data/english/collocations.json",
+          "recordCount": 86,
+          "idColumn": "ID",
+          "preserveColumns": ["Mastery", "Last review", "Personal example"],
+          "formulaColumns": ["Next review"],
+          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Personal example": ""}
+        },
+        {
+          "sheet": "11 - Pronunciation",
+          "table": "PronunciationTable",
+          "file": "data/english/pronunciation.json",
+          "recordCount": 68,
+          "idColumn": "ID",
+          "preserveColumns": ["Mastery", "Last review", "Recording note"],
+          "formulaColumns": ["Next review"],
+          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Recording note": ""}
+        },
+        {
+          "sheet": "12 - Reading & Listening",
+          "table": "ResourcesTable",
+          "file": "data/english/resources.json",
+          "recordCount": 48,
+          "idColumn": "ID",
+          "preserveColumns": ["Status", "Score", "Date", "Notes"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Status": "☐ Not started", "Score": "", "Date": "", "Notes": ""}
+        },
+        {
+          "sheet": "13 - Speaking & Writing",
+          "table": "SpeakingWritingTable",
+          "file": "data/english/speaking-writing.json",
+          "recordCount": 80,
+          "idColumn": "ID",
+          "preserveColumns": ["Status", "Date", "Score", "Feedback"],
+          "formulaColumns": [],
+          "defaultPersonalValues": {"Status": "☐ Not started", "Date": "", "Score": "", "Feedback": ""}
+        },
+        {
+          "sheet": "14 - Tests",
+          "table": "TestsTable",
+          "file": "data/english/tests.json",
+          "recordCount": 120,
+          "idColumn": "ID",
+          "preserveColumns": ["Your answer", "Status"],
+          "formulaColumns": ["Result", "Points"],
+          "defaultPersonalValues": {"Your answer": "", "Status": "☐ Not started"}
+        },
+        {
+          "sheet": "15 - Corrections",
+          "table": "CorrectionsTable",
+          "file": "data/english/corrections.json",
+          "recordCount": 230,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        },
+        {
+          "sheet": "16 - Revision SRS",
+          "table": "SRSTable",
+          "file": "data/english/srs.json",
+          "recordCount": 220,
+          "idColumn": "ID",
+          "preserveColumns": ["Mastery", "Last review", "Review answer", "Confidence", "Notes"],
+          "formulaColumns": ["Next review"],
+          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Review answer": "", "Confidence": "", "Notes": ""}
+        },
+        {
+          "sheet": "18 - Sources & methode",
+          "table": "SourcesTable",
+          "file": "data/english/sources.json",
+          "recordCount": 20,
+          "idColumn": "ID",
+          "preserveColumns": [],
+          "formulaColumns": [],
+          "defaultPersonalValues": {}
+        }
+      ]
+    },
     "gcdl": {
       "label": "Google Cloud Digital Leader",
       "fileName": "Google_Cloud_Digital_Leader_Master.xlsx",
