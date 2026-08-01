@@ -111,7 +111,7 @@ function ConvertTo-ExcelCellValue {
     if ($Value -is [decimal]) {
         return [double]$Value
     }
-    if ($Value -is [long] -or $Value -is [ulong]) {
+    if ($Value -is [System.Int64] -or $Value -is [System.UInt64]) {
         return [double]$Value
     }
     if ($Value -is [DateTime]) {
