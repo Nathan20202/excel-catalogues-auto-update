@@ -1,0 +1,34 @@
+name: Actualiser English Pro C1-C2
+
+on:
+  schedule:
+    - cron: "10 5 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-english
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Contrôler les ressources et références linguistiques
+        run: python scripts/refresh_catalogues.py --catalog english
+      - name: Valider
+        run: python scripts/validate.py
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "excel-catalogues-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Actualiser English Pro C1-C2"
+          git push
