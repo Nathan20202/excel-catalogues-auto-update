@@ -37,6 +37,7 @@ CHECK_LIMITS = {
     "fashion": 220,
     "cinema": 0,
     "gcdl": 120,
+    "tech": 260,
 }
 
 
@@ -487,4 +488,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
