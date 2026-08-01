@@ -2,7 +2,7 @@
 setlocal
 chcp 65001 >nul
 title Actualisation des classeurs Excel
-powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File "%~dp0Actualiser_Excel.ps1" -Dossier "%~dp0"
+powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File "%~dp0Actualiser_Excel.ps1" -Dossier "%~dp0."
 set EXIT_CODE=%ERRORLEVEL%
 if not "%EXIT_CODE%"=="0" (
   echo.
@@ -10,4 +10,3 @@ if not "%EXIT_CODE%"=="0" (
   pause
 )
 exit /b %EXIT_CODE%
-
