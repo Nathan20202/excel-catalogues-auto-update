@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-03T07:45:12Z",
+  "policy": "Candidates are never injected automatically without enough metadata.",
+  "count": 0,
+  "records": []
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "2026.08.01",
-  "generatedAt": "2026-08-01T00:00:00+02:00",
+  "generatedAt": "2026-08-03T07:45:12Z",
   "repository": "Nathan20202/excel-catalogues-auto-update",
   "privacy": "Public catalogue data only. Personal statuses, notes, answers, favourites and comments remain local.",
   "workbooks": {
@@ -325,28 +325,106 @@
           "file": "data/cinema/sources.json",
           "recordCount": 9
         }
-      ]
+      ],
+      "lastAutomatedRun": "2026-08-03T07:45:12Z",
+      "healthFile": "data/health/cinema.json",
+      "candidateFile": "data/candidates/cinema.json"
     },
     "tech": {
       "label": "Guide Tech & High-Tech",
       "fileName": "Guide_Tech_High_Tech_Meilleurs_Achats_2026.xlsx",
       "cadence": "Hebdomadaire — samedi + validation mensuelle",
       "datasets": [
-        {"sheet": "02 - Guide express", "table": "TechQuickGuide", "file": "data/tech/guide-express.json", "recordCount": 40},
-        {"sheet": "03 - Configurations PC", "table": "TechPcConfigurations", "file": "data/tech/configurations-pc.json", "recordCount": 54},
-        {"sheet": "04 - Composants PC", "table": "TechPcComponents", "file": "data/tech/composants-pc.json", "recordCount": 50},
-        {"sheet": "05 - Ordinateurs", "table": "TechComputers", "file": "data/tech/ordinateurs.json", "recordCount": 28},
-        {"sheet": "06 - Mobiles & wearables", "table": "TechMobileWearables", "file": "data/tech/mobiles-wearables.json", "recordCount": 36},
-        {"sheet": "07 - Écrans & projection", "table": "TechDisplays", "file": "data/tech/ecrans-projection.json", "recordCount": 30},
-        {"sheet": "08 - Audio", "table": "TechAudio", "file": "data/tech/audio.json", "recordCount": 32},
-        {"sheet": "09 - Gaming & VR", "table": "TechGamingVr", "file": "data/tech/gaming-vr.json", "recordCount": 32},
-        {"sheet": "10 - Photo vidéo drones", "table": "TechCameraDrone", "file": "data/tech/photo-video-drones.json", "recordCount": 34},
-        {"sheet": "11 - Réseau & stockage", "table": "TechNetworkStorage", "file": "data/tech/reseau-stockage.json", "recordCount": 32},
-        {"sheet": "12 - Maison connectée", "table": "TechSmartHome", "file": "data/tech/maison-connectee.json", "recordCount": 34},
-        {"sheet": "13 - Bureau & accessoires", "table": "TechDeskAccessories", "file": "data/tech/bureau-accessoires.json", "recordCount": 36},
-        {"sheet": "14 - Makers & énergie", "table": "TechMakersEnergy", "file": "data/tech/makers-energie.json", "recordCount": 28},
-        {"sheet": "15 - Mobilité & auto", "table": "TechMobilityAuto", "file": "data/tech/mobilite-auto.json", "recordCount": 24},
-        {"sheet": "16 - Sources & méthode", "table": "TechSourceRegister", "file": "data/tech/sources.json", "recordCount": 347}
+        {
+          "sheet": "02 - Guide express",
+          "table": "TechQuickGuide",
+          "file": "data/tech/guide-express.json",
+          "recordCount": 40
+        },
+        {
+          "sheet": "03 - Configurations PC",
+          "table": "TechPcConfigurations",
+          "file": "data/tech/configurations-pc.json",
+          "recordCount": 54
+        },
+        {
+          "sheet": "04 - Composants PC",
+          "table": "TechPcComponents",
+          "file": "data/tech/composants-pc.json",
+          "recordCount": 50
+        },
+        {
+          "sheet": "05 - Ordinateurs",
+          "table": "TechComputers",
+          "file": "data/tech/ordinateurs.json",
+          "recordCount": 28
+        },
+        {
+          "sheet": "06 - Mobiles & wearables",
+          "table": "TechMobileWearables",
+          "file": "data/tech/mobiles-wearables.json",
+          "recordCount": 36
+        },
+        {
+          "sheet": "07 - Écrans & projection",
+          "table": "TechDisplays",
+          "file": "data/tech/ecrans-projection.json",
+          "recordCount": 30
+        },
+        {
+          "sheet": "08 - Audio",
+          "table": "TechAudio",
+          "file": "data/tech/audio.json",
+          "recordCount": 32
+        },
+        {
+          "sheet": "09 - Gaming & VR",
+          "table": "TechGamingVr",
+          "file": "data/tech/gaming-vr.json",
+          "recordCount": 32
+        },
+        {
+          "sheet": "10 - Photo vidéo drones",
+          "table": "TechCameraDrone",
+          "file": "data/tech/photo-video-drones.json",
+          "recordCount": 34
+        },
+        {
+          "sheet": "11 - Réseau & stockage",
+          "table": "TechNetworkStorage",
+          "file": "data/tech/reseau-stockage.json",
+          "recordCount": 32
+        },
+        {
+          "sheet": "12 - Maison connectée",
+          "table": "TechSmartHome",
+          "file": "data/tech/maison-connectee.json",
+          "recordCount": 34
+        },
+        {
+          "sheet": "13 - Bureau & accessoires",
+          "table": "TechDeskAccessories",
+          "file": "data/tech/bureau-accessoires.json",
+          "recordCount": 36
+        },
+        {
+          "sheet": "14 - Makers & énergie",
+          "table": "TechMakersEnergy",
+          "file": "data/tech/makers-energie.json",
+          "recordCount": 28
+        },
+        {
+          "sheet": "15 - Mobilité & auto",
+          "table": "TechMobilityAuto",
+          "file": "data/tech/mobilite-auto.json",
+          "recordCount": 24
+        },
+        {
+          "sheet": "16 - Sources & méthode",
+          "table": "TechSourceRegister",
+          "file": "data/tech/sources.json",
+          "recordCount": 347
+        }
       ]
     },
     "activities": {
@@ -354,12 +432,42 @@
       "fileName": "Guide_Activites_6_Villes_et_Alentours_2026.xlsx",
       "cadence": "Hebdomadaire — jeudi + enrichissement mensuel",
       "datasets": [
-        {"sheet": "Cabourg", "table": "ActivitiesCabourg", "file": "data/activites/cabourg.json", "recordCount": 74},
-        {"sheet": "Paris", "table": "ActivitiesParis", "file": "data/activites/paris.json", "recordCount": 100},
-        {"sheet": "Orsay", "table": "ActivitiesOrsay", "file": "data/activites/orsay.json", "recordCount": 55},
-        {"sheet": "Mende", "table": "ActivitiesMende", "file": "data/activites/mende.json", "recordCount": 65},
-        {"sheet": "Saint-Cyprien", "table": "ActivitiesSaintCyprien", "file": "data/activites/saint-cyprien.json", "recordCount": 77},
-        {"sheet": "Boulouris", "table": "ActivitiesBoulouris", "file": "data/activites/boulouris.json", "recordCount": 82}
+        {
+          "sheet": "Cabourg",
+          "table": "ActivitiesCabourg",
+          "file": "data/activites/cabourg.json",
+          "recordCount": 74
+        },
+        {
+          "sheet": "Paris",
+          "table": "ActivitiesParis",
+          "file": "data/activites/paris.json",
+          "recordCount": 100
+        },
+        {
+          "sheet": "Orsay",
+          "table": "ActivitiesOrsay",
+          "file": "data/activites/orsay.json",
+          "recordCount": 55
+        },
+        {
+          "sheet": "Mende",
+          "table": "ActivitiesMende",
+          "file": "data/activites/mende.json",
+          "recordCount": 65
+        },
+        {
+          "sheet": "Saint-Cyprien",
+          "table": "ActivitiesSaintCyprien",
+          "file": "data/activites/saint-cyprien.json",
+          "recordCount": 77
+        },
+        {
+          "sheet": "Boulouris",
+          "table": "ActivitiesBoulouris",
+          "file": "data/activites/boulouris.json",
+          "recordCount": 82
+        }
       ]
     },
     "english": {
@@ -367,23 +475,108 @@
       "fileName": "English_Pro_C1_C2_Master.xlsx",
       "cadence": "Hebdomadaire — dimanche + enrichissement mensuel",
       "datasets": [
-        {"sheet": "01 - Diagnostic C1-C2", "table": "DiagnosticTable", "file": "data/english/diagnostic.json", "recordCount": 60},
-        {"sheet": "02 - Parcours 16 sem.", "table": "PathTable", "file": "data/english/path.json", "recordCount": 80},
-        {"sheet": "03 - Missions", "table": "MissionsTable", "file": "data/english/missions.json", "recordCount": 120},
-        {"sheet": "04 - Business English", "table": "BusinessTable", "file": "data/english/business.json", "recordCount": 88},
-        {"sheet": "05 - Cyber & Cloud", "table": "CyberTable", "file": "data/english/cyber-cloud.json", "recordCount": 117},
-        {"sheet": "06 - Email Lab", "table": "EmailTable", "file": "data/english/email-lab.json", "recordCount": 48},
-        {"sheet": "07 - Meetings & Neg.", "table": "MeetingsTable", "file": "data/english/meetings.json", "recordCount": 74},
-        {"sheet": "08 - Presentations", "table": "PresentationsTable", "file": "data/english/presentations.json", "recordCount": 41},
-        {"sheet": "09 - Grammar Precision", "table": "GrammarTable", "file": "data/english/grammar.json", "recordCount": 50},
-        {"sheet": "10 - Collocations", "table": "CollocationsTable", "file": "data/english/collocations.json", "recordCount": 86},
-        {"sheet": "11 - Pronunciation", "table": "PronunciationTable", "file": "data/english/pronunciation.json", "recordCount": 68},
-        {"sheet": "12 - Reading & Listening", "table": "ResourcesTable", "file": "data/english/resources.json", "recordCount": 48},
-        {"sheet": "13 - Speaking & Writing", "table": "SpeakingWritingTable", "file": "data/english/speaking-writing.json", "recordCount": 80},
-        {"sheet": "14 - Tests", "table": "TestsTable", "file": "data/english/tests.json", "recordCount": 120},
-        {"sheet": "15 - Corrections", "table": "CorrectionsTable", "file": "data/english/corrections.json", "recordCount": 230},
-        {"sheet": "16 - Revision SRS", "table": "SRSTable", "file": "data/english/srs.json", "recordCount": 220},
-        {"sheet": "18 - Sources & methode", "table": "SourcesTable", "file": "data/english/sources.json", "recordCount": 20}
+        {
+          "sheet": "01 - Diagnostic C1-C2",
+          "table": "DiagnosticTable",
+          "file": "data/english/diagnostic.json",
+          "recordCount": 60
+        },
+        {
+          "sheet": "02 - Parcours 16 sem.",
+          "table": "PathTable",
+          "file": "data/english/path.json",
+          "recordCount": 80
+        },
+        {
+          "sheet": "03 - Missions",
+          "table": "MissionsTable",
+          "file": "data/english/missions.json",
+          "recordCount": 120
+        },
+        {
+          "sheet": "04 - Business English",
+          "table": "BusinessTable",
+          "file": "data/english/business.json",
+          "recordCount": 88
+        },
+        {
+          "sheet": "05 - Cyber & Cloud",
+          "table": "CyberTable",
+          "file": "data/english/cyber-cloud.json",
+          "recordCount": 117
+        },
+        {
+          "sheet": "06 - Email Lab",
+          "table": "EmailTable",
+          "file": "data/english/email-lab.json",
+          "recordCount": 48
+        },
+        {
+          "sheet": "07 - Meetings & Neg.",
+          "table": "MeetingsTable",
+          "file": "data/english/meetings.json",
+          "recordCount": 74
+        },
+        {
+          "sheet": "08 - Presentations",
+          "table": "PresentationsTable",
+          "file": "data/english/presentations.json",
+          "recordCount": 41
+        },
+        {
+          "sheet": "09 - Grammar Precision",
+          "table": "GrammarTable",
+          "file": "data/english/grammar.json",
+          "recordCount": 50
+        },
+        {
+          "sheet": "10 - Collocations",
+          "table": "CollocationsTable",
+          "file": "data/english/collocations.json",
+          "recordCount": 86
+        },
+        {
+          "sheet": "11 - Pronunciation",
+          "table": "PronunciationTable",
+          "file": "data/english/pronunciation.json",
+          "recordCount": 68
+        },
+        {
+          "sheet": "12 - Reading & Listening",
+          "table": "ResourcesTable",
+          "file": "data/english/resources.json",
+          "recordCount": 48
+        },
+        {
+          "sheet": "13 - Speaking & Writing",
+          "table": "SpeakingWritingTable",
+          "file": "data/english/speaking-writing.json",
+          "recordCount": 80
+        },
+        {
+          "sheet": "14 - Tests",
+          "table": "TestsTable",
+          "file": "data/english/tests.json",
+          "recordCount": 120
+        },
+        {
+          "sheet": "15 - Corrections",
+          "table": "CorrectionsTable",
+          "file": "data/english/corrections.json",
+          "recordCount": 230
+        },
+        {
+          "sheet": "16 - Revision SRS",
+          "table": "SRSTable",
+          "file": "data/english/srs.json",
+          "recordCount": 220
+        },
+        {
+          "sheet": "18 - Sources & methode",
+          "table": "SourcesTable",
+          "file": "data/english/sources.json",
+          "recordCount": 20
+        }
       ]
     },
     "gcdl": {
