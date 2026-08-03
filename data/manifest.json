@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "2026.08.01",
-  "generatedAt": "2026-08-03T07:45:12Z",
+  "generatedAt": "2026-08-03T08:42:14Z",
   "repository": "Nathan20202/excel-catalogues-auto-update",
   "privacy": "Public catalogue data only. Personal statuses, notes, answers, favourites and comments remain local.",
   "workbooks": {
@@ -222,7 +222,10 @@
           "file": "data/fashion/sources.json",
           "recordCount": 12
         }
-      ]
+      ],
+      "lastAutomatedRun": "2026-08-03T08:42:14Z",
+      "healthFile": "data/health/fashion.json",
+      "candidateFile": "data/candidates/fashion-changes.json"
     },
     "cinema": {
       "label": "Films, séries & animés",
