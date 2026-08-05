@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "catalog": "gcdl",
+  "cursor": 0,
+  "entries": {
+    "Certification": {
+      "url": "https://services.google.com/fh/files/misc/cloud_digital_leader_study_guide_english.pdf",
+      "finalUrl": "https://services.google.com/fh/files/misc/cloud_digital_leader_study_guide_english.pdf",
+      "ok": true,
+      "status": 206,
+      "checkedAt": "2026-08-05T08:04:51Z",
+      "contentType": "application/pdf",
+      "lastModified": null,
+      "contentHash": "aee78f586a6b183acdd06d54ce2d78af80b4dace24554545d830c24010022cbe",
+      "title": ""
+    },
+    "Nouveau guide": {
+      "url": "https://services.google.com/fh/files/misc/cloud_digital_leader_exam_guide_english.pdf",
+      "finalUrl": "https://services.google.com/fh/files/misc/cloud_digital_leader_exam_guide_english.pdf",
+      "ok": true,
+      "status": 200,
+      "checkedAt": "2026-08-05T08:04:51Z",
+      "contentType": "application/pdf",
+      "lastModified": null,
+      "contentHash": "5bd83478e4aa65e7f3f062cfaa212284d8a7d645b635a8b2f79b65f7196b4d4b",
+      "title": ""
+    },
+    "GCDL-TERM-BD934CDE59A2": {
+      "url": "https://services.google.com/fh/files/misc/cloud_digital_leader_new_exam_guide_english.pdf",
+      "finalUrl": "https://services.google.com/fh/files/misc/cloud_digital_leader_new_exam_guide_english.pdf",
+      "ok": true,
+      "status": 200,
+      "checkedAt": "2026-08-05T08:04:51Z",
+      "contentType": "application/pdf",
+      "lastModified": null,
+      "contentHash": "e924db438badd13e56749a23328bbb05671337c4a0cd82f91e1ae98afdcf25b2",
+      "title": ""
+    }
+  },
+  "changes": [],
+  "updatedAt": "2026-08-05T08:04:51Z",
+  "totalUrls": 3,
+  "checkedThisRun": 3,
+  "okThisRun": 3,
+  "failedThisRun": 0
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "2026.08.01",
-  "generatedAt": "2026-08-05T07:22:55Z",
+  "generatedAt": "2026-08-05T08:04:51Z",
   "repository": "Nathan20202/excel-catalogues-auto-update",
   "privacy": "Public catalogue data only. Personal statuses, notes, answers, favourites and comments remain local.",
   "workbooks": {
@@ -662,7 +662,10 @@
           "file": "data/gcdl/reponses-banque-part-003.json",
           "recordCount": 145
         }
-      ]
+      ],
+      "lastAutomatedRun": "2026-08-05T08:04:51Z",
+      "healthFile": "data/health/gcdl.json",
+      "candidateFile": "data/candidates/gcdl-changes.json"
     }
   }
 }
