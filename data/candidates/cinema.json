@@ -1,7 +1,2508 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-03T07:45:12Z",
+  "updatedAt": "2026-08-10T05:43:17Z",
   "policy": "Candidates are never injected automatically without enough metadata.",
-  "count": 0,
-  "records": []
+  "count": 283,
+  "records": [
+    {
+      "title": "100 Years",
+      "imdbId": "tt5174640",
+      "releaseDate": "2115-11-18",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q22917333",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "100 Years",
+      "imdbId": "tt5174640",
+      "releaseDate": "2115-11-18",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q22917333",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Avatar 5",
+      "imdbId": "tt5637536",
+      "releaseDate": "2031-12-19",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q29580932",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Avatar 5",
+      "imdbId": "tt5637536",
+      "releaseDate": "2031-12-19",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q29580932",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Avatar 4",
+      "imdbId": "tt3095356",
+      "releaseDate": "2029-12-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q29580931",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Avatar 4",
+      "imdbId": "tt3095356",
+      "releaseDate": "2029-12-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q29580931",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Age of the Raven",
+      "imdbId": "tt33450879",
+      "releaseDate": "2029-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q130360830",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Rendezvous with Rama",
+      "imdbId": "tt0134933",
+      "releaseDate": "2029-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q104895986",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Rendezvous with Rama",
+      "imdbId": "tt0134933",
+      "releaseDate": "2029-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q104895986",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Q139578193",
+      "imdbId": "tt39277458",
+      "releaseDate": "2029-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139578193",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Age of the Raven",
+      "imdbId": "tt33450879",
+      "releaseDate": "2029-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q130360830",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Rendezvous with Rama",
+      "imdbId": "tt0134933",
+      "releaseDate": "2029-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q104895986",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Lunar Chronicles",
+      "imdbId": "tt17423726",
+      "releaseDate": "2028-11-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139149167",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Lunar Chronicles",
+      "imdbId": "tt17423726",
+      "releaseDate": "2028-11-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139149167",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Lunar Chronicles",
+      "imdbId": "tt17423726",
+      "releaseDate": "2028-11-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139149167",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Lunar Chronicles",
+      "imdbId": "tt17423726",
+      "releaseDate": "2028-11-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139149167",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Dynamic Duo",
+      "imdbId": "tt33549695",
+      "releaseDate": "2028-06-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136555546",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Donkey",
+      "imdbId": "tt43619974",
+      "releaseDate": "2028-06-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140367882",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Les Indestructibles 3",
+      "imdbId": "tt33088418",
+      "releaseDate": "2028-06-16",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q128798950",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Les Indestructibles 3",
+      "imdbId": "tt33088418",
+      "releaseDate": "2028-06-16",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q128798950",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Les Indestructibles 3",
+      "imdbId": "tt33088418",
+      "releaseDate": "2028-06-16",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q128798950",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Les Indestructibles 3",
+      "imdbId": "tt33088418",
+      "releaseDate": "2028-06-16",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q128798950",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Resurrection of the Christ: Part Two",
+      "imdbId": "tt32021219",
+      "releaseDate": "2028-05-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136842477",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Resurrection of the Christ: Part Two",
+      "imdbId": "tt32021219",
+      "releaseDate": "2028-05-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136842477",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Miami Vice '85",
+      "imdbId": "tt36731244",
+      "releaseDate": "2028-05-19",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138679319",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Miami Vice '85",
+      "imdbId": "tt36731244",
+      "releaseDate": "2028-05-19",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138679319",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Evil Dead Wrath",
+      "imdbId": "tt32219574",
+      "releaseDate": "2028-04-07",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138412188",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Evil Dead Wrath",
+      "imdbId": "tt32219574",
+      "releaseDate": "2028-04-07",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138412188",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Ringo Starr film",
+      "imdbId": "tt31419915",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908276",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled George Harrison film",
+      "imdbId": "tt31419914",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908275",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled John Lennon film",
+      "imdbId": "tt31419912",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135067635",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Paul McCartney film",
+      "imdbId": "tt31419913",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908274",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Paul McCartney film",
+      "imdbId": "tt31419913",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908274",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled George Harrison film",
+      "imdbId": "tt31419914",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908275",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Ringo Starr film",
+      "imdbId": "tt31419915",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908276",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Ringo Starr film",
+      "imdbId": "tt31419915",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908276",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled George Harrison film",
+      "imdbId": "tt31419914",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908275",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled John Lennon film",
+      "imdbId": "tt31419912",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135067635",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Paul McCartney film",
+      "imdbId": "tt31419913",
+      "releaseDate": "2028-04-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908274",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Fast Forever",
+      "imdbId": "tt27550022",
+      "releaseDate": "2028-03-17",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q118720041",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Fast Forever",
+      "imdbId": "tt27550022",
+      "releaseDate": "2028-03-17",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q118720041",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Elden Ring",
+      "imdbId": "tt32896542",
+      "releaseDate": "2028-03-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134546417",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Elden Ring",
+      "imdbId": "tt32896542",
+      "releaseDate": "2028-03-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134546417",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Batman: Part II",
+      "imdbId": "tt19850008",
+      "releaseDate": "2028-02-18",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q111187129",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Batman: Part II",
+      "imdbId": "tt19850008",
+      "releaseDate": "2028-02-18",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q111187129",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Ringo Starr film",
+      "imdbId": "tt31419915",
+      "releaseDate": "2028-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908276",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Looney Tunes film",
+      "imdbId": "tt34422569",
+      "releaseDate": "2028-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133817858",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Hello Kitty (film)",
+      "imdbId": "tt38796554",
+      "releaseDate": "2028-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136713767",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Ringo Starr film",
+      "imdbId": "tt31419915",
+      "releaseDate": "2028-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908276",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Main Bhi Arjun",
+      "imdbId": "tt35584965",
+      "releaseDate": "2028-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139890571",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Ringo Starr film",
+      "imdbId": "tt31419915",
+      "releaseDate": "2028-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136908276",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Looney Tunes film",
+      "imdbId": "tt34422569",
+      "releaseDate": "2028-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133817858",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Paris Paramount",
+      "imdbId": "tt19386976",
+      "releaseDate": "2027-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140419780",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Paris Paramount",
+      "imdbId": "tt19386976",
+      "releaseDate": "2027-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140419780",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Lord of the Rings: The Hunt for Gollum",
+      "imdbId": "tt32328070",
+      "releaseDate": "2027-12-17",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q125858982",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Avengers: Secret Wars",
+      "imdbId": "tt21361444",
+      "releaseDate": "2027-12-17",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q113244842",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Lord of the Rings: The Hunt for Gollum",
+      "imdbId": "tt32328070",
+      "releaseDate": "2027-12-17",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q125858982",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Avengers: Secret Wars",
+      "imdbId": "tt21361444",
+      "releaseDate": "2027-12-17",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q113244842",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Johnny",
+      "imdbId": "tt37205945",
+      "releaseDate": "2027-12-08",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q129675883",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "K-Pop: The Debut",
+      "imdbId": "tt8992304",
+      "releaseDate": "2027-12-02",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136377234",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "K-Pop: The Debut",
+      "imdbId": "tt8992304",
+      "releaseDate": "2027-12-02",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136377234",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Frozen III",
+      "imdbId": "tt26680923",
+      "releaseDate": "2027-11-24",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q116740642",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Frozen III",
+      "imdbId": "tt26680923",
+      "releaseDate": "2027-11-24",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q116740642",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Helldivers",
+      "imdbId": "tt39089420",
+      "releaseDate": "2027-11-10",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138196664",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Helldivers",
+      "imdbId": "tt39089420",
+      "releaseDate": "2027-11-10",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138196664",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Margie Claus",
+      "imdbId": "tt7008874",
+      "releaseDate": "2027-11-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q129504248",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Margie Claus",
+      "imdbId": "tt7008874",
+      "releaseDate": "2027-11-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q129504248",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Gremlins 3",
+      "imdbId": "tt2918116",
+      "releaseDate": "2027-11-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136735348",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Gremlins 3",
+      "imdbId": "tt2918116",
+      "releaseDate": "2027-11-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136735348",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Ramayana: Part 2",
+      "imdbId": "tt34464688",
+      "releaseDate": "2027-10-29",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135393669",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Ramayana: Part 2",
+      "imdbId": "tt34464688",
+      "releaseDate": "2027-10-29",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135393669",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Arche et l'Aardvark",
+      "imdbId": "tt1117392",
+      "releaseDate": "2027-10-22",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q29616901",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Arche et l'Aardvark",
+      "imdbId": "tt1117392",
+      "releaseDate": "2027-10-22",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q29616901",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Arche et l'Aardvark",
+      "imdbId": "tt1117392",
+      "releaseDate": "2027-10-22",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q29616901",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Arche et l'Aardvark",
+      "imdbId": "tt1117392",
+      "releaseDate": "2027-10-22",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q29616901",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Agent Jean! : La fin des mondes",
+      "imdbId": "tt43136190",
+      "releaseDate": "2027-10-08",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138818281",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Agent Jean! : La fin des mondes",
+      "imdbId": "tt43136190",
+      "releaseDate": "2027-10-08",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138818281",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Teenage Mutant Ninja Turtles: Mutant Mayhem sequel",
+      "imdbId": "tt31512072",
+      "releaseDate": "2027-09-17",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q124813515",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled Teenage Mutant Ninja Turtles: Mutant Mayhem sequel",
+      "imdbId": "tt31512072",
+      "releaseDate": "2027-09-17",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q124813515",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Conjuring: First Communion",
+      "imdbId": "tt39372868",
+      "releaseDate": "2027-09-10",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138682385",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Conjuring: First Communion",
+      "imdbId": "tt39372868",
+      "releaseDate": "2027-09-10",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138682385",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled The Simpsons theatrical film",
+      "imdbId": "tt38561132",
+      "releaseDate": "2027-09-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136401922",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "untitled The Simpsons theatrical film",
+      "imdbId": "tt38561132",
+      "releaseDate": "2027-09-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136401922",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Jason Statham Stole My Bike",
+      "imdbId": "tt39848323",
+      "releaseDate": "2027-08-06",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140067873",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Bluey Movie",
+      "imdbId": "tt35050152",
+      "releaseDate": "2027-08-06",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136661855",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Jason Statham Stole My Bike",
+      "imdbId": "tt39848323",
+      "releaseDate": "2027-08-06",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140067873",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Anatole Latuile",
+      "imdbId": "tt43582096",
+      "releaseDate": "2027-08-04",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140799999",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Anatole Latuile",
+      "imdbId": "tt43582096",
+      "releaseDate": "2027-08-04",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140799999",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Sans un bruit 3",
+      "imdbId": "tt36495786",
+      "releaseDate": "2027-07-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q101426457",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Sans un bruit 3",
+      "imdbId": "tt36495786",
+      "releaseDate": "2027-07-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q101426457",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "A Minecraft Movie Squared",
+      "imdbId": "tt37788431",
+      "releaseDate": "2027-07-23",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136277238",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "A Minecraft Movie Squared",
+      "imdbId": "tt37788431",
+      "releaseDate": "2027-07-23",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136277238",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Man of Tomorrow",
+      "imdbId": "tt37833661",
+      "releaseDate": "2027-07-09",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136089308",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Man of Tomorrow",
+      "imdbId": "tt37833661",
+      "releaseDate": "2027-07-09",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136089308",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Q140470447",
+      "imdbId": "tt31968478",
+      "releaseDate": "2027-07-04",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140470447",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Shrek 5",
+      "imdbId": "tt6113186",
+      "releaseDate": "2027-06-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q30750216",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Shrek 5",
+      "imdbId": "tt6113186",
+      "releaseDate": "2027-06-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q30750216",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Shrek 5",
+      "imdbId": "tt6113186",
+      "releaseDate": "2027-06-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q30750216",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Shrek 5",
+      "imdbId": "tt6113186",
+      "releaseDate": "2027-06-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q30750216",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "imdbId": "tt16360004",
+      "releaseDate": "2027-06-18",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q110152284",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "imdbId": "tt16360004",
+      "releaseDate": "2027-06-18",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q110152284",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "imdbId": "tt16360004",
+      "releaseDate": "2027-06-18",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q110152284",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "imdbId": "tt16360004",
+      "releaseDate": "2027-06-18",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q110152284",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "imdbId": "tt36416299",
+      "releaseDate": "2027-06-11",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135002883",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "imdbId": "tt36416299",
+      "releaseDate": "2027-06-11",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135002883",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Star Wars: Starfighter",
+      "imdbId": "tt28069611",
+      "releaseDate": "2027-05-28",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133894182",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Star Wars: Starfighter",
+      "imdbId": "tt28069611",
+      "releaseDate": "2027-05-28",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133894182",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Bad Fairies",
+      "imdbId": "tt28018076",
+      "releaseDate": "2027-05-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q127984209",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Paranormal Activity 8",
+      "imdbId": "tt39104938",
+      "releaseDate": "2027-05-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138681952",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Bad Fairies",
+      "imdbId": "tt28018076",
+      "releaseDate": "2027-05-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q127984209",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Bad Fairies",
+      "imdbId": "tt28018076",
+      "releaseDate": "2027-05-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q127984209",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Catch",
+      "imdbId": "tt32102935",
+      "releaseDate": "2027-05-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140796990",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Paranormal Activity 8",
+      "imdbId": "tt39104938",
+      "releaseDate": "2027-05-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138681952",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Bad Fairies",
+      "imdbId": "tt28018076",
+      "releaseDate": "2027-05-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q127984209",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Beach Read",
+      "imdbId": "tt27435653",
+      "releaseDate": "2027-05-07",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140135853",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Beach Read",
+      "imdbId": "tt27435653",
+      "releaseDate": "2027-05-07",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140135853",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Legend of Zelda",
+      "imdbId": "tt29873948",
+      "releaseDate": "2027-04-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q123367920",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Legend of Zelda",
+      "imdbId": "tt29873948",
+      "releaseDate": "2027-04-30",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q123367920",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "F.A.S.T.",
+      "imdbId": "tt9198366",
+      "releaseDate": "2027-04-23",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135755712",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "A Place in Hell",
+      "imdbId": "tt36931184",
+      "releaseDate": "2027-04-23",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134612329",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Spaceballs 2",
+      "imdbId": "tt32659463",
+      "releaseDate": "2027-04-23",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q126734353",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "F.A.S.T.",
+      "imdbId": "tt9198366",
+      "releaseDate": "2027-04-23",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135755712",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "A Place in Hell",
+      "imdbId": "tt36931184",
+      "releaseDate": "2027-04-23",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134612329",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Spaceballs 2",
+      "imdbId": "tt32659463",
+      "releaseDate": "2027-04-23",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q126734353",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Not Alone",
+      "imdbId": "tt43609247",
+      "releaseDate": "2027-04-16",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140313972",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Panic Carefully",
+      "imdbId": "tt34900169",
+      "releaseDate": "2027-04-09",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131902398",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Panic Carefully",
+      "imdbId": "tt34900169",
+      "releaseDate": "2027-04-09",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131902398",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Godzilla x Kong: Supernova",
+      "imdbId": "tt32561550",
+      "releaseDate": "2027-03-26",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133820356",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Day Drinker",
+      "imdbId": "tt18795088",
+      "releaseDate": "2027-03-26",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q132127467",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Resurrection of the Christ: Part One",
+      "imdbId": "tt5795232",
+      "releaseDate": "2027-03-26",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q67151840",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Godzilla x Kong: Supernova",
+      "imdbId": "tt32561550",
+      "releaseDate": "2027-03-26",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133820356",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Day Drinker",
+      "imdbId": "tt18795088",
+      "releaseDate": "2027-03-26",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q132127467",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Resurrection of the Christ: Part One",
+      "imdbId": "tt5795232",
+      "releaseDate": "2027-03-26",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q67151840",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Sonic 4, le film",
+      "imdbId": "tt16744566",
+      "releaseDate": "2027-03-19",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131495871",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Sonic 4, le film",
+      "imdbId": "tt16744566",
+      "releaseDate": "2027-03-19",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131495871",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Demons",
+      "imdbId": "tt20149536",
+      "releaseDate": "2027-03-18",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139575516",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Exorcist: Martyrs",
+      "imdbId": "tt32492552",
+      "releaseDate": "2027-03-12",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q121029948",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Exorcist: Martyrs",
+      "imdbId": "tt32492552",
+      "releaseDate": "2027-03-12",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q121029948",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Gatto",
+      "imdbId": "tt26443610",
+      "releaseDate": "2027-03-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135001892",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Gatto",
+      "imdbId": "tt26443610",
+      "releaseDate": "2027-03-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135001892",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Affaire Thomas Crown",
+      "imdbId": "tt5500064",
+      "releaseDate": "2027-03-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133816458",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Gatto",
+      "imdbId": "tt26443610",
+      "releaseDate": "2027-03-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135001892",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Gatto",
+      "imdbId": "tt26443610",
+      "releaseDate": "2027-03-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135001892",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Affaire Thomas Crown",
+      "imdbId": "tt5500064",
+      "releaseDate": "2027-03-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133816458",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Ink",
+      "imdbId": "tt37967547",
+      "releaseDate": "2027-02-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136391219",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Ink",
+      "imdbId": "tt37967547",
+      "releaseDate": "2027-02-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136391219",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Cocomelon: The Movie",
+      "imdbId": "tt31339071",
+      "releaseDate": "2027-02-19",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136735877",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Cocomelon: The Movie",
+      "imdbId": "tt31339071",
+      "releaseDate": "2027-02-19",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136735877",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Cocomelon: The Movie",
+      "imdbId": "tt31339071",
+      "releaseDate": "2027-02-19",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136735877",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Nightingale",
+      "imdbId": "tt4540534",
+      "releaseDate": "2027-02-12",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q58313648",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Narnia : Le Neveu du magicien",
+      "imdbId": "tt9077514",
+      "releaseDate": "2027-02-12",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134235227",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Nightingale",
+      "imdbId": "tt4540534",
+      "releaseDate": "2027-02-12",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q58313648",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Narnia : Le Neveu du magicien",
+      "imdbId": "tt9077514",
+      "releaseDate": "2027-02-12",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134235227",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Elsinore",
+      "imdbId": "tt37363222",
+      "releaseDate": "2027-02-11",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q137722359",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Elsinore",
+      "imdbId": "tt37363222",
+      "releaseDate": "2027-02-11",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q137722359",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Wandering Earth 3",
+      "imdbId": "tt32174149",
+      "releaseDate": "2027-02-06",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136538277",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Âge de glace 6",
+      "imdbId": "tt34512981",
+      "releaseDate": "2027-02-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131101064",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Remain",
+      "imdbId": "tt35621542",
+      "releaseDate": "2027-02-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134979717",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Âge de glace 6",
+      "imdbId": "tt34512981",
+      "releaseDate": "2027-02-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131101064",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Âge de glace 6",
+      "imdbId": "tt34512981",
+      "releaseDate": "2027-02-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131101064",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Remain",
+      "imdbId": "tt35621542",
+      "releaseDate": "2027-02-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134979717",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Âge de glace 6",
+      "imdbId": "tt34512981",
+      "releaseDate": "2027-02-05",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131101064",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Âge de glace 6",
+      "imdbId": "tt34512981",
+      "releaseDate": "2027-02-04",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131101064",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Âge de glace 6",
+      "imdbId": "tt34512981",
+      "releaseDate": "2027-02-04",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131101064",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Âge de glace 6",
+      "imdbId": "tt34512981",
+      "releaseDate": "2027-02-04",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131101064",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Q140770903",
+      "imdbId": "tt43704174",
+      "releaseDate": "2027-02-04",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140770903",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "L'Âge de glace 6",
+      "imdbId": "tt34512981",
+      "releaseDate": "2027-02-04",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131101064",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Fantômas : Le Nouveau Monde",
+      "imdbId": "tt38857102",
+      "releaseDate": "2027-02-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q137896115",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Fantômas : Le Nouveau Monde",
+      "imdbId": "tt38857102",
+      "releaseDate": "2027-02-03",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q137896115",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Rescue",
+      "imdbId": "tt35606013",
+      "releaseDate": "2027-01-29",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140479326",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Third Parent",
+      "imdbId": "tt8702454",
+      "releaseDate": "2027-01-22",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133142226",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Animal Friends",
+      "imdbId": "tt16911616",
+      "releaseDate": "2027-01-22",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q124946981",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Third Parent",
+      "imdbId": "tt8702454",
+      "releaseDate": "2027-01-22",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133142226",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Animal Friends",
+      "imdbId": "tt16911616",
+      "releaseDate": "2027-01-22",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q124946981",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Debut",
+      "imdbId": "tt34718200",
+      "releaseDate": "2027-01-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133885802",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Debut",
+      "imdbId": "tt34718200",
+      "releaseDate": "2027-01-21",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133885802",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Beekeeper 2",
+      "imdbId": "tt35935357",
+      "releaseDate": "2027-01-15",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133728937",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Le Royaume d'Orïsha",
+      "imdbId": "tt6779038",
+      "releaseDate": "2027-01-15",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131854232",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Beekeeper 2",
+      "imdbId": "tt35935357",
+      "releaseDate": "2027-01-15",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133728937",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Le Royaume d'Orïsha",
+      "imdbId": "tt6779038",
+      "releaseDate": "2027-01-15",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131854232",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Beekeeper 2",
+      "imdbId": "tt35935357",
+      "releaseDate": "2027-01-14",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133728937",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Beekeeper 2",
+      "imdbId": "tt35935357",
+      "releaseDate": "2027-01-14",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133728937",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Cancel 2",
+      "imdbId": "tt43636610",
+      "releaseDate": "2027-01-13",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140561924",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Jli Jis",
+      "imdbId": "tt43614363",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140814331",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Mister",
+      "imdbId": "tt10270790",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140329691",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Crossed",
+      "imdbId": "tt1640215",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140329690",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "La Momie 4",
+      "imdbId": "tt22408968",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139710483",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Queen of France",
+      "imdbId": "tt40719071",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q137596169",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Shiver",
+      "imdbId": "tt38810776",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138583014",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Oh, the Places You'll Go!",
+      "imdbId": "tt13397896",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135473106",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Les Aventures de Tintin : Le Temple du Soleil",
+      "imdbId": "tt1037226",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q3230833",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Ghost",
+      "imdbId": "tt37245656",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134776037",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Pendulum",
+      "imdbId": "tt34378250",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134114137",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Voltron",
+      "imdbId": "tt0472429",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131425410",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Demonslayer",
+      "imdbId": "tt33450428",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q130360756",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "High in the Clouds",
+      "imdbId": "tt1458167",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q116225239",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Rendezvous with Rama",
+      "imdbId": "tt0134933",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q104895986",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Rendezvous with Rama",
+      "imdbId": "tt0134933",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q104895986",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Drummer & The Princess",
+      "imdbId": "tt7705056",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q104898016",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Q104896848",
+      "imdbId": "tt3025938",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q104896848",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Last Children of Aporver",
+      "imdbId": "tt3222644",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q12046481",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "King",
+      "imdbId": "tt28228084",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131178539",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Pendulum",
+      "imdbId": "tt34378250",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134114137",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Lost Mind",
+      "imdbId": "tt39808398",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138212007",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Breakdown",
+      "imdbId": "tt1797536",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138349008",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Untitled Remo Vinzens Project",
+      "imdbId": "tt1789971",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138349221",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Q138646405",
+      "imdbId": "tt36617411",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138646405",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "In Play",
+      "imdbId": "tt39514088",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139573895",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "The Earth Is Flat - I Flew Around and Saw It",
+      "imdbId": "tt35886907",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139574084",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Dva Rizdva, odna Lesia",
+      "imdbId": "tt41362910",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139574086",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Main Bhi Arjun: Vacha",
+      "imdbId": "tt35580679",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139886819",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Nanakda Pagla Bhare Haranfad",
+      "imdbId": "tt36132026",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139928926",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Cheburashka 3",
+      "imdbId": "tt38691190",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140197585",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Q140538057",
+      "imdbId": "tt20420812",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140538057",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Q140683166",
+      "imdbId": "tt4266916",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140683166",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Jli Jis",
+      "imdbId": "tt43614363",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140814331",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Ghost",
+      "imdbId": "tt37245656",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134776037",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Mister",
+      "imdbId": "tt10270790",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140329691",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Crossed",
+      "imdbId": "tt1640215",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q140329690",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "La Momie 4",
+      "imdbId": "tt22408968",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q139710483",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Queen of France",
+      "imdbId": "tt40719071",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q137596169",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Shiver",
+      "imdbId": "tt38810776",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q138583014",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Oh, the Places You'll Go!",
+      "imdbId": "tt13397896",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q135473106",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Les Aventures de Tintin : Le Temple du Soleil",
+      "imdbId": "tt1037226",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q3230833",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Ghost",
+      "imdbId": "tt37245656",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134776037",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Pendulum",
+      "imdbId": "tt34378250",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134114137",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Voltron",
+      "imdbId": "tt0472429",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131425410",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Demonslayer",
+      "imdbId": "tt33450428",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q130360756",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "High in the Clouds",
+      "imdbId": "tt1458167",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q116225239",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Rendezvous with Rama",
+      "imdbId": "tt0134933",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q104895986",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Ghost",
+      "imdbId": "tt37245656",
+      "releaseDate": "2027-01-01",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134776037",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Morte",
+      "imdbId": "tt33003764",
+      "releaseDate": "2026-12-31",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136031649",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "A Corpse in Kensington",
+      "imdbId": "tt31710398",
+      "releaseDate": "2026-12-31",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q125124887",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Hokum",
+      "imdbId": "tt35672862",
+      "releaseDate": "2026-12-31",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q133397105",
+      "imdbRating": 6.7,
+      "imdbVotes": 53546,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Morte",
+      "imdbId": "tt33003764",
+      "releaseDate": "2026-12-31",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136031649",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "A Corpse in Kensington",
+      "imdbId": "tt31710398",
+      "releaseDate": "2026-12-31",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q125124887",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Viqueens",
+      "imdbId": "tt38886307",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q137761539",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Jumanji: Open World",
+      "imdbId": "tt26735127",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136766457",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Q136483523",
+      "imdbId": "tt37969278",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136483523",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Mr. Irrelevant: The John Tuggle Story",
+      "imdbId": "tt30093348",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134272423",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Werwulf : La Bête Maudite",
+      "imdbId": "tt35514120",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131853471",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Zero A. D.",
+      "imdbId": "tt34491649",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131144618",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "King",
+      "imdbId": "tt28228084",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131178539",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Viqueens",
+      "imdbId": "tt38886307",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q137761539",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Jumanji: Open World",
+      "imdbId": "tt26735127",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136766457",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Q136483523",
+      "imdbId": "tt37969278",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q136483523",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Mr. Irrelevant: The John Tuggle Story",
+      "imdbId": "tt30093348",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q134272423",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Werwulf : La Bête Maudite",
+      "imdbId": "tt35514120",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131853471",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "Zero A. D.",
+      "imdbId": "tt34491649",
+      "releaseDate": "2026-12-25",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131144618",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    },
+    {
+      "title": "King",
+      "imdbId": "tt28228084",
+      "releaseDate": "2026-12-24",
+      "kind": "film",
+      "wikidata": "http://www.wikidata.org/entity/Q131178539",
+      "imdbRating": null,
+      "imdbVotes": null,
+      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
+    }
+  ]
 }
