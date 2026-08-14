@@ -1,7 +1,312 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T06:02:06Z",
+  "updatedAt": "2026-08-14T06:06:12Z",
   "catalog": "promo",
-  "count": 0,
-  "records": []
+  "count": 38,
+  "records": [
+    {
+      "id": "PROMO-001",
+      "url": "https://www.dealabs.com/",
+      "detectedAt": "2026-08-14T06:05:35Z",
+      "oldHash": "c9b3197d76996582f6dc2aae0c615a5c31875d5084bf7d7cccdc461345778083",
+      "newHash": "17f67be5b08567570b3ee61e3d96ea4b0903032e7755e619d1777158981b4cbe",
+      "title": "Dealabs - La communauté de bons plans n°1 en France"
+    },
+    {
+      "id": "PROMO-002",
+      "url": "https://fr.igraal.com/",
+      "detectedAt": "2026-08-14T06:05:36Z",
+      "oldHash": "c7b7939d061ae88fc7947d22e7c2c10db9cd98a2d2c9275cbcf18fb7d532c63f",
+      "newHash": "ef2fb8fe1a81641df348ee1389f5cdfef6b0ee042298f3b87f6c6dda2d746729",
+      "title": "iGraal : N°1 du Cashback en France & Codes Promo Validés"
+    },
+    {
+      "id": "PROMO-003",
+      "url": "https://www.ebuyclub.com/",
+      "detectedAt": "2026-08-14T06:05:36Z",
+      "oldHash": "3b48f1fbac9f3a023ff769701d47aa1922e5edbbec645e346935cf361611e177",
+      "newHash": "06f8b9a27d33397d1764013411bbc3b2868158161c165db104e12aad6a16bbc5",
+      "title": "Code Promo, CashBack et réductions : économisez avec eBuyClub"
+    },
+    {
+      "id": "PROMO-004",
+      "url": "https://home.joko.com/fr",
+      "detectedAt": "2026-08-14T06:05:36Z",
+      "oldHash": "4abe21c16681bd55b602df90c6642b9cb63f629dd18614cff096a8b668fe9ccc",
+      "newHash": "35d79b4cdb0a12a0def8764f78245b3ab71afce6cfa2b73b24581d1492cce9b5",
+      "title": "Joko I Gagnez du temps et de l’argent"
+    },
+    {
+      "id": "PROMO-006",
+      "url": "https://www.widilo.fr/",
+      "detectedAt": "2026-08-14T06:05:37Z",
+      "oldHash": "429de58cecf6fa4df7c5c3701fb7025fdc6a25efd9bc3d49d7d9f2127454e20a",
+      "newHash": "c055b3c6bb90ac19700635f0afc96e6fd3b1aa3e167a9f665359b30ce1b025e8",
+      "title": "Widilo 🇫🇷 Les meilleurs taux de Cashback et codes promo"
+    },
+    {
+      "id": "PROMO-007",
+      "url": "https://www.ma-reduc.com/",
+      "detectedAt": "2026-08-14T06:05:37Z",
+      "oldHash": "3e2f08cc02f9ad7121cf0f7a4451453b0890e4a5fc7341c6beb9fdef661863dd",
+      "newHash": "08cbc66c41c07a95f92eb6695db188cfd9c7a89a8c1c4b5b8a8c54f6feda9c74",
+      "title": "Ma Reduc : codes promo et réductions 100% vérifiés"
+    },
+    {
+      "id": "PROMO-009",
+      "url": "https://wanteeed.com/fr/",
+      "detectedAt": "2026-08-14T06:05:37Z",
+      "oldHash": "cdcba36d4c8326ba27d0d8c353fc7cfd97597e207548027d108e476cdbe6bfe8",
+      "newHash": "5d77bf92057dbba6a46b550e907e500e24638428ec5075fa18ccf3b541740aa9",
+      "title": "Codes Promo Automatiques & Valides llll➤ Wanteeed.com"
+    },
+    {
+      "id": "PROMO-010",
+      "url": "https://www.myunidays.com/FR/fr-FR",
+      "detectedAt": "2026-08-14T06:05:38Z",
+      "oldHash": "64b3e5a9218f7ecff78a9127b1ebd737cd715f8bafa5ffa8125179f310d686f4",
+      "newHash": "7a4b85fbcf5fb46e82aaf360e91d70d9086556435ec9b0359eccc2037edbe091",
+      "title": "Réductions étudiantes | Codes promos gratuits en exclusivité | UNiDAYS"
+    },
+    {
+      "id": "PROMO-011",
+      "url": "https://www.studentbeans.com/fr",
+      "detectedAt": "2026-08-14T06:05:38Z",
+      "oldHash": "e904e3e098e2e74df622c27f8afa0e1e0765cb8ea4315032b98847e1032e5029",
+      "newHash": "d3cea92074ebf6098ef4e2c5b843f3bf20a289dda440a74a72700f69f1dce03e",
+      "title": "Réductions gratuites pour étudiants au Royaume-Uni | Codes 2026 valides"
+    },
+    {
+      "id": "PROMO-012",
+      "url": "https://www.savoo.fr/",
+      "detectedAt": "2026-08-14T06:05:38Z",
+      "oldHash": "ef6496c02e9ab55465bcdef0ba746b64b05a55ec741dec1b0721ce8a7008566f",
+      "newHash": "d12bcbf27b22f52551f68dc404d3ca66dabe060e00c9c063ac3e6c62affe7b46",
+      "title": "Savoo.fr: Codes promo, réductions et bons plans"
+    },
+    {
+      "id": "PROMO-013",
+      "url": "https://www.reduc.fr/",
+      "detectedAt": "2026-08-14T06:05:38Z",
+      "oldHash": "54a77ca5d35d3f840b47cd06486e235e3139dbbbbcb1c03a52e5c27ba8624f2c",
+      "newHash": "f65897d39a277da77431ce707120b0103fde20ea26d7f15f5276b308e1c0b54e",
+      "title": "Consultez toutes nos boutiques et remises : Reduc.fr"
+    },
+    {
+      "id": "PROMO-014",
+      "url": "https://www.radins.com/code-promo/",
+      "detectedAt": "2026-08-14T06:05:38Z",
+      "oldHash": "b5beb652c0ac4d19476eb782af42dfbf4925e1cf4c301c871e262d6dd79ecb0e",
+      "newHash": "958a4ca23941bdafbb70816a8c3e8c6d357011ad14349d045c97b27b6a5b2b50",
+      "title": "Codes promo et bons plans valides en 2026 | Radins"
+    },
+    {
+      "id": "PROMO-015",
+      "url": "https://www.joinhoney.com/",
+      "detectedAt": "2026-08-14T06:05:39Z",
+      "oldHash": "a9d525144da568b1f60863bc20f23308b783d7144377aaa06a56cf927a6a89bb",
+      "newHash": "cf16b6f310c34b4626b259126e304b0a1709211e32669f85e4a5784501e68912",
+      "title": "Automatic Coupons, Promo Codes, and Deals | Honey"
+    },
+    {
+      "id": "PROMO-017",
+      "url": "https://isic.fr/",
+      "detectedAt": "2026-08-14T06:05:45Z",
+      "oldHash": "789860f60aab911492ae9f4ffbc465d4a2bf3344a15768639c149bb50eef191a",
+      "newHash": "2f9f84f3ce8922d9f39e3f23870c9d58e2b429880f07a7093987a6f401cfa0df",
+      "title": "ISIC France - La carte d'étudiant internationale"
+    },
+    {
+      "id": "PROMO-018",
+      "url": "https://www.shopmium.com/fr",
+      "detectedAt": "2026-08-14T06:05:46Z",
+      "oldHash": "77be828c0ebc23cbe248c0e742ae0d4aa625aa30a3a3fc85adb64a4d0fa126fa",
+      "newHash": "0945ab4ab3879d0c5fea66242fd65a5d8cb08192d7e1c876d88c62dc96db4add",
+      "title": "Shopmium | L'appli qui rembourse vos courses"
+    },
+    {
+      "id": "PROMO-019",
+      "url": "https://www.couponnetwork.fr/",
+      "detectedAt": "2026-08-14T06:05:48Z",
+      "oldHash": "de56dfe1695f85e1d7cd350bf5ad626e989ad22bbd41556a7102ba16877705e5",
+      "newHash": "e62ee85bbea53cb24af74c208102a1f4e1b0639e31c89d3ee3a2d1621e815bd0",
+      "title": "Bons de réduction gratuits à imprimer - Coupon Network"
+    },
+    {
+      "id": "PROMO-021",
+      "url": "https://www.groupon.fr/",
+      "detectedAt": "2026-08-14T06:05:48Z",
+      "oldHash": "c6e0c1602cc2d5ab700586cf2e32b33572e8df1773ac5d3713f0ba63e66a5573",
+      "newHash": "6363a9688e00f6be773153ab42fab6ed407fc104164bf6e8ab5c5bc3250cbeae",
+      "title": "Groupon® Site officiel - Trouvez des offres locales près de chez vous"
+    },
+    {
+      "id": "EXT-003",
+      "url": "https://fr.igraal.com/extension",
+      "detectedAt": "2026-08-14T06:05:49Z",
+      "oldHash": "d96009f72cea4a8811ba569497a63072cac6cc100667746893d72bb3c811932a",
+      "newHash": "c99dcc77196859489fd32f7e0b9d8ee36f60cde8ee7f54e6211f2cefc4b1322b",
+      "title": "Extension"
+    },
+    {
+      "id": "EXT-010",
+      "url": "https://keepa.com/",
+      "detectedAt": "2026-08-14T06:05:49Z",
+      "oldHash": "06b75bbfff1ef02fd9aebf06fd7e915cd8aa813bb182fe506372dd4c7f03d653",
+      "newHash": "336bc9a48dbce42edefe99e36b02d13d8d056a7230573dbc8c16a284a7a6b4ca",
+      "title": "Keepa - Amazon Price Tracker"
+    },
+    {
+      "id": "EXT-011",
+      "url": "https://explore.microsoft.com/en-us/edge/features/shopping",
+      "detectedAt": "2026-08-14T06:05:50Z",
+      "oldHash": "83a77a8abab2255f7d009c3a357d86a1e8fd0315f243b5bba1b6d08775fc0f62",
+      "newHash": "b6374a3db89364c1c0043d79f77e59320234b85b63f67c4da8751a87bbb434bd",
+      "title": "Shopping in Microsoft Edge | Price tracking & comparison"
+    },
+    {
+      "id": "COMP-002",
+      "url": "https://shopping.google.com/",
+      "detectedAt": "2026-08-14T06:05:50Z",
+      "oldHash": "b04731c656b85f5a690fd741b4038f7094aef37a6853ae30e86e7d94fbaa65b6",
+      "newHash": "17175e2c8e618012cd3272b377dfbeb1963cb65792712b1d2fefea38fe346935",
+      "title": "Update your browser to continue"
+    },
+    {
+      "id": "COMP-003",
+      "url": "https://ledenicheur.fr/",
+      "detectedAt": "2026-08-14T06:05:51Z",
+      "oldHash": "714496cc72dce90e8bf502c7eea35baa65d88cb06cc4d35be28068800e863f6e",
+      "newHash": "c26efd2c11ade07fd75955c00463bad0ffb6bc3a2bb08830d069386893c07425",
+      "title": "leDénicheur - Comparer les prix pour optimiser vos achats !"
+    },
+    {
+      "id": "COMP-005",
+      "url": "https://geizhals.eu/",
+      "detectedAt": "2026-08-14T06:05:52Z",
+      "oldHash": "078d0090ae0e646c1c81d2ad7c708d0c3760e7d29710e80635e77cb9fc3298cf",
+      "newHash": "36808ed64b14329a30af4d36d6f7d54d655edbc20ae5936a92a59c607efee626",
+      "title": "Geizhals Preisvergleich EU"
+    },
+    {
+      "id": "COMP-006",
+      "url": "https://www.shopmania.fr/",
+      "detectedAt": "2026-08-14T06:05:53Z",
+      "oldHash": "4b0faedc212ca0f23f4a96110edcf4c562d8d85c959d716c8cf1cf6536d8c3e1",
+      "newHash": "d3b0baf3e9cd2b17ab7427f461385a25a1afbe4b3cb683f3326128b2445d530b",
+      "title": "ShopMania - Trouvez les meilleurs prix, comparez les produits et les offres, lisez les avis"
+    },
+    {
+      "id": "COMP-008",
+      "url": "https://www.i-comparateur.com/",
+      "detectedAt": "2026-08-14T06:05:54Z",
+      "oldHash": "8b4cee48c203230c040648904be301bf2b291755f7bcf5eea6f7faca71d650f8",
+      "newHash": "cbaffb404ec2ca22a282280aac8c7706c144c50ee3212bfc89f5e8cbd32cf0c4",
+      "title": "i-Comparateur de prix"
+    },
+    {
+      "id": "COMP-009",
+      "url": "https://www.pricerunner.com/",
+      "detectedAt": "2026-08-14T06:05:54Z",
+      "oldHash": "5c2eb6f88d6075261b0f956880d6a5b157c3ffcda88caf1c2332d0f7310e2bc8",
+      "newHash": "b06c85011fc31b5abf840f81226d1536f61f817289fecd94a82d98e8e998a4b5",
+      "title": ""
+    },
+    {
+      "id": "COMP-010",
+      "url": "https://pricespy.co.uk/",
+      "detectedAt": "2026-08-14T06:05:55Z",
+      "oldHash": "f34dba1e476bcc1f856f83fcfa59b23bbcd6b7347311e509bbe1bca690b6784d",
+      "newHash": "27c8497db0e56e6bb94b473a3a0948f5da4bf430d48c011c78dd5d98295b68f3",
+      "title": "Price Comparison | Find the best deals at PriceSpy UK"
+    },
+    {
+      "id": "SPEC-006",
+      "url": "https://www.lyst.com/",
+      "detectedAt": "2026-08-14T06:05:57Z",
+      "oldHash": "463559e3cf37a9584b61596399f83b12c27b881065fb53d515fe9ebbf02424c7",
+      "newHash": "acb15f546dfe64ac1e9ab1b0e8cbc58e0ea965bc2252db25157100fc56d42795",
+      "title": "Your World of Fashion | Lyst"
+    },
+    {
+      "id": "SPEC-007",
+      "url": "https://runrepeat.com/",
+      "detectedAt": "2026-08-14T06:05:57Z",
+      "oldHash": "31a44e2da3eb932f2822d3ebe09b67303c18ef5ec854a746ce45772919a1802c",
+      "newHash": "ae11dd1ecab123864a83a9b08cd80b6fc7dcd01193f3e43fd8cb0391192d6aa4",
+      "title": "1,000+ shoes reviewed and cut in half | RunRepeat"
+    },
+    {
+      "id": "SPEC-008",
+      "url": "https://www.quelpneu.com/",
+      "detectedAt": "2026-08-14T06:05:57Z",
+      "oldHash": "e3334a43b837c88d94ac58ea51892610394721b8e7bc73b5aa80bb32803705b9",
+      "newHash": "f7853f8bdd435511abc6b52cdc95d4c0ea4a474092cebf5b0e2bcafdf9cf13b8",
+      "title": "Comparateur de prix de pneus | Pneus au meilleur prix | Quelpneu.com"
+    },
+    {
+      "id": "SPEC-009",
+      "url": "https://www.pricecharting.com/",
+      "detectedAt": "2026-08-14T06:05:57Z",
+      "oldHash": "d254808f1929a9cee91be4613154c041ce61ba76ea145ad41547fff5062b41b9",
+      "newHash": "b6bf890fed83ce76923b565ba56685b341aab87aa9c8e5789ba483fbc80cc23e",
+      "title": "PriceCharting | Price Guides for Games, Cards & Comics"
+    },
+    {
+      "id": "SPEC-012",
+      "url": "https://boardgameprices.eu/",
+      "detectedAt": "2026-08-14T06:06:10Z",
+      "oldHash": "6fc47d1e17f62ae4e419daaea0a66da91385d6fd5ea6cd6c09b923a04218e625",
+      "newHash": "daf71e4cf096ff2df14d4bc56ed4ad5028ac6347c5db59b32b238ae27e49eab8",
+      "title": "Find the best deals on board games - BoardGamePrices.co.uk"
+    },
+    {
+      "id": "SPEC-013",
+      "url": "https://www.tabletopfinder.eu/en",
+      "detectedAt": "2026-08-14T06:06:10Z",
+      "oldHash": "fa64825cbb11d28c545078feb29aecd14bc646f2e8c9b1aeef39d0fd4f5a2f8e",
+      "newHash": "da183caaf05997c4becfd099ba11bbeebe6d9fa5168251769041b5f08506c382",
+      "title": "TableTopFinder - The lowest prices for board games"
+    },
+    {
+      "id": "SPEC-016",
+      "url": "https://www.sneakerjagers.com/en",
+      "detectedAt": "2026-08-14T06:06:10Z",
+      "oldHash": "dce64c0560f9c16f12ba631fbb2c704b0b26e743ce08bdf8fc3fe0d58d5f141f",
+      "newHash": "a9b1dfd6287620c3d1219b722bcc112f9875b3d02ccb37fe784f1166b289294e",
+      "title": "Sneakerjagers - De beste sneaker deals en releases"
+    },
+    {
+      "id": "SPEC-018",
+      "url": "https://www.hoteudeals.com/",
+      "detectedAt": "2026-08-14T06:06:12Z",
+      "oldHash": "98e707e625a4cd74aca61ccba36364e2f988382b6607b7bf9b823bfed441b0e1",
+      "newHash": "b6343cddd10ee7b1c0bd7600ff6bd5d44a0e731637523d8cf79cb2415d677453",
+      "title": "Compare Amazon Prices Across Europe | HotEUDeals"
+    },
+    {
+      "id": "PROMO-SRC-6DDDB9BFB193",
+      "url": "https://support.google.com/merchants/answer/13889434?hl=fr",
+      "detectedAt": "2026-08-14T06:06:12Z",
+      "oldHash": "69894b21028efcbc4f19acbb37370fb5537bb0c54f20e7f3d425cd2f1517c39f",
+      "newHash": "f064ba83a299ab4348435f51adc28c38c3363bfe9edf8f3722dbc34adea40fdc",
+      "title": "Fiches gratuites pour les produits - Aide Google Merchant Center"
+    },
+    {
+      "id": "PROMO-SRC-024EACE9CCFB",
+      "url": "https://www.dealabs.com/codes-promo",
+      "detectedAt": "2026-08-14T06:06:12Z",
+      "oldHash": "c15f19639da90a3792829c07109d2c3a5755bb8aae574f4746c9aa89d26f47f7",
+      "newHash": "0273d8935fe8a792ba3de9432a47d7f047374cc827d4b91f70c6c3c81b39d5a9",
+      "title": "Codes promo et réductions valides en août 2026 - Dealabs"
+    },
+    {
+      "id": "PROMO-SRC-1D424B8716BD",
+      "url": "https://support.microsoft.com/en-us/edge/microsoft-edge-shopping-update-coupons-feature-is-retired",
+      "detectedAt": "2026-08-14T06:06:12Z",
+      "oldHash": "68a8bf818209661ece35cbf3738d357e1d826a9965fd40fc0e839d0684ab73d6",
+      "newHash": "d95dc7e566aaa3cbc9462adfb0f09dfbc1ad91d6d564aeef0261bef332f23f8e",
+      "title": "Microsoft Edge Shopping Update - Coupons feature is retired | Microsoft Support"
+    }
+  ]
 }
