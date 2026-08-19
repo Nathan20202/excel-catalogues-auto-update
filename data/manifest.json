@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "2026.08.01",
-  "generatedAt": "2026-08-17T04:56:53Z",
+  "generatedAt": "2026-08-19T05:12:04Z",
   "repository": "Nathan20202/excel-catalogues-auto-update",
   "privacy": "Public catalogue data only. Personal statuses, notes, answers, favourites and comments remain local.",
   "workbooks": {
@@ -129,7 +129,7 @@
           "recordCount": 12
         }
       ],
-      "lastAutomatedRun": "2026-08-12T06:06:19Z",
+      "lastAutomatedRun": "2026-08-19T05:12:04Z",
       "healthFile": "data/health/pokemon.json",
       "candidateFile": "data/candidates/pokemon-changes.json"
     },
