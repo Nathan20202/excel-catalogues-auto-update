@@ -8,7 +8,7 @@
       "finalUrl": "https://services.google.com/fh/files/misc/cloud_digital_leader_study_guide_english.pdf",
       "ok": true,
       "status": 206,
-      "checkedAt": "2026-08-05T08:04:51Z",
+      "checkedAt": "2026-09-05T09:16:53Z",
       "contentType": "application/pdf",
       "lastModified": null,
       "contentHash": "aee78f586a6b183acdd06d54ce2d78af80b4dace24554545d830c24010022cbe",
@@ -19,28 +19,37 @@
       "finalUrl": "https://services.google.com/fh/files/misc/cloud_digital_leader_exam_guide_english.pdf",
       "ok": true,
       "status": 200,
-      "checkedAt": "2026-08-05T08:04:51Z",
+      "checkedAt": "2026-09-05T09:16:53Z",
       "contentType": "application/pdf",
       "lastModified": null,
-      "contentHash": "5bd83478e4aa65e7f3f062cfaa212284d8a7d645b635a8b2f79b65f7196b4d4b",
+      "contentHash": "7941952d2e6730260eb93cd1bce53970186cb26c0bfd0b917b593dbd12a32b78",
       "title": ""
     },
     "GCDL-TERM-BD934CDE59A2": {
       "url": "https://services.google.com/fh/files/misc/cloud_digital_leader_new_exam_guide_english.pdf",
       "finalUrl": "https://services.google.com/fh/files/misc/cloud_digital_leader_new_exam_guide_english.pdf",
-      "ok": true,
-      "status": 200,
-      "checkedAt": "2026-08-05T08:04:51Z",
-      "contentType": "application/pdf",
+      "ok": false,
+      "status": 404,
+      "checkedAt": "2026-09-05T09:16:53Z",
+      "contentType": "text/html; charset=utf8",
       "lastModified": null,
-      "contentHash": "e924db438badd13e56749a23328bbb05671337c4a0cd82f91e1ae98afdcf25b2",
-      "title": ""
+      "contentHash": "8f0d68392cffd67ce9a7f68dbebe3c33d69d751ab8a2238efe210fb90e0ff39e",
+      "title": "File not found - Google"
     }
   },
-  "changes": [],
-  "updatedAt": "2026-08-05T08:04:51Z",
+  "changes": [
+    {
+      "id": "Nouveau guide",
+      "url": "https://services.google.com/fh/files/misc/cloud_digital_leader_exam_guide_english.pdf",
+      "detectedAt": "2026-09-05T09:16:53Z",
+      "oldHash": "5bd83478e4aa65e7f3f062cfaa212284d8a7d645b635a8b2f79b65f7196b4d4b",
+      "newHash": "7941952d2e6730260eb93cd1bce53970186cb26c0bfd0b917b593dbd12a32b78",
+      "title": ""
+    }
+  ],
+  "updatedAt": "2026-09-05T09:16:53Z",
   "totalUrls": 3,
   "checkedThisRun": 3,
-  "okThisRun": 3,
-  "failedThisRun": 0
+  "okThisRun": 2,
+  "failedThisRun": 1
 }

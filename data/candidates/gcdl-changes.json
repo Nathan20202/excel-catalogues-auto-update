@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T08:04:51Z",
+  "updatedAt": "2026-09-05T09:16:53Z",
   "catalog": "gcdl",
-  "count": 0,
-  "records": []
+  "count": 1,
+  "records": [
+    {
+      "id": "Nouveau guide",
+      "url": "https://services.google.com/fh/files/misc/cloud_digital_leader_exam_guide_english.pdf",
+      "detectedAt": "2026-09-05T09:16:53Z",
+      "oldHash": "5bd83478e4aa65e7f3f062cfaa212284d8a7d645b635a8b2f79b65f7196b4d4b",
+      "newHash": "7941952d2e6730260eb93cd1bce53970186cb26c0bfd0b917b593dbd12a32b78",
+      "title": ""
+    }
+  ]
 }
