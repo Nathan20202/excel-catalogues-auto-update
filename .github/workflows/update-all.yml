@@ -28,6 +28,10 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Sur main, reprendre la tête actuelle si une autre actualisation
+          # vient de publier pendant l’attente du job.
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.ref }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
