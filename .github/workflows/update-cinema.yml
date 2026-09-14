@@ -2,34 +2,50 @@ name: Actualiser cinéma, séries et animés
 
 on:
   schedule:
-    - cron: "15 4 * * 1"
+    # Chaque jeudi matin : les sorties françaises du mercredi ont eu le temps
+    # de recevoir leurs premières critiques presse.
+    - cron: "15 5 * * 4"
   workflow_dispatch:
+  pull_request:
+    paths:
+      - "scripts/refresh_catalogues.py"
+      - "scripts/cinema_discovery.py"
+      - ".github/workflows/update-cinema.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/refresh_catalogues.py"
+      - "scripts/cinema_discovery.py"
+      - ".github/workflows/update-cinema.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-cinema
+  group: update-cinema-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Actualiser les notes et détecter les nouveautés
+      - name: Vérifier la syntaxe Python
+        run: python -m py_compile scripts/refresh_catalogues.py scripts/cinema_discovery.py
+      - name: Détecter et sélectionner les nouveautés
         run: python scripts/refresh_catalogues.py --catalog cinema
-      - name: Valider
+      - name: Valider les données
         run: python scripts/validate.py
       - name: Enregistrer les changements
+        if: github.event_name != 'pull_request'
         run: |
           git config user.name "excel-catalogues-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data config
           git diff --cached --quiet || git commit -m "Actualiser cinéma et séries"
           git push
-
