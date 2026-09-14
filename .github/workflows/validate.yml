@@ -20,4 +20,24 @@ jobs:
           python-version: "3.12"
       - name: Vérifier les schémas, IDs et colonnes protégées
         run: python scripts/validate.py
+      - name: Vérifier la syntaxe PowerShell
+        shell: pwsh
+        run: |
+          $hasErrors = $false
+          Get-ChildItem -Path . -Recurse -Filter "*.ps1" | ForEach-Object {
+              $tokens = $null
+              $parseErrors = $null
+              [System.Management.Automation.Language.Parser]::ParseFile(
+                  $_.FullName,
+                  [ref]$tokens,
+                  [ref]$parseErrors
+              ) | Out-Null
+              if ($parseErrors.Count -gt 0) {
+                  Write-Error "$($_.FullName) : $($parseErrors -join '; ')"
+                  $hasErrors = $true
+              }
+          }
+          if ($hasErrors) {
+              exit 1
+          }
 
