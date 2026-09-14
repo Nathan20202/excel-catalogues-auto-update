@@ -19,7 +19,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-all-catalogues
+  group: update-all-catalogues-v2
   cancel-in-progress: true
 
 jobs:
