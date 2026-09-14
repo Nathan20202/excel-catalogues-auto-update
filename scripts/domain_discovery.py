@@ -494,15 +494,22 @@ def discover_promo(config: dict[str, Any]) -> dict[str, Any]:
     }
 
 
-POKEMON_COUNTRIES = (
-    ("FR", "France"),
-    ("BE", "Belgique"),
-    ("CH", "Suisse"),
-    ("LU", "Luxembourg"),
-    ("DE", "Allemagne"),
-    ("ES", "Espagne"),
-    ("IT", "Italie"),
-    ("NL", "Pays-Bas"),
+POKEMON_AREAS = (
+    ("Île-de-France", "FR", "France", 48.8566, 2.3522, 90000),
+    ("Hauts-de-France", "FR", "France", 50.6292, 3.0573, 80000),
+    ("Auvergne-Rhône-Alpes", "FR", "France", 45.7640, 4.8357, 90000),
+    ("Provence-Alpes-Côte d’Azur", "FR", "France", 43.2965, 5.3698, 90000),
+    ("Occitanie", "FR", "France", 43.6047, 1.4442, 100000),
+    ("Nouvelle-Aquitaine", "FR", "France", 44.8378, -0.5792, 100000),
+    ("Grand Est", "FR", "France", 48.5734, 7.7521, 90000),
+    ("Pays de la Loire", "FR", "France", 47.2184, -1.5536, 90000),
+    ("Belgique", "BE", "Belgique", 50.8503, 4.3517, 100000),
+    ("Suisse romande", "CH", "Suisse", 46.2044, 6.1432, 100000),
+    ("Luxembourg", "LU", "Luxembourg", 49.6116, 6.1319, 70000),
+    ("Rhénanie", "DE", "Allemagne", 50.9375, 6.9603, 100000),
+    ("Catalogne", "ES", "Espagne", 41.3874, 2.1686, 100000),
+    ("Italie du Nord", "IT", "Italie", 45.4642, 9.1900, 100000),
+    ("Pays-Bas", "NL", "Pays-Bas", 52.3676, 4.9041, 100000),
 )
 
 
@@ -522,135 +529,126 @@ def overpass(query: str) -> dict[str, Any]:
 
 def discover_pokemon(config: dict[str, Any]) -> dict[str, Any]:
     state = discovery_state("pokemon")
-    cursor = int(state.get("cursor", 0)) % len(POKEMON_COUNTRIES)
-    batch_size = 1
-    selected = [
-        POKEMON_COUNTRIES[(cursor + offset) % len(POKEMON_COUNTRIES)]
-        for offset in range(batch_size)
-    ]
-    state["cursor"] = (cursor + batch_size) % len(POKEMON_COUNTRIES)
-    scanned = set(state.get("scannedCountries", []))
+    cursor = int(state.get("cursor", 0)) % len(POKEMON_AREAS)
+    area_name, country_code, country_name, latitude, longitude, radius = (
+        POKEMON_AREAS[cursor]
+    )
+    state["cursor"] = (cursor + 1) % len(POKEMON_AREAS)
     failures = 0
     checked = 0
     proposed: list[dict[str, Any]] = []
     candidates: list[dict[str, Any]] = []
 
-    for country_code, country_name in selected:
-        query = f"""
-[out:json][timeout:80];
-area["ISO3166-1"="{country_code}"][admin_level=2]->.country;
+    query = f"""
+[out:json][timeout:45];
 (
-  nwr(area.country)["name"~"(pokemon|pokémon|tcg|trading cards?|cartes? à jouer)",i];
-  nwr(area.country)["brand"~"(pokemon|pokémon)",i];
+  nwr(around:{radius},{latitude},{longitude})["name"~"(pokemon|pokémon|tcg|trading cards?)",i]["shop"];
+  nwr(around:{radius},{latitude},{longitude})["name"~"(pokemon|pokémon|tcg|trading cards?)",i]["amenity"];
+  nwr(around:{radius},{latitude},{longitude})["shop"~"^(games|collector|toys|gift)$"]["name"~"(pokemon|pokémon|tcg|trading cards?)",i];
 );
-out center tags 100;
+out center tags 80;
 """
+    try:
+        payload = overpass(query)
+    except Exception as exc:
+        failures = 1
+        payload = {"elements": []}
+        candidates.append(
+            {
+                "source": "OpenStreetMap / Overpass",
+                "area": area_name,
+                "status": "source-error",
+                "reason": str(exc)[:300],
+            }
+        )
+
+    for element in payload.get("elements", []):
+        tags = element.get("tags", {})
+        name = str(tags.get("name") or "").strip()
+        website = str(
+            tags.get("website")
+            or tags.get("contact:website")
+            or tags.get("url")
+            or ""
+        ).strip()
+        if not name or not website.startswith("http"):
+            continue
+        checked += 1
+        osm_type = str(element.get("type", "node"))
+        osm_id = str(element.get("id", ""))
+        osm_url = f"https://www.openstreetmap.org/{osm_type}/{osm_id}"
+        page = ""
         try:
-            payload = overpass(query)
-            scanned.add(country_code)
-        except Exception as exc:
-            failures += 1
+            page = fetch_text(website, timeout=18, attempts=1)[:350_000]
+        except Exception:
+            pass
+        page_key = normalize(page)
+        name_key = normalize(name)
+        proves_pokemon = any(
+            token in f"{name_key} {page_key}"
+            for token in ("pokemon", "tcg", "trading card")
+        )
+        proves_french = country_code == "FR" or any(
+            token in page_key
+            for token in (
+                "version francaise",
+                "cartes francaises",
+                "francais",
+                "livraison france",
+            )
+        )
+        if not proves_pokemon or not proves_french:
             candidates.append(
                 {
-                    "source": "OpenStreetMap / Overpass",
+                    "source": "OpenStreetMap + site de l’enseigne",
+                    "title": name,
                     "country": country_name,
-                    "status": "source-error",
-                    "reason": str(exc)[:300],
+                    "website": website,
+                    "status": "pending",
+                    "reason": "Preuve Pokémon ou disponibilité française insuffisante.",
                 }
             )
             continue
-        for element in payload.get("elements", []):
-            tags = element.get("tags", {})
-            name = str(tags.get("name") or "").strip()
-            website = str(
-                tags.get("website")
-                or tags.get("contact:website")
-                or tags.get("url")
-                or ""
-            ).strip()
-            if not name or not website.startswith("http"):
-                continue
-            checked += 1
-            osm_type = str(element.get("type", "node"))
-            osm_id = str(element.get("id", ""))
-            osm_url = f"https://www.openstreetmap.org/{osm_type}/{osm_id}"
-            page = ""
-            try:
-                page = fetch_text(website, timeout=20, attempts=1)[:400_000]
-            except Exception:
-                pass
-            page_key = normalize(page)
-            name_key = normalize(name)
-            proves_pokemon = any(
-                token in f"{name_key} {page_key}"
-                for token in ("pokemon", "tcg", "trading card")
-            )
-            proves_french = country_code == "FR" or any(
-                token in page_key
-                for token in (
-                    "version francaise",
-                    "cartes francaises",
-                    "francais",
-                    "livraison france",
-                )
-            )
-            if not proves_pokemon or not proves_french:
-                candidates.append(
-                    {
-                        "source": "OpenStreetMap + site de l’enseigne",
-                        "title": name,
-                        "country": country_name,
-                        "website": website,
-                        "status": "pending",
-                        "reason": "Preuve Pokémon ou disponibilité française insuffisante.",
-                    }
-                )
-                continue
 
-            city = str(
-                tags.get("addr:city")
-                or tags.get("addr:place")
-                or tags.get("addr:suburb")
-                or "À vérifier"
-            )
-            physical = any(
-                tags.get(key)
-                for key in ("shop", "amenity", "addr:street", "opening_hours")
-            )
-            proposed.append(
-                {
-                    "Enseigne / site": name,
-                    "Pays": country_name,
-                    "Ville / région": city,
-                    "Canal": "Magasin + en ligne" if physical else "En ligne",
-                    "Type": "Spécialiste TCG / boutique découverte",
-                    "Pérennité": "À évaluer",
-                    "Priorité": "C — complément",
-                    "Statut du français": "FR confirmé sur la source" if proves_french else "À vérifier",
-                    "Offre principale": "Pokémon TCG ; assortiment exact à vérifier",
-                    "Scellé FR": "À vérifier",
-                    "À l'unité FR": "À vérifier",
-                    "Gradées / vintage": "À vérifier",
-                    "Précommandes": "À vérifier",
-                    "Accessoires": "À vérifier",
-                    "Rachat / revente": "À vérifier",
-                    "Tournois / League": "À vérifier",
-                    "Livraison France": "À vérifier au panier",
-                    "Douane / TVA": "Pas de douane si expédition depuis l’UE",
-                    "Retrait magasin": "Probable" if physical else "Non indiqué",
-                    "Position prix": "À comparer",
-                    "Idéal pour": "Élargir les recherches de stock et de précommandes Pokémon",
-                    "Points de vigilance": "Nouvelle enseigne : vérifier avis, langue, stock, frais et conditions avant paiement.",
-                    "Confiance structurelle /5": None,
-                    "Clarté de la preuve FR /5": 4 if proves_french else None,
-                    "Site officiel": website,
-                    "Source / preuve FR": osm_url,
-                    "Vérifié le": french_date(),
-                    "ID": stable_id("PKM-AUTO", f"{osm_type}:{osm_id}"),
-                    "_osm_id": f"{osm_type}/{osm_id}",
-                }
-            )
-            time.sleep(0.15)
+        city = str(
+            tags.get("addr:city")
+            or tags.get("addr:place")
+            or tags.get("addr:suburb")
+            or area_name
+        )
+        proposed.append(
+            {
+                "Enseigne / site": name,
+                "Pays": country_name,
+                "Ville / région": city,
+                "Canal": "Magasin + en ligne",
+                "Type": "Spécialiste TCG / boutique découverte",
+                "Pérennité": "À évaluer",
+                "Priorité": "C — complément",
+                "Statut du français": "FR confirmé sur la source",
+                "Offre principale": "Pokémon TCG ; assortiment exact à vérifier",
+                "Scellé FR": "À vérifier",
+                "À l'unité FR": "À vérifier",
+                "Gradées / vintage": "À vérifier",
+                "Précommandes": "À vérifier",
+                "Accessoires": "À vérifier",
+                "Rachat / revente": "À vérifier",
+                "Tournois / League": "À vérifier",
+                "Livraison France": "À vérifier au panier",
+                "Douane / TVA": "Pas de douane si expédition depuis l’UE",
+                "Retrait magasin": "Oui / à confirmer",
+                "Position prix": "À comparer",
+                "Idéal pour": "Élargir les recherches de stock et de précommandes Pokémon",
+                "Points de vigilance": "Nouvelle enseigne : vérifier avis, langue, stock, frais et conditions avant paiement.",
+                "Confiance structurelle /5": None,
+                "Clarté de la preuve FR /5": 4,
+                "Site officiel": website,
+                "Source / preuve FR": osm_url,
+                "Vérifié le": french_date(),
+                "ID": stable_id("PKM-AUTO", f"{osm_type}:{osm_id}"),
+                "_osm_id": f"{osm_type}/{osm_id}",
+            }
+        )
 
     accepted = append_records(
         config,
@@ -660,13 +658,16 @@ out center tags 100;
         identity=lambda row: normalize(row.get("Enseigne / site")),
         limit=20,
     )
+    scanned = set(state.get("scannedAreas", []))
+    if not failures:
+        scanned.add(area_name)
     state.update(
         {
             "checkedThisRun": checked,
             "addedThisRun": len(accepted),
             "failuresThisRun": failures,
-            "countriesThisRun": [code for code, _name in selected],
-            "scannedCountries": sorted(scanned),
+            "areaThisRun": area_name,
+            "scannedAreas": sorted(scanned),
         }
     )
     save_discovery_state("pokemon", state)
@@ -676,7 +677,6 @@ out center tags 100;
         "failures": failures,
         "candidates": candidates,
     }
-
 
 FASHION_QUERIES = (
     "marque de mode durable",
