@@ -531,7 +531,7 @@ def overpass(query: str) -> dict[str, Any]:
 def discover_pokemon(config: dict[str, Any]) -> dict[str, Any]:
     state = discovery_state("pokemon")
     cursor = int(state.get("cursor", 0)) % len(POKEMON_AREAS)
-    area_name, country_code, country_name, latitude, longitude, radius = (
+    area_name, country_code, country_name, latitude, longitude, _radius = (
         POKEMON_AREAS[cursor]
     )
     state["cursor"] = (cursor + 1) % len(POKEMON_AREAS)
@@ -539,117 +539,172 @@ def discover_pokemon(config: dict[str, Any]) -> dict[str, Any]:
     checked = 0
     proposed: list[dict[str, Any]] = []
     candidates: list[dict[str, Any]] = []
+    seen_osm: set[str] = set()
 
-    query = f"""
-[out:json][timeout:45];
-(
-  nwr(around:{radius},{latitude},{longitude})["name"~"(pokemon|pokémon|tcg|trading cards?)",i]["shop"];
-  nwr(around:{radius},{latitude},{longitude})["name"~"(pokemon|pokémon|tcg|trading cards?)",i]["amenity"];
-  nwr(around:{radius},{latitude},{longitude})["shop"~"^(games|collector|toys|gift)$"]["name"~"(pokemon|pokémon|tcg|trading cards?)",i];
-);
-out center tags 80;
-"""
-    try:
-        payload = overpass(query)
-    except Exception as exc:
-        failures = 1
-        payload = {"elements": []}
-        candidates.append(
+    search_terms = (
+        f"Pokémon TCG {area_name} {country_name}",
+        f"magasin cartes Pokémon {area_name} {country_name}",
+    )
+    for search_text in search_terms:
+        parameters = urllib.parse.urlencode(
             {
-                "source": "OpenStreetMap / Overpass",
-                "area": area_name,
-                "status": "source-error",
-                "reason": str(exc)[:300],
+                "q": search_text,
+                "format": "jsonv2",
+                "limit": 12,
+                "addressdetails": 1,
+                "extratags": 1,
+                "namedetails": 1,
+                "viewbox": f"{longitude - 1.5},{latitude + 1.2},{longitude + 1.5},{latitude - 1.2}",
+                "bounded": 0,
             }
         )
-
-    for element in payload.get("elements", []):
-        tags = element.get("tags", {})
-        name = str(tags.get("name") or "").strip()
-        website = str(
-            tags.get("website")
-            or tags.get("contact:website")
-            or tags.get("url")
-            or ""
-        ).strip()
-        if not name or not website.startswith("http"):
-            continue
-        checked += 1
-        osm_type = str(element.get("type", "node"))
-        osm_id = str(element.get("id", ""))
-        osm_url = f"https://www.openstreetmap.org/{osm_type}/{osm_id}"
-        page = ""
         try:
-            page = fetch_text(website, timeout=18, attempts=1)[:350_000]
-        except Exception:
-            pass
-        page_key = normalize(page)
-        name_key = normalize(name)
-        proves_pokemon = any(
-            token in f"{name_key} {page_key}"
-            for token in ("pokemon", "tcg", "trading card")
-        )
-        proves_french = country_code == "FR" or any(
-            token in page_key
-            for token in (
-                "version francaise",
-                "cartes francaises",
-                "francais",
-                "livraison france",
+            hits = fetch_json(
+                f"https://nominatim.openstreetmap.org/search?{parameters}",
+                timeout=35,
+                attempts=2,
             )
-        )
-        if not proves_pokemon or not proves_french:
+        except Exception as exc:
+            failures += 1
             candidates.append(
                 {
-                    "source": "OpenStreetMap + site de l’enseigne",
-                    "title": name,
-                    "country": country_name,
-                    "website": website,
-                    "status": "pending",
-                    "reason": "Preuve Pokémon ou disponibilité française insuffisante.",
+                    "source": "OpenStreetMap / Nominatim",
+                    "area": area_name,
+                    "status": "source-error",
+                    "reason": str(exc)[:300],
                 }
             )
             continue
+        time.sleep(1.1)
+        if not isinstance(hits, list):
+            continue
 
-        city = str(
-            tags.get("addr:city")
-            or tags.get("addr:place")
-            or tags.get("addr:suburb")
-            or area_name
-        )
-        proposed.append(
-            {
-                "Enseigne / site": name,
-                "Pays": country_name,
-                "Ville / région": city,
-                "Canal": "Magasin + en ligne",
-                "Type": "Spécialiste TCG / boutique découverte",
-                "Pérennité": "À évaluer",
-                "Priorité": "C — complément",
-                "Statut du français": "FR confirmé sur la source",
-                "Offre principale": "Pokémon TCG ; assortiment exact à vérifier",
-                "Scellé FR": "À vérifier",
-                "À l'unité FR": "À vérifier",
-                "Gradées / vintage": "À vérifier",
-                "Précommandes": "À vérifier",
-                "Accessoires": "À vérifier",
-                "Rachat / revente": "À vérifier",
-                "Tournois / League": "À vérifier",
-                "Livraison France": "À vérifier au panier",
-                "Douane / TVA": "Pas de douane si expédition depuis l’UE",
-                "Retrait magasin": "Oui / à confirmer",
-                "Position prix": "À comparer",
-                "Idéal pour": "Élargir les recherches de stock et de précommandes Pokémon",
-                "Points de vigilance": "Nouvelle enseigne : vérifier avis, langue, stock, frais et conditions avant paiement.",
-                "Confiance structurelle /5": None,
-                "Clarté de la preuve FR /5": 4,
-                "Site officiel": website,
-                "Source / preuve FR": osm_url,
-                "Vérifié le": french_date(),
-                "ID": stable_id("PKM-AUTO", f"{osm_type}:{osm_id}"),
-                "_osm_id": f"{osm_type}/{osm_id}",
-            }
-        )
+        for hit in hits:
+            osm_type = str(hit.get("osm_type") or "")
+            osm_id = str(hit.get("osm_id") or "")
+            osm_key = f"{osm_type}/{osm_id}"
+            if not osm_type or not osm_id or osm_key in seen_osm:
+                continue
+            seen_osm.add(osm_key)
+            tags = dict(hit.get("extratags") or {})
+            name_details = hit.get("namedetails") or {}
+            name = str(
+                name_details.get("name")
+                or str(hit.get("display_name") or "").split(",")[0]
+            ).strip()
+
+            if not tags.get("website"):
+                api_type = {
+                    "N": "node",
+                    "W": "way",
+                    "R": "relation",
+                }.get(osm_type.upper()[:1], osm_type.casefold())
+                try:
+                    element_payload = fetch_json(
+                        f"https://api.openstreetmap.org/api/0.6/{api_type}/{osm_id}.json",
+                        timeout=25,
+                        attempts=1,
+                    )
+                    for element in element_payload.get("elements", []):
+                        if str(element.get("id")) == osm_id and element.get("tags"):
+                            tags.update(element["tags"])
+                            break
+                except Exception:
+                    pass
+
+            website = str(
+                tags.get("website")
+                or tags.get("contact:website")
+                or tags.get("url")
+                or ""
+            ).strip()
+            if not name or not website.startswith("http"):
+                candidates.append(
+                    {
+                        "source": "OpenStreetMap / Nominatim",
+                        "title": name,
+                        "country": country_name,
+                        "status": "pending",
+                        "reason": "Site officiel introuvable.",
+                    }
+                )
+                continue
+
+            checked += 1
+            page = ""
+            try:
+                page = fetch_text(website, timeout=18, attempts=1)[:350_000]
+            except Exception:
+                pass
+            page_key = normalize(page)
+            name_key = normalize(name)
+            proves_pokemon = any(
+                token in f"{name_key} {page_key}"
+                for token in ("pokemon", "tcg", "trading card")
+            )
+            proves_french = country_code == "FR" or any(
+                token in page_key
+                for token in (
+                    "version francaise",
+                    "cartes francaises",
+                    "francais",
+                    "livraison france",
+                )
+            )
+            if not proves_pokemon or not proves_french:
+                candidates.append(
+                    {
+                        "source": "OpenStreetMap + site de l’enseigne",
+                        "title": name,
+                        "country": country_name,
+                        "website": website,
+                        "status": "pending",
+                        "reason": "Preuve Pokémon ou disponibilité française insuffisante.",
+                    }
+                )
+                continue
+
+            address = hit.get("address") or {}
+            city = str(
+                address.get("city")
+                or address.get("town")
+                or address.get("village")
+                or area_name
+            )
+            osm_url = f"https://www.openstreetmap.org/{osm_key}"
+            proposed.append(
+                {
+                    "Enseigne / site": name,
+                    "Pays": country_name,
+                    "Ville / région": city,
+                    "Canal": "Magasin + en ligne",
+                    "Type": "Spécialiste TCG / boutique découverte",
+                    "Pérennité": "À évaluer",
+                    "Priorité": "C — complément",
+                    "Statut du français": "FR confirmé sur la source",
+                    "Offre principale": "Pokémon TCG ; assortiment exact à vérifier",
+                    "Scellé FR": "À vérifier",
+                    "À l'unité FR": "À vérifier",
+                    "Gradées / vintage": "À vérifier",
+                    "Précommandes": "À vérifier",
+                    "Accessoires": "À vérifier",
+                    "Rachat / revente": "À vérifier",
+                    "Tournois / League": "À vérifier",
+                    "Livraison France": "À vérifier au panier",
+                    "Douane / TVA": "Pas de douane si expédition depuis l’UE",
+                    "Retrait magasin": "Oui / à confirmer",
+                    "Position prix": "À comparer",
+                    "Idéal pour": "Élargir les recherches de stock et de précommandes Pokémon",
+                    "Points de vigilance": "Nouvelle enseigne : vérifier avis, langue, stock, frais et conditions avant paiement.",
+                    "Confiance structurelle /5": None,
+                    "Clarté de la preuve FR /5": 4,
+                    "Site officiel": website,
+                    "Source / preuve FR": osm_url,
+                    "Vérifié le": french_date(),
+                    "ID": stable_id("PKM-AUTO", osm_key),
+                    "_osm_id": osm_key,
+                }
+            )
 
     accepted = append_records(
         config,
