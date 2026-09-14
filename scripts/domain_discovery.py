@@ -813,12 +813,12 @@ def discover_fashion(config: dict[str, Any]) -> dict[str, Any]:
 
 
 ACTIVITY_AREAS = (
-    ("Cabourg", 49.2918, -0.1130, 35000, "CAB"),
-    ("Paris", 48.8566, 2.3522, 40000, "PARIS"),
-    ("Orsay", 48.6992, 2.1875, 30000, "ORS"),
-    ("Mende", 44.5180, 3.5006, 50000, "MEN"),
-    ("Saint-Cyprien", 42.6182, 3.0067, 40000, "STC"),
-    ("Boulouris", 43.4154, 6.8066, 40000, "BOU"),
+    ("Cabourg", 49.2918, -0.1130, 25000, "CAB"),
+    ("Paris", 48.8566, 2.3522, 25000, "PARIS"),
+    ("Orsay", 48.6992, 2.1875, 25000, "ORS"),
+    ("Mende", 44.5180, 3.5006, 40000, "MEN"),
+    ("Saint-Cyprien", 42.6182, 3.0067, 30000, "STC"),
+    ("Boulouris", 43.4154, 6.8066, 30000, "BOU"),
 )
 
 
@@ -858,82 +858,69 @@ def activity_category(tags: dict[str, Any]) -> tuple[str, str, str, str]:
 
 def discover_activities(config: dict[str, Any]) -> dict[str, Any]:
     state = discovery_state("activities")
+    cursor = int(state.get("cursor", 0)) % len(ACTIVITY_AREAS)
+    selected = [
+        ACTIVITY_AREAS[cursor],
+        ACTIVITY_AREAS[(cursor + 1) % len(ACTIVITY_AREAS)],
+    ]
+    state["cursor"] = (cursor + 2) % len(ACTIVITY_AREAS)
     failures = 0
     checked = 0
     added = 0
     candidates: list[dict[str, Any]] = []
 
-    selectors: list[str] = []
-    for _sheet, latitude, longitude, radius, _prefix in ACTIVITY_AREAS:
-        selectors.extend(
-            [
-                f'nwr(around:{radius},{latitude},{longitude})["name"]["tourism"~"^(attraction|museum|gallery|theme_park|zoo|aquarium|viewpoint)$"];',
-                f'nwr(around:{radius},{latitude},{longitude})["name"]["leisure"~"^(water_park|escape_game|sports_centre|park|garden|marina|bowling_alley|amusement_arcade)$"];',
-                f'nwr(around:{radius},{latitude},{longitude})["name"]["historic"];',
-            ]
-        )
-    query = (
-        "[out:json][timeout:100];\n(\n"
-        + "\n".join(selectors)
-        + "\n);\nout center tags 600;"
-    )
-    try:
-        payload = overpass(query)
-    except Exception as exc:
-        failures = 1
-        candidates.append(
-            {
-                "source": "OpenStreetMap / Overpass",
-                "status": "source-error",
-                "reason": str(exc)[:300],
-            }
-        )
-        payload = {"elements": []}
-
-    ranked_by_sheet: dict[str, list[tuple[int, float, dict[str, Any]]]] = {
-        area[0]: [] for area in ACTIVITY_AREAS
-    }
-    for element in payload.get("elements", []):
-        tags = element.get("tags", {})
-        name = str(tags.get("name") or "").strip()
-        website = str(
-            tags.get("website")
-            or tags.get("contact:website")
-            or tags.get("wikidata")
-            or tags.get("wikipedia")
-            or ""
-        ).strip()
-        if not name:
-            continue
-        center = element.get("center") or element
+    for sheet, center_lat, center_lon, radius, prefix in selected:
+        query = f"""
+[out:json][timeout:45];
+(
+  nwr(around:{radius},{center_lat},{center_lon})["name"]["tourism"~"^(attraction|museum|gallery|theme_park|zoo|aquarium|viewpoint)$"];
+  nwr(around:{radius},{center_lat},{center_lon})["name"]["leisure"~"^(water_park|escape_game|sports_centre|park|garden|marina|bowling_alley|amusement_arcade)$"];
+  nwr(around:{radius},{center_lat},{center_lon})["name"]["historic"~"^(castle|monument|memorial|archaeological_site|ruins|manor|fort)$"];
+);
+out center tags 120;
+"""
         try:
-            latitude = float(center.get("lat"))
-            longitude = float(center.get("lon"))
-        except (TypeError, ValueError):
+            payload = overpass(query)
+        except Exception as exc:
+            failures += 1
+            candidates.append(
+                {
+                    "source": "OpenStreetMap / Overpass",
+                    "area": sheet,
+                    "status": "source-error",
+                    "reason": str(exc)[:300],
+                }
+            )
             continue
 
-        nearest: tuple[str, float, float, float, int, str] | None = None
-        for area in ACTIVITY_AREAS:
-            sheet, center_lat, center_lon, radius, prefix = area
-            distance = haversine(center_lat, center_lon, latitude, longitude)
-            if distance <= radius / 1000 and (
-                nearest is None or distance < nearest[1]
-            ):
-                nearest = (sheet, distance, center_lat, center_lon, radius, prefix)
-        if nearest is None:
-            continue
-
-        score = 0
-        score += 3 if website else 0
-        score += 2 if tags.get("wikidata") else 0
-        score += 1 if tags.get("opening_hours") else 0
-        score += 1 if tags.get("tourism") else 0
-        score += 1 if tags.get("historic") else 0
-        if score >= 3:
-            ranked_by_sheet[nearest[0]].append((score, nearest[1], element))
-
-    for sheet, _center_lat, _center_lon, _radius, prefix in ACTIVITY_AREAS:
-        ranked = ranked_by_sheet[sheet]
+        ranked: list[tuple[int, float, dict[str, Any]]] = []
+        for element in payload.get("elements", []):
+            tags = element.get("tags", {})
+            name = str(tags.get("name") or "").strip()
+            website = str(
+                tags.get("website")
+                or tags.get("contact:website")
+                or tags.get("wikidata")
+                or tags.get("wikipedia")
+                or ""
+            ).strip()
+            if not name:
+                continue
+            center = element.get("center") or element
+            try:
+                latitude = float(center.get("lat"))
+                longitude = float(center.get("lon"))
+                distance = haversine(center_lat, center_lon, latitude, longitude)
+            except (TypeError, ValueError):
+                distance = 0.0
+            score = 0
+            score += 3 if website else 0
+            score += 2 if tags.get("wikidata") else 0
+            score += 1 if tags.get("opening_hours") else 0
+            score += 1 if tags.get("tourism") else 0
+            score += 1 if tags.get("historic") else 0
+            if score >= 3:
+                ranked.append((score, distance, element))
         ranked.sort(
             key=lambda pair: (
                 -pair[0],
@@ -941,8 +928,9 @@ def discover_activities(config: dict[str, Any]) -> dict[str, Any]:
                 str(pair[2].get("tags", {}).get("name", "")),
             )
         )
+
         proposed: list[dict[str, Any]] = []
-        for score, distance, element in ranked[:45]:
+        for score, distance, element in ranked[:40]:
             tags = element.get("tags", {})
             name = str(tags.get("name") or "").strip()
             checked += 1
@@ -1011,7 +999,7 @@ def discover_activities(config: dict[str, Any]) -> dict[str, Any]:
             "checkedThisRun": checked,
             "addedThisRun": added,
             "failuresThisRun": failures,
-            "areasThisRun": [area[0] for area in ACTIVITY_AREAS],
+            "areasThisRun": [area[0] for area in selected],
         }
     )
     save_discovery_state("activities", state)
