@@ -532,6 +532,13 @@ def main() -> None:
             )
             save_json(HEALTH_DIR / f"{catalog}.json", state)
             write_change_candidates(catalog, state)
+            for issue in discovery.get("candidates", [])[:5]:
+                if issue.get("status") == "source-error" or issue.get("error"):
+                    detail = issue.get("reason") or issue.get("error")
+                    print(
+                        f"{catalog}: source indisponible — {detail}",
+                        file=sys.stderr,
+                    )
         states[catalog] = state
         if catalog == "cinema":
             print(
