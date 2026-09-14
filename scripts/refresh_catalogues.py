@@ -511,10 +511,20 @@ def main() -> None:
             state = refresh_health(config, catalog)
             write_change_candidates(catalog, state)
         states[catalog] = state
-        print(
-            f"{catalog}: actualisé — "
-            f"{state.get('checkedThisRun', state.get('ratingsMatched', 0))} contrôles/métadonnées"
-        )
+        if catalog == "cinema":
+            print(
+                "cinema: "
+                f"{state.get('filmsAdded', 0)} film(s) ajouté(s), "
+                f"{state.get('seriesAdded', 0)} série(s) ajoutée(s), "
+                f"{state.get('allocineChecked', 0)} page(s) AlloCiné analysée(s), "
+                f"{state.get('sourceFailures', 0)} échec(s) de source, "
+                f"{state.get('ratingsMatched', 0)} note(s) IMDb vérifiée(s)"
+            )
+        else:
+            print(
+                f"{catalog}: actualisé — "
+                f"{state.get('checkedThisRun', 0)} contrôle(s)"
+            )
     update_manifest(catalogs, states)
 
 
