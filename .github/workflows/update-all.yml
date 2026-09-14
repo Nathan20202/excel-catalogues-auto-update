@@ -1,0 +1,59 @@
+name: Actualiser tous les catalogues
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "scripts/refresh_catalogues.py"
+      - "scripts/domain_discovery.py"
+      - ".github/workflows/update-all.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/refresh_catalogues.py"
+      - "scripts/domain_discovery.py"
+      - ".github/workflows/update-all.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-all-catalogues-v2
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Vérifier la syntaxe Python
+        run: python -m py_compile scripts/refresh_catalogues.py scripts/domain_discovery.py scripts/cinema_discovery.py
+      - name: Actualiser promotions et comparateurs
+        run: python scripts/refresh_catalogues.py --catalog promo
+      - name: Actualiser les sites Pokémon
+        run: python scripts/refresh_catalogues.py --catalog pokemon
+      - name: Actualiser les marques de vêtements
+        run: python scripts/refresh_catalogues.py --catalog fashion
+      - name: Actualiser le guide Tech
+        run: python scripts/refresh_catalogues.py --catalog tech
+      - name: Actualiser les activités
+        run: python scripts/refresh_catalogues.py --catalog activities
+      - name: Actualiser English Pro
+        run: python scripts/refresh_catalogues.py --catalog english
+      - name: Actualiser Google Cloud Digital Leader
+        run: python scripts/refresh_catalogues.py --catalog gcdl
+      - name: Valider tous les fichiers
+        run: python scripts/validate.py
+      - name: Enregistrer les changements
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "excel-catalogues-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data config
+          git diff --cached --quiet || git commit -m "Actualiser tous les catalogues"
+          git push
