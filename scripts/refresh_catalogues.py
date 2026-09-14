@@ -15,10 +15,12 @@ import sys
 import urllib.error
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Any, Iterable
 
 from cinema_discovery import add_recent_series, refresh_allocine_films
+from domain_discovery import discover_catalog
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "config" / "workbooks.json"
@@ -194,8 +196,14 @@ def refresh_health(config: dict[str, Any], catalog: str) -> dict[str, Any]:
     changes: list[dict[str, Any]] = []
     touched_payloads: dict[Path, dict] = {}
 
-    for dataset, path, payload, record, identifier, url in selected:
-        probe = fetch_probe(url)
+    # Les contrôles d'URL sont indépendants. Les paralléliser réduit une
+    # actualisation de plusieurs dizaines de minutes à quelques minutes.
+    with ThreadPoolExecutor(max_workers=12) as executor:
+        probes = list(executor.map(lambda item: fetch_probe(item[5]), selected))
+
+    for (dataset, path, payload, record, identifier, url), probe in zip(
+        selected, probes
+    ):
         checked += 1
         ok += int(bool(probe.get("ok")))
         failures += int(not probe.get("ok"))
@@ -456,7 +464,10 @@ def refresh_cinema(config: dict[str, Any]) -> dict[str, Any]:
     return state
 
 def write_change_candidates(catalog: str, state: dict[str, Any]) -> None:
-    changes = state.get("changes", [])
+    changes = (
+        state.get("discoveryCandidates", [])
+        + state.get("changes", [])
+    )[:250]
     save_json(
         CANDIDATE_DIR / f"{catalog}-changes.json",
         {
@@ -497,7 +508,7 @@ def main() -> None:
     parser.add_argument(
         "--catalog",
         required=True,
-        choices=["promo", "pokemon", "fashion", "cinema", "gcdl", "all"],
+        choices=["promo", "pokemon", "fashion", "cinema", "tech", "activities", "english", "gcdl", "all"],
     )
     args = parser.parse_args()
     config = load_json(CONFIG_PATH)
@@ -508,7 +519,18 @@ def main() -> None:
         if catalog == "cinema":
             state = refresh_cinema(config)
         else:
+            discovery = discover_catalog(config, catalog)
             state = refresh_health(config, catalog)
+            state.update(
+                {
+                    "updatedAt": iso_now(),
+                    "addedThisRun": discovery.get("added", 0),
+                    "discoveryCheckedThisRun": discovery.get("checked", 0),
+                    "discoveryFailuresThisRun": discovery.get("failures", 0),
+                    "discoveryCandidates": discovery.get("candidates", []),
+                }
+            )
+            save_json(HEALTH_DIR / f"{catalog}.json", state)
             write_change_candidates(catalog, state)
         states[catalog] = state
         if catalog == "cinema":
@@ -522,8 +544,11 @@ def main() -> None:
             )
         else:
             print(
-                f"{catalog}: actualisé — "
-                f"{state.get('checkedThisRun', 0)} contrôle(s)"
+                f"{catalog}: "
+                f"{state.get('addedThisRun', 0)} ajout(s), "
+                f"{state.get('discoveryCheckedThisRun', 0)} nouveauté(s) analysée(s), "
+                f"{state.get('checkedThisRun', 0)} source(s) existante(s) contrôlée(s), "
+                f"{state.get('discoveryFailuresThisRun', 0)} échec(s) de découverte"
             )
     update_manifest(catalogs, states)
 
