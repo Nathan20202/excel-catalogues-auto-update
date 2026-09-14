@@ -514,7 +514,7 @@ def overpass(query: str) -> dict[str, Any]:
         "https://overpass.kumi.systems/api/interpreter",
     ):
         try:
-            return fetch_json(endpoint, data=body, timeout=100, attempts=2)
+            return fetch_json(endpoint, data=body, timeout=55, attempts=1)
         except Exception as exc:
             errors.append(f"{endpoint}: {exc}")
     raise RuntimeError(" ; ".join(errors))
@@ -523,7 +523,7 @@ def overpass(query: str) -> dict[str, Any]:
 def discover_pokemon(config: dict[str, Any]) -> dict[str, Any]:
     state = discovery_state("pokemon")
     cursor = int(state.get("cursor", 0)) % len(POKEMON_COUNTRIES)
-    batch_size = 3 if not state.get("scannedCountries") else 1
+    batch_size = 1
     selected = [
         POKEMON_COUNTRIES[(cursor + offset) % len(POKEMON_COUNTRIES)]
         for offset in range(batch_size)
