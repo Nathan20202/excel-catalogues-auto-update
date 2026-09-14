@@ -209,7 +209,7 @@ def parse_google_release_page(url: str) -> list[dict[str, Any]]:
     page = fetch_text(url, timeout=60, attempts=3)
     headings = list(
         re.finditer(
-            r"<h2\\b(?P<attrs>[^>]*)>(?P<title>.*?)</h2>",
+            r"<h2\b(?P<attrs>[^>]*)>(?P<title>.*?)</h2>",
             page,
             flags=re.IGNORECASE | re.DOTALL,
         )
@@ -231,7 +231,7 @@ def parse_google_release_page(url: str) -> list[dict[str, Any]]:
         if not summary:
             continue
         anchor_match = re.search(
-            r'\\bid=["\\\']([^"\\\']+)["\\\']',
+            r'\bid="([^"]+)"',
             heading.group("attrs"),
             flags=re.IGNORECASE,
         )
