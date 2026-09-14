@@ -1113,13 +1113,13 @@ out center tags 120;
 
 ENGLISH_FEEDS = (
     {
-        "url": "https://feeds.bbci.co.uk/learningenglish/english/features/6-minute-english/rss.xml",
-        "provider": "BBC Learning English",
-        "skill": "Listening",
-        "type": "Podcast",
-        "level": "C1",
-        "task": "Listen once without subtitles; note 8 expressions; give a 90-second oral summary.",
-        "duration": 25,
+        "url": "https://podcasts.files.bbci.co.uk/b006qy05.rss",
+        "provider": "BBC Radio 4 — Thinking Allowed",
+        "skill": "Advanced listening",
+        "type": "Official podcast",
+        "level": "C1–C2",
+        "task": "Listen without subtitles; note 8 academic expressions; give a 90-second critical summary.",
+        "duration": 35,
     },
     {
         "url": "https://www.microsoft.com/en-us/security/blog/feed/",
