@@ -1,7 +1,1666 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T09:50:21Z",
-  "policy": "Candidates are never injected automatically without enough metadata.",
-  "count": 0,
-  "records": []
+  "updatedAt": "2026-09-14T17:47:25Z",
+  "policy": "Films : AlloCiné >= 2,5/5 avec acteur reconnu ; >= 3,5/5 pour de nouveaux interprètes. Séries : seuil IMDb équivalent avec un volume minimal de votes.",
+  "count": 99,
+  "records": [
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Contrebandiers",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Ethan Hawke"
+      ],
+      "knownActors": [
+        "Ethan Hawke"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019874.html",
+      "allocineId": "1000019874"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Si tu penses bien",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Monia Chokri"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043221.html",
+      "allocineId": "1000043221"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Resident Evil",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Austin Abrams"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018854.html",
+      "allocineId": "1000018854"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "L'Invitation",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Seth Rogen"
+      ],
+      "knownActors": [
+        "Seth Rogen"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=317219.html",
+      "allocineId": "317219"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Histoires De La Nuit",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Hafsia Herzi"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324014.html",
+      "allocineId": "324014"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Chien bleu et autres belles histoires de l'école des loisirs",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041095.html",
+      "allocineId": "1000041095"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Sham",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Gô Ayano"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014638.html",
+      "allocineId": "1000014638"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Ligne bleue",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=325076.html",
+      "allocineId": "325076"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Ma famille de samouraïs",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Justine Hostekint"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023495.html",
+      "allocineId": "1000023495"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Vie en relief - Jacques Henri Lartigue",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Luàna Bajrami"
+      ],
+      "knownActors": [
+        "Luàna Bajrami"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042891.html",
+      "allocineId": "1000042891"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Transformers: The Movie 40th Anniversary",
+      "releaseDate": "2026-09-17",
+      "actors": [
+        "Peter Cullen"
+      ],
+      "knownActors": [
+        "Peter Cullen"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046254.html",
+      "allocineId": "1000046254"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Cygne et l'enfant",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045581.html",
+      "allocineId": "1000045581"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Maoussi",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Moustapha Mbengue"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014136.html",
+      "allocineId": "1000014136"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Belle et la bête",
+      "releaseDate": "1946-10-29",
+      "actors": [
+        "Josette Day"
+      ],
+      "knownActors": [
+        "Josette Day"
+      ],
+      "pressScore": 5.0,
+      "pressReviews": 2,
+      "status": "pending",
+      "reason": "Moins de 3 critiques presse : attente d'un échantillon plus fiable.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=772.html",
+      "allocineId": "772"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Maquisards",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043505.html",
+      "allocineId": "1000043505"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Une musique à vivre",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043595.html",
+      "allocineId": "1000043595"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Vagues dans les yeux",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048049.html",
+      "allocineId": "1000048049"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Festin boréal",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Robert Morin"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321354.html",
+      "allocineId": "321354"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Horizons de l'Asie Contemporaine",
+      "releaseDate": "2026-09-18",
+      "actors": [
+        "une sélection élargie à six longs métrages et huit courts métrages",
+        "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
+        "chargés d’histoires et de cultures",
+        "en nous emmenant toujours plus loin au cœur du continent."
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051178.html",
+      "allocineId": "1000051178"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Échos de l'Histoire Asiatique",
+      "releaseDate": "2026-09-18",
+      "actors": [
+        "une sélection élargie à six longs métrages et huit courts métrages",
+        "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
+        "chargés d’histoires et de cultures",
+        "en nous emmenant toujours plus loin au cœur du continent."
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051176.html",
+      "allocineId": "1000051176"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Daayra",
+      "releaseDate": "2026-09-18",
+      "actors": [
+        "Prithviraj Sukumaran"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049013.html",
+      "allocineId": "1000049013"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Hanuman Ansh",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Shobhinaw Satyaa"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049118.html",
+      "allocineId": "1000049118"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Changer l'eau des fleurs",
+      "releaseDate": "2026-12-09",
+      "actors": [
+        "Leïla Bekhti"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html",
+      "allocineId": "1000018371"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Heart Of The Beast",
+      "releaseDate": "2026-09-23",
+      "actors": [
+        "Brad Pitt"
+      ],
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000085.html",
+      "allocineId": "1000000085"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Karma",
+      "releaseDate": "2026-10-21",
+      "actors": [
+        "Marion Cotillard"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018384.html",
+      "allocineId": "1000018384"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Notre salut",
+      "releaseDate": "2026-09-30",
+      "actors": [
+        "Swann Arlaud"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007388.html",
+      "allocineId": "1000007388"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Garance",
+      "releaseDate": "2026-09-23",
+      "actors": [
+        "Adèle Exarchopoulos"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026039.html",
+      "allocineId": "1000026039"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Héros du Louvre",
+      "releaseDate": "2026-09-09",
+      "actors": [
+        "Kad Merad"
+      ],
+      "knownActors": [],
+      "pressScore": 2.5,
+      "pressReviews": 12,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323826.html",
+      "allocineId": "323826"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Ensorceleuses 2",
+      "releaseDate": "2026-09-09",
+      "actors": [
+        "Nicole Kidman"
+      ],
+      "knownActors": [
+        "Nicole Kidman"
+      ],
+      "pressScore": 1.8,
+      "pressReviews": 10,
+      "status": "rejected",
+      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004679.html",
+      "allocineId": "1000004679"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Oasis: Don't Look Back In Anger",
+      "releaseDate": "2026-09-09",
+      "actors": [
+        "Liam Gallagher"
+      ],
+      "knownActors": [],
+      "pressScore": 3.1,
+      "pressReviews": 8,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021803.html",
+      "allocineId": "1000021803"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Flush",
+      "releaseDate": "2026-09-09",
+      "actors": [
+        "Jonathan Lambert"
+      ],
+      "knownActors": [],
+      "pressScore": 3.3,
+      "pressReviews": 13,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031730.html",
+      "allocineId": "1000031730"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Billie Melody",
+      "releaseDate": "2026-09-09",
+      "actors": [
+        "Roschdy Zem"
+      ],
+      "knownActors": [],
+      "pressScore": 2.4,
+      "pressReviews": 14,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021763.html",
+      "allocineId": "1000021763"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Sea",
+      "releaseDate": "2026-09-09",
+      "actors": [
+        "Muhammad Gazawi"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030749.html",
+      "allocineId": "1000030749"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Mandaadi",
+      "releaseDate": "2026-09-10",
+      "actors": [
+        "Soori"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023324.html",
+      "allocineId": "1000023324"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Commis d'office",
+      "releaseDate": "2026-09-09",
+      "actors": [
+        "Bing Yin"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043030.html",
+      "allocineId": "1000043030"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Dernière patiente",
+      "releaseDate": "2026-09-02",
+      "actors": [
+        "Anouk Grinberg"
+      ],
+      "knownActors": [],
+      "pressScore": 2.9,
+      "pressReviews": 23,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=300784.html",
+      "allocineId": "300784"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Lettres d'amour de ma grand-mère",
+      "releaseDate": "2026-09-02",
+      "actors": [
+        "Sitong Li"
+      ],
+      "knownActors": [],
+      "pressScore": 2.9,
+      "pressReviews": 13,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044253.html",
+      "allocineId": "1000044253"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Good Sister",
+      "releaseDate": "2026-09-02",
+      "actors": [
+        "Marie Bloching"
+      ],
+      "knownActors": [],
+      "pressScore": 3.4,
+      "pressReviews": 22,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018551.html",
+      "allocineId": "1000018551"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Holy Boy",
+      "releaseDate": "2026-09-02",
+      "actors": [
+        "Michele Riondino"
+      ],
+      "knownActors": [],
+      "pressScore": 3.3,
+      "pressReviews": 14,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024164.html",
+      "allocineId": "1000024164"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Opera!",
+      "releaseDate": "2026-09-02",
+      "actors": [
+        "Valentino Buzza"
+      ],
+      "knownActors": [],
+      "pressScore": 1.7,
+      "pressReviews": 11,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316397.html",
+      "allocineId": "316397"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Nimrods : A Green Day Comedy",
+      "releaseDate": "2026-09-04",
+      "actors": [
+        "Mason Thames"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019736.html",
+      "allocineId": "1000019736"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "I'm Game",
+      "releaseDate": "2026-09-03",
+      "actors": [
+        "Dulquer Salmaan"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036604.html",
+      "allocineId": "1000036604"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Arrebato",
+      "releaseDate": "2026-09-02",
+      "actors": [
+        "Eusebio Poncela"
+      ],
+      "knownActors": [],
+      "pressScore": 4.3,
+      "pressReviews": 4,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=44148.html",
+      "allocineId": "44148"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "releaseDate": "2026-09-03",
+      "actors": [
+        "Katy Perry"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045609.html",
+      "allocineId": "1000045609"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Smash Palace",
+      "releaseDate": "2026-09-02",
+      "actors": [
+        "Bruno Lawrence"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=138263.html",
+      "allocineId": "138263"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Tad l'explorateur et la lampe magique",
+      "releaseDate": "2026-08-26",
+      "actors": [
+        "Oscar Barberán"
+      ],
+      "knownActors": [],
+      "pressScore": 3.2,
+      "pressReviews": 13,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=257425.html",
+      "allocineId": "257425"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Face à la mer",
+      "releaseDate": "2026-08-26",
+      "actors": [
+        "Barry Ward"
+      ],
+      "knownActors": [],
+      "pressScore": 2.8,
+      "pressReviews": 12,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032278.html",
+      "allocineId": "1000032278"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Bombonera",
+      "releaseDate": "2026-08-26",
+      "actors": [
+        "Soufiane Guerrab"
+      ],
+      "knownActors": [],
+      "pressScore": 3.0,
+      "pressReviews": 6,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321617.html",
+      "allocineId": "321617"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "New Group",
+      "releaseDate": "2026-08-26",
+      "actors": [
+        "Anna Yamada"
+      ],
+      "knownActors": [],
+      "pressScore": 3.3,
+      "pressReviews": 6,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029051.html",
+      "allocineId": "1000029051"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Toxic - A Fairy Tale for Grown-Ups",
+      "releaseDate": "2026-08-26",
+      "actors": [
+        "Yash"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324492.html",
+      "allocineId": "324492"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Once More",
+      "releaseDate": "2026-08-28",
+      "actors": [
+        "Arjun Das"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050408.html",
+      "allocineId": "1000050408"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "GHOST: 2 Big To Rig",
+      "releaseDate": "2026-08-27",
+      "actors": [
+        "les seules images captées par des caméras professionnelles de Papa V Perpetua et de son groupe de Nameless Ghouls lors du SKELETOUR",
+        "où les téléphones étaient interdits",
+        "2 BIG TO RIG plonge les spectateurs au cœur du rituel live de GHOST."
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049021.html",
+      "allocineId": "1000049021"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Bleach : The DiamondDust Rebellion",
+      "releaseDate": "2026-08-28",
+      "actors": [
+        "Masakazu Morita"
+      ],
+      "knownActors": [
+        "Masakazu Morita"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=147956.html",
+      "allocineId": "147956"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Bleach - Le Film 4 : Hell Verse",
+      "releaseDate": "2026-08-28",
+      "actors": [
+        "Masakazu Morita"
+      ],
+      "knownActors": [
+        "Masakazu Morita"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=224258.html",
+      "allocineId": "224258"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Bleach : Memories of Nobody",
+      "releaseDate": "2026-08-28",
+      "actors": [
+        "Masakazu Morita"
+      ],
+      "knownActors": [
+        "Masakazu Morita"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=135076.html",
+      "allocineId": "135076"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Bleach : Fade to Black",
+      "releaseDate": "2026-08-28",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=148223.html",
+      "allocineId": "148223"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Mutiny",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Jason Statham"
+      ],
+      "knownActors": [
+        "Jason Statham"
+      ],
+      "pressScore": 2.1,
+      "pressReviews": 7,
+      "status": "rejected",
+      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002942.html",
+      "allocineId": "1000002942"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Insidious : l'invasion du lointain",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Amelia Eve"
+      ],
+      "knownActors": [],
+      "pressScore": 2.0,
+      "pressReviews": 3,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016503.html",
+      "allocineId": "1000016503"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Nirvana",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Ichem Bougheraba"
+      ],
+      "knownActors": [],
+      "pressScore": 2.3,
+      "pressReviews": 7,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033718.html",
+      "allocineId": "1000033718"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Paradise",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Daniel Atsu Hukporti"
+      ],
+      "knownActors": [],
+      "pressScore": 3.3,
+      "pressReviews": 18,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=308394.html",
+      "allocineId": "308394"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Fille Condor",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "María Magdalena Sanizo"
+      ],
+      "knownActors": [],
+      "pressScore": 3.4,
+      "pressReviews": 19,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022452.html",
+      "allocineId": "1000022452"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Marius et le Royaume des mers",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022217.html",
+      "allocineId": "1000022217"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Providence et la Guitare",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Pedro Inês"
+      ],
+      "knownActors": [],
+      "pressScore": 2.7,
+      "pressReviews": 10,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037432.html",
+      "allocineId": "1000037432"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Lost Paradise",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Koji Yakusho"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=121982.html",
+      "allocineId": "121982"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Black House",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Seiyô Uchino"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316499.html",
+      "allocineId": "316499"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "South Bound",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Etsushi Toyokawa"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037129.html",
+      "allocineId": "1000037129"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Que Ton Règne Vienne - Une histoire du satanisme en France",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030962.html",
+      "allocineId": "1000030962"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Main Theme",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "Hiroko Yakushimaru"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010367.html",
+      "allocineId": "1000010367"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Khalifa",
+      "releaseDate": "2026-08-20",
+      "actors": [
+        "Prithviraj Sukumaran"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033875.html",
+      "allocineId": "1000033875"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Modha Rathiri",
+      "releaseDate": "2026-08-21",
+      "actors": [
+        "Rishikanth"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049968.html",
+      "allocineId": "1000049968"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Irumudi",
+      "releaseDate": "2026-08-21",
+      "actors": [
+        "Ravi Teja"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040592.html",
+      "allocineId": "1000040592"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Tombé du ciel",
+      "releaseDate": "2026-08-12",
+      "actors": [
+        "Ilyes Djadel"
+      ],
+      "knownActors": [],
+      "pressScore": 2.6,
+      "pressReviews": 7,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032856.html",
+      "allocineId": "1000032856"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Juste pour une nuit",
+      "releaseDate": "2026-08-12",
+      "actors": [
+        "Monica Barbaro"
+      ],
+      "knownActors": [],
+      "pressScore": 2.3,
+      "pressReviews": 8,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019899.html",
+      "allocineId": "1000019899"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Une affaire turque",
+      "releaseDate": "2026-08-12",
+      "actors": [
+        "Lionel Erdogan"
+      ],
+      "knownActors": [],
+      "pressScore": 3.2,
+      "pressReviews": 27,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034332.html",
+      "allocineId": "1000034332"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Undertone",
+      "releaseDate": "2026-08-12",
+      "actors": [
+        "Nina Kiri"
+      ],
+      "knownActors": [],
+      "pressScore": 2.9,
+      "pressReviews": 17,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020491.html",
+      "allocineId": "1000020491"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Une aube nouvelle",
+      "releaseDate": "2026-08-12",
+      "actors": [
+        "Riku Hagiwara"
+      ],
+      "knownActors": [],
+      "pressScore": 3.2,
+      "pressReviews": 12,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019382.html",
+      "allocineId": "1000019382"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Lydia et le vaisseau des tempêtes",
+      "releaseDate": "2026-08-12",
+      "actors": [
+        "Sophie Nélisse"
+      ],
+      "knownActors": [],
+      "pressScore": 2.7,
+      "pressReviews": 11,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327754.html",
+      "allocineId": "327754"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Katseye : Wild Hearts",
+      "releaseDate": "2026-08-15",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047303.html",
+      "allocineId": "1000047303"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Quiet Family",
+      "releaseDate": "2026-08-12",
+      "actors": [
+        "Song Kang-Ho"
+      ],
+      "knownActors": [
+        "Song Kang-Ho"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=56608.html",
+      "allocineId": "56608"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Pat' Patrouille : Le film mission Dino",
+      "releaseDate": "2026-08-05",
+      "actors": [
+        "Rain Janjua"
+      ],
+      "knownActors": [],
+      "pressScore": 3.1,
+      "pressReviews": 16,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=320681.html",
+      "allocineId": "320681"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Gendarmes",
+      "releaseDate": "2026-08-05",
+      "actors": [
+        "Arnaud Ducret"
+      ],
+      "knownActors": [],
+      "pressScore": 2.3,
+      "pressReviews": 7,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022546.html",
+      "allocineId": "1000022546"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Des Fleurs pour Tokyo",
+      "releaseDate": "2026-08-05",
+      "actors": [
+        "Kodai Kurosaki"
+      ],
+      "knownActors": [],
+      "pressScore": 3.3,
+      "pressReviews": 27,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023007.html",
+      "allocineId": "1000023007"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le concert d'été 2026 d'André Rieu : Viva Maastricht !",
+      "releaseDate": "2026-08-08",
+      "actors": [
+        "André Rieu"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039379.html",
+      "allocineId": "1000039379"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Silences de Riyad",
+      "releaseDate": "2026-08-05",
+      "actors": [
+        "Mila Al Zahrani"
+      ],
+      "knownActors": [],
+      "pressScore": 2.6,
+      "pressReviews": 14,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019673.html",
+      "allocineId": "1000019673"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Kyma, l’onde mystérieuse",
+      "releaseDate": "2026-08-05",
+      "actors": [
+        "Jules Lefebvre"
+      ],
+      "knownActors": [],
+      "pressScore": 2.7,
+      "pressReviews": 19,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012952.html",
+      "allocineId": "1000012952"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Chantier",
+      "releaseDate": "2026-08-05",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027224.html",
+      "allocineId": "1000027224"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Jour de chasse",
+      "releaseDate": "2026-08-05",
+      "actors": [
+        "Nahéma Ricci"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000008200.html",
+      "allocineId": "1000008200"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Ateez : Light The Way in cinemas",
+      "releaseDate": "2026-08-06",
+      "actors": [
+        "ATEEZ"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048132.html",
+      "allocineId": "1000048132"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Matins merveilleux",
+      "releaseDate": "2026-07-29",
+      "actors": [
+        "India Hair"
+      ],
+      "knownActors": [],
+      "pressScore": 3.2,
+      "pressReviews": 26,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019327.html",
+      "allocineId": "1000019327"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Ugly",
+      "releaseDate": "2026-07-29",
+      "actors": [
+        "Jeong Min Park"
+      ],
+      "knownActors": [],
+      "pressScore": 3.1,
+      "pressReviews": 28,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019764.html",
+      "allocineId": "1000019764"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Home stories",
+      "releaseDate": "2026-07-29",
+      "actors": [
+        "Frida Hornemann"
+      ],
+      "knownActors": [],
+      "pressScore": 2.8,
+      "pressReviews": 12,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=289867.html",
+      "allocineId": "289867"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Tommy Guns",
+      "releaseDate": "2026-07-29",
+      "actors": [
+        "João Luís Arrais"
+      ],
+      "knownActors": [],
+      "pressScore": 3.2,
+      "pressReviews": 12,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=306166.html",
+      "allocineId": "306166"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Danser pour Exister",
+      "releaseDate": "2026-07-31",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051460.html",
+      "allocineId": "1000051460"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Lost in Territories",
+      "releaseDate": "2026-07-29",
+      "actors": [
+        "Tomer Barash"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043299.html",
+      "allocineId": "1000043299"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Fille dans les nuages",
+      "releaseDate": "2026-07-22",
+      "actors": [
+        "Louane Emera"
+      ],
+      "knownActors": [],
+      "pressScore": 3.2,
+      "pressReviews": 13,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=320561.html",
+      "allocineId": "320561"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Sous le ciel de Kyoto",
+      "releaseDate": "2026-07-22",
+      "actors": [
+        "Riku Hagiwara"
+      ],
+      "knownActors": [],
+      "pressScore": 3.2,
+      "pressReviews": 19,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014327.html",
+      "allocineId": "1000014327"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Charlie et les kangourous",
+      "releaseDate": "2026-07-22",
+      "actors": [
+        "Lily Whiteley"
+      ],
+      "knownActors": [],
+      "pressScore": 2.8,
+      "pressReviews": 9,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003105.html",
+      "allocineId": "1000003105"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Nightborn",
+      "releaseDate": "2026-07-22",
+      "actors": [
+        "Seidi Haarla"
+      ],
+      "knownActors": [],
+      "pressScore": 3.1,
+      "pressReviews": 19,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328440.html",
+      "allocineId": "328440"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Vacances de Golo & Ritchie",
+      "releaseDate": "2026-07-22",
+      "actors": [
+        "Golo"
+      ],
+      "knownActors": [],
+      "pressScore": 3.0,
+      "pressReviews": 13,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044689.html",
+      "allocineId": "1000044689"
+    }
+  ]
 }

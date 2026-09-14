@@ -687,7 +687,7 @@
           "sheet": "02 - Films",
           "table": "FilmsCultes",
           "file": "data/cinema/films-part-009.json",
-          "recordCount": 151,
+          "recordCount": 182,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut",
@@ -832,9 +832,15 @@
           "file": "data/tech/configurations-pc.json",
           "recordCount": 54,
           "idColumn": "ID",
-          "preserveColumns": ["Possédé ?", "Prix trouvé (€)", "Commentaire perso"],
+          "preserveColumns": [
+            "Possédé ?",
+            "Prix trouvé (€)",
+            "Commentaire perso"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Possédé ?": "☐ Non"}
+          "defaultPersonalValues": {
+            "Possédé ?": "☐ Non"
+          }
         },
         {
           "sheet": "04 - Composants PC",
@@ -842,9 +848,24 @@
           "file": "data/tech/composants-pc.json",
           "recordCount": 50,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "05 - Ordinateurs",
@@ -852,9 +873,24 @@
           "file": "data/tech/ordinateurs.json",
           "recordCount": 28,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "06 - Mobiles & wearables",
@@ -862,9 +898,24 @@
           "file": "data/tech/mobiles-wearables.json",
           "recordCount": 36,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "07 - Écrans & projection",
@@ -872,9 +923,24 @@
           "file": "data/tech/ecrans-projection.json",
           "recordCount": 30,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "08 - Audio",
@@ -882,9 +948,24 @@
           "file": "data/tech/audio.json",
           "recordCount": 32,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "09 - Gaming & VR",
@@ -892,9 +973,24 @@
           "file": "data/tech/gaming-vr.json",
           "recordCount": 32,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "10 - Photo vidéo drones",
@@ -902,9 +998,24 @@
           "file": "data/tech/photo-video-drones.json",
           "recordCount": 34,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "11 - Réseau & stockage",
@@ -912,9 +1023,24 @@
           "file": "data/tech/reseau-stockage.json",
           "recordCount": 32,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "12 - Maison connectée",
@@ -922,9 +1048,24 @@
           "file": "data/tech/maison-connectee.json",
           "recordCount": 34,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "13 - Bureau & accessoires",
@@ -932,9 +1073,24 @@
           "file": "data/tech/bureau-accessoires.json",
           "recordCount": 36,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "14 - Makers & énergie",
@@ -942,9 +1098,24 @@
           "file": "data/tech/makers-energie.json",
           "recordCount": 28,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "15 - Mobilité & auto",
@@ -952,9 +1123,24 @@
           "file": "data/tech/mobilite-auto.json",
           "recordCount": 24,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Budget perso (€)", "Prix trouvé (€)", "Favori", "Possédé", "Note perso /10", "Commentaire perso"],
-          "formulaColumns": ["Score global /10", "Écart au bon prix (€)"],
-          "defaultPersonalValues": {"Statut perso": "☐ À étudier", "Favori": "☆ Non", "Possédé": "☐ Non"}
+          "preserveColumns": [
+            "Statut perso",
+            "Budget perso (€)",
+            "Prix trouvé (€)",
+            "Favori",
+            "Possédé",
+            "Note perso /10",
+            "Commentaire perso"
+          ],
+          "formulaColumns": [
+            "Score global /10",
+            "Écart au bon prix (€)"
+          ],
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À étudier",
+            "Favori": "☆ Non",
+            "Possédé": "☐ Non"
+          }
         },
         {
           "sheet": "16 - Sources & méthode",
@@ -984,9 +1170,21 @@
           "file": "data/activites/cabourg.json",
           "recordCount": 74,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "preserveColumns": [
+            "Statut perso",
+            "Favori",
+            "Fait",
+            "Date prévue",
+            "Note perso /10",
+            "Avec qui",
+            "Commentaire perso"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À découvrir",
+            "Favori": "☆ Non",
+            "Fait": "☐ Non"
+          }
         },
         {
           "sheet": "Paris",
@@ -994,9 +1192,21 @@
           "file": "data/activites/paris.json",
           "recordCount": 100,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "preserveColumns": [
+            "Statut perso",
+            "Favori",
+            "Fait",
+            "Date prévue",
+            "Note perso /10",
+            "Avec qui",
+            "Commentaire perso"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À découvrir",
+            "Favori": "☆ Non",
+            "Fait": "☐ Non"
+          }
         },
         {
           "sheet": "Orsay",
@@ -1004,9 +1214,21 @@
           "file": "data/activites/orsay.json",
           "recordCount": 55,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "preserveColumns": [
+            "Statut perso",
+            "Favori",
+            "Fait",
+            "Date prévue",
+            "Note perso /10",
+            "Avec qui",
+            "Commentaire perso"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À découvrir",
+            "Favori": "☆ Non",
+            "Fait": "☐ Non"
+          }
         },
         {
           "sheet": "Mende",
@@ -1014,9 +1236,21 @@
           "file": "data/activites/mende.json",
           "recordCount": 65,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "preserveColumns": [
+            "Statut perso",
+            "Favori",
+            "Fait",
+            "Date prévue",
+            "Note perso /10",
+            "Avec qui",
+            "Commentaire perso"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À découvrir",
+            "Favori": "☆ Non",
+            "Fait": "☐ Non"
+          }
         },
         {
           "sheet": "Saint-Cyprien",
@@ -1024,9 +1258,21 @@
           "file": "data/activites/saint-cyprien.json",
           "recordCount": 77,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "preserveColumns": [
+            "Statut perso",
+            "Favori",
+            "Fait",
+            "Date prévue",
+            "Note perso /10",
+            "Avec qui",
+            "Commentaire perso"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À découvrir",
+            "Favori": "☆ Non",
+            "Fait": "☐ Non"
+          }
         },
         {
           "sheet": "Boulouris",
@@ -1034,9 +1280,21 @@
           "file": "data/activites/boulouris.json",
           "recordCount": 82,
           "idColumn": "ID",
-          "preserveColumns": ["Statut perso", "Favori", "Fait", "Date prévue", "Note perso /10", "Avec qui", "Commentaire perso"],
+          "preserveColumns": [
+            "Statut perso",
+            "Favori",
+            "Fait",
+            "Date prévue",
+            "Note perso /10",
+            "Avec qui",
+            "Commentaire perso"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Statut perso": "☐ À découvrir", "Favori": "☆ Non", "Fait": "☐ Non"}
+          "defaultPersonalValues": {
+            "Statut perso": "☐ À découvrir",
+            "Favori": "☆ Non",
+            "Fait": "☐ Non"
+          }
         }
       ]
     },
@@ -1056,9 +1314,20 @@
           "file": "data/english/diagnostic.json",
           "recordCount": 60,
           "idColumn": "ID",
-          "preserveColumns": ["Your answer", "Status", "Notes"],
-          "formulaColumns": ["Result", "Points"],
-          "defaultPersonalValues": {"Your answer": "", "Status": "☐ Not started", "Notes": ""}
+          "preserveColumns": [
+            "Your answer",
+            "Status",
+            "Notes"
+          ],
+          "formulaColumns": [
+            "Result",
+            "Points"
+          ],
+          "defaultPersonalValues": {
+            "Your answer": "",
+            "Status": "☐ Not started",
+            "Notes": ""
+          }
         },
         {
           "sheet": "02 - Parcours 16 sem.",
@@ -1066,9 +1335,21 @@
           "file": "data/english/path.json",
           "recordCount": 80,
           "idColumn": "ID",
-          "preserveColumns": ["Status", "Planned date", "Completed date", "Score", "Notes"],
+          "preserveColumns": [
+            "Status",
+            "Planned date",
+            "Completed date",
+            "Score",
+            "Notes"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Status": "☐ Not started", "Planned date": "", "Completed date": "", "Score": "", "Notes": ""}
+          "defaultPersonalValues": {
+            "Status": "☐ Not started",
+            "Planned date": "",
+            "Completed date": "",
+            "Score": "",
+            "Notes": ""
+          }
         },
         {
           "sheet": "03 - Missions",
@@ -1076,9 +1357,19 @@
           "file": "data/english/missions.json",
           "recordCount": 120,
           "idColumn": "ID",
-          "preserveColumns": ["Status", "Date", "Score", "Reflection"],
+          "preserveColumns": [
+            "Status",
+            "Date",
+            "Score",
+            "Reflection"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Status": "☐ Not started", "Date": "", "Score": "", "Reflection": ""}
+          "defaultPersonalValues": {
+            "Status": "☐ Not started",
+            "Date": "",
+            "Score": "",
+            "Reflection": ""
+          }
         },
         {
           "sheet": "04 - Business English",
@@ -1086,9 +1377,19 @@
           "file": "data/english/business.json",
           "recordCount": 88,
           "idColumn": "ID",
-          "preserveColumns": ["Mastery", "Last review", "Personal example"],
-          "formulaColumns": ["Next review"],
-          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Personal example": ""}
+          "preserveColumns": [
+            "Mastery",
+            "Last review",
+            "Personal example"
+          ],
+          "formulaColumns": [
+            "Next review"
+          ],
+          "defaultPersonalValues": {
+            "Mastery": 0,
+            "Last review": "",
+            "Personal example": ""
+          }
         },
         {
           "sheet": "05 - Cyber & Cloud",
@@ -1096,9 +1397,19 @@
           "file": "data/english/cyber-cloud.json",
           "recordCount": 117,
           "idColumn": "ID",
-          "preserveColumns": ["Mastery", "Last review", "Personal example"],
-          "formulaColumns": ["Next review"],
-          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Personal example": ""}
+          "preserveColumns": [
+            "Mastery",
+            "Last review",
+            "Personal example"
+          ],
+          "formulaColumns": [
+            "Next review"
+          ],
+          "defaultPersonalValues": {
+            "Mastery": 0,
+            "Last review": "",
+            "Personal example": ""
+          }
         },
         {
           "sheet": "06 - Email Lab",
@@ -1106,9 +1417,21 @@
           "file": "data/english/email-lab.json",
           "recordCount": 48,
           "idColumn": "ID",
-          "preserveColumns": ["Status", "Personal draft", "Score", "Date", "Notes"],
+          "preserveColumns": [
+            "Status",
+            "Personal draft",
+            "Score",
+            "Date",
+            "Notes"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Status": "☐ Not started", "Personal draft": "", "Score": "", "Date": "", "Notes": ""}
+          "defaultPersonalValues": {
+            "Status": "☐ Not started",
+            "Personal draft": "",
+            "Score": "",
+            "Date": "",
+            "Notes": ""
+          }
         },
         {
           "sheet": "07 - Meetings & Neg.",
@@ -1116,9 +1439,19 @@
           "file": "data/english/meetings.json",
           "recordCount": 74,
           "idColumn": "ID",
-          "preserveColumns": ["Status", "Score", "Date", "Notes"],
+          "preserveColumns": [
+            "Status",
+            "Score",
+            "Date",
+            "Notes"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Status": "☐ Not started", "Score": "", "Date": "", "Notes": ""}
+          "defaultPersonalValues": {
+            "Status": "☐ Not started",
+            "Score": "",
+            "Date": "",
+            "Notes": ""
+          }
         },
         {
           "sheet": "08 - Presentations",
@@ -1126,9 +1459,19 @@
           "file": "data/english/presentations.json",
           "recordCount": 41,
           "idColumn": "ID",
-          "preserveColumns": ["Status", "Date", "Score", "Notes"],
+          "preserveColumns": [
+            "Status",
+            "Date",
+            "Score",
+            "Notes"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Status": "☐ Not started", "Date": "", "Score": "", "Notes": ""}
+          "defaultPersonalValues": {
+            "Status": "☐ Not started",
+            "Date": "",
+            "Score": "",
+            "Notes": ""
+          }
         },
         {
           "sheet": "09 - Grammar Precision",
@@ -1136,9 +1479,20 @@
           "file": "data/english/grammar.json",
           "recordCount": 50,
           "idColumn": "ID",
-          "preserveColumns": ["Your answer", "Status", "Notes"],
-          "formulaColumns": ["Result", "Points"],
-          "defaultPersonalValues": {"Your answer": "", "Status": "☐ Not started", "Notes": ""}
+          "preserveColumns": [
+            "Your answer",
+            "Status",
+            "Notes"
+          ],
+          "formulaColumns": [
+            "Result",
+            "Points"
+          ],
+          "defaultPersonalValues": {
+            "Your answer": "",
+            "Status": "☐ Not started",
+            "Notes": ""
+          }
         },
         {
           "sheet": "10 - Collocations",
@@ -1146,9 +1500,19 @@
           "file": "data/english/collocations.json",
           "recordCount": 86,
           "idColumn": "ID",
-          "preserveColumns": ["Mastery", "Last review", "Personal example"],
-          "formulaColumns": ["Next review"],
-          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Personal example": ""}
+          "preserveColumns": [
+            "Mastery",
+            "Last review",
+            "Personal example"
+          ],
+          "formulaColumns": [
+            "Next review"
+          ],
+          "defaultPersonalValues": {
+            "Mastery": 0,
+            "Last review": "",
+            "Personal example": ""
+          }
         },
         {
           "sheet": "11 - Pronunciation",
@@ -1156,9 +1520,19 @@
           "file": "data/english/pronunciation.json",
           "recordCount": 68,
           "idColumn": "ID",
-          "preserveColumns": ["Mastery", "Last review", "Recording note"],
-          "formulaColumns": ["Next review"],
-          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Recording note": ""}
+          "preserveColumns": [
+            "Mastery",
+            "Last review",
+            "Recording note"
+          ],
+          "formulaColumns": [
+            "Next review"
+          ],
+          "defaultPersonalValues": {
+            "Mastery": 0,
+            "Last review": "",
+            "Recording note": ""
+          }
         },
         {
           "sheet": "12 - Reading & Listening",
@@ -1166,9 +1540,19 @@
           "file": "data/english/resources.json",
           "recordCount": 48,
           "idColumn": "ID",
-          "preserveColumns": ["Status", "Score", "Date", "Notes"],
+          "preserveColumns": [
+            "Status",
+            "Score",
+            "Date",
+            "Notes"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Status": "☐ Not started", "Score": "", "Date": "", "Notes": ""}
+          "defaultPersonalValues": {
+            "Status": "☐ Not started",
+            "Score": "",
+            "Date": "",
+            "Notes": ""
+          }
         },
         {
           "sheet": "13 - Speaking & Writing",
@@ -1176,9 +1560,19 @@
           "file": "data/english/speaking-writing.json",
           "recordCount": 80,
           "idColumn": "ID",
-          "preserveColumns": ["Status", "Date", "Score", "Feedback"],
+          "preserveColumns": [
+            "Status",
+            "Date",
+            "Score",
+            "Feedback"
+          ],
           "formulaColumns": [],
-          "defaultPersonalValues": {"Status": "☐ Not started", "Date": "", "Score": "", "Feedback": ""}
+          "defaultPersonalValues": {
+            "Status": "☐ Not started",
+            "Date": "",
+            "Score": "",
+            "Feedback": ""
+          }
         },
         {
           "sheet": "14 - Tests",
@@ -1186,9 +1580,18 @@
           "file": "data/english/tests.json",
           "recordCount": 120,
           "idColumn": "ID",
-          "preserveColumns": ["Your answer", "Status"],
-          "formulaColumns": ["Result", "Points"],
-          "defaultPersonalValues": {"Your answer": "", "Status": "☐ Not started"}
+          "preserveColumns": [
+            "Your answer",
+            "Status"
+          ],
+          "formulaColumns": [
+            "Result",
+            "Points"
+          ],
+          "defaultPersonalValues": {
+            "Your answer": "",
+            "Status": "☐ Not started"
+          }
         },
         {
           "sheet": "15 - Corrections",
@@ -1206,9 +1609,23 @@
           "file": "data/english/srs.json",
           "recordCount": 220,
           "idColumn": "ID",
-          "preserveColumns": ["Mastery", "Last review", "Review answer", "Confidence", "Notes"],
-          "formulaColumns": ["Next review"],
-          "defaultPersonalValues": {"Mastery": 0, "Last review": "", "Review answer": "", "Confidence": "", "Notes": ""}
+          "preserveColumns": [
+            "Mastery",
+            "Last review",
+            "Review answer",
+            "Confidence",
+            "Notes"
+          ],
+          "formulaColumns": [
+            "Next review"
+          ],
+          "defaultPersonalValues": {
+            "Mastery": 0,
+            "Last review": "",
+            "Review answer": "",
+            "Confidence": "",
+            "Notes": ""
+          }
         },
         {
           "sheet": "18 - Sources & methode",

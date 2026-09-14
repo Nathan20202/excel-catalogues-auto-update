@@ -1,0 +1,2877 @@
+{
+  "schemaVersion": 1,
+  "catalog": "cinema-discovery",
+  "entries": {
+    "1000019874": {
+      "allocineId": "1000019874",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019874.html",
+      "title": "Les Contrebandiers",
+      "originalTitle": "The Weight",
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Padraic McKinley",
+      "actors": [
+        "Ethan Hawke"
+      ],
+      "synopsis": "Oregon, 1933. Après la mort de sa femme, Samuel Murphy est arraché à sa fille et envoyé dans un camp de travail impitoyable. Lorsqu’un surveillant sans scrupule lui promet la liber",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:17Z"
+    },
+    "1000043221": {
+      "allocineId": "1000043221",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043221.html",
+      "title": "Si tu penses bien",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Géraldine Nakache",
+      "actors": [
+        "Monia Chokri"
+      ],
+      "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repèr",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:17Z"
+    },
+    "1000018854": {
+      "allocineId": "1000018854",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018854.html",
+      "title": "Resident Evil",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Zach Cregger",
+      "actors": [
+        "Austin Abrams"
+      ],
+      "synopsis": "Bryan, coursier médical, s'engage dans une course effrénée pour survivre, alors qu'autour de lui le monde s'enfonce dans un chaos total.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:18Z"
+    },
+    "317219": {
+      "allocineId": "317219",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=317219.html",
+      "title": "L'Invitation",
+      "originalTitle": "The Invite",
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Olivia Wilde",
+      "actors": [
+        "Seth Rogen"
+      ],
+      "synopsis": "Angela et Joe invitent leurs mystérieux nouveaux voisins du dessus à dîner. La soirée va alors rapidement faire voler en éclats toutes leurs certitudes.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Seth Rogen"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:18Z"
+    },
+    "324014": {
+      "allocineId": "324014",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324014.html",
+      "title": "Histoires De La Nuit",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Léa Mysius",
+      "actors": [
+        "Hafsia Herzi"
+      ],
+      "synopsis": "Nora, Thomas et leur fille Ida vivent dans une ferme isolée avec pour seule voisine, Cristina, une peintre italienne. Alors que tout le monde prépare une soirée d’anniversaire surp",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:19Z"
+    },
+    "1000041095": {
+      "allocineId": "1000041095",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041095.html",
+      "title": "Chien bleu et autres belles histoires de l'école des loisirs",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Dominique Pochat,",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Il était une fois une petite oie à la recherche d’une chaussette verte, un ourson qui avait trouvé un bonnet, un étrange chien au pelage bleu, deux voisins lapins fâchés… et une lé",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:19Z"
+    },
+    "1000014638": {
+      "allocineId": "1000014638",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014638.html",
+      "title": "Sham",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Takashi Miike",
+      "actors": [
+        "Gô Ayano"
+      ],
+      "synopsis": "Seiichi Yabushita, instituteur respecté, est accusé par une mère d’avoir harcelé et humilié son fils. Très vite, la machine s’emballe. Médias, rumeurs, opinion publique : chacun im",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:20Z"
+    },
+    "325076": {
+      "allocineId": "325076",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=325076.html",
+      "title": "La Ligne bleue",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Marie Dumora",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Là-haut, à huit-cents mètres d’altitude, dans la vallée de la Bruche, à Natzwiller, des hommes et des femmes vivaient du tissage, de la culture de l’orge et du seigle, jusqu’à ce q",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:20Z"
+    },
+    "1000023495": {
+      "allocineId": "1000023495",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023495.html",
+      "title": "Ma famille de samouraïs",
+      "originalTitle": "Meu Avô é um Nihonjin",
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Célia Catunda",
+      "actors": [
+        "Justine Hostekint"
+      ],
+      "synopsis": "Sao Paulo, années 1980… Noboru doit préparer pour l’école un exposé sur ses origines japonaises qu’il a toujours cherché à gommer. Il doit alors se tourner vers son grand-père grin",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:21Z"
+    },
+    "1000042891": {
+      "allocineId": "1000042891",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042891.html",
+      "title": "La Vie en relief - Jacques Henri Lartigue",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Denis Gaubert",
+      "actors": [
+        "Luàna Bajrami"
+      ],
+      "synopsis": "Paris, la Belle Epoque. Jacques, un tout jeune photographe amateur, s'avance dans la vie en s'accrochant à son appareil stéréoscopique. Avec lui, il photographie en 3 dimensions to",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Luàna Bajrami"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:21Z"
+    },
+    "26832": {
+      "allocineId": "26832",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=26832.html",
+      "title": "Les Autres",
+      "originalTitle": "The Others",
+      "releaseDate": "2001-12-26",
+      "year": 2001,
+      "duration": null,
+      "genres": [],
+      "director": "Alejandro Amenábar",
+      "actors": [
+        "Nicole Kidman"
+      ],
+      "synopsis": "En 1945, dans une immense demeure victorienne isolée sur l'île de Jersey située au large de la Normandie, vit Grace, une jeune femme pieuse, et ses deux enfants, Anne et Nicholas.",
+      "pressScore": 4.5,
+      "pressReviews": 13,
+      "knownActors": [
+        "Nicole Kidman"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:45:22Z"
+    },
+    "1000046254": {
+      "allocineId": "1000046254",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046254.html",
+      "title": "The Transformers: The Movie 40th Anniversary",
+      "originalTitle": null,
+      "releaseDate": "2026-09-17",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Nelson Shin",
+      "actors": [
+        "Peter Cullen"
+      ],
+      "synopsis": "En 1986, TRANSFORMERS: THE MOVIE est arrivé au cinéma et a changé la franchise à jamais. Lorsqu'Unicron, une menace gigantesque de la taille d'une planète, apparaît, les héros se dressent, les légendes prennent vie et toute une génération est marquée à jamais par CE moment devenu mythique, dont l'impact reste intact aujourd'hui.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Peter Cullen"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:22Z"
+    },
+    "1000045581": {
+      "allocineId": "1000045581",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045581.html",
+      "title": "Le Cygne et l'enfant",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Miyoung Baek",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Ce programme de trois courts métrages de la réalisatrice sud-coréenne Miyoung Baek nous invite à plonger dans son univers poétique et onirique. Les objets du quotidien emportent-il",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:23Z"
+    },
+    "1000014136": {
+      "allocineId": "1000014136",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014136.html",
+      "title": "Maoussi",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Charlotte Schiøler",
+      "actors": [
+        "Moustapha Mbengue"
+      ],
+      "synopsis": "Quand par hasard, Babette est amenée à partager son appartement parisien avec Edo, un réfugié congolais, Maoussi, une souris en fuite, se pointe aussi et chamboule leur quotidien.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:23Z"
+    },
+    "772": {
+      "allocineId": "772",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=772.html",
+      "title": "La Belle et la bête",
+      "originalTitle": null,
+      "releaseDate": "1946-10-29",
+      "year": 1946,
+      "duration": null,
+      "genres": [],
+      "director": "Jean Cocteau",
+      "actors": [
+        "Josette Day"
+      ],
+      "synopsis": "Pour l'offrir à sa fille, le père de la Belle cueille, sans le savoir, une rose appartenant au jardin de la Bête, qui s'en offense. Afin de sauver son père, la Belle accepte de par",
+      "pressScore": 5.0,
+      "pressReviews": 2,
+      "knownActors": [
+        "Josette Day"
+      ],
+      "status": "pending",
+      "reason": "Moins de 3 critiques presse : attente d'un échantillon plus fiable.",
+      "checkedAt": "2026-09-14T17:45:24Z"
+    },
+    "1000043505": {
+      "allocineId": "1000043505",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043505.html",
+      "title": "Maquisards",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Christian Philibert",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Ils avaient vingt ans en 1944 lorsqu’ils prirent le maquis pour libérer le pays sous les ordres du lieutenant Vallier. Quatre-vingts ans plus tard, sept jeunes du même âge sont sél",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:24Z"
+    },
+    "1000043595": {
+      "allocineId": "1000043595",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043595.html",
+      "title": "Une musique à vivre",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Philippe Tabarly",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Dans un monde saturé d’informations, le silence devient  un refuge. Cyprien N’Tsaï, jeune guitariste international, décide de changer sa vie. Il coupe radicalement avec le conformi",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:25Z"
+    },
+    "1000048049": {
+      "allocineId": "1000048049",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048049.html",
+      "title": "Les Vagues dans les yeux",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Samuel Suffren",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Trilogie de court-métrages du réalisateur haïtien Samuel Suffren composée de AGWE (2022,17'), DES REVES EN BATEAUX PAPIERS (2024, 19') et COEUR BLEU (2025, 15').« Mon père rêvait d",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:25Z"
+    },
+    "321354": {
+      "allocineId": "321354",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321354.html",
+      "title": "Festin boréal",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Robert Morin",
+      "actors": [
+        "Robert Morin"
+      ],
+      "synopsis": "Atteint d’une flèche, un orignal échappe à ses poursuivants pour aller mourir loin en forêt et s’offrir en festin à ses congénères. Guêpes, mouches et coléoptères d’abord, puis cor",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:26Z"
+    },
+    "1000051178": {
+      "allocineId": "1000051178",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051178.html",
+      "title": "Horizons de l'Asie Contemporaine",
+      "originalTitle": null,
+      "releaseDate": "2026-09-18",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Padraic McKinley",
+      "actors": [
+        "une sélection élargie à six longs métrages et huit courts métrages",
+        "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
+        "chargés d’histoires et de cultures",
+        "en nous emmenant toujours plus loin au cœur du continent."
+      ],
+      "synopsis": "La deuxième édition du Perspectives Asian Documentary Film Festival aura lieu du 18 au 20 septembre au cinéma du Jeu de Paume.Avec une sélection élargie à six longs métrages et hui",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:26Z"
+    },
+    "1000051176": {
+      "allocineId": "1000051176",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051176.html",
+      "title": "Échos de l'Histoire Asiatique",
+      "originalTitle": null,
+      "releaseDate": "2026-09-18",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Padraic McKinley",
+      "actors": [
+        "une sélection élargie à six longs métrages et huit courts métrages",
+        "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
+        "chargés d’histoires et de cultures",
+        "en nous emmenant toujours plus loin au cœur du continent."
+      ],
+      "synopsis": "La deuxième édition du Perspectives Asian Documentary Film Festival aura lieu du 18 au 20 septembre au cinéma du Jeu de Paume.Avec une sélection élargie à six longs métrages et hui",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:27Z"
+    },
+    "1000049013": {
+      "allocineId": "1000049013",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049013.html",
+      "title": "Daayra",
+      "originalTitle": null,
+      "releaseDate": "2026-09-18",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Meghna Gulzar",
+      "actors": [
+        "Prithviraj Sukumaran"
+      ],
+      "synopsis": "Un récit d’investigation haletant autour d’un acte criminel qui divise profondément la société. Entre réactions opposées, opinions tranchées et zones d’ombre, chacun tente de décou",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:27Z"
+    },
+    "1000049118": {
+      "allocineId": "1000049118",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049118.html",
+      "title": "Hanuman Ansh",
+      "originalTitle": null,
+      "releaseDate": "2026-09-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Vishal Chaturvedi",
+      "actors": [
+        "Shobhinaw Satyaa"
+      ],
+      "synopsis": "Après la disparition de sa mère, un jeune homme se lance dans une quête spirituelle qui le conduira à consacrer sa vie à l’amour, à la compassion et au service des autres, jusqu’à",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:28Z"
+    },
+    "1000018371": {
+      "allocineId": "1000018371",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html",
+      "title": "Changer l'eau des fleurs",
+      "originalTitle": null,
+      "releaseDate": "2026-12-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jean-Pierre Jeunet",
+      "actors": [
+        "Leïla Bekhti"
+      ],
+      "synopsis": "Violette, la quarantaine, est garde-cimetière dans une petite ville de Bourgogne. Son quotidien est rythmé par les confidences des personnes de passage ou habitués du lieu, qui vie",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:28Z"
+    },
+    "1000000085": {
+      "allocineId": "1000000085",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000000085.html",
+      "title": "Heart Of The Beast",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "David Ayer",
+      "actors": [
+        "Brad Pitt"
+      ],
+      "synopsis": "Après un terrible crash d’avion, James Belmont, ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mê",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:29Z"
+    },
+    "1000018384": {
+      "allocineId": "1000018384",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018384.html",
+      "title": "Karma",
+      "originalTitle": null,
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Guillaume Canet",
+      "actors": [
+        "Marion Cotillard"
+      ],
+      "synopsis": "Dans un village au nord de l’Espagne, Jeanne tente de reconstruire sa vie avec Daniel, qui ne connaît rien de son passé trouble. Un jour, Mateo, le filleul de Jeanne âgé de six ans",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:29Z"
+    },
+    "1000007388": {
+      "allocineId": "1000007388",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007388.html",
+      "title": "Notre salut",
+      "originalTitle": null,
+      "releaseDate": "2026-09-30",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Emmanuel Marre",
+      "actors": [
+        "Swann Arlaud"
+      ],
+      "synopsis": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants. Il voit dans la nouvelle admi",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:30Z"
+    },
+    "1000026039": {
+      "allocineId": "1000026039",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026039.html",
+      "title": "Garance",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jeanne Herry",
+      "actors": [
+        "Adèle Exarchopoulos"
+      ],
+      "synopsis": "Garance est une jeune actrice mais qui n’est pas une vedette. Elle gère et assure tout de son mieux, vaillante, joyeuse, soldate, et elle trouve dans l’alcool un carburant, un réco",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:30Z"
+    },
+    "1000004458": {
+      "allocineId": "1000004458",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004458.html",
+      "title": "Pressure",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Anthony Maras",
+      "actors": [
+        "Andrew Scott"
+      ],
+      "synopsis": "Trois jours avant le Jour J, une seule décision peut changer le cours de l’Histoire. Alors que les Alliés s’apprêtent à lancer le plus grand débarquement jamais organisé, une viole",
+      "pressScore": 3.5,
+      "pressReviews": 24,
+      "status": "already-present",
+      "checkedAt": "2026-09-14T17:45:31Z"
+    },
+    "327941": {
+      "allocineId": "327941",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327941.html",
+      "title": "La Vie d'une femme",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Charline Bourgeois-Tacquet",
+      "actors": [
+        "Léa Drucker"
+      ],
+      "synopsis": "Gabrielle se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste",
+      "pressScore": 3.7,
+      "pressReviews": 36,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:31Z"
+    },
+    "323826": {
+      "allocineId": "323826",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323826.html",
+      "title": "Les Héros du Louvre",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Élie Chouraqui",
+      "actors": [
+        "Kad Merad"
+      ],
+      "synopsis": "Paris 1939. Amoureux des arts, Babi Maklouf Benhamou exerce le plus beau métier du monde : il est gardien de nuit au musée du Louvre. Mais alors que la Seconde Guerre mondiale écla",
+      "pressScore": 2.5,
+      "pressReviews": 12,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:32Z"
+    },
+    "1000004679": {
+      "allocineId": "1000004679",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004679.html",
+      "title": "Les Ensorceleuses 2",
+      "originalTitle": "Practical Magic 2",
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Susanne Bier",
+      "actors": [
+        "Nicole Kidman"
+      ],
+      "synopsis": "Les sœurs Owens affrontent la sombre malédiction qui menace de détruire leur famille une fois pour toutes, dans un événement cinématographique mêlant divertissement, magie et chaos",
+      "pressScore": 1.8,
+      "pressReviews": 10,
+      "knownActors": [
+        "Nicole Kidman"
+      ],
+      "status": "rejected",
+      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
+      "checkedAt": "2026-09-14T17:45:33Z"
+    },
+    "319893": {
+      "allocineId": "319893",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=319893.html",
+      "title": "Rose",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Markus Schleinzer",
+      "actors": [
+        "Sandra Hüller"
+      ],
+      "synopsis": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance d",
+      "pressScore": 3.5,
+      "pressReviews": 22,
+      "knownActors": [
+        "Sandra Hüller"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:45:33Z"
+    },
+    "1000012310": {
+      "allocineId": "1000012310",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012310.html",
+      "title": "Adieu monde cruel",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Félix de Givry",
+      "actors": [
+        "Milo Machado-Graner"
+      ],
+      "synopsis": "Otto Vidal, 14 ans, a disparu après avoir adressé une lettre d’adieu aux élèves de sa classe. Alors que tout le monde le croit mort, Léna, une fille de son lycée, le reconnaît une",
+      "pressScore": 3.8,
+      "pressReviews": 30,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:34Z"
+    },
+    "318226": {
+      "allocineId": "318226",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318226.html",
+      "title": "Les Survivants du Che",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Christophe Réveille",
+      "actors": [
+        "Vincent Lindon"
+      ],
+      "synopsis": "Après le triomphe de la Révolution cubaine en 1959, six guérilleros ont suivi Che Guevara dans sa tentative d’étendre le soulèvement au-delà de l’île. En 1967, après leur dernière",
+      "pressScore": 3.5,
+      "pressReviews": 17,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:34Z"
+    },
+    "1000021803": {
+      "allocineId": "1000021803",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021803.html",
+      "title": "Oasis: Don't Look Back In Anger",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Dylan Southern,",
+      "actors": [
+        "Liam Gallagher"
+      ],
+      "synopsis": "Le film suit la tournée de retrouvailles d’Oasis, « Live ’25 » , l’un des retours les plus attendus de la scène rock de ces dernières années. Le film propose une immersion au cœur",
+      "pressScore": 3.1,
+      "pressReviews": 8,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:35Z"
+    },
+    "1000031730": {
+      "allocineId": "1000031730",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031730.html",
+      "title": "Flush",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Grégory Morin (II)",
+      "actors": [
+        "Jonathan Lambert"
+      ],
+      "synopsis": "En entrant dans ce bar, Luc n'a qu'une mission : reconquérir son ex et sauver sa famille. Forcément, se retrouver la tête coincée dans les toilettes après une rencontre avec des de",
+      "pressScore": 3.3,
+      "pressReviews": 13,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:36Z"
+    },
+    "1000021763": {
+      "allocineId": "1000021763",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021763.html",
+      "title": "Billie Melody",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Christine Paillard",
+      "actors": [
+        "Roschdy Zem"
+      ],
+      "synopsis": "Suite à la perte de son père dans un accident aux circonstances troubles, Billie, 14 ans, déménage dans une nouvelle ville avec sa mère et son frère. Alors que ces bouleversements",
+      "pressScore": 2.4,
+      "pressReviews": 14,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:36Z"
+    },
+    "1000027155": {
+      "allocineId": "1000027155",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027155.html",
+      "title": "Hair, Paper, Water...",
+      "originalTitle": "Tóc, giấy và nước...",
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Minh Quý Trương,",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Dans une grotte, il y a plus de soixante ans, Madame Hậu est née. Aujourd'hui, elle vit dans un village avec ses petits-enfants, à qui elle transmet avec amour les savoirs ancestra",
+      "pressScore": 3.6,
+      "pressReviews": 9,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:45:37Z"
+    },
+    "1000030749": {
+      "allocineId": "1000030749",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030749.html",
+      "title": "The Sea",
+      "originalTitle": "Ha'Yam",
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Shai Carmeli-Pollak",
+      "actors": [
+        "Muhammad Gazawi"
+      ],
+      "synopsis": "Khaled (12 ans), un garçon palestinien de Ramallah, est en route pour voir la mer pour la première fois de sa vie. Au point de contrôle, les autorités israéliennes lui refusent l’e",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:37Z"
+    },
+    "1000023324": {
+      "allocineId": "1000023324",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023324.html",
+      "title": "Mandaadi",
+      "originalTitle": null,
+      "releaseDate": "2026-09-10",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Pugazhendhi Mathimaran",
+      "actors": [
+        "Soori"
+      ],
+      "synopsis": "À l'occasion d'un festival sur la côte du Tamil Nadu, un capitaine de pêche affronte plusieurs équipages rivaux dans une course de bateaux traditionnelle. À la tête de son équipe d",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:38Z"
+    },
+    "1000043030": {
+      "allocineId": "1000043030",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043030.html",
+      "title": "Commis d'office",
+      "originalTitle": null,
+      "releaseDate": "2026-09-09",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Stéphane Garrigues",
+      "actors": [
+        "Bing Yin"
+      ],
+      "synopsis": "Daniel Wang, cuisinier asiatique, se fait agresser par Lila, une jeune femme désœuvrée qui tente de lui dérober sa recette. Blessé gravement aux mains pendant l'altercation, Daniel",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:39Z"
+    },
+    "1000019852": {
+      "allocineId": "1000019852",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019852.html",
+      "title": "Trois adieux",
+      "originalTitle": "Tre Ciotole",
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Isabel Coixet",
+      "actors": [
+        "Alba Rohrwacher"
+      ],
+      "synopsis": "Après une dispute sans importance, Marta et Antonio se séparent. Lui, chef en pleine ascension, se réfugie derrière ses fourneaux. Elle, dans son silence, commence à ressentir quel",
+      "pressScore": 3.6,
+      "pressReviews": 25,
+      "knownActors": [
+        "Alba Rohrwacher"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:45:41Z"
+    },
+    "314290": {
+      "allocineId": "314290",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314290.html",
+      "title": "La Frappe",
+      "originalTitle": null,
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Julien Gaspar-Oliveri",
+      "actors": [
+        "Diego Murgia"
+      ],
+      "synopsis": "Enzo, 19 ans et sa soeur Carla, 20 ans, sont livrés à eux-mêmes depuis plusieurs années. Quand leur père, Anthony est libéré de prison, Enzo voit la promesse fragile d’une famille",
+      "pressScore": 3.9,
+      "pressReviews": 30,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:42Z"
+    },
+    "300784": {
+      "allocineId": "300784",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=300784.html",
+      "title": "La Dernière patiente",
+      "originalTitle": null,
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Rémi Bassaler",
+      "actors": [
+        "Anouk Grinberg"
+      ],
+      "synopsis": "La veille de son départ à la retraite, Judith, médecin de banlieue, ouvre la porte de son cabinet à Aïda, enceinte de huit mois et en rupture de soin. Confrontée à un système de sa",
+      "pressScore": 2.9,
+      "pressReviews": 23,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:42Z"
+    },
+    "1000022260": {
+      "allocineId": "1000022260",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022260.html",
+      "title": "Salvation",
+      "originalTitle": "Kurtuluş",
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Emin Alper",
+      "actors": [
+        "Caner Cindoruk"
+      ],
+      "synopsis": "Deux villages turcs, l’un à flanc de montagne, l’autre dans la plaine.Quand les habitants du bas, exilés, décident de revenir sur leurs terres, des conflits ancestraux ressurgissen",
+      "pressScore": 3.6,
+      "pressReviews": 20,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:43Z"
+    },
+    "1000044253": {
+      "allocineId": "1000044253",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044253.html",
+      "title": "Lettres d'amour de ma grand-mère",
+      "originalTitle": "Gei A Ma de Qing Shu",
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Hongchun Lan",
+      "actors": [
+        "Sitong Li"
+      ],
+      "synopsis": "Pendant des décennies, Ye Sogriu a survécu grâce aux lettres et aux mandats que son mari lui envoie depuis la Thaïlande. Lorsque son petit-fils Hiou-ui part sur les traces de son g",
+      "pressScore": 2.9,
+      "pressReviews": 13,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:43Z"
+    },
+    "1000018551": {
+      "allocineId": "1000018551",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018551.html",
+      "title": "The Good Sister",
+      "originalTitle": "Schwesterherz",
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Sarah Miro Fischer",
+      "actors": [
+        "Marie Bloching"
+      ],
+      "synopsis": "Rose est très proche de son frère aîné Sam, qu’elle adore. Lorsqu’une femme accuse Sam de viol, Rose est appelée à témoigner dans le cadre d’une enquête menée à son encontre.",
+      "pressScore": 3.4,
+      "pressReviews": 22,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:44Z"
+    },
+    "1000024164": {
+      "allocineId": "1000024164",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024164.html",
+      "title": "The Holy Boy",
+      "originalTitle": "La valle dei sorrisi",
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Paolo Strippoli",
+      "actors": [
+        "Michele Riondino"
+      ],
+      "synopsis": "Lorsque Sergio, un enseignant hanté par son passé, est muté à Remis, un petit village de montagne réputé pour être le plus heureux d'Italie, l'endroit semble idéal pour prendre un",
+      "pressScore": 3.3,
+      "pressReviews": 14,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:45Z"
+    },
+    "316397": {
+      "allocineId": "316397",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316397.html",
+      "title": "The Opera!",
+      "originalTitle": null,
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Davide Livermore,",
+      "actors": [
+        "Valentino Buzza"
+      ],
+      "synopsis": "A notre époque, Eurydice est tué par balle le jour de son mariage. Orphée, dévasté par la perte de sa bien-aimée, poursuit sa quête pour retrouver son amante jusque dans le Grand H",
+      "pressScore": 1.7,
+      "pressReviews": 11,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:46Z"
+    },
+    "1000034818": {
+      "allocineId": "1000034818",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034818.html",
+      "title": "Gouffres et merveilles",
+      "originalTitle": null,
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jean Boiron Lajous",
+      "actors": [
+        "Christine Dancausse"
+      ],
+      "synopsis": "Le réalisateur propose un road movie à Christine, sa meilleure amie : traverser le sud de la France à la recherche d’une lettre d’adieu laissée par son père – et peut-être d’une fo",
+      "pressScore": 3.5,
+      "pressReviews": 15,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:47Z"
+    },
+    "1000047849": {
+      "allocineId": "1000047849",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047849.html",
+      "title": "Retour avant 15 heures",
+      "originalTitle": null,
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Gaël Lépingle",
+      "actors": [
+        "Serge Renko"
+      ],
+      "synopsis": "C’est un homme et son lieu, le père dans un pavillon de lotissement. C’est après sa mort. On a retrouvé quelque chose. Pas un secret, mais l’envers des jours, consigné avec une pré",
+      "pressScore": 3.8,
+      "pressReviews": 9,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:47Z"
+    },
+    "1000019736": {
+      "allocineId": "1000019736",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019736.html",
+      "title": "Nimrods : A Green Day Comedy",
+      "originalTitle": null,
+      "releaseDate": "2026-09-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Lee Kirk",
+      "actors": [
+        "Mason Thames"
+      ],
+      "synopsis": "L'histoire suit Tommy (Mason Thames), un lycéen qui reçoit un appel l'invitant, avec son groupe, à assurer la première partie de Green Day lors du concert du Nouvel An. Ce qu'il ig",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:48Z"
+    },
+    "1000036604": {
+      "allocineId": "1000036604",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036604.html",
+      "title": "I'm Game",
+      "originalTitle": null,
+      "releaseDate": "2026-09-03",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Nahas Hidayath",
+      "actors": [
+        "Dulquer Salmaan"
+      ],
+      "synopsis": "Un joueur intrépide, qui préfère se fier à la chance plutôt qu’au destin, voit sa vie basculer lorsqu’une série d’événements inattendus l’entraîne dans une aventure mouvementée, pl",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:49Z"
+    },
+    "44148": {
+      "allocineId": "44148",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=44148.html",
+      "title": "Arrebato",
+      "originalTitle": null,
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Iván Zulueta",
+      "actors": [
+        "Eusebio Poncela"
+      ],
+      "synopsis": "Un réalisateur de film d'horreur de troisième zone en panne de créativité, une actrice héroïnomane qui a joué dans ses derniers nanars et un mec vaguement autiste qui capte sa vie",
+      "pressScore": 4.3,
+      "pressReviews": 4,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:49Z"
+    },
+    "1000047486": {
+      "allocineId": "1000047486",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047486.html",
+      "title": "Amour(s)",
+      "originalTitle": null,
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Alice Diop,",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Programme de 3 moyen-métrages.Trois films entre documentaire et fiction réalisés par Alice Diop, Claire Maugendre et Héléna Klotz. Un parcours sensible autour des manières d’aimer,",
+      "pressScore": 3.3,
+      "pressReviews": 4,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:45:50Z"
+    },
+    "1000045609": {
+      "allocineId": "1000045609",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045609.html",
+      "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "originalTitle": null,
+      "releaseDate": "2026-09-03",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Paul Dugdale",
+      "actors": [
+        "Katy Perry"
+      ],
+      "synopsis": "Filmé à l'Accor Arena de Paris lors des concerts à guichets fermés de Katy Perry dans le cadre de sa tournée The Lifetimes Tour en novembre 2025, Katy Perry : The Lifetimes Tour –",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:50Z"
+    },
+    "138263": {
+      "allocineId": "138263",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=138263.html",
+      "title": "Smash Palace",
+      "originalTitle": null,
+      "releaseDate": "2026-09-02",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Roger Donaldson",
+      "actors": [
+        "Bruno Lawrence"
+      ],
+      "synopsis": "En découvrant que sa femme le trompe avec un autre homme, Al Shaw décide de s'enfuir avec sa fille...",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:51Z"
+    },
+    "1000014969": {
+      "allocineId": "1000014969",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014969.html",
+      "title": "The Dog Stars",
+      "originalTitle": null,
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Ridley Scott",
+      "actors": [
+        "Jacob Elordi"
+      ],
+      "synopsis": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu",
+      "pressScore": 2.7,
+      "pressReviews": 29,
+      "knownActors": [
+        "Jacob Elordi"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:45:53Z"
+    },
+    "327993": {
+      "allocineId": "327993",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327993.html",
+      "title": "L'Inconnue",
+      "originalTitle": null,
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Arthur Harari",
+      "actors": [
+        "Léa Seydoux"
+      ],
+      "synopsis": "À bientôt 40 ans, David Zimmerman est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui, des amis le traînent dans une fête insensée. Il y repère",
+      "pressScore": 3.6,
+      "pressReviews": 43,
+      "knownActors": [
+        "Léa Seydoux"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:45:53Z"
+    },
+    "1000039625": {
+      "allocineId": "1000039625",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039625.html",
+      "title": "Dégel",
+      "originalTitle": "El deshielo",
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Manuela Martelli",
+      "actors": [
+        "Maya O’Rourke"
+      ],
+      "synopsis": "Chili, 1992. Le pays reste marqué par des années de dictature. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en station de ski, Inès, 9 ans, se lie d’amitié avec",
+      "pressScore": 3.5,
+      "pressReviews": 26,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:54Z"
+    },
+    "257425": {
+      "allocineId": "257425",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=257425.html",
+      "title": "Tad l'explorateur et la lampe magique",
+      "originalTitle": "Tadeo Jones y la lámpara maravillosa",
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Enrique Gato",
+      "actors": [
+        "Oscar Barberán"
+      ],
+      "synopsis": "Tad et Sara sont désormais les heureux parents d’Oli, une adorable et intrépide petite fille de deux ans. Le bonheur de la petite famille fait un peu de l’ombre à Momie, qui a l’im",
+      "pressScore": 3.2,
+      "pressReviews": 13,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:54Z"
+    },
+    "1000032278": {
+      "allocineId": "1000032278",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032278.html",
+      "title": "Face à la mer",
+      "originalTitle": "On The Sea",
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Helen Walsh",
+      "actors": [
+        "Barry Ward"
+      ],
+      "synopsis": "Jack est marié à Maggie depuis plus de la moitié de sa vie. Il travaille comme ramasseur de moules dans les bancs du nord du Pays de Galles avec son jeune frère, Dyfan, et ses troi",
+      "pressScore": 2.8,
+      "pressReviews": 12,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:55Z"
+    },
+    "318365": {
+      "allocineId": "318365",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318365.html",
+      "title": "Decorado",
+      "originalTitle": null,
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Alberto Vázquez (II)",
+      "actors": [
+        "Asier Hormaza"
+      ],
+      "synopsis": "Arnold, une souris de la classe moyenne au chômage, traverse une crise existentielle profonde. Il vit dans une ville ou l’entreprise ultralibérale A.L.M.A. dirige tout ; abrutissan",
+      "pressScore": 3.5,
+      "pressReviews": 19,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:55Z"
+    },
+    "321617": {
+      "allocineId": "321617",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=321617.html",
+      "title": "Bombonera",
+      "originalTitle": null,
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Syrine Boulanouar",
+      "actors": [
+        "Soufiane Guerrab"
+      ],
+      "synopsis": "Enzo, sans domicile, enchaîne les arnaques sur le dos de jeunes prodiges du ballon. Lors de la sélection des joueurs en vue d’un important tournoi de streetfoot dans son stade, il",
+      "pressScore": 3.0,
+      "pressReviews": 6,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:56Z"
+    },
+    "1000028076": {
+      "allocineId": "1000028076",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028076.html",
+      "title": "Memory Of Princess Mumbi",
+      "originalTitle": null,
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Damien Hauser",
+      "actors": [
+        "Shandra Apondi"
+      ],
+      "synopsis": "En 2093, le cinéaste Kuve se rend à Umata pour filmer un documentaire sur la Grande Guerre des années 2070, qui a effacé les technologies modernes et fait renaître d'anciens royaum",
+      "pressScore": 3.7,
+      "pressReviews": 9,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:56Z"
+    },
+    "1000029051": {
+      "allocineId": "1000029051",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029051.html",
+      "title": "New Group",
+      "originalTitle": null,
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Yûta Shimotsu",
+      "actors": [
+        "Anna Yamada"
+      ],
+      "synopsis": "Dans un lycée gagné par une étrange ferveur sectaire qui pousse les étudiants à former une immense pyramide humaine collective, Ai et Yu refusent de se joindre au mouvement. Leur r",
+      "pressScore": 3.3,
+      "pressReviews": 6,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:45:57Z"
+    },
+    "324492": {
+      "allocineId": "324492",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324492.html",
+      "title": "Toxic - A Fairy Tale for Grown-Ups",
+      "originalTitle": "Toxic",
+      "releaseDate": "2026-08-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Geethu Mohandas,",
+      "actors": [
+        "Yash"
+      ],
+      "synopsis": "Dans le Goa d’une époque révolue, un puissant cartel de la drogue tire les ficelles derrière les plages paradisiaques et l’atmosphère animée de la région. Au cœur de cet univers so",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:58Z"
+    },
+    "1000050408": {
+      "allocineId": "1000050408",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050408.html",
+      "title": "Once More",
+      "originalTitle": null,
+      "releaseDate": "2026-08-28",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Vignesh Srikanth",
+      "actors": [
+        "Arjun Das"
+      ],
+      "synopsis": "Raghu croyait ne plus jamais pouvoir aimer. Mais Anjali va lui prouver que le cœur, même brisé, sait toujours trouver une seconde chance.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:59Z"
+    },
+    "1000049021": {
+      "allocineId": "1000049021",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049021.html",
+      "title": "GHOST: 2 Big To Rig",
+      "originalTitle": null,
+      "releaseDate": "2026-08-27",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Amir Juan Chamdin",
+      "actors": [
+        "les seules images captées par des caméras professionnelles de Papa V Perpetua et de son groupe de Nameless Ghouls lors du SKELETOUR",
+        "où les téléphones étaient interdits",
+        "2 BIG TO RIG plonge les spectateurs au cœur du rituel live de GHOST."
+      ],
+      "synopsis": "Filmé lors des deux concerts à guichets fermés de GHOST à Mexico l'an dernier, 2 BIG TO RIG est le témoignage de l'inoubliable SKELETOUR WORLD TOUR du groupe.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:45:59Z"
+    },
+    "147956": {
+      "allocineId": "147956",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=147956.html",
+      "title": "Bleach : The DiamondDust Rebellion",
+      "originalTitle": "Gekijô ban Bleach: The DiamondDust Rebellion - Mô hitotsu no hyôrinmaru",
+      "releaseDate": "2026-08-28",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Noriyuki Abe",
+      "actors": [
+        "Masakazu Morita"
+      ],
+      "synopsis": "Revivez sur grand écran l’intégralité des films de la saga Bleach ayant marqué toute une génération ! Les 28 et 30 août, ADN vous donne rendez-vous pour un marathon cinéma exceptio",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Masakazu Morita"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:00Z"
+    },
+    "224258": {
+      "allocineId": "224258",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=224258.html",
+      "title": "Bleach - Le Film 4 : Hell Verse",
+      "originalTitle": "Gekijouban Bleach: Jigokuhen",
+      "releaseDate": "2026-08-28",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Noriyuki Abe",
+      "actors": [
+        "Masakazu Morita"
+      ],
+      "synopsis": "Revivez sur grand écran l’intégralité des films de la saga Bleach ayant marqué toute une génération ! Les 28 et 30 août, ADN vous donne rendez-vous pour un marathon cinéma exceptio",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Masakazu Morita"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:00Z"
+    },
+    "135076": {
+      "allocineId": "135076",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=135076.html",
+      "title": "Bleach : Memories of Nobody",
+      "originalTitle": "Bleach: Memories of Nobody",
+      "releaseDate": "2026-08-28",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Noriyuki Abe",
+      "actors": [
+        "Masakazu Morita"
+      ],
+      "synopsis": "Revivez sur grand écran l’intégralité des films de la saga Bleach ayant marqué toute une génération ! Les 28 et 30 août, ADN vous donne rendez-vous pour un marathon cinéma exceptio",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Masakazu Morita"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:01Z"
+    },
+    "148223": {
+      "allocineId": "148223",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=148223.html",
+      "title": "Bleach : Fade to Black",
+      "originalTitle": "Gekijō-ban Burīchi: Feido to~u Burakku Kimi no Na o Yobu",
+      "releaseDate": "2026-08-28",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Noriyuki Abe",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Revivez sur grand écran l’intégralité des films de la saga Bleach ayant marqué toute une génération ! Les 28 et 30 août, ADN vous donne rendez-vous pour un marathon cinéma exceptio",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:02Z"
+    },
+    "188280": {
+      "allocineId": "188280",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=188280.html",
+      "title": "Fjord",
+      "originalTitle": null,
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Cristian Mungiu",
+      "actors": [
+        "Sebastian Stan"
+      ],
+      "synopsis": "Les Gheorghiu, un couple roumano-norvégien très pieux, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins, les Halberg. Les enfa",
+      "pressScore": 3.9,
+      "pressReviews": 41,
+      "knownActors": [
+        "Sebastian Stan"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:46:02Z"
+    },
+    "316021": {
+      "allocineId": "316021",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316021.html",
+      "title": "Oklahoma Honey",
+      "originalTitle": "The Rivals of Amziah King",
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Andrew Patterson (I)",
+      "actors": [
+        "Matthew McConaughey"
+      ],
+      "synopsis": "Au cœur des terres reculées de l’Oklahoma rural, Amziah King, personnage charismatique au talent musical hors du commun, veille sur une bande de marginaux passionnés de bluegrass t",
+      "pressScore": 3.4,
+      "pressReviews": 32,
+      "knownActors": [
+        "Matthew McConaughey"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:46:03Z"
+    },
+    "1000002942": {
+      "allocineId": "1000002942",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002942.html",
+      "title": "Mutiny",
+      "originalTitle": null,
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jean-François Richet",
+      "actors": [
+        "Jason Statham"
+      ],
+      "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il",
+      "pressScore": 2.1,
+      "pressReviews": 7,
+      "knownActors": [
+        "Jason Statham"
+      ],
+      "status": "rejected",
+      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
+      "checkedAt": "2026-09-14T17:46:04Z"
+    },
+    "1000016503": {
+      "allocineId": "1000016503",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016503.html",
+      "title": "Insidious : l'invasion du lointain",
+      "originalTitle": "Insidious: Out of the Further",
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jacob Chase",
+      "actors": [
+        "Amelia Eve"
+      ],
+      "synopsis": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers",
+      "pressScore": 2.0,
+      "pressReviews": 3,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:04Z"
+    },
+    "1000033718": {
+      "allocineId": "1000033718",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033718.html",
+      "title": "La Nirvana",
+      "originalTitle": null,
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Hakim Bougheraba",
+      "actors": [
+        "Ichem Bougheraba"
+      ],
+      "synopsis": "Jean, agriculteur en faillite, s’apprête à commettre l’irréparable quand Foued, jeune de cité en cavale, encastre son 4×4 rempli de cannabis dans sa grange, lui sauvant la vie. Pan",
+      "pressScore": 2.3,
+      "pressReviews": 7,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:05Z"
+    },
+    "308394": {
+      "allocineId": "308394",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=308394.html",
+      "title": "Paradise",
+      "originalTitle": null,
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jérémy Comte",
+      "actors": [
+        "Daniel Atsu Hukporti"
+      ],
+      "synopsis": "Au Ghana, Kojo, adolescent marqué par la disparition de son père en mer, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps, au Québec, T",
+      "pressScore": 3.3,
+      "pressReviews": 18,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:05Z"
+    },
+    "1000022452": {
+      "allocineId": "1000022452",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022452.html",
+      "title": "La Fille Condor",
+      "originalTitle": "La hija cóndor",
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Alvaro Olmos Torrico",
+      "actors": [
+        "María Magdalena Sanizo"
+      ],
+      "synopsis": "Clara est une doula quechua qui chante pour apaiser la douleur des femmes enceintes. Sa mère Ana, sage-femme chevronnée, considère ce don comme un miracle. Influencée par une amie,",
+      "pressScore": 3.4,
+      "pressReviews": 19,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:06Z"
+    },
+    "1000022217": {
+      "allocineId": "1000022217",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022217.html",
+      "title": "Marius et le Royaume des mers",
+      "originalTitle": "Ruffen - Sjøormen som ikke kunne svømme",
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Endre Skandfer",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Au beau milieu de l’océan se cache une île merveilleuse peuplée de serpents de mer. Parmi eux vit Marius, qui n’est pas tout à fait comme les autres : il ne sait pas nager ! Mais l",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:06Z"
+    },
+    "1000037432": {
+      "allocineId": "1000037432",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037432.html",
+      "title": "La Providence et la Guitare",
+      "originalTitle": "A Providência e a Guitarra",
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "João Nicolau",
+      "actors": [
+        "Pedro Inês"
+      ],
+      "synopsis": "Dans un passé lointain, Léon et Elvira Berthelini parcourent les routes de village en village, vivant de chansons, de spectacles et se nourrissant d’illusions. Chassés d’une petite",
+      "pressScore": 2.7,
+      "pressReviews": 10,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:08Z"
+    },
+    "121982": {
+      "allocineId": "121982",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=121982.html",
+      "title": "Lost Paradise",
+      "originalTitle": "Shitsurakuen",
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Yoshimitsu Morita",
+      "actors": [
+        "Koji Yakusho"
+      ],
+      "synopsis": "Dans un Japon en pleine mutation économique, un rédacteur en chef mis au placard et une calligraphe entretiennent une relation adultère parsemée d’obstacles.  Ils vivront jusqu’au",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:08Z"
+    },
+    "316499": {
+      "allocineId": "316499",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316499.html",
+      "title": "The Black House",
+      "originalTitle": "Kuroi ie",
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Yoshimitsu Morita",
+      "actors": [
+        "Seiyô Uchino"
+      ],
+      "synopsis": "Un agent d’assurance de la compagnie Showa reçoit un appel d’une cliente qui projette de se suicider et qui aimerait savoir si sa police couvre ce cas de figure. Ne pouvant se rési",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:09Z"
+    },
+    "1000037129": {
+      "allocineId": "1000037129",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037129.html",
+      "title": "South Bound",
+      "originalTitle": "Sausu baundo",
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Yoshimitsu Morita",
+      "actors": [
+        "Etsushi Toyokawa"
+      ],
+      "synopsis": "Pour oublier son passé sulfureux, un ancien syndicaliste nostalgique des barricades déménage avec sa famille sur une île perdue d’Okinawa. La modernité a tôt fait de l’y rattraper,",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:09Z"
+    },
+    "1000030962": {
+      "allocineId": "1000030962",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030962.html",
+      "title": "Que Ton Règne Vienne - Une histoire du satanisme en France",
+      "originalTitle": null,
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Mathias Averty",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Pour combattre l’angoisse qui le hante jour et nuit, un jeune musicien décide d’explorer sa part d'ombre. Une quête initiatique qui va le mener sur les traces du satanisme en Franc",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:10Z"
+    },
+    "1000010367": {
+      "allocineId": "1000010367",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010367.html",
+      "title": "Main Theme",
+      "originalTitle": "Mein têma",
+      "releaseDate": "2026-08-19",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Yoshimitsu Morita",
+      "actors": [
+        "Hiroko Yakushimaru"
+      ],
+      "synopsis": "Renvoyée de son école maternelle, Shibuki part à Osaka retrouver Wataru, le père du fils qui était son élève, et avec lequel elle s’est liée d’amitié. Il la recrute pour s’occuper",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:10Z"
+    },
+    "1000033875": {
+      "allocineId": "1000033875",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033875.html",
+      "title": "Khalifa",
+      "originalTitle": null,
+      "releaseDate": "2026-08-20",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Vysakh",
+      "actors": [
+        "Prithviraj Sukumaran"
+      ],
+      "synopsis": "Un homme se retrouve entraîné dans un univers complexe de vengeance, d’héritage et d’influence, sur fond de trafic d’or.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:11Z"
+    },
+    "1000049968": {
+      "allocineId": "1000049968",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049968.html",
+      "title": "Modha Rathiri",
+      "originalTitle": null,
+      "releaseDate": "2026-08-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Raja Karuppasamy",
+      "actors": [
+        "Rishikanth"
+      ],
+      "synopsis": "Deux inconnus se retrouvent réunis lors d’un mariage aussi inattendu qu’insolite. Au fil d’une nuit mouvementée, les surprises s’enchaînent, les mensonges se dévoilent et la situat",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:12Z"
+    },
+    "1000040592": {
+      "allocineId": "1000040592",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040592.html",
+      "title": "Irumudi",
+      "originalTitle": null,
+      "releaseDate": "2026-08-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Shiva Nirvana",
+      "actors": [
+        "Ravi Teja"
+      ],
+      "synopsis": "Un père alcoolique au passé violent mène une vie paisible avec sa fille près d’une cascade. À la demande de celle-ci, il entreprend l’Ayyappa Deeksha, un voyage spirituel qui le co",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:12Z"
+    },
+    "1000024105": {
+      "allocineId": "1000024105",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024105.html",
+      "title": "Soudain",
+      "originalTitle": "All Of A Sudden",
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Ryūsuke Hamaguchi",
+      "actors": [
+        "Virginie Efira"
+      ],
+      "synopsis": "Directrice d'un établissement pour personnes âgées, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents, malgré la rétic",
+      "pressScore": 4.3,
+      "pressReviews": 37,
+      "knownActors": [
+        "Virginie Efira"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:46:13Z"
+    },
+    "1000032856": {
+      "allocineId": "1000032856",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032856.html",
+      "title": "Tombé du ciel",
+      "originalTitle": null,
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Mohamed Hamidi",
+      "actors": [
+        "Ilyes Djadel"
+      ],
+      "synopsis": "Ilyes mène une vie joyeuse dans la banlieue de Roubaix. Seul problème : le bac. Après avoir échoué deux fois, c’est sa dernière chance de l’avoir et de rendre enfin fier ses parent",
+      "pressScore": 2.6,
+      "pressReviews": 7,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:13Z"
+    },
+    "314503": {
+      "allocineId": "314503",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314503.html",
+      "title": "La fin d’Oak Street",
+      "originalTitle": "The End Of Oak Street",
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "David Robert Mitchell",
+      "actors": [
+        "Anne Hathaway"
+      ],
+      "synopsis": "Suite à un étrange événement cosmique, le quartier d’Oak Street se retrouve transporté en un lieu mystérieux. Les Platt, qui ne reconnaissent plus leur environnement familier, ne t",
+      "pressScore": 3.1,
+      "pressReviews": 23,
+      "knownActors": [
+        "Anne Hathaway"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:46:14Z"
+    },
+    "1000019899": {
+      "allocineId": "1000019899",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019899.html",
+      "title": "Juste pour une nuit",
+      "originalTitle": "One Night Only",
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Will Gluck",
+      "actors": [
+        "Monica Barbaro"
+      ],
+      "synopsis": "Quand Owen, qui vient de se faire larguer, rencontre Allie, qui croit encore au grand amour, l'étincelle est immédiate. Mais une série de maladresses et de mésaventures vont contin",
+      "pressScore": 2.3,
+      "pressReviews": 8,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:14Z"
+    },
+    "1000041528": {
+      "allocineId": "1000041528",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041528.html",
+      "title": "Un grand raccourci",
+      "originalTitle": null,
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Armand Foëx,",
+      "actors": [
+        "Sara Montpetit"
+      ],
+      "synopsis": "Quand le restaurant familial menace de fermer, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été, deux jeunes femmes trafiquent le concours de beau",
+      "pressScore": 3.6,
+      "pressReviews": 27,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:15Z"
+    },
+    "1000034332": {
+      "allocineId": "1000034332",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034332.html",
+      "title": "Une affaire turque",
+      "originalTitle": null,
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Hüseyin Aydin Gürsoy",
+      "actors": [
+        "Lionel Erdogan"
+      ],
+      "synopsis": "Mathieu s’est éloigné de sa communauté turque pour grimper l’échelle sociale. Avocat déterminé, il travaille dur pour devenir associé dans un influent cabinet d’affaires parisien.",
+      "pressScore": 3.2,
+      "pressReviews": 27,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:15Z"
+    },
+    "1000029301": {
+      "allocineId": "1000029301",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029301.html",
+      "title": "Chicas tristes",
+      "originalTitle": null,
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Fernanda Tovar",
+      "actors": [
+        "Rocio Guzmán"
+      ],
+      "synopsis": "La Maestra et Paula, deux amies inséparables, sont les meilleures nageuses de leur équipe. Jusqu’à ce qu’un évènement traumatique, survenu au cours d’une soirée, les oblige à chois",
+      "pressScore": 3.7,
+      "pressReviews": 17,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:16Z"
+    },
+    "1000020491": {
+      "allocineId": "1000020491",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020491.html",
+      "title": "Undertone",
+      "originalTitle": null,
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Ian Tuason",
+      "actors": [
+        "Nina Kiri"
+      ],
+      "synopsis": "Animatrice d’un podcast consacré aux phénomènes paranormaux, Evy retourne dans la maison de son enfance pour veiller sa mère mourante. Un jour, elle reçoit d’étranges enregistremen",
+      "pressScore": 2.9,
+      "pressReviews": 17,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:17Z"
+    },
+    "1000019382": {
+      "allocineId": "1000019382",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019382.html",
+      "title": "Une aube nouvelle",
+      "originalTitle": "A New Dawn",
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Yoshitoshi Shinomiya",
+      "actors": [
+        "Riku Hagiwara"
+      ],
+      "synopsis": "L’usine de la famille Obinata, spécialisée dans les feux d’artifice, est sur le point d’être fermée administrativement. Autrefois nichée au cœur d’une forêt verdoyante, le site est",
+      "pressScore": 3.2,
+      "pressReviews": 12,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:17Z"
+    },
+    "327754": {
+      "allocineId": "327754",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327754.html",
+      "title": "Lydia et le vaisseau des tempêtes",
+      "originalTitle": null,
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Nancy Florence Savard,",
+      "actors": [
+        "Sophie Nélisse"
+      ],
+      "synopsis": "Lorsque son frère aîné Thaddeus est mystérieusement enlevé par l’Envoûteur, Lydia, 11 ans, part à sa recherche dans la Mer de Brume. Recueillie par l'équipage du Dauphin, un navire",
+      "pressScore": 2.7,
+      "pressReviews": 11,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:18Z"
+    },
+    "1000042782": {
+      "allocineId": "1000042782",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042782.html",
+      "title": "Arcobaleno",
+      "originalTitle": null,
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Pablo Cirès",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Depuis 50 ans, Iolanda est la reine de l'Arcobaleno, un dancing mythique au sud de Rome, et tous les jours ses deux fils maintiennent tant bien que mal ce lieu en vie. Face à un av",
+      "pressScore": 3.4,
+      "pressReviews": 5,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:46:18Z"
+    },
+    "1000047303": {
+      "allocineId": "1000047303",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047303.html",
+      "title": "Katseye : Wild Hearts",
+      "originalTitle": "KATSEYE: Wild Hearts",
+      "releaseDate": "2026-08-15",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Nadia Hallgren",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Le groupe féminin international KATSEYE, nommé à deux reprises aux Grammy Awards, arrive au cinéma dans le monde entier avec une sortie événement à l’occasion de la sortie de son troisième EP, WILD.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:21Z"
+    },
+    "56608": {
+      "allocineId": "56608",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=56608.html",
+      "title": "The Quiet Family",
+      "originalTitle": "Choyanghan kajok",
+      "releaseDate": "2026-08-12",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Kim Jee-Woon",
+      "actors": [
+        "Song Kang-Ho"
+      ],
+      "synopsis": "La famille Kang gère une auberge de voyageurs dans une contrée perdue au milieu des montagnes. Leur premier client se suicide et la famille décide d'étouffer l'affaire pour ne pas",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Song Kang-Ho"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:21Z"
+    },
+    "320681": {
+      "allocineId": "320681",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=320681.html",
+      "title": "La Pat' Patrouille : Le film mission Dino",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "releaseDate": "2026-08-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Cal Brunker",
+      "actors": [
+        "Rain Janjua"
+      ],
+      "synopsis": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot",
+      "pressScore": 3.1,
+      "pressReviews": 16,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:22Z"
+    },
+    "1000022546": {
+      "allocineId": "1000022546",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022546.html",
+      "title": "Les Gendarmes",
+      "originalTitle": null,
+      "releaseDate": "2026-08-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "François Prévôt-Leygonie,",
+      "actors": [
+        "Arnaud Ducret"
+      ],
+      "synopsis": "Toute la brigade de gendarmerie de Charnay-Lès-Mâcon (71) se prépare à l’annuelle Grande Fête des Jardins.  Mais l’arrivée d’un jeune stagiaire désinvolte débarqué tout droit de la",
+      "pressScore": 2.3,
+      "pressReviews": 7,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:22Z"
+    },
+    "1000023007": {
+      "allocineId": "1000023007",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023007.html",
+      "title": "Des Fleurs pour Tokyo",
+      "originalTitle": "Miharashi sedai",
+      "releaseDate": "2026-08-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Yuiga Danzuka",
+      "actors": [
+        "Kodai Kurosaki"
+      ],
+      "synopsis": "Ren livre des orchidées dans le quartier de Shibuya à Tokyo. Son père Hajime passe sa vie à dessiner des foyers pour les autres, jamais pour eux. Un jour, par hasard, une livraison",
+      "pressScore": 3.3,
+      "pressReviews": 27,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:23Z"
+    },
+    "1000039379": {
+      "allocineId": "1000039379",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039379.html",
+      "title": "Le concert d'été 2026 d'André Rieu : Viva Maastricht !",
+      "originalTitle": "André Rieu's 2026 Summer Concert: Viva Maastricht!",
+      "releaseDate": "2026-08-08",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "André Rieu",
+      "actors": [
+        "André Rieu"
+      ],
+      "synopsis": "Cette année, André Rieu célèbre le 20e anniversaire de ses concerts d'été emblématiques sur la magnifique place du Vrijthof. Enregistré en direct dans sa ville natale bien-aimée, ce tout nouveau concert au cinéma marque deux décennies de musique et de nuits d'été magiques et inoubliables.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:23Z"
+    },
+    "1000027856": {
+      "allocineId": "1000027856",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027856.html",
+      "title": "Girl",
+      "originalTitle": "Nühai",
+      "releaseDate": "2026-08-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Shu Qi",
+      "actors": [
+        "Roy Chiu"
+      ],
+      "synopsis": "Taïwan, 1988. Hsiao-lee, une jeune adolescente timide, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li, un",
+      "pressScore": 3.7,
+      "pressReviews": 23,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:24Z"
+    },
+    "1000019673": {
+      "allocineId": "1000019673",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019673.html",
+      "title": "Les Silences de Riyad",
+      "originalTitle": "Unidentified",
+      "releaseDate": "2026-08-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Haifaa Al Mansour",
+      "actors": [
+        "Mila Al Zahrani"
+      ],
+      "synopsis": "Dans le désert saoudien, le corps d’une adolescente est retrouvé, sans qu’elle puisse être identifiée. Personne ne signale sa disparition et l’affaire est rapidement classée. Mais",
+      "pressScore": 2.6,
+      "pressReviews": 14,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:25Z"
+    },
+    "305836": {
+      "allocineId": "305836",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=305836.html",
+      "title": "Cotton Queen",
+      "originalTitle": "Malikat Alqutn",
+      "releaseDate": "2026-08-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Suzannah Mirghani",
+      "actors": [
+        "Mihad Murtada"
+      ],
+      "synopsis": "Dans un village cotonnier du Soudan, l'adolescente Nafisa est élevée au milieu des récits héroïques de la lutte contre les colonisateurs britanniques racontés par sa grand-mère, la",
+      "pressScore": 3.5,
+      "pressReviews": 17,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:25Z"
+    },
+    "1000012952": {
+      "allocineId": "1000012952",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012952.html",
+      "title": "Kyma, l’onde mystérieuse",
+      "originalTitle": null,
+      "releaseDate": "2026-08-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Romain Daudet-Jahan",
+      "actors": [
+        "Jules Lefebvre"
+      ],
+      "synopsis": "Tony, adolescent solitaire passionné par les animaux, voit son existence bouleversée lorsqu’il rencontre dans son petit village une créature mystérieuse : la Kyma, onde sonore viva",
+      "pressScore": 2.7,
+      "pressReviews": 19,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:26Z"
+    },
+    "1000027224": {
+      "allocineId": "1000027224",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027224.html",
+      "title": "Le Chantier",
+      "originalTitle": null,
+      "releaseDate": "2026-08-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jean-Stéphane Bron",
+      "actors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "synopsis": "Filmé en immersion pendant plus de quatre ans, « Le chantier » suit la construction de salles de cinéma imaginées par l’architecte Renzo Piano.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Ethan Hawke",
+        "Russell Crowe"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:27Z"
+    },
+    "1000008200": {
+      "allocineId": "1000008200",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000008200.html",
+      "title": "Jour de chasse",
+      "originalTitle": null,
+      "releaseDate": "2026-08-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Annick Blanc",
+      "actors": [
+        "Nahéma Ricci"
+      ],
+      "synopsis": "Nina, une jeune femme au caractère imprévisible, est recueillie par une bande de chasseurs dans un chalet éloigné. Au sein de cette microsociété masculine cinglante et attachante,",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:28Z"
+    },
+    "1000048132": {
+      "allocineId": "1000048132",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048132.html",
+      "title": "Ateez : Light The Way in cinemas",
+      "originalTitle": "ATEEZ : LIGHT THE WAY IN CINEMAS",
+      "releaseDate": "2026-08-06",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Ji-ae Kim",
+      "actors": [
+        "ATEEZ"
+      ],
+      "synopsis": "Un jour, alors qu’ATEEZ profite d’un moment de calme, un mystérieux message leur parvient. À cet instant, tout commence à basculer. ATINY a disparu… Comme sous l’emprise d’un sort, les membres d’ATEEZ errent à travers un désert, un monde en ruines dévoré par les flammes, puis la Dark City, enveloppée d’un épais brouillard. Pourchassé par une force inconnue, ATEEZ se lance dans un combat pour retrouver ATINY.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:29Z"
+    },
+    "276608": {
+      "allocineId": "276608",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=276608.html",
+      "title": "Spider-Man: Brand New Day",
+      "originalTitle": null,
+      "releaseDate": "2026-07-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Destin Daniel Cretton",
+      "actors": [
+        "Tom Holland"
+      ],
+      "synopsis": "C’est un tout nouveau jour pour Peter Parker Dans un monde qui ne se souvient plus de lui, il poursuit sans relâche sa lutte contre la criminalité. Mais le sentiment d’avoir été ou",
+      "pressScore": 3.2,
+      "pressReviews": 25,
+      "knownActors": [
+        "Tom Holland"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:46:30Z"
+    },
+    "1000019327": {
+      "allocineId": "1000019327",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019327.html",
+      "title": "Les Matins merveilleux",
+      "originalTitle": null,
+      "releaseDate": "2026-07-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Avril Besson",
+      "actors": [
+        "India Hair"
+      ],
+      "synopsis": "De vieux vinyles disco dans le coffre de sa Twingo, à peine remise de la mort de sa grand-mère, Charlie roule. Elle ne sait pas encore que ces disques ressusciteront les pas de dan",
+      "pressScore": 3.2,
+      "pressReviews": 26,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:30Z"
+    },
+    "1000031160": {
+      "allocineId": "1000031160",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031160.html",
+      "title": "Le Triangle d'or",
+      "originalTitle": null,
+      "releaseDate": "2026-07-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Hélène Rosselet-Ruiz",
+      "actors": [
+        "Malou Khebizi"
+      ],
+      "synopsis": "Pour gagner sa vie, Laura accepte un emploi au service de Souria. Installée dans un hôtel particulier du triangle d’or par son amant, un riche prince saoudien, Souria vit dans l’at",
+      "pressScore": 3.5,
+      "pressReviews": 28,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:31Z"
+    },
+    "1000003998": {
+      "allocineId": "1000003998",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003998.html",
+      "title": "I Want Your Sex",
+      "originalTitle": null,
+      "releaseDate": "2026-07-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Gregg Araki",
+      "actors": [
+        "Olivia Wilde"
+      ],
+      "synopsis": "Elliot, un jeune homme naïf en quête de sens, décroche le poste de ses rêves auprès d’Erika Tracy, artiste provocatrice et figure incontournable de la scène artistique. Lorsqu'elle",
+      "pressScore": 3.0,
+      "pressReviews": 30,
+      "knownActors": [
+        "Olivia Wilde"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:46:31Z"
+    },
+    "1000019764": {
+      "allocineId": "1000019764",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019764.html",
+      "title": "The Ugly",
+      "originalTitle": "Eolgul",
+      "releaseDate": "2026-07-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Sang-Ho Yeon",
+      "actors": [
+        "Jeong Min Park"
+      ],
+      "synopsis": "Aveugle de naissance, un maître artisan, admiré pour la beauté des sceaux qu’il grave, vit reclus avec son fils unique. Mais cette paix vole en éclats lorsque les ossements de sa f",
+      "pressScore": 3.1,
+      "pressReviews": 28,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:33Z"
+    },
+    "289867": {
+      "allocineId": "289867",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=289867.html",
+      "title": "Home stories",
+      "originalTitle": "Etwas ganz Besonderes",
+      "releaseDate": "2026-07-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Eva Trobisch",
+      "actors": [
+        "Frida Hornemann"
+      ],
+      "synopsis": "Léa a 16 ans, un petit frère, une grande amie, des parents récemment divorcés, et une tante qu’elle admire. Au cœur des forêts majestueuses de l’ex-Allemagne de l’Est, ses grands-p",
+      "pressScore": 2.8,
+      "pressReviews": 12,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:33Z"
+    },
+    "306166": {
+      "allocineId": "306166",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=306166.html",
+      "title": "Tommy Guns",
+      "originalTitle": "Nação Valente",
+      "releaseDate": "2026-07-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Carlos Conceição",
+      "actors": [
+        "João Luís Arrais"
+      ],
+      "synopsis": "Angola, 1974, treizième année de la guerre de libération : les Portugais fuient la colonie tandis que les groupes indépendantistes s’emparent peu à peu du territoire. TOMMY GUNS su",
+      "pressScore": 3.2,
+      "pressReviews": 12,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:34Z"
+    },
+    "1000051460": {
+      "allocineId": "1000051460",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051460.html",
+      "title": "Danser pour Exister",
+      "originalTitle": null,
+      "releaseDate": "2026-07-31",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Nicolas Sok",
+      "actors": [],
+      "synopsis": "Parti d’une situation sociale fragile, Mike Fléreau Lumene, fondateur de l’association MNT Studio Dance à Savigny-le-Temple, originaire d’Haïti, a quitté son pays natal et a trouvé",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:34Z"
+    },
+    "1000043299": {
+      "allocineId": "1000043299",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043299.html",
+      "title": "Lost in Territories",
+      "originalTitle": null,
+      "releaseDate": "2026-07-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Nadav Shlomo Giladi",
+      "actors": [
+        "Tomer Barash"
+      ],
+      "synopsis": "Le voisinage, c’est toujours compliqué ! Surtout si on y ajoute un conflit sanglant, à la fois religieux et international, des soldats, des organisations terroristes, des barbelés,",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-14T17:46:35Z"
+    },
+    "1000037046": {
+      "allocineId": "1000037046",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037046.html",
+      "title": "De la Comédie-Française",
+      "originalTitle": null,
+      "releaseDate": "2026-07-22",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "la Comédie-Française - Film 2026 - AlloCiné",
+      "actors": [
+        "Pauline Clément"
+      ],
+      "synopsis": "Dans 3 heures, Nina dévoile sa première mise en scène à la Comédie-Française. Mais dans l’agitation des dernières répétitions, rien ne se passe comme prévu : retards, coups de stre",
+      "pressScore": 4.1,
+      "pressReviews": 41,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:36Z"
+    },
+    "1000017192": {
+      "allocineId": "1000017192",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017192.html",
+      "title": "Sur la route d'Omaha",
+      "originalTitle": "Omaha",
+      "releaseDate": "2026-07-22",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Cole Webley",
+      "actors": [
+        "John Magaro"
+      ],
+      "synopsis": "Ella et son frère Charlie sont réveillés en pleine nuit par leur père. Sans explication, il les embarque pour un long voyage sur les routes du Midwest. Alors que les deux jeunes en",
+      "pressScore": 3.5,
+      "pressReviews": 19,
+      "knownActors": [
+        "John Magaro"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-14T17:46:36Z"
+    },
+    "320561": {
+      "allocineId": "320561",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=320561.html",
+      "title": "La Fille dans les nuages",
+      "originalTitle": null,
+      "releaseDate": "2026-07-22",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Philippe Riche",
+      "actors": [
+        "Louane Emera"
+      ],
+      "synopsis": "Une plume magique qui rend réel tout ce qu’elle écrit vient bouleverser la vie de Providence, 11 ans, et de son cochon d’Inde Airbag. Dotés de cet immense pouvoir, ils s’envolent p",
+      "pressScore": 3.2,
+      "pressReviews": 13,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:37Z"
+    },
+    "1000014327": {
+      "allocineId": "1000014327",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014327.html",
+      "title": "Sous le ciel de Kyoto",
+      "originalTitle": "Kyo no Sora ga Ichiban Suki, to Mada Ienai Boku wa",
+      "releaseDate": "2026-07-22",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Akiko Ohku",
+      "actors": [
+        "Riku Hagiwara"
+      ],
+      "synopsis": "À Kyoto, entre l’université et un petit boulot dans des bains publics, Toru garde toujours ses parapluies à portée de main, tels des boucliers contre le monde extérieur. Quand il r",
+      "pressScore": 3.2,
+      "pressReviews": 19,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:37Z"
+    },
+    "1000003105": {
+      "allocineId": "1000003105",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003105.html",
+      "title": "Charlie et les kangourous",
+      "originalTitle": "Kangaroo",
+      "releaseDate": "2026-07-22",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Kate Woods",
+      "actors": [
+        "Lily Whiteley"
+      ],
+      "synopsis": "Après une panne de voiture, Chris, ancien présentateur météo vedette, se retrouve bloqué dans une petite ville reculée d’Australie. Il y fait la connaissance de Charlie, une petite",
+      "pressScore": 2.8,
+      "pressReviews": 9,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:38Z"
+    },
+    "328440": {
+      "allocineId": "328440",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328440.html",
+      "title": "Nightborn",
+      "originalTitle": "Yön Lapsi",
+      "releaseDate": "2026-07-22",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Hanna Bergholm",
+      "actors": [
+        "Seidi Haarla"
+      ],
+      "synopsis": "Rêvant de construire une vie de famille paisible, Saga et son mari Jon s’installent dans la maison où elle a passé une grande partie de son enfance, au cœur de la forêt finlandaise",
+      "pressScore": 3.1,
+      "pressReviews": 19,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:39Z"
+    },
+    "1000044689": {
+      "allocineId": "1000044689",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044689.html",
+      "title": "Les Vacances de Golo & Ritchie",
+      "originalTitle": null,
+      "releaseDate": "2026-07-22",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Martin Fougerol,",
+      "actors": [
+        "Golo"
+      ],
+      "synopsis": "De retour après leur premier film, Golo et Ritchie mettent le cap sur la Camargue avec les jeunes de leur quartier. Leur objectif : rénover un bateau pour offrir des vacances à d’a",
+      "pressScore": 3.0,
+      "pressReviews": 13,
+      "knownActors": [],
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-14T17:46:39Z"
+    }
+  },
+  "updatedAt": "2026-09-14T17:46:39Z",
+  "checkedThisRun": 160,
+  "addedThisRun": 31,
+  "pendingThisRun": 58,
+  "rejectedThisRun": 41,
+  "failuresThisRun": 0,
+  "criteria": {
+    "knownActorPressMinimum": 2.5,
+    "newCastPressMinimum": 3.5,
+    "minimumPressReviews": 3,
+    "minimumNewCastPressReviews": 5
+  }
+}
