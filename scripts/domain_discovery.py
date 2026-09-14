@@ -1086,21 +1086,21 @@ ENGLISH_FEEDS = (
         "duration": 35,
     },
     {
-        "url": "https://aws.amazon.com/blogs/aws/feed/",
-        "provider": "AWS News Blog",
+        "url": "https://github.com/kubernetes/kubernetes/releases.atom",
+        "provider": "Kubernetes",
         "skill": "Cloud English",
-        "type": "Professional article",
+        "type": "Official release note",
         "level": "C1–C2",
-        "task": "Read one section; explain the business value and risk in a two-minute briefing.",
+        "task": "Read the release note; explain the main change, operational impact and risk in a two-minute briefing.",
         "duration": 30,
     },
     {
-        "url": "https://owasp.org/feed.xml",
-        "provider": "OWASP",
+        "url": "https://github.com/OWASP/ASVS/releases.atom",
+        "provider": "OWASP ASVS",
         "skill": "Cybersecurity reading",
-        "type": "Security article",
+        "type": "Official security standard release",
         "level": "C2",
-        "task": "Identify the security topic, risk and recommendations; brief them in plain English.",
+        "task": "Identify the security requirements that changed and summarize their practical impact in plain English.",
         "duration": 30,
     },
 )
@@ -1330,7 +1330,7 @@ def discover_tech(config: dict[str, Any]) -> dict[str, Any]:
     }
 
 
-GCDL_FEED = "https://cloud.google.com/feeds/gcp-release-notes.xml"
+GCDL_FEED = "https://docs.cloud.google.com/feeds/gcp-release-notes.xml"
 GCDL_KEYWORDS = (
     "artificial intelligence",
     "generative ai",
