@@ -203,6 +203,51 @@ def parse_feed(url: str) -> list[dict[str, Any]]:
     return results
 
 
+def parse_google_release_page(url: str) -> list[dict[str, Any]]:
+    """Extract recent dated sections when the global XML feed is only an index."""
+
+    page = fetch_text(url, timeout=60, attempts=3)
+    headings = list(
+        re.finditer(
+            r"<h2\\b(?P<attrs>[^>]*)>(?P<title>.*?)</h2>",
+            page,
+            flags=re.IGNORECASE | re.DOTALL,
+        )
+    )
+    results: list[dict[str, Any]] = []
+    for index, heading in enumerate(headings):
+        title = strip_html(heading.group("title"))
+        published = None
+        for date_format in ("%B %d, %Y", "%b %d, %Y"):
+            try:
+                published = dt.datetime.strptime(title, date_format).date()
+                break
+            except ValueError:
+                continue
+        if published is None:
+            continue
+        end = headings[index + 1].start() if index + 1 < len(headings) else len(page)
+        summary = strip_html(page[heading.end() : end])
+        if not summary:
+            continue
+        anchor_match = re.search(
+            r'\\bid=["\\\']([^"\\\']+)["\\\']',
+            heading.group("attrs"),
+            flags=re.IGNORECASE,
+        )
+        anchor = anchor_match.group(1) if anchor_match else published.isoformat()
+        results.append(
+            {
+                "title": f"Google Cloud updates — {published.isoformat()}",
+                "url": f"{url}#{anchor}",
+                "published": published.isoformat(),
+                "date": published,
+                "summary": summary[:1200],
+            }
+        )
+    return results
+
+
 def workbook_datasets(
     config: dict[str, Any], catalog: str, sheet: str | None = None
 ) -> list[dict[str, Any]]:
@@ -1086,21 +1131,21 @@ ENGLISH_FEEDS = (
         "duration": 35,
     },
     {
-        "url": "https://github.com/kubernetes/kubernetes/releases.atom",
-        "provider": "Kubernetes",
+        "url": "https://kubernetes.io/feed.xml",
+        "provider": "Kubernetes Blog",
         "skill": "Cloud English",
-        "type": "Official release note",
+        "type": "Official technical article",
         "level": "C1–C2",
         "task": "Read the release note; explain the main change, operational impact and risk in a two-minute briefing.",
         "duration": 30,
     },
     {
-        "url": "https://github.com/OWASP/ASVS/releases.atom",
-        "provider": "OWASP ASVS",
+        "url": "https://github.blog/security/feed/",
+        "provider": "GitHub Security",
         "skill": "Cybersecurity reading",
-        "type": "Official security standard release",
+        "type": "Official security article",
         "level": "C2",
-        "task": "Identify the security requirements that changed and summarize their practical impact in plain English.",
+        "task": "Identify the threat, affected systems and mitigations; summarize their practical impact in plain English.",
         "duration": 30,
     },
 )
@@ -1331,6 +1376,7 @@ def discover_tech(config: dict[str, Any]) -> dict[str, Any]:
 
 
 GCDL_FEED = "https://docs.cloud.google.com/feeds/gcp-release-notes.xml"
+GCDL_PAGE = "https://docs.cloud.google.com/release-notes"
 GCDL_KEYWORDS = (
     "artificial intelligence",
     "generative ai",
@@ -1371,6 +1417,18 @@ def discover_gcdl(config: dict[str, Any]) -> dict[str, Any]:
                 "reason": str(exc)[:300],
             }
         )
+    if not entries:
+        try:
+            entries = parse_google_release_page(GCDL_PAGE)
+        except Exception as exc:
+            failures += 1
+            candidates.append(
+                {
+                    "source": GCDL_PAGE,
+                    "status": "source-error",
+                    "reason": str(exc)[:300],
+                }
+            )
 
     for entry in entries:
         published = entry.get("date")
