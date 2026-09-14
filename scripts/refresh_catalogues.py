@@ -18,6 +18,8 @@ import urllib.request
 from pathlib import Path
 from typing import Any, Iterable
 
+from cinema_discovery import add_recent_series, refresh_allocine_films
+
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "config" / "workbooks.json"
 MANIFEST_PATH = ROOT / "data" / "manifest.json"
@@ -373,35 +375,58 @@ def update_imdb_ratings(
 
 
 def refresh_cinema(config: dict[str, Any]) -> dict[str, Any]:
+    # Les films sont désormais découverts sur l'agenda AlloCiné puis injectés
+    # automatiquement uniquement lorsqu'ils respectent les critères personnels.
+    allocine_state = refresh_allocine_films(config)
+
+    # Wikidata fournit les séries récentes ; IMDb apporte la note et le volume
+    # de votes, puis Cinemeta la distribution nécessaire au filtre des acteurs.
     candidates = wikidata_recent_candidates()
     updated, ratings = update_imdb_ratings(config, candidates)
+    series_state = add_recent_series(config, candidates, ratings)
+
     known: set[str] = set()
     for _dataset, _path, payload in iter_catalog_datasets(config, "cinema"):
         for record in payload["records"]:
             imdb = str(record.get("_imdb_id", "")).lower()
             if imdb:
                 known.add(imdb)
+
+    accepted_series = set(series_state.get("acceptedImdbIds", []))
     filtered = []
     for candidate in candidates:
         imdb = candidate["imdbId"]
-        if imdb in known:
+        if imdb in known or imdb in accepted_series:
             continue
         rating, votes = ratings.get(imdb, (None, None))
         candidate["imdbRating"] = rating
         candidate["imdbVotes"] = votes
-        candidate["reason"] = "Candidat récent issu de Wikidata, à enrichir avant intégration."
+        candidate["reason"] = (
+            "Candidat récent issu de Wikidata, à enrichir avant intégration."
+        )
         if votes is None or votes >= 5_000:
             filtered.append(candidate)
+
+    combined_candidates = (
+        allocine_state.get("candidates", [])
+        + series_state.get("candidates", [])
+        + filtered
+    )
     save_json(
         CANDIDATE_DIR / "cinema.json",
         {
             "schemaVersion": 1,
             "updatedAt": iso_now(),
-            "policy": "Candidates are never injected automatically without enough metadata.",
-            "count": len(filtered),
-            "records": filtered[:250],
+            "policy": (
+                "Films : AlloCiné >= 2,5/5 avec acteur reconnu ; "
+                ">= 3,5/5 pour de nouveaux interprètes. "
+                "Séries : seuil IMDb équivalent avec un volume minimal de votes."
+            ),
+            "count": len(combined_candidates),
+            "records": combined_candidates[:250],
         },
     )
+
     anime = jikan_anime_candidates()
     save_json(
         CANDIDATE_DIR / "anime.json",
@@ -413,17 +438,22 @@ def refresh_cinema(config: dict[str, Any]) -> dict[str, Any]:
             "records": anime,
         },
     )
+
     state = {
         "schemaVersion": 1,
         "catalog": "cinema",
         "updatedAt": iso_now(),
         "ratingsMatched": updated,
-        "cinemaCandidates": len(filtered),
+        "filmsAdded": allocine_state.get("added", 0),
+        "seriesAdded": series_state.get("added", 0),
+        "allocineChecked": allocine_state.get("checked", 0),
+        "seriesChecked": series_state.get("checked", 0),
+        "sourceFailures": allocine_state.get("failures", 0),
+        "cinemaCandidates": len(combined_candidates),
         "animeCandidates": len(anime),
     }
     save_json(HEALTH_DIR / "cinema.json", state)
     return state
-
 
 def write_change_candidates(catalog: str, state: dict[str, Any]) -> None:
     changes = state.get("changes", [])
