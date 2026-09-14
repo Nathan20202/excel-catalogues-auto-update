@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T17:47:25Z",
+  "updatedAt": "2026-09-14T19:41:21Z",
   "policy": "Films : AlloCiné >= 2,5/5 avec acteur reconnu ; >= 3,5/5 pour de nouveaux interprètes. Séries : seuil IMDb équivalent avec un volume minimal de votes.",
   "count": 99,
   "records": [
@@ -707,22 +707,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "I'm Game",
-      "releaseDate": "2026-09-03",
-      "actors": [
-        "Dulquer Salmaan"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036604.html",
-      "allocineId": "1000036604"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Arrebato",
       "releaseDate": "2026-09-02",
       "actors": [
@@ -735,6 +719,22 @@
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=44148.html",
       "allocineId": "44148"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "I'm Game",
+      "releaseDate": "2026-09-03",
+      "actors": [
+        "Dulquer Salmaan"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036604.html",
+      "allocineId": "1000036604"
     },
     {
       "source": "AlloCiné",
@@ -1025,22 +1025,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "La Fille Condor",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "María Magdalena Sanizo"
-      ],
-      "knownActors": [],
-      "pressScore": 3.4,
-      "pressReviews": 19,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022452.html",
-      "allocineId": "1000022452"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Marius et le Royaume des mers",
       "releaseDate": "2026-08-19",
       "actors": [
@@ -1057,6 +1041,22 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022217.html",
       "allocineId": "1000022217"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Fille Condor",
+      "releaseDate": "2026-08-19",
+      "actors": [
+        "María Magdalena Sanizo"
+      ],
+      "knownActors": [],
+      "pressScore": 3.4,
+      "pressReviews": 19,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022452.html",
+      "allocineId": "1000022452"
     },
     {
       "source": "AlloCiné",
