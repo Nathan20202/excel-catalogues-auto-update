@@ -189,11 +189,12 @@ def parse_feed(url: str) -> list[dict[str, Any]]:
         summary = strip_html(
             child_value(node, ("description", "summary", "content", "encoded"))
         )
-        if title and link.startswith("http"):
+        absolute_link = urllib.parse.urljoin(url, link)
+        if title and absolute_link.startswith("http"):
             results.append(
                 {
                     "title": title[:300],
-                    "url": link,
+                    "url": absolute_link,
                     "published": published,
                     "date": parse_date(published),
                     "summary": summary[:1200],
@@ -1030,8 +1031,8 @@ ENGLISH_FEEDS = (
         "duration": 35,
     },
     {
-        "url": "https://cloudblog.withgoogle.com/rss/",
-        "provider": "Google Cloud Blog",
+        "url": "https://aws.amazon.com/blogs/aws/feed/",
+        "provider": "AWS News Blog",
         "skill": "Cloud English",
         "type": "Professional article",
         "level": "C1–C2",
@@ -1039,12 +1040,12 @@ ENGLISH_FEEDS = (
         "duration": 30,
     },
     {
-        "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
-        "provider": "CISA",
+        "url": "https://owasp.org/feed.xml",
+        "provider": "OWASP",
         "skill": "Cybersecurity reading",
-        "type": "Official advisory",
+        "type": "Security article",
         "level": "C2",
-        "task": "Identify the threat, affected assets and mitigations; brief them in plain English.",
+        "task": "Identify the security topic, risk and recommendations; brief them in plain English.",
         "duration": 30,
     },
 )
