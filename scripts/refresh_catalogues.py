@@ -535,8 +535,9 @@ def main() -> None:
             for issue in discovery.get("candidates", [])[:5]:
                 if issue.get("status") == "source-error" or issue.get("error"):
                     detail = issue.get("reason") or issue.get("error")
+                    source = issue.get("source", "source inconnue")
                     print(
-                        f"{catalog}: source indisponible — {detail}",
+                        f"{catalog}: source indisponible ({source}) — {detail}",
                         file=sys.stderr,
                     )
         states[catalog] = state
