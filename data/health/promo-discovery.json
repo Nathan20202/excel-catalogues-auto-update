@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "catalog": "promo-discovery",
+  "cursor": 2,
+  "checkedThisRun": 4,
+  "addedThisRun": 1,
+  "failuresThisRun": 0,
+  "queriesThisRun": [
+    "comparateur de prix",
+    "price comparison website"
+  ],
+  "updatedAt": "2026-09-14T19:46:19Z"
+}

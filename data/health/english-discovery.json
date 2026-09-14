@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "catalog": "english-discovery",
+  "cursor": 0,
+  "checkedThisRun": 18,
+  "addedThisRun": 18,
+  "failuresThisRun": 0,
+  "feedsThisRun": [
+    "https://podcasts.files.bbci.co.uk/b006qy05.rss",
+    "https://www.microsoft.com/en-us/security/blog/feed/",
+    "https://kubernetes.io/feed.xml",
+    "https://github.blog/security/feed/"
+  ],
+  "updatedAt": "2026-09-14T19:49:03Z"
+}

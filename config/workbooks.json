@@ -59,7 +59,7 @@
           "sheet": "04 - Comparateurs",
           "table": "GeneralComparators",
           "file": "data/promo/comparateurs.json",
-          "recordCount": 10,
+          "recordCount": 11,
           "idColumn": "ID",
           "preserveColumns": [
             "Suivi",
@@ -846,7 +846,7 @@
           "sheet": "04 - Composants PC",
           "table": "TechPcComponents",
           "file": "data/tech/composants-pc.json",
-          "recordCount": 50,
+          "recordCount": 52,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -896,7 +896,7 @@
           "sheet": "06 - Mobiles & wearables",
           "table": "TechMobileWearables",
           "file": "data/tech/mobiles-wearables.json",
-          "recordCount": 36,
+          "recordCount": 44,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -946,7 +946,7 @@
           "sheet": "08 - Audio",
           "table": "TechAudio",
           "file": "data/tech/audio.json",
-          "recordCount": 32,
+          "recordCount": 34,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -971,7 +971,7 @@
           "sheet": "09 - Gaming & VR",
           "table": "TechGamingVr",
           "file": "data/tech/gaming-vr.json",
-          "recordCount": 32,
+          "recordCount": 33,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1096,7 +1096,7 @@
           "sheet": "14 - Makers & énergie",
           "table": "TechMakersEnergy",
           "file": "data/tech/makers-energie.json",
-          "recordCount": 28,
+          "recordCount": 29,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1146,7 +1146,7 @@
           "sheet": "16 - Sources & méthode",
           "table": "TechSourceRegister",
           "file": "data/tech/sources.json",
-          "recordCount": 347,
+          "recordCount": 362,
           "idColumn": "ID",
           "preserveColumns": [],
           "formulaColumns": [],
@@ -1168,7 +1168,7 @@
           "sheet": "Cabourg",
           "table": "ActivitiesCabourg",
           "file": "data/activites/cabourg.json",
-          "recordCount": 74,
+          "recordCount": 89,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1190,7 +1190,7 @@
           "sheet": "Paris",
           "table": "ActivitiesParis",
           "file": "data/activites/paris.json",
-          "recordCount": 100,
+          "recordCount": 115,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1538,7 +1538,7 @@
           "sheet": "12 - Reading & Listening",
           "table": "ResourcesTable",
           "file": "data/english/resources.json",
-          "recordCount": 48,
+          "recordCount": 66,
           "idColumn": "ID",
           "preserveColumns": [
             "Status",
@@ -1650,7 +1650,7 @@
           "sheet": "01 Cours complet",
           "table": "CourseMasterTable",
           "file": "data/gcdl/cours.json",
-          "recordCount": 226,
+          "recordCount": 244,
           "idColumn": "ID",
           "preserveColumns": [],
           "formulaColumns": [],

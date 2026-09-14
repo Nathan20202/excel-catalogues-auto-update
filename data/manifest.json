@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "2026.08.01",
-  "generatedAt": "2026-09-14T19:41:21Z",
+  "generatedAt": "2026-09-14T19:49:10Z",
   "repository": "Nathan20202/excel-catalogues-auto-update",
   "privacy": "Public catalogue data only. Personal statuses, notes, answers, favourites and comments remain local.",
   "workbooks": {
@@ -53,7 +53,7 @@
           "recordCount": 18
         }
       ],
-      "lastAutomatedRun": "2026-09-11T09:11:23Z",
+      "lastAutomatedRun": "2026-09-14T19:46:34Z",
       "healthFile": "data/health/promo.json",
       "candidateFile": "data/candidates/promo-changes.json"
     },
@@ -129,7 +129,7 @@
           "recordCount": 12
         }
       ],
-      "lastAutomatedRun": "2026-09-09T09:11:20Z",
+      "lastAutomatedRun": "2026-09-14T19:47:02Z",
       "healthFile": "data/health/pokemon.json",
       "candidateFile": "data/candidates/pokemon-changes.json"
     },
@@ -229,7 +229,7 @@
           "recordCount": 12
         }
       ],
-      "lastAutomatedRun": "2026-09-03T09:44:28Z",
+      "lastAutomatedRun": "2026-09-14T19:47:22Z",
       "healthFile": "data/health/fashion.json",
       "candidateFile": "data/candidates/fashion-changes.json"
     },
@@ -434,7 +434,10 @@
           "file": "data/tech/sources.json",
           "recordCount": 347
         }
-      ]
+      ],
+      "lastAutomatedRun": "2026-09-14T19:48:06Z",
+      "healthFile": "data/health/tech.json",
+      "candidateFile": "data/candidates/tech-changes.json"
     },
     "activities": {
       "label": "Activités — Cabourg, Paris, Orsay, Mende, Saint-Cyprien et Boulouris",
@@ -477,7 +480,10 @@
           "file": "data/activites/boulouris.json",
           "recordCount": 82
         }
-      ]
+      ],
+      "lastAutomatedRun": "2026-09-14T19:49:02Z",
+      "healthFile": "data/health/activities.json",
+      "candidateFile": "data/candidates/activities-changes.json"
     },
     "english": {
       "label": "English Pro C1-C2 — monde du travail",
@@ -586,7 +592,10 @@
           "file": "data/english/sources.json",
           "recordCount": 20
         }
-      ]
+      ],
+      "lastAutomatedRun": "2026-09-14T19:49:04Z",
+      "healthFile": "data/health/english.json",
+      "candidateFile": "data/candidates/english-changes.json"
     },
     "gcdl": {
       "label": "Google Cloud Digital Leader",
@@ -666,7 +675,7 @@
           "recordCount": 145
         }
       ],
-      "lastAutomatedRun": "2026-09-05T09:16:53Z",
+      "lastAutomatedRun": "2026-09-14T19:49:10Z",
       "healthFile": "data/health/gcdl.json",
       "candidateFile": "data/candidates/gcdl-changes.json"
     }

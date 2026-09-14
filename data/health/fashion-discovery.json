@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "catalog": "fashion-discovery",
+  "cursor": 2,
+  "checkedThisRun": 0,
+  "addedThisRun": 0,
+  "failuresThisRun": 0,
+  "queriesThisRun": [
+    "marque de mode durable",
+    "marque de vêtements homme"
+  ],
+  "updatedAt": "2026-09-14T19:47:02Z"
+}
