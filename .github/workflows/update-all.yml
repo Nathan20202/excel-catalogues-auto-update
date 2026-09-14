@@ -20,7 +20,7 @@ permissions:
 
 concurrency:
   group: update-all-catalogues
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   refresh:
