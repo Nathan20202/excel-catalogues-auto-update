@@ -687,7 +687,7 @@
           "sheet": "02 - Films",
           "table": "FilmsCultes",
           "file": "data/cinema/films-part-009.json",
-          "recordCount": 182,
+          "recordCount": 191,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut",

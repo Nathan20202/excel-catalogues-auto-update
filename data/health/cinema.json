@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "catalog": "cinema",
-  "updatedAt": "2026-09-14T19:41:21Z",
+  "updatedAt": "2026-09-17T10:04:30Z",
   "ratingsMatched": 2780,
-  "filmsAdded": 0,
+  "filmsAdded": 9,
   "seriesAdded": 0,
-  "allocineChecked": 122,
+  "allocineChecked": 141,
   "seriesChecked": 0,
   "sourceFailures": 0,
-  "cinemaCandidates": 99,
+  "cinemaCandidates": 110,
   "animeCandidates": 0
 }

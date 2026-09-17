@@ -16,14 +16,14 @@
         "Ethan Hawke"
       ],
       "synopsis": "Oregon, 1933. Après la mort de sa femme, Samuel Murphy est arraché à sa fille et envoyé dans un camp de travail impitoyable. Lorsqu’un surveillant sans scrupule lui promet la liber",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.1,
+      "pressReviews": 28,
       "knownActors": [
         "Ethan Hawke"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:33Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-17T10:02:39Z"
     },
     "1000043221": {
       "allocineId": "1000043221",
@@ -39,12 +39,12 @@
         "Monia Chokri"
       ],
       "synopsis": "Lorsque Gil rencontre Jacques, leur amour est évident. Mais l’intensité des débuts laisse place à une relation où elle se sent de plus en plus enfermée, jusqu’à en perdre ses repèr",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.8,
+      "pressReviews": 29,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:34Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-17T10:02:40Z"
     },
     "1000018854": {
       "allocineId": "1000018854",
@@ -60,12 +60,12 @@
         "Austin Abrams"
       ],
       "synopsis": "Bryan, coursier médical, s'engage dans une course effrénée pour survivre, alors qu'autour de lui le monde s'enfonce dans un chaos total.",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.8,
+      "pressReviews": 5,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:34Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-17T10:02:40Z"
     },
     "317219": {
       "allocineId": "317219",
@@ -81,14 +81,14 @@
         "Seth Rogen"
       ],
       "synopsis": "Angela et Joe invitent leurs mystérieux nouveaux voisins du dessus à dîner. La soirée va alors rapidement faire voler en éclats toutes leurs certitudes.",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.6,
+      "pressReviews": 32,
       "knownActors": [
         "Seth Rogen"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:35Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-17T10:02:41Z"
     },
     "324014": {
       "allocineId": "324014",
@@ -104,12 +104,12 @@
         "Hafsia Herzi"
       ],
       "synopsis": "Nora, Thomas et leur fille Ida vivent dans une ferme isolée avec pour seule voisine, Cristina, une peintre italienne. Alors que tout le monde prépare une soirée d’anniversaire surp",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.2,
+      "pressReviews": 34,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:35Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-17T10:02:41Z"
     },
     "1000041095": {
       "allocineId": "1000041095",
@@ -122,19 +122,18 @@
       "genres": [],
       "director": "Dominique Pochat,",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Il était une fois une petite oie à la recherche d’une chaussette verte, un ourson qui avait trouvé un bonnet, un étrange chien au pelage bleu, deux voisins lapins fâchés… et une lé",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 2.7,
+      "pressReviews": 3,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:36Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-17T10:02:42Z"
     },
     "1000014638": {
       "allocineId": "1000014638",
@@ -150,12 +149,12 @@
         "Gô Ayano"
       ],
       "synopsis": "Seiichi Yabushita, instituteur respecté, est accusé par une mère d’avoir harcelé et humilié son fils. Très vite, la machine s’emballe. Médias, rumeurs, opinion publique : chacun im",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.2,
+      "pressReviews": 21,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:36Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-17T10:02:42Z"
     },
     "325076": {
       "allocineId": "325076",
@@ -168,19 +167,19 @@
       "genres": [],
       "director": "Marie Dumora",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Là-haut, à huit-cents mètres d’altitude, dans la vallée de la Bruche, à Natzwiller, des hommes et des femmes vivaient du tissage, de la culture de l’orge et du seigle, jusqu’à ce q",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.7,
+      "pressReviews": 17,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:37Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-17T10:02:43Z"
     },
     "1000023495": {
       "allocineId": "1000023495",
@@ -196,12 +195,12 @@
         "Justine Hostekint"
       ],
       "synopsis": "Sao Paulo, années 1980… Noboru doit préparer pour l’école un exposé sur ses origines japonaises qu’il a toujours cherché à gommer. Il doit alors se tourner vers son grand-père grin",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.5,
+      "pressReviews": 13,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:37Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-09-17T10:02:44Z"
     },
     "1000042891": {
       "allocineId": "1000042891",
@@ -217,14 +216,14 @@
         "Luàna Bajrami"
       ],
       "synopsis": "Paris, la Belle Epoque. Jacques, un tout jeune photographe amateur, s'avance dans la vie en s'accrochant à son appareil stéréoscopique. Avec lui, il photographie en 3 dimensions to",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.7,
+      "pressReviews": 18,
       "knownActors": [
         "Luàna Bajrami"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:38Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-17T10:02:43Z"
     },
     "26832": {
       "allocineId": "26832",
@@ -247,7 +246,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-09-14T19:39:38Z"
+      "checkedAt": "2026-09-17T10:02:44Z"
     },
     "1000046254": {
       "allocineId": "1000046254",
@@ -270,7 +269,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:38Z"
+      "checkedAt": "2026-09-17T10:02:45Z"
     },
     "1000045581": {
       "allocineId": "1000045581",
@@ -283,19 +282,19 @@
       "genres": [],
       "director": "Miyoung Baek",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Ce programme de trois courts métrages de la réalisatrice sud-coréenne Miyoung Baek nous invite à plonger dans son univers poétique et onirique. Les objets du quotidien emportent-il",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.8,
+      "pressReviews": 4,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:39Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-09-17T10:02:46Z"
     },
     "1000014136": {
       "allocineId": "1000014136",
@@ -311,12 +310,12 @@
         "Moustapha Mbengue"
       ],
       "synopsis": "Quand par hasard, Babette est amenée à partager son appartement parisien avec Edo, un réfugié congolais, Maoussi, une souris en fuite, se pointe aussi et chamboule leur quotidien.",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 2.3,
+      "pressReviews": 4,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:39Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-09-17T10:02:45Z"
     },
     "772": {
       "allocineId": "772",
@@ -352,19 +351,19 @@
       "genres": [],
       "director": "Christian Philibert",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Ils avaient vingt ans en 1944 lorsqu’ils prirent le maquis pour libérer le pays sous les ordres du lieutenant Vallier. Quatre-vingts ans plus tard, sept jeunes du même âge sont sél",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 2.4,
+      "pressReviews": 5,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:40Z"
+      "status": "rejected",
+      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
+      "checkedAt": "2026-09-17T10:02:47Z"
     },
     "1000043595": {
       "allocineId": "1000043595",
@@ -377,19 +376,19 @@
       "genres": [],
       "director": "Philippe Tabarly",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Dans un monde saturé d’informations, le silence devient  un refuge. Cyprien N’Tsaï, jeune guitariste international, décide de changer sa vie. Il coupe radicalement avec le conformi",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:41Z"
+      "checkedAt": "2026-09-17T10:02:47Z"
     },
     "1000048049": {
       "allocineId": "1000048049",
@@ -402,19 +401,19 @@
       "genres": [],
       "director": "Samuel Suffren",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Trilogie de court-métrages du réalisateur haïtien Samuel Suffren composée de AGWE (2022,17'), DES REVES EN BATEAUX PAPIERS (2024, 19') et COEUR BLEU (2025, 15').« Mon père rêvait d",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:41Z"
+      "checkedAt": "2026-09-17T10:02:48Z"
     },
     "321354": {
       "allocineId": "321354",
@@ -435,7 +434,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:42Z"
+      "checkedAt": "2026-09-17T10:02:48Z"
     },
     "1000051178": {
       "allocineId": "1000051178",
@@ -446,7 +445,7 @@
       "year": 2026,
       "duration": null,
       "genres": [],
-      "director": "Padraic McKinley",
+      "director": "David Ayer",
       "actors": [
         "une sélection élargie à six longs métrages et huit courts métrages",
         "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
@@ -459,7 +458,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:42Z"
+      "checkedAt": "2026-09-17T10:02:50Z"
     },
     "1000051176": {
       "allocineId": "1000051176",
@@ -470,7 +469,7 @@
       "year": 2026,
       "duration": null,
       "genres": [],
-      "director": "Padraic McKinley",
+      "director": "David Ayer",
       "actors": [
         "une sélection élargie à six longs métrages et huit courts métrages",
         "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
@@ -483,7 +482,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:43Z"
+      "checkedAt": "2026-09-17T10:02:51Z"
     },
     "1000049013": {
       "allocineId": "1000049013",
@@ -504,7 +503,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:43Z"
+      "checkedAt": "2026-09-17T10:02:50Z"
     },
     "1000049118": {
       "allocineId": "1000049118",
@@ -525,7 +524,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:44Z"
+      "checkedAt": "2026-09-17T10:02:49Z"
     },
     "1000018371": {
       "allocineId": "1000018371",
@@ -546,7 +545,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:44Z"
+      "checkedAt": "2026-09-17T10:02:36Z"
     },
     "1000000085": {
       "allocineId": "1000000085",
@@ -569,7 +568,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:45Z"
+      "checkedAt": "2026-09-17T10:02:15Z"
     },
     "1000018384": {
       "allocineId": "1000018384",
@@ -590,7 +589,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:45Z"
+      "checkedAt": "2026-09-17T10:02:36Z"
     },
     "1000007388": {
       "allocineId": "1000007388",
@@ -611,7 +610,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:46Z"
+      "checkedAt": "2026-09-17T10:02:37Z"
     },
     "1000026039": {
       "allocineId": "1000026039",
@@ -632,7 +631,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:46Z"
+      "checkedAt": "2026-09-17T10:02:16Z"
     },
     "1000004458": {
       "allocineId": "1000004458",
@@ -651,7 +650,7 @@
       "pressScore": 3.5,
       "pressReviews": 24,
       "status": "already-present",
-      "checkedAt": "2026-09-14T19:39:47Z"
+      "checkedAt": "2026-09-17T10:02:52Z"
     },
     "327941": {
       "allocineId": "327941",
@@ -672,7 +671,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:47Z"
+      "checkedAt": "2026-09-17T10:02:52Z"
     },
     "323826": {
       "allocineId": "323826",
@@ -693,7 +692,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:47Z"
+      "checkedAt": "2026-09-17T10:02:52Z"
     },
     "1000004679": {
       "allocineId": "1000004679",
@@ -716,7 +715,7 @@
       ],
       "status": "rejected",
       "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "checkedAt": "2026-09-14T19:39:48Z"
+      "checkedAt": "2026-09-17T10:02:53Z"
     },
     "319893": {
       "allocineId": "319893",
@@ -739,7 +738,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-09-14T19:39:48Z"
+      "checkedAt": "2026-09-17T10:02:53Z"
     },
     "1000012310": {
       "allocineId": "1000012310",
@@ -760,7 +759,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:48Z"
+      "checkedAt": "2026-09-17T10:02:53Z"
     },
     "318226": {
       "allocineId": "318226",
@@ -781,7 +780,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:48Z"
+      "checkedAt": "2026-09-17T10:02:53Z"
     },
     "1000021803": {
       "allocineId": "1000021803",
@@ -802,7 +801,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:49Z"
+      "checkedAt": "2026-09-17T10:02:54Z"
     },
     "1000031730": {
       "allocineId": "1000031730",
@@ -823,7 +822,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:49Z"
+      "checkedAt": "2026-09-17T10:02:54Z"
     },
     "1000021763": {
       "allocineId": "1000021763",
@@ -844,7 +843,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:50Z"
+      "checkedAt": "2026-09-17T10:02:54Z"
     },
     "1000027155": {
       "allocineId": "1000027155",
@@ -869,7 +868,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-09-14T19:39:50Z"
+      "checkedAt": "2026-09-17T10:02:54Z"
     },
     "1000030749": {
       "allocineId": "1000030749",
@@ -890,7 +889,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:50Z"
+      "checkedAt": "2026-09-17T10:02:56Z"
     },
     "1000023324": {
       "allocineId": "1000023324",
@@ -911,7 +910,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:51Z"
+      "checkedAt": "2026-09-17T10:02:56Z"
     },
     "1000043030": {
       "allocineId": "1000043030",
@@ -932,7 +931,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:52Z"
+      "checkedAt": "2026-09-17T10:02:58Z"
     },
     "1000019852": {
       "allocineId": "1000019852",
@@ -955,7 +954,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-09-14T19:39:54Z"
+      "checkedAt": "2026-09-17T10:02:59Z"
     },
     "314290": {
       "allocineId": "314290",
@@ -976,7 +975,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:54Z"
+      "checkedAt": "2026-09-17T10:02:59Z"
     },
     "300784": {
       "allocineId": "300784",
@@ -997,7 +996,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:54Z"
+      "checkedAt": "2026-09-17T10:03:00Z"
     },
     "1000022260": {
       "allocineId": "1000022260",
@@ -1018,7 +1017,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:54Z"
+      "checkedAt": "2026-09-17T10:03:00Z"
     },
     "1000044253": {
       "allocineId": "1000044253",
@@ -1039,7 +1038,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:55Z"
+      "checkedAt": "2026-09-17T10:03:01Z"
     },
     "1000018551": {
       "allocineId": "1000018551",
@@ -1060,7 +1059,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:55Z"
+      "checkedAt": "2026-09-17T10:03:01Z"
     },
     "1000024164": {
       "allocineId": "1000024164",
@@ -1081,7 +1080,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:56Z"
+      "checkedAt": "2026-09-17T10:03:02Z"
     },
     "316397": {
       "allocineId": "316397",
@@ -1102,7 +1101,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:57Z"
+      "checkedAt": "2026-09-17T10:03:04Z"
     },
     "1000034818": {
       "allocineId": "1000034818",
@@ -1123,7 +1122,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:57Z"
+      "checkedAt": "2026-09-17T10:03:03Z"
     },
     "1000047849": {
       "allocineId": "1000047849",
@@ -1144,7 +1143,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:57Z"
+      "checkedAt": "2026-09-17T10:03:03Z"
     },
     "1000019736": {
       "allocineId": "1000019736",
@@ -1165,7 +1164,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:58Z"
+      "checkedAt": "2026-09-17T10:03:05Z"
     },
     "1000036604": {
       "allocineId": "1000036604",
@@ -1186,7 +1185,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:39:59Z"
+      "checkedAt": "2026-09-17T10:03:06Z"
     },
     "44148": {
       "allocineId": "44148",
@@ -1207,7 +1206,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:39:59Z"
+      "checkedAt": "2026-09-17T10:03:06Z"
     },
     "1000047486": {
       "allocineId": "1000047486",
@@ -1232,7 +1231,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-09-14T19:39:59Z"
+      "checkedAt": "2026-09-17T10:03:08Z"
     },
     "1000045609": {
       "allocineId": "1000045609",
@@ -1253,7 +1252,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:00Z"
+      "checkedAt": "2026-09-17T10:03:09Z"
     },
     "138263": {
       "allocineId": "138263",
@@ -1274,7 +1273,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:00Z"
+      "checkedAt": "2026-09-17T10:03:08Z"
     },
     "1000014969": {
       "allocineId": "1000014969",
@@ -1297,7 +1296,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-09-14T19:40:02Z"
+      "checkedAt": "2026-09-17T10:03:09Z"
     },
     "327993": {
       "allocineId": "327993",
@@ -1320,7 +1319,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-09-14T19:40:02Z"
+      "checkedAt": "2026-09-17T10:03:09Z"
     },
     "1000039625": {
       "allocineId": "1000039625",
@@ -1341,7 +1340,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:02Z"
+      "checkedAt": "2026-09-17T10:03:09Z"
     },
     "257425": {
       "allocineId": "257425",
@@ -1362,7 +1361,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:02Z"
+      "checkedAt": "2026-09-17T10:03:10Z"
     },
     "1000032278": {
       "allocineId": "1000032278",
@@ -1383,7 +1382,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:03Z"
+      "checkedAt": "2026-09-17T10:03:11Z"
     },
     "318365": {
       "allocineId": "318365",
@@ -1404,7 +1403,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:03Z"
+      "checkedAt": "2026-09-17T10:03:11Z"
     },
     "321617": {
       "allocineId": "321617",
@@ -1425,7 +1424,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:03Z"
+      "checkedAt": "2026-09-17T10:03:11Z"
     },
     "1000028076": {
       "allocineId": "1000028076",
@@ -1446,7 +1445,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:03Z"
+      "checkedAt": "2026-09-17T10:03:11Z"
     },
     "1000029051": {
       "allocineId": "1000029051",
@@ -1467,7 +1466,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:04Z"
+      "checkedAt": "2026-09-17T10:03:13Z"
     },
     "324492": {
       "allocineId": "324492",
@@ -1488,7 +1487,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:05Z"
+      "checkedAt": "2026-09-17T10:03:13Z"
     },
     "1000050408": {
       "allocineId": "1000050408",
@@ -1509,7 +1508,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:06Z"
+      "checkedAt": "2026-09-17T10:03:15Z"
     },
     "1000049021": {
       "allocineId": "1000049021",
@@ -1532,7 +1531,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:06Z"
+      "checkedAt": "2026-09-17T10:03:16Z"
     },
     "147956": {
       "allocineId": "147956",
@@ -1555,7 +1554,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:07Z"
+      "checkedAt": "2026-09-17T10:03:17Z"
     },
     "224258": {
       "allocineId": "224258",
@@ -1578,7 +1577,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:07Z"
+      "checkedAt": "2026-09-17T10:03:17Z"
     },
     "135076": {
       "allocineId": "135076",
@@ -1601,7 +1600,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:08Z"
+      "checkedAt": "2026-09-17T10:03:18Z"
     },
     "148223": {
       "allocineId": "148223",
@@ -1614,19 +1613,19 @@
       "genres": [],
       "director": "Noriyuki Abe",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Revivez sur grand écran l’intégralité des films de la saga Bleach ayant marqué toute une génération ! Les 28 et 30 août, ADN vous donne rendez-vous pour un marathon cinéma exceptio",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:09Z"
+      "checkedAt": "2026-09-17T10:03:19Z"
     },
     "188280": {
       "allocineId": "188280",
@@ -1649,7 +1648,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-09-14T19:40:09Z"
+      "checkedAt": "2026-09-17T10:03:19Z"
     },
     "316021": {
       "allocineId": "316021",
@@ -1672,7 +1671,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-09-14T19:40:09Z"
+      "checkedAt": "2026-09-17T10:03:19Z"
     },
     "1000002942": {
       "allocineId": "1000002942",
@@ -1689,13 +1688,13 @@
       ],
       "synopsis": "Cole Reed, ancien agent des forces spéciales reconverti en chef de sécurité, est accusé à tort du meurtre de son patron. Remontant le fil de la machination dont il est victime, il",
       "pressScore": 2.1,
-      "pressReviews": 7,
+      "pressReviews": 8,
       "knownActors": [
         "Jason Statham"
       ],
       "status": "rejected",
       "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "checkedAt": "2026-09-14T19:40:09Z"
+      "checkedAt": "2026-09-17T10:03:19Z"
     },
     "1000016503": {
       "allocineId": "1000016503",
@@ -1716,7 +1715,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:10Z"
+      "checkedAt": "2026-09-17T10:03:20Z"
     },
     "1000033718": {
       "allocineId": "1000033718",
@@ -1737,7 +1736,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:10Z"
+      "checkedAt": "2026-09-17T10:03:20Z"
     },
     "308394": {
       "allocineId": "308394",
@@ -1758,7 +1757,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:11Z"
+      "checkedAt": "2026-09-17T10:03:21Z"
     },
     "1000022452": {
       "allocineId": "1000022452",
@@ -1779,7 +1778,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:12Z"
+      "checkedAt": "2026-09-17T10:03:22Z"
     },
     "1000022217": {
       "allocineId": "1000022217",
@@ -1792,19 +1791,19 @@
       "genres": [],
       "director": "Endre Skandfer",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Au beau milieu de l’océan se cache une île merveilleuse peuplée de serpents de mer. Parmi eux vit Marius, qui n’est pas tout à fait comme les autres : il ne sait pas nager ! Mais l",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:11Z"
+      "checkedAt": "2026-09-17T10:03:21Z"
     },
     "1000037432": {
       "allocineId": "1000037432",
@@ -1825,7 +1824,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:13Z"
+      "checkedAt": "2026-09-17T10:03:24Z"
     },
     "121982": {
       "allocineId": "121982",
@@ -1846,7 +1845,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:14Z"
+      "checkedAt": "2026-09-17T10:03:25Z"
     },
     "316499": {
       "allocineId": "316499",
@@ -1867,7 +1866,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:14Z"
+      "checkedAt": "2026-09-17T10:03:26Z"
     },
     "1000037129": {
       "allocineId": "1000037129",
@@ -1888,7 +1887,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:15Z"
+      "checkedAt": "2026-09-17T10:03:26Z"
     },
     "1000030962": {
       "allocineId": "1000030962",
@@ -1901,19 +1900,19 @@
       "genres": [],
       "director": "Mathias Averty",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Pour combattre l’angoisse qui le hante jour et nuit, un jeune musicien décide d’explorer sa part d'ombre. Une quête initiatique qui va le mener sur les traces du satanisme en Franc",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:15Z"
+      "checkedAt": "2026-09-17T10:03:28Z"
     },
     "1000010367": {
       "allocineId": "1000010367",
@@ -1934,7 +1933,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:16Z"
+      "checkedAt": "2026-09-17T10:03:27Z"
     },
     "1000033875": {
       "allocineId": "1000033875",
@@ -1955,7 +1954,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:16Z"
+      "checkedAt": "2026-09-17T10:03:28Z"
     },
     "1000049968": {
       "allocineId": "1000049968",
@@ -1976,7 +1975,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:17Z"
+      "checkedAt": "2026-09-17T10:03:30Z"
     },
     "1000040592": {
       "allocineId": "1000040592",
@@ -1997,7 +1996,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:18Z"
+      "checkedAt": "2026-09-17T10:03:31Z"
     },
     "1000024105": {
       "allocineId": "1000024105",
@@ -2041,7 +2040,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:18Z"
+      "checkedAt": "2026-09-17T10:03:31Z"
     },
     "314503": {
       "allocineId": "314503",
@@ -2085,7 +2084,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:19Z"
+      "checkedAt": "2026-09-17T10:03:31Z"
     },
     "1000041528": {
       "allocineId": "1000041528",
@@ -2127,7 +2126,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:19Z"
+      "checkedAt": "2026-09-17T10:03:32Z"
     },
     "1000029301": {
       "allocineId": "1000029301",
@@ -2169,7 +2168,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:20Z"
+      "checkedAt": "2026-09-17T10:03:33Z"
     },
     "1000019382": {
       "allocineId": "1000019382",
@@ -2190,7 +2189,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:20Z"
+      "checkedAt": "2026-09-17T10:03:33Z"
     },
     "327754": {
       "allocineId": "327754",
@@ -2211,7 +2210,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:21Z"
+      "checkedAt": "2026-09-17T10:03:34Z"
     },
     "1000042782": {
       "allocineId": "1000042782",
@@ -2249,19 +2248,19 @@
       "genres": [],
       "director": "Nadia Hallgren",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Le groupe féminin international KATSEYE, nommé à deux reprises aux Grammy Awards, arrive au cinéma dans le monde entier avec une sortie événement à l’occasion de la sortie de son troisième EP, WILD.",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:23Z"
+      "checkedAt": "2026-09-17T10:03:35Z"
     },
     "56608": {
       "allocineId": "56608",
@@ -2284,7 +2283,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:24Z"
+      "checkedAt": "2026-09-17T10:03:36Z"
     },
     "320681": {
       "allocineId": "320681",
@@ -2305,7 +2304,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:24Z"
+      "checkedAt": "2026-09-17T10:03:37Z"
     },
     "1000022546": {
       "allocineId": "1000022546",
@@ -2326,7 +2325,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:25Z"
+      "checkedAt": "2026-09-17T10:03:37Z"
     },
     "1000023007": {
       "allocineId": "1000023007",
@@ -2347,7 +2346,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:25Z"
+      "checkedAt": "2026-09-17T10:03:38Z"
     },
     "1000039379": {
       "allocineId": "1000039379",
@@ -2368,7 +2367,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:26Z"
+      "checkedAt": "2026-09-17T10:03:39Z"
     },
     "1000027856": {
       "allocineId": "1000027856",
@@ -2410,7 +2409,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:27Z"
+      "checkedAt": "2026-09-17T10:03:39Z"
     },
     "305836": {
       "allocineId": "305836",
@@ -2452,7 +2451,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:27Z"
+      "checkedAt": "2026-09-17T10:03:40Z"
     },
     "1000027224": {
       "allocineId": "1000027224",
@@ -2465,19 +2464,19 @@
       "genres": [],
       "director": "Jean-Stéphane Bron",
       "actors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "synopsis": "Filmé en immersion pendant plus de quatre ans, « Le chantier » suit la construction de salles de cinéma imaginées par l’architecte Renzo Piano.",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Ethan Hawke",
-        "Russell Crowe"
+        "Brad Pitt",
+        "Uber"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:27Z"
+      "checkedAt": "2026-09-17T10:03:41Z"
     },
     "1000008200": {
       "allocineId": "1000008200",
@@ -2498,7 +2497,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:28Z"
+      "checkedAt": "2026-09-17T10:03:41Z"
     },
     "1000048132": {
       "allocineId": "1000048132",
@@ -2519,7 +2518,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-09-14T19:40:28Z"
+      "checkedAt": "2026-09-17T10:03:42Z"
     },
     "276608": {
       "allocineId": "276608",
@@ -2563,7 +2562,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-09-14T19:40:29Z"
+      "checkedAt": "2026-09-17T10:03:43Z"
     },
     "1000031160": {
       "allocineId": "1000031160",
@@ -2860,13 +2859,742 @@
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "checkedAt": "2026-09-14T19:40:34Z"
+    },
+    "1000013908": {
+      "allocineId": "1000013908",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013908.html",
+      "title": "Primetime",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Lance Oppenheim",
+      "actors": [
+        "Robert Pattinson"
+      ],
+      "synopsis": "En 2006, Chris Hansen, le présentateur de l'émission To Catch a Predator, entreprend de marquer l’histoire de la télévision.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Robert Pattinson"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:16Z"
+    },
+    "1000028944": {
+      "allocineId": "1000028944",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028944.html",
+      "title": "Justin le Juste",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Eric Barbier",
+      "actors": [
+        "Alban Ivanov"
+      ],
+      "synopsis": "1915. La guerre, c’est une terre inconnue où l’on envoie Justin, misérable paysan, à une époque où il doit s’occuper de ses champs. Il doit partir se battre, au nom d’une loi qu’il",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:17Z"
+    },
+    "1000036867": {
+      "allocineId": "1000036867",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036867.html",
+      "title": "Avengers : Endgame Extended",
+      "originalTitle": "Avengers Endgame: Encore",
+      "releaseDate": null,
+      "year": null,
+      "duration": null,
+      "genres": [],
+      "director": "Joe Russo,",
+      "actors": [
+        "Robert Downey Jr."
+      ],
+      "synopsis": "Dans Avengers Endgame Extended, les Avengers doivent faire face aux conséquences de leur défaite contre Thanos. Après avoir réuni les six Pierres d’Infinité et anéanti la moitié de la population de l’univers, dont nombre de leurs alliés, le Titan fou a laissé derrière lui un monde profondément bouleversé. Confrontés à la plus grande épreuve de leur histoire, les héros restants doivent trouver la force de se relever, se rassembler une nouvelle fois et tenter l’impossible : restaurer l’équilibre de l’univers, ramener ceux qu’ils ont perdus et vaincre Thanos une fois pour toutes.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Robert Downey Jr."
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:18Z"
+    },
+    "1000026622": {
+      "allocineId": "1000026622",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026622.html",
+      "title": "Raison et sentiments",
+      "originalTitle": "Sense and Sensibility",
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Georgia Oakley",
+      "actors": [
+        "Daisy Edgar-Jones"
+      ],
+      "synopsis": "Après la mort de son mari, Mme Dashwood et ses trois filles, toujours célibataires, se retrouvent dans une situation précaire. En effet, elles sont privées d’héritage puisque le do",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Daisy Edgar-Jones"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:18Z"
+    },
+    "326989": {
+      "allocineId": "326989",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326989.html",
+      "title": "Les Roches Rouges",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Bruno Dumont",
+      "actors": [
+        "Kaylon Lancel"
+      ],
+      "synopsis": "Sur la Côte d’Azur, deux bandes d’enfants s’affrontent à leur jeu favori : sauter des rochers rouges de la Méditerranée. Géo, 5 ans à peine, découvre le temps d’un été un monde où",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:19Z"
+    },
+    "1000048319": {
+      "allocineId": "1000048319",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048319.html",
+      "title": "Fini de rire ! L'humour politique au garde-à-vous ?",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Matéo Larroque,",
+      "actors": [
+        "Guillaume Meurice"
+      ],
+      "synopsis": "En France, rire des puissants est devenu un sport à risque. En trente ans, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés, margin",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:20Z"
+    },
+    "1000042927": {
+      "allocineId": "1000042927",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042927.html",
+      "title": "Les Éléphants dans la brume",
+      "originalTitle": "Elephants in the Fog",
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Abinash Bikram Shah",
+      "actors": [
+        "Pushpa Thing Lama"
+      ],
+      "synopsis": "Dans un village népalais niché au cœur d’une forêt peuplée d’éléphants sauvages vit une communauté kinnar aussi vénérée que crainte pour ses pouvoirs de bénédiction et de malédicti",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:20Z"
+    },
+    "1000023438": {
+      "allocineId": "1000023438",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023438.html",
+      "title": "Her Private Hell",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Nicolas Winding Refn",
+      "actors": [
+        "Sophie Thatcher"
+      ],
+      "synopsis": "Alors qu’une étrange brume engloutit une métropole futuriste et libère une présence mortelle insaisissable, une jeune femme troublée part à la recherche de son père. Au cours de ce",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Sophie Thatcher"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:21Z"
+    },
+    "232669": {
+      "allocineId": "232669",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=232669.html",
+      "title": "Avengers: Endgame",
+      "originalTitle": null,
+      "releaseDate": "2019-04-24",
+      "year": 2019,
+      "duration": null,
+      "genres": [],
+      "director": "Joe Russo,",
+      "actors": [
+        "Robert Downey Jr."
+      ],
+      "synopsis": "Thanos ayant anéanti la moitié de l’univers, les Avengers restants resserrent les rangs dans ce vingt-deuxième film des Studios Marvel, grande conclusion d’un des chapitres de l’Un",
+      "pressScore": 3.2,
+      "pressReviews": 33,
+      "status": "already-present",
+      "checkedAt": "2026-09-17T10:02:22Z"
+    },
+    "1000042175": {
+      "allocineId": "1000042175",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042175.html",
+      "title": "Artus - Le Show XXL au cinéma",
+      "originalTitle": null,
+      "releaseDate": "2026-09-24",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Artus,",
+      "actors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "synopsis": "Artus signe un show XXL à voir sur grand écran ! Il entre dans l'Histoire en devenant le premier humoriste à investir Paris La Défense Arena, la plus grande salle d’Europe, dans un format totalement inédit : une fusion des genres, entre humour et expérience live jamais vue auparavant.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:23Z"
+    },
+    "1000037846": {
+      "allocineId": "1000037846",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037846.html",
+      "title": "Détective Conan : L'Ange déchu de l'asphalte",
+      "originalTitle": "Meitantei Conan: Highway no Datenshi",
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Takahiro Hasui",
+      "actors": [
+        "Minami Takayama"
+      ],
+      "synopsis": "Alors qu'ils se rendent à un festival de moto à Kanagawa, Conan Edogawa et ses amis se font dépasser par une mystérieuse moto noire filant à toute allure sur l’autoroute. La « Dées",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Minami Takayama"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:23Z"
+    },
+    "1000045286": {
+      "allocineId": "1000045286",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045286.html",
+      "title": "Un amour d’épouvantail",
+      "originalTitle": "The Scarecrows’ Wedding",
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Samantha Cutler,",
+      "actors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "synopsis": "Un programme champêtre qui anime la ferme de mille et une aventures ! D’après l’album illustré de Julia Donaldson et Axel Scheffler.Betty Delorge et Harry Fortepaille, deux épouvan",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:24Z"
+    },
+    "1000028074": {
+      "allocineId": "1000028074",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028074.html",
+      "title": "Écrire la vie : Annie Ernaux racontée par des lycéennes et des lycéens",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Claire Simon",
+      "actors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "synopsis": "Figure majeure de la littérature contemporaine et première écrivaine française à recevoir le Nobel, Annie Ernaux incarne pour beaucoup l’émancipation individuelle et collective, mê",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:24Z"
+    },
+    "53042": {
+      "allocineId": "53042",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=53042.html",
+      "title": "Collatéral",
+      "originalTitle": "Collateral",
+      "releaseDate": "2004-09-29",
+      "year": 2004,
+      "duration": null,
+      "genres": [],
+      "director": "Michael Mann",
+      "actors": [
+        "Tom Cruise"
+      ],
+      "synopsis": "Max est taxi de nuit à Los Angeles. Un soir, il se lie d'amitié avec une dénommée Annie Farrell, une belle femme procureur montée à l'arrière de son véhicule. Quelques minutes plus",
+      "pressScore": 4.4,
+      "pressReviews": 21,
+      "status": "already-present",
+      "checkedAt": "2026-09-17T10:02:25Z"
+    },
+    "1000046253": {
+      "allocineId": "1000046253",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046253.html",
+      "title": "Haute solitude, Jean Zay prisonnier politique",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Laurent Véray",
+      "actors": [
+        "Eric Caravaca"
+      ],
+      "synopsis": "Jean Zay, ministre de l’Education Nationale durant le front populaire de 1936, est arrêté puis détenu durant quatre ans pour ses idées politiques, dans la France de l’Occupation. L",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:26Z"
+    },
+    "1000051923": {
+      "allocineId": "1000051923",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051923.html",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": null,
+      "releaseDate": "2026-09-25",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Hiphop Tamizha Adhi",
+      "actors": [
+        "Hiphop Tamizha Adhi"
+      ],
+      "synopsis": "Quarante ans après l’humiliation de son grand-père Gana Doss, qui rêvait de devenir chanteur de Gana, Jeeva nourrit à son tour le rêve de se faire un nom dans la musique indépendan",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:26Z"
+    },
+    "1000020779": {
+      "allocineId": "1000020779",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020779.html",
+      "title": "The Paradise",
+      "originalTitle": null,
+      "releaseDate": "2026-09-24",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Srikanth Odela,",
+      "actors": [
+        "Nani"
+      ],
+      "synopsis": "Une tribu marginalisée, privée de ses droits, trouve de l'espoir en un leader improbable qui les guide dans leur lutte pour la citoyenneté et la reconnaissance au sein d'un système",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:27Z"
+    },
+    "1000051542": {
+      "allocineId": "1000051542",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051542.html",
+      "title": "Dorothy",
+      "originalTitle": null,
+      "releaseDate": "2026-09-25",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Karthik Subbaraj",
+      "actors": [
+        "Keerthy Suresh"
+      ],
+      "synopsis": "Dans un monde façonné par les castes, la violence et une masculinité toxique, deux amis grandissent inséparables dans le Tamil Nadu rural. Leur vie est bouleversée par l’arrivée de",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:27Z"
+    },
+    "3213": {
+      "allocineId": "3213",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=3213.html",
+      "title": "Los Golfos",
+      "originalTitle": null,
+      "releaseDate": null,
+      "year": null,
+      "duration": null,
+      "genres": [],
+      "director": "Carlos Saura",
+      "actors": [
+        "Manolo Zarzo"
+      ],
+      "synopsis": "Madrid, 1959. Sans emploi, un groupe d'amis qui vivent en marge de la société subsistent grâce à de petits vols. Juan, l'un d'eux, poursuit toutefois un rêve auquel il ne peut reno",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:29Z"
+    },
+    "1000046176": {
+      "allocineId": "1000046176",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046176.html",
+      "title": "James McNeill Whistler",
+      "originalTitle": "Exhibition On Screen: James McNeill Whistler",
+      "releaseDate": "2026-09-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "David Bickerstaff",
+      "actors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "synopsis": "C’est à une époque de grand changement et de grande beauté qu’a émergé le personnage de James McNeill Whistler. Parfois considéré comme l’un des grands pionniers de l’art du 19e si",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:30Z"
+    },
+    "1000051168": {
+      "allocineId": "1000051168",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051168.html",
+      "title": "Popitsa - Paris - La Lune",
+      "originalTitle": null,
+      "releaseDate": "2026-09-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Desislava Mincheva",
+      "actors": [],
+      "synopsis": "Lorsqu’il s’exprime en français ou en anglais, le style du grand entrepreneur à succès Jonathan Anguelov s’impose naturellement. Son élégance dans la manière de s’exprimer est parf",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:30Z"
+    },
+    "1000050695": {
+      "allocineId": "1000050695",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050695.html",
+      "title": "Anbil Avan",
+      "originalTitle": null,
+      "releaseDate": "2026-09-25",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Karthikeyan Ramakrishnan",
+      "actors": [
+        "Sabumon Abdusamad"
+      ],
+      "synopsis": "Anbil Avan est une romance teintée d’action qui suit un jeune couple nouvellement marié, dont l’amour et la relation sont mis à l’épreuve par des circonstances extraordinaires. Ent",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:31Z"
+    },
+    "325074": {
+      "allocineId": "325074",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=325074.html",
+      "title": "Republic",
+      "originalTitle": null,
+      "releaseDate": "2026-09-29",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jin Jiang",
+      "actors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "synopsis": "Dans la nouvelle classe moyenne chinoise, quel est le quotidien des jeunes en sa marge ?",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:32Z"
+    },
+    "1000040001": {
+      "allocineId": "1000040001",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040001.html",
+      "title": "Li Chevalier Encre et Âme",
+      "originalTitle": null,
+      "releaseDate": "2026-09-26",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Bernard Louargant",
+      "actors": [],
+      "synopsis": "Une artiste franco-chinoise inclassable ne cesse de défier les limites de son art.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:33Z"
+    },
+    "1000044751": {
+      "allocineId": "1000044751",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044751.html",
+      "title": "La nuit de l’enfance",
+      "originalTitle": null,
+      "releaseDate": "2026-09-25",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Xisi Sofia Ye Chen",
+      "actors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "synopsis": "A Wen, 38 ans, homme d’affaires et père de famille à Barcelone, est aussi le frère de la cinéaste. À l’image des films de gangster qu’ils regardaient enfants sur VHS, il a été mêlé",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:34Z"
+    },
+    "1000023845": {
+      "allocineId": "1000023845",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023845.html",
+      "title": "Vvaan",
+      "originalTitle": "The Vvaan - Force Of The Forrest",
+      "releaseDate": "2026-09-25",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Deepak Kumar Mishra",
+      "actors": [
+        "Sidharth Malhotra"
+      ],
+      "synopsis": "De retour dans son village ancestral, un homme profondément rationnel s’aventure dans une forêt interdite et réveille une présence divine oubliée. Dès lors, les frontières entre cr",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:34Z"
+    },
+    "1000052224": {
+      "allocineId": "1000052224",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052224.html",
+      "title": "Shang’ajia",
+      "originalTitle": null,
+      "releaseDate": "2026-09-27",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jin Jiang",
+      "actors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "synopsis": "Vivant en marge et isolés dans les montagnes du Yunnan, l’avenir des jeunes des minorités est un casse-tête au quotidien.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:35Z"
+    },
+    "1000052225": {
+      "allocineId": "1000052225",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052225.html",
+      "title": "Sous les anneaux de Saturne",
+      "originalTitle": null,
+      "releaseDate": "2026-09-28",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Xu Ruotao",
+      "actors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "synopsis": "Zéro-Covid : histoires de vie d’une communauté sous confinement stricte près de Pékin.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:35Z"
+    },
+    "327174": {
+      "allocineId": "327174",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327174.html",
+      "title": "Digger",
+      "originalTitle": null,
+      "releaseDate": "2026-09-30",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Alejandro González Iñárritu",
+      "actors": [
+        "Tom Cruise"
+      ],
+      "synopsis": "L’homme le plus puissant au monde se lance dans une mission effrénée pour s'ériger en sauveur de l’humanité avant que la catastrophe, qu’il a lui-même déclenchée, n’anéantisse la p",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Tom Cruise"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:37Z"
+    },
+    "1000011453": {
+      "allocineId": "1000011453",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000011453.html",
+      "title": "Reste avec moi",
+      "originalTitle": "Remain",
+      "releaseDate": "2027-02-03",
+      "year": 2027,
+      "duration": null,
+      "genres": [],
+      "director": "M. Night Shyamalan",
+      "actors": [
+        "Jake Gyllenhaal"
+      ],
+      "synopsis": "L'architecte Tate Donovan se rend à Cape Cod pour concevoir la maison d'été de son meilleur ami. Il y rencontre Wren, une jeune femme qui lui fait remettre en question tout ce qu'i",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Jake Gyllenhaal"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:38Z"
+    },
+    "314882": {
+      "allocineId": "314882",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314882.html",
+      "title": "Hope",
+      "originalTitle": "Hopeu",
+      "releaseDate": "2026-10-28",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Na Hong-jin",
+      "actors": [
+        "Jung-Min Hwang"
+      ],
+      "synopsis": "Alors que les secours sont mobilisés ailleurs et que toute communication est interrompue, les habitants de Hope doivent faire face seuls à une menace grandissante. Tandis que certa",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:38Z"
+    },
+    "326160": {
+      "allocineId": "326160",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326160.html",
+      "title": "Les Misérables",
+      "originalTitle": null,
+      "releaseDate": "2026-10-14",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Fred Cavayé",
+      "actors": [
+        "Vincent Lindon"
+      ],
+      "synopsis": "Libéré après 19 ans de bagne pour le vol d’un pain, Jean Valjean décide de changer de vie et de faire le bien autour de lui. Sous une fausse identité, il devient avec le temps un n",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Vincent Lindon"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:39Z"
+    },
+    "1000037463": {
+      "allocineId": "1000037463",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037463.html",
+      "title": "Fouilles",
+      "originalTitle": null,
+      "releaseDate": "2026-09-17",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Danai Stylianou",
+      "actors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "synopsis": "Les investigations archéologiques révèlent les secrets de l’histoire récente de Chypre.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Brad Pitt",
+        "Uber"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-09-17T10:02:51Z"
     }
   },
-  "updatedAt": "2026-09-14T19:40:34Z",
-  "checkedThisRun": 122,
-  "addedThisRun": 0,
-  "pendingThisRun": 58,
-  "rejectedThisRun": 41,
+  "updatedAt": "2026-09-17T10:03:43Z",
+  "checkedThisRun": 141,
+  "addedThisRun": 9,
+  "pendingThisRun": 73,
+  "rejectedThisRun": 37,
   "failuresThisRun": 0,
   "criteria": {
     "knownActorPressMinimum": 2.5,
