@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "catalog": "tech-discovery",
   "cursor": 0,
-  "checkedThisRun": 117,
-  "addedThisRun": 14,
+  "checkedThisRun": 120,
+  "addedThisRun": 3,
   "failuresThisRun": 0,
   "feedsThisRun": [
     "https://www.apple.com/newsroom/rss-feed.rss",
@@ -13,5 +13,5 @@
     "https://blog.playstation.com/feed/",
     "https://blog.google/rss/"
   ],
-  "updatedAt": "2026-09-14T19:47:23Z"
+  "updatedAt": "2026-09-19T08:52:01Z"
 }
