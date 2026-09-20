@@ -1538,7 +1538,7 @@
           "sheet": "12 - Reading & Listening",
           "table": "ResourcesTable",
           "file": "data/english/resources.json",
-          "recordCount": 66,
+          "recordCount": 72,
           "idColumn": "ID",
           "preserveColumns": [
             "Status",

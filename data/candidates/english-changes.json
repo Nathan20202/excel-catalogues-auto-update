@@ -1,7 +1,184 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T19:49:04Z",
+  "updatedAt": "2026-09-20T09:43:53Z",
   "catalog": "english",
-  "count": 0,
-  "records": []
+  "count": 22,
+  "records": [
+    {
+      "id": "RES-031",
+      "url": "https://csrc.nist.gov/glossary",
+      "detectedAt": "2026-09-20T09:43:51Z",
+      "oldHash": "ca15eda2ec7955f32c0e6205a0a7cea18ffa813e31cea8ad8ef13e6939cc341d",
+      "newHash": "9b37e479392d8d996c6c64dbfab4a378cf66754c49d17584999456c43dd9daed",
+      "title": "Glossary | CSRC"
+    },
+    {
+      "id": "RES-037",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/",
+      "detectedAt": "2026-09-20T09:43:51Z",
+      "oldHash": "ae984a48cdd9cdd54a97c73bd612c855d3de0fca1e066961a1583a0e8b1bf6f6",
+      "newHash": "7c4073ee293f58013a2f2e131ad0123663e31730871344385406c8d0e81be368",
+      "title": "Azure Architecture Center"
+    },
+    {
+      "id": "RES-040",
+      "url": "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/",
+      "detectedAt": "2026-09-20T09:43:51Z",
+      "oldHash": "f9f1c310f9a414a1957a27632e54ef3bebe696e6ea2a30352a8993fecd2d8b41",
+      "newHash": "2b1fd2c8a3ce1ce031fc6e76886e08dd08b5dcf8a23c602e4ebf2a3b9049775e",
+      "title": "Cloud Adoption Framework for Microsoft - Cloud Adoption Framework | Microsoft Learn"
+    },
+    {
+      "id": "RES-AUTO-AE96F3D52726",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
+      "detectedAt": "2026-09-20T09:43:51Z",
+      "oldHash": "c985fd789c28725cf3c6245484df80c2b5ced051b4859faf552ae33750df906b",
+      "newHash": "7dd23ed183b6cc3ef6ae42cb247517191dfd5c7f7c3e0ba979414b6ae38a8e99",
+      "title": ""
+    },
+    {
+      "id": "RES-AUTO-6E6808F32610",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "4cdbb8ef29aeca7ec096cae2a3aed251a7abfafbe0ffb3b33ebf85a2cb3def5c",
+      "newHash": "6971b62d1731f2b7026b0d3ccb671357ca36071494414f614ecf3b3829ef606a",
+      "title": ""
+    },
+    {
+      "id": "RES-AUTO-107BEFD3B229",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "d5cee503ed6c7d0e4fa2062cf3646c078e04ff5ac34b7af57d8f828ea23aa019",
+      "newHash": "58e649d52535c7902d007a6764b69ca6fe5a3ab235033068cc3eecf14b0cdcc1",
+      "title": ""
+    },
+    {
+      "id": "RES-AUTO-E7045162419C",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
+      "detectedAt": "2026-09-20T09:43:51Z",
+      "oldHash": "9c14889b902a2f17c9a402becfc7dc39b580a55cdf2d110de468aa647ee10bb6",
+      "newHash": "89eaf5c34e3c88ef4bcf2f019e03b8534654400339a662695f4aa853288fbdbb",
+      "title": ""
+    },
+    {
+      "id": "RES-AUTO-1FC4315F397D",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "7e2080219f5716ec93f7952c6b3f2037f2325f72b24792b2f7a331b8842ef263",
+      "newHash": "4152dfba80b3bd41e3d11ae4191895c86ab991ce29d5cd112250abe6479062d9",
+      "title": ""
+    },
+    {
+      "id": "RES-AUTO-CBFF196D0861",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "61c940185aadcffd79df19326255793febd021395389f7f9b55fb0b6f0c5375a",
+      "newHash": "e5c790efa297b217b608786ab697b7ec4ff3af0a475dfa359c0cba9aa6b6589c",
+      "title": ""
+    },
+    {
+      "id": "RES-AUTO-B23E96A33235",
+      "url": "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "a9f7bb5a741e15a4f2b1efda1d1599ed635b567cd8644ba70cbdd39afe85e706",
+      "newHash": "85aefcd1c5f374360db4de57a65874ebd660de992760bfd32e8fd03c13de1add",
+      "title": "Kubernetes v1.37: Native Histograms Graduates to Beta | Kubernetes"
+    },
+    {
+      "id": "RES-AUTO-E2763381898A",
+      "url": "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "ea4ea172eaf2eca8c5e8bcc964e7b9a0c29af4cb647f7aa6cedae9c3607efe58",
+      "newHash": "166332bde7bc22cabe925a8b5507f1bf10a3f6e9211e97064cfaa0b3ede89f91",
+      "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha) | Kubernetes"
+    },
+    {
+      "id": "RES-AUTO-06F4B9D8C79C",
+      "url": "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "eb25ad6514e785b7d0c709bb789a2054dfd7086d6be18efc6655021040f66ee3",
+      "newHash": "03941ac01af1595f1e9c72713dcd8bd0cece38e3760464a0a2e3209c4693a734",
+      "title": "Kubernetes v1.37: Introducing Node Lifecycle Conditions | Kubernetes"
+    },
+    {
+      "id": "RES-AUTO-20F9C0303B71",
+      "url": "https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "b295f51d9efed60a17f84498875020cf57309f0c8628a4417b20701b6e3dda61",
+      "newHash": "6e6e83beecc53bd0214d39854af2e20cfdf996006163cbd8ed278fcc92d21f72",
+      "title": "Kubernetes v1.37: Advancing Workload-Aware Scheduling | Kubernetes"
+    },
+    {
+      "id": "RES-AUTO-1560F468B87F",
+      "url": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "48720e7861428c96da11ed99eab1f65be247423ff7c07457aace6e271e4a6665",
+      "newHash": "fa3c7ff672bec336905b2662b4055854d4a9157e9381998981a2b4785aedd078",
+      "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta | Kubernetes"
+    },
+    {
+      "id": "RES-AUTO-90B5EE36E2B9",
+      "url": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "eb0cefdd8ca78274d7712f00453679f421db6af1594873e9d0c7fd8169943428",
+      "newHash": "d180873d2acc9f3e8d90ea65c9b5d5e357aee092455fe5d352b3c298c346342a",
+      "title": "Kubernetes v1.37: DRA Updates | Kubernetes"
+    },
+    {
+      "id": "RES-AUTO-471EA8BF94E6",
+      "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "680c8e19bcbfbaf794f823d790ce3864fd81709f7399c121fc95f36710291bfa",
+      "newHash": "4a99fe12aafe55970530f305bbe4833343f09a0269a21ca56d561b311f171bb6",
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it. - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-B70411F0873D",
+      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "dc5dc345f455c2949b0a2b46aad2eca26c306535386e019f4b8d57563778b1f9",
+      "newHash": "657a0979064fd068c52ad76dc36b894ac0eeeafb5b8cd4567c971e08e9be3baa",
+      "title": "What 50 open source projects taught us about security in the AI era - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-5805F2A62DA9",
+      "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+      "detectedAt": "2026-09-20T09:43:53Z",
+      "oldHash": "7aed110dd817a5f0d713cfdf170e9d1c183fc09377f58a6a7777b5f69a0ccad4",
+      "newHash": "977a3e4e178bcfe9b5baa9dee18c45f61ea58f80cb064837c991adc3a34c01d0",
+      "title": "How we took malware advisories beyond npm - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-3216EA2AC56A",
+      "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "bf790331c8f631ecda759a185c2f2da5942169a5c2abbf9d6b46fb326159ce4e",
+      "newHash": "897727cb7f05e468eee3e0e8fc9f69257dbf5aa819272d98a10111a4b9edf380",
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-37C0E3E1926B",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "43d22dada4880c7f514cd60d2e18f21dcd699f98d563f7b744ad41719c6f0804",
+      "newHash": "8443bce4c903eca3ff2112fb5e7f7d4eb032b363ce45d379489c5672af9d0f98",
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-AB3C6B3534F0",
+      "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "detectedAt": "2026-09-20T09:43:52Z",
+      "oldHash": "64c51d7979fb248193115cdb25c63bdb534a741a544dfeb82133fbb173f7487e",
+      "newHash": "65629f6b24c5b719f48e345dcba2f8788fddd0b49b59034191de7e5badccf087",
+      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates - The GitHub Blog"
+    },
+    {
+      "id": "SRC-011",
+      "url": "https://www.plainlanguage.gov/",
+      "detectedAt": "2026-09-20T09:43:53Z",
+      "oldHash": "6e8763e9a7d4778714aae6f84a3eeb863bc7ef5f40c3848d46d49aaebaccdde5",
+      "newHash": "2fe4ff52b4378f1cc8264bcafa0ad5da3767955443e85b2bd0c06387c110d0dc",
+      "title": "Plain language guide series | Digital.gov"
+    }
+  ]
 }
