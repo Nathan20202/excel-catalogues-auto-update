@@ -1,14 +1,15 @@
 {
   "schemaVersion": 1,
   "catalog": "pokemon-discovery",
-  "cursor": 2,
+  "cursor": 3,
   "checkedThisRun": 0,
   "addedThisRun": 0,
   "failuresThisRun": 0,
-  "areaThisRun": "Hauts-de-France",
+  "areaThisRun": "Auvergne-Rhône-Alpes",
   "scannedAreas": [
+    "Auvergne-Rhône-Alpes",
     "Hauts-de-France",
     "Île-de-France"
   ],
-  "updatedAt": "2026-09-16T09:28:57Z"
+  "updatedAt": "2026-09-23T09:30:09Z"
 }
