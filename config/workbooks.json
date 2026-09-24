@@ -1256,7 +1256,7 @@
           "sheet": "Saint-Cyprien",
           "table": "ActivitiesSaintCyprien",
           "file": "data/activites/saint-cyprien.json",
-          "recordCount": 77,
+          "recordCount": 92,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1278,7 +1278,7 @@
           "sheet": "Boulouris",
           "table": "ActivitiesBoulouris",
           "file": "data/activites/boulouris.json",
-          "recordCount": 82,
+          "recordCount": 97,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
