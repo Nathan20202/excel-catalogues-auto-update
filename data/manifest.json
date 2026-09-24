@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "2026.08.01",
-  "generatedAt": "2026-09-24T09:31:51Z",
+  "generatedAt": "2026-09-24T10:06:49Z",
   "repository": "Nathan20202/excel-catalogues-auto-update",
   "privacy": "Public catalogue data only. Personal statuses, notes, answers, favourites and comments remain local.",
   "workbooks": {
@@ -335,7 +335,7 @@
           "recordCount": 9
         }
       ],
-      "lastAutomatedRun": "2026-09-17T10:04:30Z",
+      "lastAutomatedRun": "2026-09-24T10:06:49Z",
       "healthFile": "data/health/cinema.json",
       "candidateFile": "data/candidates/cinema.json"
     },
