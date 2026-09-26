@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "2026.08.01",
-  "generatedAt": "2026-09-25T09:51:33Z",
+  "generatedAt": "2026-09-26T09:25:55Z",
   "repository": "Nathan20202/excel-catalogues-auto-update",
   "privacy": "Public catalogue data only. Personal statuses, notes, answers, favourites and comments remain local.",
   "workbooks": {
@@ -435,7 +435,7 @@
           "recordCount": 347
         }
       ],
-      "lastAutomatedRun": "2026-09-19T08:52:47Z",
+      "lastAutomatedRun": "2026-09-26T09:25:55Z",
       "healthFile": "data/health/tech.json",
       "candidateFile": "data/candidates/tech-changes.json"
     },
