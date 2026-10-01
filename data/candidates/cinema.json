@@ -1,76 +1,543 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T10:06:49Z",
+  "updatedAt": "2026-10-01T11:40:31Z",
   "policy": "Films : AlloCiné >= 2,5/5 avec acteur reconnu ; >= 3,5/5 pour de nouveaux interprètes. Séries : seuil IMDb équivalent avec un volume minimal de votes.",
   "count": 99,
   "records": [
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Kraken",
-      "releaseDate": "2026-09-30",
+      "title": "La Maison de nos rêves",
+      "releaseDate": "2026-10-07",
       "actors": [
-        "Alassane Diong"
+        "Kev Adams"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032855.html",
-      "allocineId": "1000032855"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031247.html",
+      "allocineId": "1000031247"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Digger",
-      "releaseDate": "2026-09-30",
+      "title": "Ducobu et le fantôme de Saint-Potache",
+      "releaseDate": "2026-10-07",
       "actors": [
-        "Tom Cruise"
-      ],
-      "knownActors": [
-        "Tom Cruise"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327174.html",
-      "allocineId": "327174"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Notre salut",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Swann Arlaud"
+        "Charlie Garnier Naslin"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007388.html",
-      "allocineId": "1000007388"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019249.html",
+      "allocineId": "1000019249"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Verity",
-      "releaseDate": "2026-09-30",
+      "title": "Ni vue, ni connue",
+      "releaseDate": "2026-10-07",
       "actors": [
-        "Anne Hathaway"
+        "Isabelle Huppert"
       ],
       "knownActors": [
-        "Anne Hathaway"
+        "Isabelle Huppert"
       ],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000015739.html",
-      "allocineId": "1000015739"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023992.html",
+      "allocineId": "1000023992"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Fausse note",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Kad Merad"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030290.html",
+      "allocineId": "1000030290"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Social Reckoning",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Mikey Madison"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026649.html",
+      "allocineId": "1000026649"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "L'Espèce explosive",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Alexis Manenti"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=285141.html",
+      "allocineId": "285141"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Leviticus",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Joe Bird"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037443.html",
+      "allocineId": "1000037443"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Monde à l'envers",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Kev Adams",
+        "Chantal Ladesou"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045582.html",
+      "allocineId": "1000045582"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Ton animal maternel",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Daniela Marin Navarro"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=299748.html",
+      "allocineId": "299748"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Retour au collège",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Kev Adams",
+        "Chantal Ladesou"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039641.html",
+      "allocineId": "1000039641"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Butterfly Jam",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Barry Keoghan"
+      ],
+      "knownActors": [
+        "Barry Keoghan"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313150.html",
+      "allocineId": "313150"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Joyeuse Jungle !",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Kev Adams",
+        "Chantal Ladesou"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=302738.html",
+      "allocineId": "302738"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Always Lalisa",
+      "releaseDate": "2026-10-12",
+      "actors": [
+        "Lalisa Manobal"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049428.html",
+      "allocineId": "1000049428"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Doraemon et le Château sous-marin",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Emmanuel Curtil"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040606.html",
+      "allocineId": "1000040606"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Queen Budapest",
+      "releaseDate": "2026-10-08",
+      "actors": [
+        "Queen"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050836.html",
+      "allocineId": "1000050836"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Secrets et mensonges",
+      "releaseDate": "1996-09-18",
+      "actors": [
+        "Brenda Blethyn"
+      ],
+      "knownActors": [
+        "Brenda Blethyn"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=15225.html",
+      "allocineId": "15225"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "L'Eclipse",
+      "releaseDate": "1962-05-02",
+      "actors": [
+        "Alain Delon"
+      ],
+      "knownActors": [
+        "Alain Delon"
+      ],
+      "pressScore": 4.0,
+      "pressReviews": 1,
+      "status": "pending",
+      "reason": "Moins de 3 critiques presse : attente d'un échantillon plus fiable.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=33488.html",
+      "allocineId": "33488"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Mikusu Modan",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Toshizo Fujiwara"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018994.html",
+      "allocineId": "1000018994"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Artou",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Omar Sy"
+      ],
+      "knownActors": [
+        "Omar Sy"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051533.html",
+      "allocineId": "1000051533"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Jardin de Madame Hu",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Kev Adams",
+        "Chantal Ladesou"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012178.html",
+      "allocineId": "1000012178"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "No Wifi",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Mélina Tatopoulos"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048424.html",
+      "allocineId": "1000048424"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Volcans : Plongez au cœur du cratère",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Ross Huguet"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272376.html",
+      "allocineId": "272376"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Maharaja",
+      "releaseDate": "2024-06-14",
+      "actors": [
+        "Vijay Sethupathi"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003973.html",
+      "allocineId": "1000003973"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "R. Roussil, Le Cul par Terre",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Kev Adams",
+        "Chantal Ladesou"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039188.html",
+      "allocineId": "1000039188"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le goût du vin de palme",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Emil Abossolo M'Bo"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038349.html",
+      "allocineId": "1000038349"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "L'île des souvenirs",
+      "releaseDate": "2026-10-21",
+      "actors": [
+        "Manon Bresch"
+      ],
+      "knownActors": [
+        "Manon Bresch"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296642.html",
+      "allocineId": "296642"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Misérables",
+      "releaseDate": "2026-10-14",
+      "actors": [
+        "Vincent Lindon"
+      ],
+      "knownActors": [
+        "Vincent Lindon"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=326160.html",
+      "allocineId": "326160"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Il faut brûler Maman",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Louise Coldefy"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html",
+      "allocineId": "1000039483"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Avengers: Doomsday",
+      "releaseDate": "2026-12-16",
+      "actors": [
+        "Robert Downey Jr."
+      ],
+      "knownActors": [
+        "Robert Downey Jr."
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=269068.html",
+      "allocineId": "269068"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Camembert",
+      "releaseDate": "2026-11-18",
+      "actors": [
+        "Kristin Scott Thomas"
+      ],
+      "knownActors": [
+        "Kristin Scott Thomas"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html",
+      "allocineId": "316136"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Changer l'eau des fleurs",
+      "releaseDate": "2026-12-09",
+      "actors": [
+        "Leïla Bekhti"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html",
+      "allocineId": "1000018371"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Roi du Game",
+      "releaseDate": "2026-10-21",
+      "actors": [
+        "Eric Judor"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030383.html",
+      "allocineId": "1000030383"
     },
     {
       "source": "AlloCiné",
@@ -81,10 +548,10 @@
         "Tess Barthélemy"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 3.3,
+      "pressReviews": 25,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026296.html",
       "allocineId": "1000026296"
     },
@@ -94,13 +561,13 @@
       "title": "Le Monde à l'endroit",
       "releaseDate": "2026-09-30",
       "actors": [
-        "Sandrine Bonnaire"
+        "Isild Le Besco"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 3.3,
+      "pressReviews": 19,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007346.html",
       "allocineId": "1000007346"
     },
@@ -123,11 +590,27 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "Melpomène",
+      "releaseDate": "2026-09-30",
+      "actors": [
+        "Charlotte Dauphin"
+      ],
+      "knownActors": [],
+      "pressScore": 2.8,
+      "pressReviews": 8,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045261.html",
+      "allocineId": "1000045261"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Délivre-nous du Mal",
       "releaseDate": "2026-09-30",
       "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
+        "Kev Adams",
+        "Chantal Ladesou"
       ],
       "knownActors": [],
       "pressScore": null,
@@ -140,32 +623,16 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Melpomène",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Charlotte Dauphin"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045261.html",
-      "allocineId": "1000045261"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Le Chant des oliviers",
       "releaseDate": "2026-09-30",
       "actors": [
         "Michela Farrugia"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 3.2,
+      "pressReviews": 11,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038237.html",
       "allocineId": "1000038237"
     },
@@ -175,14 +642,14 @@
       "title": "Un hiver russe",
       "releaseDate": "2026-09-30",
       "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
+        "Kev Adams",
+        "Chantal Ladesou"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 3.0,
+      "pressReviews": 9,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328096.html",
       "allocineId": "328096"
     },
@@ -195,76 +662,12 @@
         "Laetitia Beauvais"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 1.8,
+      "pressReviews": 5,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050921.html",
       "allocineId": "1000050921"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Kadar The Sons of the Lord",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Takla Chamoun"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051519.html",
-      "allocineId": "1000051519"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Gervaise",
-      "releaseDate": "1956-09-05",
-      "actors": [
-        "Maria Schell"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=2233.html",
-      "allocineId": "2233"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Maison de poupée",
-      "releaseDate": "1973-05-17",
-      "actors": [
-        "Jane Fonda"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=114740.html",
-      "allocineId": "114740"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Sigma",
-      "releaseDate": "2026-10-02",
-      "actors": [
-        "Yog Japee"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046806.html",
-      "allocineId": "1000046806"
     },
     {
       "source": "AlloCiné",
@@ -285,19 +688,50 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Al Atlas, Les Disparus d’un Royaume",
-      "releaseDate": "2026-10-04",
+      "title": "Sigma",
+      "releaseDate": "2026-10-02",
       "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
+        "Sundeep Kishan"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051536.html",
-      "allocineId": "1000051536"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046806.html",
+      "allocineId": "1000046806"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Kadar The Sons of the Lord",
+      "releaseDate": "2026-09-30",
+      "actors": [
+        "Takla Chamoun"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051519.html",
+      "allocineId": "1000051519"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Aaram",
+      "releaseDate": "2026-10-02",
+      "actors": [
+        "Saiju Kurup"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052028.html",
+      "allocineId": "1000052028"
     },
     {
       "source": "AlloCiné",
@@ -318,104 +752,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Changer l'eau des fleurs",
-      "releaseDate": "2026-12-09",
-      "actors": [
-        "Leïla Bekhti"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html",
-      "allocineId": "1000018371"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Karma",
-      "releaseDate": "2026-10-21",
-      "actors": [
-        "Marion Cotillard"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018384.html",
-      "allocineId": "1000018384"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Malfaisante",
-      "releaseDate": "2026-10-14",
-      "actors": [
-        "Jessica Chastain"
-      ],
-      "knownActors": [
-        "Jessica Chastain"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023068.html",
-      "allocineId": "1000023068"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "La Maison de nos rêves",
-      "releaseDate": "2026-10-07",
-      "actors": [
-        "Kev Adams"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031247.html",
-      "allocineId": "1000031247"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Hope",
-      "releaseDate": "2026-10-28",
-      "actors": [
-        "Jung-Min Hwang"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=314882.html",
-      "allocineId": "314882"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Minotaure",
-      "releaseDate": "2026-10-14",
-      "actors": [
-        "Dmitriy Mazurov"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022205.html",
-      "allocineId": "1000022205"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Justin le Juste",
       "releaseDate": "2026-09-23",
       "actors": [
@@ -423,7 +759,7 @@
       ],
       "knownActors": [],
       "pressScore": 3.1,
-      "pressReviews": 12,
+      "pressReviews": 14,
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028944.html",
@@ -466,6 +802,41 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "Her Private Hell",
+      "releaseDate": "2026-09-23",
+      "actors": [
+        "Sophie Thatcher"
+      ],
+      "knownActors": [
+        "Sophie Thatcher"
+      ],
+      "pressScore": 2.2,
+      "pressReviews": 22,
+      "status": "rejected",
+      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023438.html",
+      "allocineId": "1000023438"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Artus - Le Show XXL au cinéma",
+      "releaseDate": "2026-09-24",
+      "actors": [
+        "Kev Adams",
+        "Chantal Ladesou"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042175.html",
+      "allocineId": "1000042175"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Détective Conan : L'Ange déchu de l'asphalte",
       "releaseDate": "2026-09-23",
       "actors": [
@@ -484,37 +855,18 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Artus - Le Show XXL au cinéma",
-      "releaseDate": "2026-09-24",
-      "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042175.html",
-      "allocineId": "1000042175"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Her Private Hell",
+      "title": "Haute solitude, Jean Zay prisonnier politique",
       "releaseDate": "2026-09-23",
       "actors": [
-        "Sophie Thatcher"
+        "Eric Caravaca"
       ],
-      "knownActors": [
-        "Sophie Thatcher"
-      ],
-      "pressScore": 2.1,
-      "pressReviews": 21,
+      "knownActors": [],
+      "pressScore": 3.3,
+      "pressReviews": 3,
       "status": "rejected",
-      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023438.html",
-      "allocineId": "1000023438"
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046253.html",
+      "allocineId": "1000046253"
     },
     {
       "source": "AlloCiné",
@@ -522,8 +874,8 @@
       "title": "Un amour d’épouvantail",
       "releaseDate": "2026-09-23",
       "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
+        "Kev Adams",
+        "Chantal Ladesou"
       ],
       "knownActors": [],
       "pressScore": null,
@@ -552,22 +904,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Haute solitude, Jean Zay prisonnier politique",
-      "releaseDate": "2026-09-23",
-      "actors": [
-        "Eric Caravaca"
-      ],
-      "knownActors": [],
-      "pressScore": 3.3,
-      "pressReviews": 3,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046253.html",
-      "allocineId": "1000046253"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Meesaya Murukku 2",
       "releaseDate": "2026-09-25",
       "actors": [
@@ -580,22 +916,6 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051923.html",
       "allocineId": "1000051923"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Vvaan",
-      "releaseDate": "2026-09-25",
-      "actors": [
-        "Sidharth Malhotra"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023845.html",
-      "allocineId": "1000023845"
     },
     {
       "source": "AlloCiné",
@@ -632,6 +952,22 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "Vvaan",
+      "releaseDate": "2026-09-25",
+      "actors": [
+        "Sidharth Malhotra"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023845.html",
+      "allocineId": "1000023845"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Li Chevalier Encre et Âme",
       "releaseDate": "2026-09-26",
       "actors": [],
@@ -642,26 +978,6 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040001.html",
       "allocineId": "1000040001"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "La nuit de l’enfance",
-      "releaseDate": "2026-09-25",
-      "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "knownActors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044751.html",
-      "allocineId": "1000044751"
     },
     {
       "source": "AlloCiné",
@@ -682,16 +998,19 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Popitsa - Paris - La Lune",
-      "releaseDate": "2026-09-23",
-      "actors": [],
+      "title": "La nuit de l’enfance",
+      "releaseDate": "2026-09-25",
+      "actors": [
+        "Kev Adams",
+        "Chantal Ladesou"
+      ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051168.html",
-      "allocineId": "1000051168"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044751.html",
+      "allocineId": "1000044751"
     },
     {
       "source": "AlloCiné",
@@ -747,17 +1066,14 @@
       "title": "Maquisards",
       "releaseDate": "2026-09-16",
       "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
+        "Kev Adams",
+        "Chantal Ladesou"
       ],
-      "knownActors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
+      "knownActors": [],
       "pressScore": 2.4,
       "pressReviews": 5,
       "status": "rejected",
-      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043505.html",
       "allocineId": "1000043505"
     },
@@ -782,6 +1098,23 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "Une musique à vivre",
+      "releaseDate": "2026-09-16",
+      "actors": [
+        "Kev Adams",
+        "Chantal Ladesou"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043595.html",
+      "allocineId": "1000043595"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Hanuman Ansh",
       "releaseDate": "2026-09-16",
       "actors": [
@@ -798,38 +1131,19 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Daayra",
-      "releaseDate": "2026-09-18",
+      "title": "Fouilles",
+      "releaseDate": "2026-09-17",
       "actors": [
-        "Prithviraj Sukumaran"
+        "Kev Adams",
+        "Chantal Ladesou"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049013.html",
-      "allocineId": "1000049013"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Une musique à vivre",
-      "releaseDate": "2026-09-16",
-      "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "knownActors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043595.html",
-      "allocineId": "1000043595"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037463.html",
+      "allocineId": "1000037463"
     },
     {
       "source": "AlloCiné",
@@ -837,13 +1151,10 @@
       "title": "Les Vagues dans les yeux",
       "releaseDate": "2026-09-16",
       "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
+        "Kev Adams",
+        "Chantal Ladesou"
       ],
-      "knownActors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
+      "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
@@ -870,22 +1181,18 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Fouilles",
-      "releaseDate": "2026-09-17",
+      "title": "Daayra",
+      "releaseDate": "2026-09-18",
       "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
+        "Prithviraj Sukumaran"
       ],
-      "knownActors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
+      "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037463.html",
-      "allocineId": "1000037463"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049013.html",
+      "allocineId": "1000049013"
     },
     {
       "source": "AlloCiné",
@@ -1010,22 +1317,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Mandaadi",
-      "releaseDate": "2026-09-10",
-      "actors": [
-        "Soori"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023324.html",
-      "allocineId": "1000023324"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "The Sea",
       "releaseDate": "2026-09-09",
       "actors": [
@@ -1038,6 +1329,22 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030749.html",
       "allocineId": "1000030749"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Mandaadi",
+      "releaseDate": "2026-09-10",
+      "actors": [
+        "Soori"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023324.html",
+      "allocineId": "1000023324"
     },
     {
       "source": "AlloCiné",
@@ -1186,6 +1493,22 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "releaseDate": "2026-09-03",
+      "actors": [
+        "Katy Perry"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045609.html",
+      "allocineId": "1000045609"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Smash Palace",
       "releaseDate": "2026-09-02",
       "actors": [
@@ -1202,18 +1525,18 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
-      "releaseDate": "2026-09-03",
+      "title": "Karma",
+      "releaseDate": "2026-10-21",
       "actors": [
-        "Katy Perry"
+        "Marion Cotillard"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045609.html",
-      "allocineId": "1000045609"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018384.html",
+      "allocineId": "1000018384"
     },
     {
       "source": "AlloCiné",
@@ -1298,42 +1621,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "GHOST: 2 Big To Rig",
-      "releaseDate": "2026-08-27",
-      "actors": [
-        "les seules images captées par des caméras professionnelles de Papa V Perpetua et de son groupe de Nameless Ghouls lors du SKELETOUR",
-        "où les téléphones étaient interdits",
-        "2 BIG TO RIG plonge les spectateurs au cœur du rituel live de GHOST."
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049021.html",
-      "allocineId": "1000049021"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Bleach : The DiamondDust Rebellion",
-      "releaseDate": "2026-08-28",
-      "actors": [
-        "Masakazu Morita"
-      ],
-      "knownActors": [
-        "Masakazu Morita"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=147956.html",
-      "allocineId": "147956"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Once More",
       "releaseDate": "2026-08-28",
       "actors": [
@@ -1346,312 +1633,6 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050408.html",
       "allocineId": "1000050408"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Bleach - Le Film 4 : Hell Verse",
-      "releaseDate": "2026-08-28",
-      "actors": [
-        "Masakazu Morita"
-      ],
-      "knownActors": [
-        "Masakazu Morita"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=224258.html",
-      "allocineId": "224258"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Bleach : Fade to Black",
-      "releaseDate": "2026-08-28",
-      "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "knownActors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=148223.html",
-      "allocineId": "148223"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Bleach : Memories of Nobody",
-      "releaseDate": "2026-08-28",
-      "actors": [
-        "Masakazu Morita"
-      ],
-      "knownActors": [
-        "Masakazu Morita"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=135076.html",
-      "allocineId": "135076"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Mutiny",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Jason Statham"
-      ],
-      "knownActors": [
-        "Jason Statham"
-      ],
-      "pressScore": 2.1,
-      "pressReviews": 8,
-      "status": "rejected",
-      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002942.html",
-      "allocineId": "1000002942"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Insidious : l'invasion du lointain",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Amelia Eve"
-      ],
-      "knownActors": [],
-      "pressScore": 2.0,
-      "pressReviews": 3,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016503.html",
-      "allocineId": "1000016503"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "La Nirvana",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Ichem Bougheraba"
-      ],
-      "knownActors": [],
-      "pressScore": 2.3,
-      "pressReviews": 7,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033718.html",
-      "allocineId": "1000033718"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Paradise",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Daniel Atsu Hukporti"
-      ],
-      "knownActors": [],
-      "pressScore": 3.3,
-      "pressReviews": 18,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=308394.html",
-      "allocineId": "308394"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "La Fille Condor",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "María Magdalena Sanizo"
-      ],
-      "knownActors": [],
-      "pressScore": 3.4,
-      "pressReviews": 19,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022452.html",
-      "allocineId": "1000022452"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Marius et le Royaume des mers",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "knownActors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022217.html",
-      "allocineId": "1000022217"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "La Providence et la Guitare",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Pedro Inês"
-      ],
-      "knownActors": [],
-      "pressScore": 2.7,
-      "pressReviews": 10,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037432.html",
-      "allocineId": "1000037432"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Lost Paradise",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Koji Yakusho"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=121982.html",
-      "allocineId": "121982"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "The Black House",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Seiyô Uchino"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316499.html",
-      "allocineId": "316499"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "South Bound",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Etsushi Toyokawa"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037129.html",
-      "allocineId": "1000037129"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Que Ton Règne Vienne - Une histoire du satanisme en France",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "knownActors": [
-        "Alassane Diong",
-        "Manon Bresch"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030962.html",
-      "allocineId": "1000030962"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Main Theme",
-      "releaseDate": "2026-08-19",
-      "actors": [
-        "Hiroko Yakushimaru"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010367.html",
-      "allocineId": "1000010367"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Khalifa",
-      "releaseDate": "2026-08-20",
-      "actors": [
-        "Prithviraj Sukumaran"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033875.html",
-      "allocineId": "1000033875"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Modha Rathiri",
-      "releaseDate": "2026-08-21",
-      "actors": [
-        "Rishikanth"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049968.html",
-      "allocineId": "1000049968"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Irumudi",
-      "releaseDate": "2026-08-21",
-      "actors": [
-        "Ravi Teja"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040592.html",
-      "allocineId": "1000040592"
     }
   ]
 }
