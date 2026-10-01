@@ -1190,7 +1190,7 @@
           "sheet": "Paris",
           "table": "ActivitiesParis",
           "file": "data/activites/paris.json",
-          "recordCount": 115,
+          "recordCount": 130,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",

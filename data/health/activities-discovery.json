@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "catalog": "activities-discovery",
-  "cursor": 0,
-  "checkedThisRun": 72,
-  "addedThisRun": 30,
-  "failuresThisRun": 0,
+  "cursor": 2,
+  "checkedThisRun": 40,
+  "addedThisRun": 15,
+  "failuresThisRun": 1,
   "areasThisRun": [
-    "Saint-Cyprien",
-    "Boulouris"
+    "Cabourg",
+    "Paris"
   ],
-  "updatedAt": "2026-09-24T09:31:29Z"
+  "updatedAt": "2026-10-01T11:11:33Z"
 }
