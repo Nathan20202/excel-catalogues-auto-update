@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "catalog": "promo-discovery",
-  "cursor": 0,
-  "checkedThisRun": 0,
+  "cursor": 2,
+  "checkedThisRun": 4,
   "addedThisRun": 0,
   "failuresThisRun": 0,
   "queriesThisRun": [
-    "site de codes promotionnels",
-    "coupon website"
+    "comparateur de prix",
+    "price comparison website"
   ],
-  "updatedAt": "2026-09-25T09:51:21Z"
+  "updatedAt": "2026-10-02T10:45:06Z"
 }
