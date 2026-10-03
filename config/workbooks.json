@@ -846,7 +846,7 @@
           "sheet": "04 - Composants PC",
           "table": "TechPcComponents",
           "file": "data/tech/composants-pc.json",
-          "recordCount": 54,
+          "recordCount": 55,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -896,7 +896,7 @@
           "sheet": "06 - Mobiles & wearables",
           "table": "TechMobileWearables",
           "file": "data/tech/mobiles-wearables.json",
-          "recordCount": 48,
+          "recordCount": 51,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -971,7 +971,7 @@
           "sheet": "09 - Gaming & VR",
           "table": "TechGamingVr",
           "file": "data/tech/gaming-vr.json",
-          "recordCount": 34,
+          "recordCount": 35,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1146,7 +1146,7 @@
           "sheet": "16 - Sources & méthode",
           "table": "TechSourceRegister",
           "file": "data/tech/sources.json",
-          "recordCount": 371,
+          "recordCount": 376,
           "idColumn": "ID",
           "preserveColumns": [],
           "formulaColumns": [],
