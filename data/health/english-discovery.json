@@ -3,7 +3,7 @@
   "catalog": "english-discovery",
   "cursor": 0,
   "checkedThisRun": 18,
-  "addedThisRun": 8,
+  "addedThisRun": 7,
   "failuresThisRun": 0,
   "feedsThisRun": [
     "https://podcasts.files.bbci.co.uk/b006qy05.rss",
@@ -11,5 +11,5 @@
     "https://kubernetes.io/feed.xml",
     "https://github.blog/security/feed/"
   ],
-  "updatedAt": "2026-09-27T10:29:56Z"
+  "updatedAt": "2026-10-04T11:04:01Z"
 }

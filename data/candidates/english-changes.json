@@ -1,9 +1,193 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T10:30:00Z",
+  "updatedAt": "2026-10-04T11:04:03Z",
   "catalog": "english",
-  "count": 50,
+  "count": 73,
   "records": [
+    {
+      "id": "RES-031",
+      "url": "https://csrc.nist.gov/glossary",
+      "detectedAt": "2026-10-04T11:04:01Z",
+      "oldHash": "cb679ef745a2628355ff5ef6bd6d7147bc09ba85c8ccfb3c0922d43b9b62370f",
+      "newHash": "f80f8dcd2de8137c57650c52c17753224ff1b5bb80f88e07793b4d20e14bf389",
+      "title": "Glossary | CSRC"
+    },
+    {
+      "id": "RES-043",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html",
+      "detectedAt": "2026-10-04T11:04:01Z",
+      "oldHash": "dd3f066d6417ccc743d2e40e9d98fa4fa1a9ade3b3c95594c56ea9d5c0af9219",
+      "newHash": "dc5efaec06989477808f4a296f5771c36def432fb71f6a45495aeed483b549d1",
+      "title": "Threat Modeling - OWASP Cheat Sheet Series"
+    },
+    {
+      "id": "RES-AUTO-AE96F3D52726",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
+      "detectedAt": "2026-10-04T11:04:03Z",
+      "oldHash": "c9b06910343e43fe73b5d24a2b5128e706fe1cda1d5dda87cde84902f9f30ff6",
+      "newHash": "3846885f3af923fa3c25df1d63b7a94cbdde724a327d78b91d1fb3c713c124c1",
+      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-6E6808F32610",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
+      "detectedAt": "2026-10-04T11:04:03Z",
+      "oldHash": "6da19911a9428563a481b8ffbce5ca8aa2653ac77194481fdce64d0eb3ed7aa9",
+      "newHash": "c38c0e64c622be5cbc721a18a836b586a66c1275fb030ce0ef44b4538db51611",
+      "title": "Detect and disrupt AI-themed attacks with Microsoft Defender | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-107BEFD3B229",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+      "detectedAt": "2026-10-04T11:04:03Z",
+      "oldHash": "4a5c1fba988616aa64e33dfe652cc17b363d87cc3f2b556011526a1ab152f782",
+      "newHash": "ceb007c34682d49303c7e0c03f68a925dd79c0ec897268e546c090e429b64762",
+      "title": "Threat matrix: Mapping threats across cloud web applications | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-E7045162419C",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
+      "detectedAt": "2026-10-04T11:04:01Z",
+      "oldHash": "28d09434c859d19d0095c12590233f719ceda17d12eb09a3b293c899c7e998be",
+      "newHash": "efbe22553fb667529708a6acf4489f91d91dc51c12b452452fb8ee1032335789",
+      "title": "Passkey-themed social engineering leads to identity and cloud compromise | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-1FC4315F397D",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
+      "detectedAt": "2026-10-04T11:04:02Z",
+      "oldHash": "c4fb5deb8c723096341d3e2d18caec9bc0f1b4e0a2b01e66f05b8df85c202f8d",
+      "newHash": "aea161357c45ef96cef419887bcabbdd68c664f846f24f2f95758bec4b92e69a",
+      "title": "How to secure edge AI in customer-owned environments | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-CBFF196D0861",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+      "detectedAt": "2026-10-04T11:04:03Z",
+      "oldHash": "b0af0888b1fa286e9466385900da777ca5509899422a18e7ee57f97098aa46a9",
+      "newHash": "ae0c026ab7cc6995e2556108d201e63ff2094625d3a626d19630a5d2ee5e3c14",
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-471EA8BF94E6",
+      "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "detectedAt": "2026-10-04T11:04:02Z",
+      "oldHash": "0667b448d66f84261b250e5b02b7321e5e7c1cf3d9c9482f39d72b06dc64bba0",
+      "newHash": "42a71c3a6c7e7c3c800638044fecef003cb19014e75d88a0da9d2d5bb96ab54a",
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it. - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-B70411F0873D",
+      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "detectedAt": "2026-10-04T11:04:01Z",
+      "oldHash": "dbabea19610e0bf6cc381136bc6c938ece71ab606ea74123a7b684b306454c2d",
+      "newHash": "27d9a8177d3116420781fb20883c0ad78eb2d07e29ab91c78b602634fe621640",
+      "title": "What 50 open source projects taught us about security in the AI era - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-5805F2A62DA9",
+      "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+      "detectedAt": "2026-10-04T11:04:01Z",
+      "oldHash": "c0ea69254b496409e92847bfaeddcf625564bf9deadddc51281da05f275b9115",
+      "newHash": "9f197f956438e5bcc400bac03d80572a578d7802c8ae6d49915e1fda532fef4f",
+      "title": "How we took malware advisories beyond npm - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-3216EA2AC56A",
+      "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "detectedAt": "2026-10-04T11:04:01Z",
+      "oldHash": "ccd2c467f3c2e69cf62dcadabca3d00e54ea4fdd5f4521da08bc239c83b417f9",
+      "newHash": "d4a2d807027325cfa5a0a6fa423b3b3dfc0c2c23b71235191cae419f16c3dcfe",
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-37C0E3E1926B",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "detectedAt": "2026-10-04T11:04:02Z",
+      "oldHash": "4f7c91742be104e8b4cd5f065b9203afb3daa7fa7231eb702d63d1095ce83eca",
+      "newHash": "1861e2dec2bb7adcba9e4d719e2abee9380d48c979dc17d35673b6f749d27ee9",
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-AB3C6B3534F0",
+      "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "detectedAt": "2026-10-04T11:04:01Z",
+      "oldHash": "6343a8c7cc94887d3b233c9e9418fcf328865ca3cacaff19dc86c57c90817392",
+      "newHash": "e9661e74aff61932af408bd4e3dc8c9f79026175e52af991e59258d2eb444652",
+      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates - The GitHub Blog"
+    },
+    {
+      "id": "RES-AUTO-78E86D0131D2",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
+      "detectedAt": "2026-10-04T11:04:02Z",
+      "oldHash": "6128694170504c7463e3ed8c542c01e14688bb9096f10a12ef91a61c13cd6729",
+      "newHash": "25e40028a8ef61f5360cc7930c64e2cad3f88963ac7769c3daab4a94c2a0cceb",
+      "title": "From guidance to action: Security fundamentals that materially reduce risk | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-30FBA790DF20",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/",
+      "detectedAt": "2026-10-04T11:04:03Z",
+      "oldHash": "cfd800ea822bd513226bb7def7b9f463f0099d29251ce78e2f70f888c7097f54",
+      "newHash": "1112492c1a8b2382303f8431ffcf96d94031fbfa4de64db6635f9dddc200a981",
+      "title": "Latest Microsoft Defender email security benchmarking insights | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-74AB0BC29886",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+      "detectedAt": "2026-10-04T11:04:02Z",
+      "oldHash": "68fdc8eb6e28e26f3cabb02e00a32fec1133babb81c20ff526db262dc488a2db",
+      "newHash": "ca2d8b5ac3b5b315ebda850ceef64c553b58de8af4188dd9b32fd07e6f486613",
+      "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-B0071DB721A9",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+      "detectedAt": "2026-10-04T11:04:02Z",
+      "oldHash": "8c0e820c832691673ce6ad04412401fa3dbc170b04d60738c6718d442cbec8bc",
+      "newHash": "561c024527b00925dcff1865c8ebda3dfa5c1e6b36687b88297f62abaf3648a7",
+      "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-A6F01A8ED6A8",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/",
+      "detectedAt": "2026-10-04T11:04:02Z",
+      "oldHash": "55679eb8659d673a952275e06fbf47fe152c8c204f538f7ccada0c24853758f4",
+      "newHash": "35f283d559a01a40989ca2b8e65d9402d5e1dc7dd561b1e6c7519d2393856349",
+      "title": "​​​​​​​​What’s new in Microsoft Security: September 2026​​ | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-418EAB4B215A",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
+      "detectedAt": "2026-10-04T11:04:02Z",
+      "oldHash": "8ad98721ef285dff05011fbc2061f4b623de070dbfccaca44ba6c0f3134a9f70",
+      "newHash": "b24c1562a43a39f96c8761b0bd2d8cb3e149077d4a85997655f188ad815265e4",
+      "title": "Reimagining the SOC for the agentic era in Microsoft Defender | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-1BBC2C4488AF",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
+      "detectedAt": "2026-10-04T11:04:03Z",
+      "oldHash": "3ac2610601606e22a1a1e1fa245fb538d1508407eaae0f35fdc453ea422f493e",
+      "newHash": "c7cc0a90c528a41db8abee407c88f14cc87f03d5e632aa7bcd1661a0fe60a059",
+      "title": "Unmasking EvilTokens: Getting to the root of device code phishing | Microsoft Security Blog"
+    },
+    {
+      "id": "RES-AUTO-5D810621A5E7",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "detectedAt": "2026-10-04T11:04:02Z",
+      "oldHash": "caca02ba78b9c988698a38602d0b85adde41f5462e56713f7d3e8aa922a8c0b7",
+      "newHash": "097e7bd07e8a7088acd1dc30c53ebc50fc7fa14904305b9997cb66e07ae20e53",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent - The GitHub Blog"
+    },
+    {
+      "id": "SRC-011",
+      "url": "https://www.plainlanguage.gov/",
+      "detectedAt": "2026-10-04T11:04:03Z",
+      "oldHash": "ad153618af46ac77b2092271b77476374c972af740d99a3321b0dd76ee5c241f",
+      "newHash": "4943508dc7b57dcec6ed2779c8155d89e1d47d5c83c4993855a9a25e9aa6fb52",
+      "title": "Plain language guide series | Digital.gov"
+    },
     {
       "id": "RES-031",
       "url": "https://csrc.nist.gov/glossary",
