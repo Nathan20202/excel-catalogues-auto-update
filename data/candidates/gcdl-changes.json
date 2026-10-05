@@ -1,9 +1,153 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T19:49:10Z",
+  "updatedAt": "2026-10-05T12:34:07Z",
   "catalog": "gcdl",
-  "count": 1,
+  "count": 19,
   "records": [
+    {
+      "id": "GCDL-AUTO-4B02D1BCD25C",
+      "url": "https://docs.cloud.google.com/release-notes#September_11_2026",
+      "detectedAt": "2026-10-05T12:34:04Z",
+      "oldHash": "be79c2f7bbfd474ab2ad2d43ae17b12701e5b59c0853ffc157b89f08d73c2951",
+      "newHash": "04ce15bb87c57146f8da96878cc4de58448ad0540b1554d2a4b4b2e7fb1b0f4b",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-3D9E87004426",
+      "url": "https://docs.cloud.google.com/release-notes#September_10_2026",
+      "detectedAt": "2026-10-05T12:34:04Z",
+      "oldHash": "840a9ebd7a898622e9a4df5c56b6abc5ee0b6e49ff957c715228255872f3b6c7",
+      "newHash": "f979ae9e876d67e7e78c43852c1c61cbaf37406f1b3b2e4f494ac5f380ece11a",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-8D5B2A2AB435",
+      "url": "https://docs.cloud.google.com/release-notes#September_09_2026",
+      "detectedAt": "2026-10-05T12:34:04Z",
+      "oldHash": "5363538989c15883910f75f59a9ad3a40cf2985c754d1d07145f85912235c45b",
+      "newHash": "6a3985faa542085048039beb5fd173500c881f177b84e5db8904d5a55a6b71d1",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-FEC177F9EFC7",
+      "url": "https://docs.cloud.google.com/release-notes#September_08_2026",
+      "detectedAt": "2026-10-05T12:34:04Z",
+      "oldHash": "0a9f5f15f656cb7b7eb4808a80d0b91ec5f2f144e12db89137015d4612fac51a",
+      "newHash": "20cbd33312586ecc40b02d5c325fb3eaedd0efbbe317f8d670314f31815780fc",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-6FFE1CFF51D4",
+      "url": "https://docs.cloud.google.com/release-notes#September_07_2026",
+      "detectedAt": "2026-10-05T12:34:04Z",
+      "oldHash": "cd354f685d1fdbe51016fd86371e4f789211d1a59797cf7188f0069f26f46825",
+      "newHash": "dbfecae3e5f465034ed9cf37f7e4873c87b2103a4b773c5d2f18f56dfac1829d",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-235619213B89",
+      "url": "https://docs.cloud.google.com/release-notes#September_06_2026",
+      "detectedAt": "2026-10-05T12:34:04Z",
+      "oldHash": "6e7353a1fd52bfb20dbf3ab0e7147db4d11e489d0182e1edac407ef7f90a929b",
+      "newHash": "0a8f1a1a7a5751b5f5dfad25e67dc9c9d3bf3671ee4f96304cfadb6d040e0c26",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-0E3A97DE26AD",
+      "url": "https://docs.cloud.google.com/release-notes#September_04_2026",
+      "detectedAt": "2026-10-05T12:34:03Z",
+      "oldHash": "c8735a784ffb72453648d81fa2a280f12ae91674f91be9391502d7e34b3a3a98",
+      "newHash": "f4251293ce931122794d14487d0d1e4938b6ac04f9cefacd935f912f31472891",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-78374C445A2C",
+      "url": "https://docs.cloud.google.com/release-notes#September_03_2026",
+      "detectedAt": "2026-10-05T12:34:04Z",
+      "oldHash": "d356c9bab12068cdd62bf30910ae14f52c8134245ef131134bb8569c2624cc03",
+      "newHash": "e96f7dadb331c6d9e68d0faea3b17e1d71b8a6e6f5eb5b72551ff3d133dee335",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-9DC57AFCC695",
+      "url": "https://docs.cloud.google.com/release-notes#September_02_2026",
+      "detectedAt": "2026-10-05T12:34:03Z",
+      "oldHash": "d333d4f43ace74e9ab462cbda969e7f5cb8614037d419888b744c7298a44121c",
+      "newHash": "d40dc3b2ed27c293e9e82899c7514d6cc4e1fcd0875c58d2d3a1a2d0745674da",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-3BD93D82C47A",
+      "url": "https://docs.cloud.google.com/release-notes#August_31_2026",
+      "detectedAt": "2026-10-05T12:34:03Z",
+      "oldHash": "08fc364d9cd4c779cda150492a1be23341bb10321068a70962b09cff6799fa53",
+      "newHash": "af957185b16e5434c266cdff0f1966badbc860f086c725eca72da2fe25c1ec68",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-943F694CCDB8",
+      "url": "https://docs.cloud.google.com/release-notes#August_30_2026",
+      "detectedAt": "2026-10-05T12:34:04Z",
+      "oldHash": "3f4480fc8628168df75b8974e487f4f3b3af8202673b535aaee995bbe47ebd12",
+      "newHash": "bf3006b54414cab90938ba1206bcb6775ad877840d2c34b29857b4c5aa89ae3b",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-B11A65AAEA37",
+      "url": "https://docs.cloud.google.com/release-notes#August_26_2026",
+      "detectedAt": "2026-10-05T12:34:04Z",
+      "oldHash": "81c827421cefa20eb2d46ad29327c4b16c0f6a563149332087456ed368efb3d7",
+      "newHash": "a61f09f63da4defa37ff6341f8c8c71020434350f12f6aa2746ea8883fd1d037",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-02AB17C831E6",
+      "url": "https://docs.cloud.google.com/release-notes#August_25_2026",
+      "detectedAt": "2026-10-05T12:34:06Z",
+      "oldHash": "b0c7fd50e9fffd9a31cfb14b39558d7a4824105f032542e0ce63594ce601e15a",
+      "newHash": "a559d8915d0dbe529beeb8ff5e84748b61879782d687527dcbf007a25c46d15e",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-75D2E19EC25D",
+      "url": "https://docs.cloud.google.com/release-notes#August_21_2026",
+      "detectedAt": "2026-10-05T12:34:05Z",
+      "oldHash": "340651dbb7516e3607c9371e60d45c53563ca7aa6107a0ccee473ff94bc01dee",
+      "newHash": "72a784e8f99ce4bcf56f5408a06932b27c738cd4f5be44641193ec171c40d7f6",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-4099DE735829",
+      "url": "https://docs.cloud.google.com/release-notes#August_20_2026",
+      "detectedAt": "2026-10-05T12:34:07Z",
+      "oldHash": "e43d558f2c53a4aa82c4931ed98d39ff3b9136795db6caac8eca49d68e0d26f3",
+      "newHash": "b7e0e00a56acbf4ebea11de9263e7d2a813667e2fba5d2d9aa16cb8a37771145",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-C07BE8FB5A33",
+      "url": "https://docs.cloud.google.com/release-notes#August_18_2026",
+      "detectedAt": "2026-10-05T12:34:05Z",
+      "oldHash": "bde735fb6d4236c95980c91df94cee34ab662ea7442cb4b345428962ef222d89",
+      "newHash": "71afab73d2246a5d9b36a298c77e685489331577ca65c449c07b60218480c3d8",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-8450C76C41B9",
+      "url": "https://docs.cloud.google.com/release-notes#August_17_2026",
+      "detectedAt": "2026-10-05T12:34:05Z",
+      "oldHash": "f51307ad67f7d99b5c5a62bc0ca5f4d920fe1a448c0d75571fb4f789c2077131",
+      "newHash": "fa1865d95c8b53e632b2d9fca3babaf8c01e9920e01c4023e5f78a48202aec29",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
+    {
+      "id": "GCDL-AUTO-CD21FAB578FC",
+      "url": "https://docs.cloud.google.com/release-notes#August_16_2026",
+      "detectedAt": "2026-10-05T12:34:05Z",
+      "oldHash": "b6217681612628187ec9e0812c766a6d4d9724b70f7993561a79cde51baa418f",
+      "newHash": "0190d931c32ea3ea0b12ea7b36b97e411eac55182991249ce40edd85573648f7",
+      "title": "Google Cloud release notes | Google Cloud Documentation"
+    },
     {
       "id": "Nouveau guide",
       "url": "https://services.google.com/fh/files/misc/cloud_digital_leader_exam_guide_english.pdf",

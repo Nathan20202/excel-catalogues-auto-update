@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "catalog": "gcdl-discovery",
   "cursor": 0,
-  "checkedThisRun": 28,
-  "addedThisRun": 18,
+  "checkedThisRun": 25,
+  "addedThisRun": 14,
   "failuresThisRun": 0,
   "feed": "https://docs.cloud.google.com/feeds/gcp-release-notes.xml",
-  "updatedAt": "2026-09-14T19:49:06Z"
+  "updatedAt": "2026-10-05T12:34:02Z"
 }
