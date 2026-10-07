@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "catalog": "pokemon-discovery",
-  "cursor": 4,
+  "cursor": 5,
   "checkedThisRun": 0,
   "addedThisRun": 0,
   "failuresThisRun": 0,
-  "areaThisRun": "Provence-Alpes-Côte d’Azur",
+  "areaThisRun": "Occitanie",
   "scannedAreas": [
     "Auvergne-Rhône-Alpes",
     "Hauts-de-France",
+    "Occitanie",
     "Provence-Alpes-Côte d’Azur",
     "Île-de-France"
   ],
-  "updatedAt": "2026-09-30T10:42:04Z"
+  "updatedAt": "2026-10-07T11:18:28Z"
 }

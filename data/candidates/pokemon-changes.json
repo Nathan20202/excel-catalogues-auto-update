@@ -1,9 +1,817 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T10:42:31Z",
+  "updatedAt": "2026-10-07T11:18:43Z",
   "catalog": "pokemon",
   "count": 250,
   "records": [
+    {
+      "id": "PKM-0207",
+      "url": "https://www.playingcardshop.eu/trading-cards/pokemon.html",
+      "detectedAt": "2026-10-07T11:18:30Z",
+      "oldHash": "ec1b27c410da3a48984eac9b517e4c88d3ef7402e4e772c1ed37c755afa2230d",
+      "newHash": "682f525e7c4848d898ec8b0f176d238de408d8317f36dd9288a360aba24560d3",
+      "title": "Pokémon TCG - playingcardshop.eu"
+    },
+    {
+      "id": "PKM-0208",
+      "url": "https://zadoys.de/",
+      "detectedAt": "2026-10-07T11:18:29Z",
+      "oldHash": "9a1b004b1164bf45da21aa6f619d8c8c3e8c6ee021d62470685966312be15d57",
+      "newHash": "5021eafbaa56f4d22840f8881e32c9c2a9e24db958c77020371211ee40c3dea5",
+      "title": "Zadoys.ch - Der grösste Pokemonstore in der Schweiz."
+    },
+    {
+      "id": "PKM-0209",
+      "url": "https://www.battle-bear-sb.de/collections/pokemon-einzelkarten",
+      "detectedAt": "2026-10-07T11:18:30Z",
+      "oldHash": "6afee09fa0cba78b737dba63d2055822fe972384afe84953829e2623f87c7247",
+      "newHash": "8fceabf795ac2ae28dc010c133ac00547aa5eac3ecb3f5cc10e519be24545ce6",
+      "title": "Pokémon Einzelkarten"
+    },
+    {
+      "id": "PKM-0210",
+      "url": "https://shpnpokestore.de/",
+      "detectedAt": "2026-10-07T11:18:29Z",
+      "oldHash": "ba67acfa71eb6310e6e8d0a9aad318dd88a63c24d36725de36552e62d54939ad",
+      "newHash": "73798edc61ad777a588979228bac11881af7a26594e49245bb980a1db6be17b4",
+      "title": "SHPNPokestore"
+    },
+    {
+      "id": "PKM-0211",
+      "url": "https://www.lotticards.de/pokemon-sammelkarten",
+      "detectedAt": "2026-10-07T11:18:36Z",
+      "oldHash": "9c5b6ae86680ca61ffdff61349985498c163dff2245cd1abaa1afe32ee514717",
+      "newHash": "55135bffd3f09b97295de55ae32a43f8cfd219384b6b38bc9b1c2742901f7f36",
+      "title": "Pokemon Karten kaufen | Günstig Online bei LottiCards"
+    },
+    {
+      "id": "PKM-0212",
+      "url": "https://cardstore.nl/en/collections/singles",
+      "detectedAt": "2026-10-07T11:18:29Z",
+      "oldHash": "a8e1c0ff4a25c8db3649bf4d7a4a4e1c2fe47cb55c185007f5fddeac91e41959",
+      "newHash": "628b441ca23ba6f5f5ca4d0f15a311d14d4ad472c4bef5285a47c71305bec8d3",
+      "title": "Loose Pokémon Cards for Collectors - Expand Your Collection – Cardstore"
+    },
+    {
+      "id": "PKM-0213",
+      "url": "https://www.bescards.nl/",
+      "detectedAt": "2026-10-07T11:18:29Z",
+      "oldHash": "6f06fac3c67e7ccce313a0bbe9f505f7f1c2c2ccdfe0f2a9fe8cf1a960157643",
+      "newHash": "760eb5ee6d2d1afbc70c8d419fa2933a51dea78910b6fbd198afa7dce2a53ee3",
+      "title": "Buy Pokémon Cards, TCG & Collectibles – Bescards"
+    },
+    {
+      "id": "PKM-0214",
+      "url": "https://www.pkmwinkel.nl/en",
+      "detectedAt": "2026-10-07T11:18:29Z",
+      "oldHash": "1cb8c3bb1cbceb7c5d2c7e7503c6f46efd7af3728d6fac5ee4fdc0f64b05df99",
+      "newHash": "703a6f24333721afc29d3af26671acc98ee620b1579dc253fdf9d7bccf009f06",
+      "title": "Welcome to the Pokémon collector's store of the Netherlands! – PKMWinkel"
+    },
+    {
+      "id": "PKM-0215",
+      "url": "https://outlet-pc.es/collections/cromos-cartas-y-accesorios",
+      "detectedAt": "2026-10-07T11:18:28Z",
+      "oldHash": "0c9d40561bae35487356a818e3c8d2eebb6c936073d841aaf4030206d24df273",
+      "newHash": "754d771def5464905cff9a8b7f5bd2203261daff34f248626c311de59ab4a2c9",
+      "title": "Cromos, cartas y accesorios | Outlet PC"
+    },
+    {
+      "id": "PKM-0218",
+      "url": "https://www.bsastore.it/collections/carte-pokemon",
+      "detectedAt": "2026-10-07T11:18:29Z",
+      "oldHash": "16056a93a307c2286a09404a9465499827f0e78b96e43e40e80ae22a4a48ae98",
+      "newHash": "6d3fed2e60ba1c2df2d99e181c3525b417eb85aaeaebe1b2b701be61b648e5a7",
+      "title": "Carte Pokémon | Negozio carte Italiane, Inglesi, Giapponesi e Coreane"
+    },
+    {
+      "id": "PKM-0222",
+      "url": "https://www.amazon.it/s?k=carte+pokemon+francese",
+      "detectedAt": "2026-10-07T11:18:29Z",
+      "oldHash": "fc271135da8532bf811271866c2c97f1ab7df3cafcbdfc6797c532dd5b92e0d0",
+      "newHash": "c9fa2e71582fc36f433feaee8ddbfbc9bec991540ef8e2780c58d7493e84a074",
+      "title": "Amazon.it : carte pokemon francese"
+    },
+    {
+      "id": "PKM-0228",
+      "url": "https://www.galaxus.fr/fr/s5/producttype/cartes-a-collectionner-971",
+      "detectedAt": "2026-10-07T11:18:32Z",
+      "oldHash": "1932b6cfce782b0308ed391e90c2ff523d7d2b1d82fde811b4d372d2a679ee15",
+      "newHash": "587014830dc035badd7c470983d123452e68450efddbeb719f3ad6f9bfa44bd9",
+      "title": ""
+    },
+    {
+      "id": "PKM-0229",
+      "url": "https://www.galaxus.be/fr/s5/producttype/cartes-a-collectionner-971",
+      "detectedAt": "2026-10-07T11:18:32Z",
+      "oldHash": "ed16e1454e30d18a64277c18f6de5237df25912eb35fb53085465787d1924839",
+      "newHash": "293e3efee9fe5ab6c2af09a185778be5e40edb2f37df4f5954fc8c9ace0a6ebc",
+      "title": "Cartes à collectionner - acheter sur Galaxus"
+    },
+    {
+      "id": "PKM-0230",
+      "url": "https://www.galaxus.de/de/s5/producttype/sammelkarten-971",
+      "detectedAt": "2026-10-07T11:18:31Z",
+      "oldHash": "548a3c886d8b7724678f68fb6825c78ae77c0d100207a412056f0c6d1302fa47",
+      "newHash": "f2923ca33735be923213b94e115960cdd920e5ad1b1dfab1c9d16fbfa00f49dc",
+      "title": ""
+    },
+    {
+      "id": "PKM-0231",
+      "url": "https://www.galaxus.it/it/s5/producttype/carte-collezionabili-971",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "65859f4fbd04d2f2b65588cc260b908a095a19b192de2651e5c4014626ef89fb",
+      "newHash": "3395c65e572a4ce88c90c36060e55cf4960974fcf3e1df4a6ed9df098309b53c",
+      "title": "Carte collezionabili - acquista su Galaxus"
+    },
+    {
+      "id": "PKM-0232",
+      "url": "https://www.galaxus.nl/en/s5/producttype/trading-cards-971",
+      "detectedAt": "2026-10-07T11:18:32Z",
+      "oldHash": "63fcd16157cfde58d11425f04f34f7c13d79eacb72f3c416baa4c8f8e7c2d03b",
+      "newHash": "c79e4ce20391a53ea8e0e25ccde6b4666a490d13e525a65b596dc156e9d02e12",
+      "title": "Trading Cards - buy at Galaxus"
+    },
+    {
+      "id": "PKM-0236",
+      "url": "https://bigshopper.be/fr/",
+      "detectedAt": "2026-10-07T11:18:29Z",
+      "oldHash": "696b8483c9dcb996ffdbc944c58972b41b6b1f540af9763d252cc8bcbcd75d9c",
+      "newHash": "3ac7cb12e9641b64b85c367da86edccb97bbe73f5c4b3dda3e71a720ed9acdee",
+      "title": "Comparez et économisez à la comparaison de prix Bigshopper"
+    },
+    {
+      "id": "PKM-SRC-86B51F85AE10",
+      "url": "https://www.pokemon.com/fr",
+      "detectedAt": "2026-10-07T11:18:29Z",
+      "oldHash": "753305f8773aa8897ff3e633ce1afb6cf737b8ad4ce016f4d89de5f56d117be7",
+      "newHash": "a83bd8742a3c92e68b70b9e022ac51f5eacc51cd36e5a725d6eb1b3f067220f9",
+      "title": "Le site Web officiel Pokémon | www.pokemon.fr"
+    },
+    {
+      "id": "PKM-SRC-143E94D29B4D",
+      "url": "https://tcgradar.eu/guides/pokemon-tcg-europe-buying-guide",
+      "detectedAt": "2026-10-07T11:18:30Z",
+      "oldHash": "ddf2269d33c214c5e8243ceac8d997c9963ac6c67aff35b4ae1b686033ee47f8",
+      "newHash": "8c45316cf98f18d4ca8c74c0cdb01981aa1f777f27e7b219de642afaf0b18c12",
+      "title": "Where to Buy Pokémon TCG in Europe 2026 — 290+ Stores, 23 Countries | TCGRadar"
+    },
+    {
+      "id": "PKM-SRC-E018C6E51171",
+      "url": "https://www.ultrajeux.com/genre-7-cartes-a-l-unite-francais.html",
+      "detectedAt": "2026-10-07T11:18:31Z",
+      "oldHash": "30db74f4a19a28c122aa1c831b380992f6abfbec028146014b3ceeaa06804892",
+      "newHash": "b8711c51d39b87f35deb3a438b435c24f1077b8028a75314033e956c51b66cd1",
+      "title": "Pokmon Cartes l'Unit Franais - UltraJeux"
+    },
+    {
+      "id": "PKM-SRC-D6C4D8169876",
+      "url": "https://www.leptitpoucet.be/boutique-de-cartes-pokemon-en-belgique/",
+      "detectedAt": "2026-10-07T11:18:32Z",
+      "oldHash": "d1fc9623122373d4d7ce94ced44d131bab8edcd6aad9646b69cfe4bf87a14636",
+      "newHash": "e0881a007107463916e29ea1ebb9b9edf1f89b7f4efddb0ec4ff9b7b9874ec97",
+      "title": "Boutique de cartes Pokémon en Belgique | Le P'tit Poucet - Magasin de jouets"
+    },
+    {
+      "id": "PKM-0001",
+      "url": "https://www.blazingtail.fr/",
+      "detectedAt": "2026-10-07T11:18:30Z",
+      "oldHash": "02df9ffdb54bfbdf1cb3a4a4dd2b240c34497d2d9b3fb3dd5da3af654320f668",
+      "newHash": "cd53041a15776ef650b18ff21a1893ea3467c582901a7c0afb4d76cb5200ca34",
+      "title": "Boutique carte Pokémon TCG, Boosters & Coffrets"
+    },
+    {
+      "id": "PKM-0002",
+      "url": "https://fuji-store.fr/",
+      "detectedAt": "2026-10-07T11:18:31Z",
+      "oldHash": "a86f485f2be8fed089e6f014d84d9310f09c9405afa2ebb9607cf76b96634242",
+      "newHash": "cad64a5d68f8f2fd37be8360782faae67c9235ad21704cc5f94cef4281b554c8",
+      "title": "Achat de cartes Pokémon à collectionner & autres TCG | Fuji Store"
+    },
+    {
+      "id": "PKM-0003",
+      "url": "https://kairyu.fr/",
+      "detectedAt": "2026-10-07T11:18:30Z",
+      "oldHash": "89d457c695b0e322022c109ff339dae1d7d0202dca5e46c710bd80371df3a5f8",
+      "newHash": "73488540adee58e37e40c6426d27484703ae493de4b696cc7ed7aaaaad425a36",
+      "title": "Kairyu - Boutique Pokémon"
+    },
+    {
+      "id": "PKM-0005",
+      "url": "https://www.pkmcards.fr/",
+      "detectedAt": "2026-10-07T11:18:32Z",
+      "oldHash": "4dda4bdaf8d1393da633faede774b8967b5ec91193f2edd7bf23b75a30ccac22",
+      "newHash": "1943747fdea4c90744917adb970dc035228fbc4b69edec74bdc78d324e1b1e9e",
+      "title": "Cartes à collectionner et decks Pokémon Card Game | PkmCards.fr"
+    },
+    {
+      "id": "PKM-0006",
+      "url": "https://www.lerepairedudragon.fr/",
+      "detectedAt": "2026-10-07T11:18:31Z",
+      "oldHash": "bac168efcaa14910b55875aa09354bcd8fdd59263e8a9b385523cb9ff8c268df",
+      "newHash": "30e907e86b176606400ac9b62b0c942e367a7c072b8c87651e8e2eada1270b70",
+      "title": "Boutique de jeux - Le Repaire du Dragon"
+    },
+    {
+      "id": "PKM-0007",
+      "url": "https://co-lector.fr/",
+      "detectedAt": "2026-10-07T11:18:31Z",
+      "oldHash": "3dfb8b71b47cf7c01f0e12c7c5f0b6607a58a409c4fc57c5bfbf786495998f24",
+      "newHash": "2f747b40dd7a7d3362945e1faa3d55c20b653c168d55df0c3c865ff294b7b76a",
+      "title": "LectorShop : Pokémon | One Piece | Lorcana | Star Wars | Artworks – Lector Shop"
+    },
+    {
+      "id": "PKM-0010",
+      "url": "https://www.poke-geek.fr/",
+      "detectedAt": "2026-10-07T11:18:32Z",
+      "oldHash": "3b968784cb53eaf9e358c796d235eef64e6dea7c13b6ec100622fb3e314ad39f",
+      "newHash": "d3e9c8f397a4e002bc331268ed64ef892561dd9d4067e1c7481e6473a084bb2c",
+      "title": "Poké-Geek, un site spécialement pour les collectionneurs Pokémon & TCG – Poke-Geek"
+    },
+    {
+      "id": "PKM-0012",
+      "url": "https://pokemoms.fr/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "47c783137339db7492b391da848321739ed6960a9ec8c8bef08243515cbd6540",
+      "newHash": "5dd1e13cc1bf38a277ce2045df08357171c19991e3ba5466791c4145da401803",
+      "title": "PokéMom's – Boutique spécialisée en Pokémon et autres licences"
+    },
+    {
+      "id": "PKM-0013",
+      "url": "https://pokemagique.fr/",
+      "detectedAt": "2026-10-07T11:18:34Z",
+      "oldHash": "d8e25ea91ae798bbb16095c238ee7ddac67ce03977acafba8895d8ae2ab33226",
+      "newHash": "6ba39fc87e1525838a0abed0952bc16b8e994acedb4c6d7180b13cd602580c8e",
+      "title": "PokéMagique - Boutique de cartes et d'accessoires Pokémon"
+    },
+    {
+      "id": "PKM-0014",
+      "url": "https://masterset.store/",
+      "detectedAt": "2026-10-07T11:18:32Z",
+      "oldHash": "aa084954b601133a3da83f38c24f91e584a6c334be0d7383177cd5e25ad83d4e",
+      "newHash": "5fb06d70aac873d8fbc7ac217f7b2a6914fd48249b92c58b0d3bfa2cc129d884",
+      "title": "MASTERSET : Boutique spécialisée dans les TCG Pokémon, OP et d'autres"
+    },
+    {
+      "id": "PKM-0015",
+      "url": "https://kularo-cardshop.com/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "afbc44bbbcb20c834498816739530f5910db429c04c02f35b44c149fc2ebb1b3",
+      "newHash": "446934e1e29b38bdcc00a97ae63bd0a0366f9b51fd5df30c9624f3c6d25ff5eb",
+      "title": "Kularo Cardshop"
+    },
+    {
+      "id": "PKM-0016",
+      "url": "https://lorenzone.fr/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "ded0a149a1597f2dbe1d8573284caf84f8455cbbfa4b0f4e78ca740ffedb2ff6",
+      "newHash": "30e09fbb0c347f9e2e0930acbc2ea6d8d4e26c7bc899eb11c1b6f3e72371b432",
+      "title": "LorenZone — Boutique TCG Pokémon, One Piece, Lorcana, Naruto & Magic"
+    },
+    {
+      "id": "PKM-0017",
+      "url": "https://hitndrop.com/",
+      "detectedAt": "2026-10-07T11:18:32Z",
+      "oldHash": "5aecac9db88baf5c8584fa57b36fa42f4dd4f728d1ae7941b98b2d854d98493f",
+      "newHash": "3ba58d88509d07009ac4f8ec84881f88654b1e55158b1a7973f13d0e6f79bd60",
+      "title": "HIT'N DROP | Boutique TCG Pokémon"
+    },
+    {
+      "id": "PKM-0018",
+      "url": "https://www.destocktcg.fr/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "4365ca32e5bc4612abce07e6a19c48270570e6c281845a7cc35416bae6e9748b",
+      "newHash": "d8a561b8e4e57b0a5c74a47c4ebf63f31cef166d510c42514f92af2a3e12a944",
+      "title": "DestockTCG | Cartes Pokémon, One Piece, Magic, Yu-Gi-Oh! - Le paradis des fans de TCG."
+    },
+    {
+      "id": "PKM-0019",
+      "url": "https://cardsandcostore.com/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "44401a0ede488f19642377c1ce5fb062ccc19dfc8f66808405dcf5f8c3c71d6b",
+      "newHash": "e70b78332fe3738f19cb3b1c195aa472be210f77012f584a0abcc2c8ac6bd2b1",
+      "title": "Cards&co Store, la boutique pour tous les fans de cartes de collection"
+    },
+    {
+      "id": "PKM-0020",
+      "url": "https://www.pokeloutre.fr/",
+      "detectedAt": "2026-10-07T11:18:35Z",
+      "oldHash": "df83cfbcddf1ebd3a4bcc10980af366804ef071579f6967305e9a70ea0fc473d",
+      "newHash": "dc27defb346cb93b44530181e57ac17b4a5471ffbe0f9b287c5ae7ed483ca04a",
+      "title": "Carte TCG - Achat items scellés et cartes à l'unité - PokéLoutre"
+    },
+    {
+      "id": "PKM-0021",
+      "url": "https://hikarudistribution.com/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "0b70813c3f337ce3ceeb116fcf486da09daa8cecb77432494920c1660e4011f4",
+      "newHash": "49ac9e6b287f190f9f71f3217699e4f8280a0a20e1e7d35d1eed9114d6c8f9c8",
+      "title": "Carte Pokemon & TCG | Hikaru Distribution - Display, Booster, Coffret"
+    },
+    {
+      "id": "PKM-0022",
+      "url": "https://missplaybros.com/product-category/pokemon-fr/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "3c004b332d5c4a86af879355969204d359ff17db65e1cb4fe5265bfb2ad3a2ad",
+      "newHash": "6202da9b2bb2729012d56640485bcfc4885553cdbb52a7189a36678eafc3d5e1",
+      "title": "Pokemon FR - Missplaybros"
+    },
+    {
+      "id": "PKM-0023",
+      "url": "https://www.fantasysphere.net/jeux-de-cartes-a-collectionner/pokemon/",
+      "detectedAt": "2026-10-07T11:18:34Z",
+      "oldHash": "9c293f17a6ca10dfabcbbb2f40579232c02f9f0ae935b4bd9ef2af888c4a73ab",
+      "newHash": "4eb8068cf385daf0a2d462c3277015c2b481db85d73a2a0276f331e877c95d2f",
+      "title": "Pokémon - Produits & Accessoires TCG - JCC - Fantasy Sphere"
+    },
+    {
+      "id": "PKM-0024",
+      "url": "https://bulbiworld.com/",
+      "detectedAt": "2026-10-07T11:18:36Z",
+      "oldHash": "69a476c90033fe48ad3a4cc930e25cd3279ead00bbb7df2a752a52841f7ee4ce",
+      "newHash": "0364c64f0a061a7d6782b7ea8b321c8c3fa725b07db9b4b459e684d5aa0ad258",
+      "title": "BULBI WORLD – NIVELLES"
+    },
+    {
+      "id": "PKM-0025",
+      "url": "https://geekncard.fr/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "e6a09c6c97a079e191794c4872c9b1a12db83a2a96d93b086d6d48a2b7451456",
+      "newHash": "214c415b4c288b953754107dd342c986de427f620debc1405a46f719ea917949",
+      "title": "Geek and Card - Invest - TCG - Collection - Jeux de société"
+    },
+    {
+      "id": "PKM-0026",
+      "url": "https://www.psyaieaiestudio.com/pokemon/coffrets-scelles-pokemon-francais-fr",
+      "detectedAt": "2026-10-07T11:18:34Z",
+      "oldHash": "2aeab8f8c926a8923b944fd65670592ff2db169525bb899205da0bf7e90f7269",
+      "newHash": "763c1d1c3135469546228b61d5f0434bb49b902fc8ca8394f28a62062dff2931",
+      "title": "Coffrets scellés Pokémon Français [FR] / Pokémon | Psyaïeaïe Studio"
+    },
+    {
+      "id": "PKM-0027",
+      "url": "https://www.relictcg.com/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "e6a4c1cb6b018d3c404bdf4ec817d17e8d4434408b3c899d03c00c4921b92fe6",
+      "newHash": "f37768e58ab14c8cf57dc4d0e979a6413aa9a1346a3d8fb8b0ee0035b2a1349c",
+      "title": "Relic - Boutique spécialisée dans les JCC et jeux de société – RelicTCG"
+    },
+    {
+      "id": "PKM-0028",
+      "url": "https://www.mayapokemon.com/",
+      "detectedAt": "2026-10-07T11:18:35Z",
+      "oldHash": "3e86cc0d6c1e9d54619cf686ceede692fa317d121877ed273de7e6ae13d3eb53",
+      "newHash": "906a1ecdfa19bb560cc4e3cb564051c58da689777788b0a1b127d5616140dc50",
+      "title": ""
+    },
+    {
+      "id": "PKM-0029",
+      "url": "https://pokegourou.com/",
+      "detectedAt": "2026-10-07T11:18:33Z",
+      "oldHash": "ff548ed7867189888acfa364fddeae829faed915ac1d8ef21a50200ff10f1a5d",
+      "newHash": "29c59bb1c73aca1f8173c80b6eba0fa04e92b1a214b148726ee9e2d980f77b03",
+      "title": "PokeGourou - Acheter des cartes Pokémon officielles"
+    },
+    {
+      "id": "PKM-0031",
+      "url": "https://www.wikitcg.fr/",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "a5a239cb415777f00c7bac32acf4aa38ece30d6d35bf081d79f61cff57af2173",
+      "newHash": "f39c9c8635e7ddffa4b1be08b88d30f76eaae912c26d8276c5b114f72e855e44",
+      "title": "Wikitcg.fr – Boutique de Cartes Pokémon & TCG – Votre boutique de cartes"
+    },
+    {
+      "id": "PKM-0032",
+      "url": "https://huntersquest.fr/",
+      "detectedAt": "2026-10-07T11:18:34Z",
+      "oldHash": "d0b891f194b45644641aee004b979a3b741ab4e270ec7289ab3710eea3101343",
+      "newHash": "b4f7a6f92f497b1b729a35a45419f9dc5cf33b6864b8086ed84aeaac69e4647c",
+      "title": "Cartes Pokémon, Disney, One Piece et Produits Dérivés – Hunters Quest"
+    },
+    {
+      "id": "PKM-0033",
+      "url": "https://pika-boutique.fr/",
+      "detectedAt": "2026-10-07T11:18:34Z",
+      "oldHash": "d8ca9682e45015ad2207223337b2eafa3c6c3cc4f5bd36acfd803119aa88a447",
+      "newHash": "9f44783b024ec211bab9dafde64a6c29f18bbb7ec1016feab753d98d282245d8",
+      "title": "Boutique de cartes Pokémon | Pika-boutique"
+    },
+    {
+      "id": "PKM-0034",
+      "url": "https://www.tradinggeek.fr/",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "a783622f0bab9d03c9085ce02caf5d9ae0cac2ba8ca8712f21baec4247a338fb",
+      "newHash": "8a46cc2ebc00cc308e51aaeec5c75e13e4a8fb2e56099ad1808ba39b3109b314",
+      "title": "ACCUEIL -"
+    },
+    {
+      "id": "PKM-0035",
+      "url": "https://www.irahimcorp.fr/",
+      "detectedAt": "2026-10-07T11:18:36Z",
+      "oldHash": "c7f6d40fefe3471fbec615d2fe53400193daec265e72cec83f7e8a9c532a9c4c",
+      "newHash": "2a1934e5f7e73195dfa4f2a7257e2972139d7f1ae32dda5a35c4972513871b7f",
+      "title": ""
+    },
+    {
+      "id": "PKM-0036",
+      "url": "https://gmshop.fr/",
+      "detectedAt": "2026-10-07T11:18:35Z",
+      "oldHash": "9825a030908bc8166d36555ceb678ea3e66b9bed1078f234e91fc5a5ba5b6ec4",
+      "newHash": "e79440b0221929252532bb48fa6b03f6b2c3468db14fe6e4e9596eed0ab64947",
+      "title": "GM Shop"
+    },
+    {
+      "id": "PKM-0037",
+      "url": "https://mymesis.fr/",
+      "detectedAt": "2026-10-07T11:18:34Z",
+      "oldHash": "2746aab1b577ccb53e20d717ec62aa8a6841555384491af7232587e0d66dfde4",
+      "newHash": "b20365eb584d6e78f01fca6c3d1344141e366dd76802b7129d75d4e210bf5916",
+      "title": "Mymesis – L'art de collectionner"
+    },
+    {
+      "id": "PKM-0039",
+      "url": "https://hitmstreet.fr/",
+      "detectedAt": "2026-10-07T11:18:35Z",
+      "oldHash": "fa8bfcc5273b6bc2953a22eed798f0b87e126c4d9519cbeda7378f93bfd5657a",
+      "newHash": "2c684eba8c28cc601cf7ee06cb88c6e8b11919fb37a4930648dd50c39207725b",
+      "title": "Hit'M Street – Hit'm Street"
+    },
+    {
+      "id": "PKM-0040",
+      "url": "https://pokestock.fr/",
+      "detectedAt": "2026-10-07T11:18:34Z",
+      "oldHash": "e12defb0d378baf8fa1e13856896537a0a79294410c4b7ceafe6c7823a15d500",
+      "newHash": "a4511383a43066d19b27f1dac7ed720a35bc5d9c144d8d59c67b3511a98780b6",
+      "title": "PokeStock, votre boutique spécialisée en Pokémon"
+    },
+    {
+      "id": "PKM-0044",
+      "url": "https://ark-games.fr/",
+      "detectedAt": "2026-10-07T11:18:38Z",
+      "oldHash": "faf09bf74b321c3597859dd650aa23a92680d7d1ba37e068a932fac37fda6f0e",
+      "newHash": "e681e2127545d14d70a38435ea35eecbcc25acacc15f495182d8f2462ff951f9",
+      "title": "ARK GAMES STUDIO - ARK games studio"
+    },
+    {
+      "id": "PKM-0046",
+      "url": "https://lmdx.fr/",
+      "detectedAt": "2026-10-07T11:18:37Z",
+      "oldHash": "75846d16742efeb4e8ca91f90d4a44034c0b0384ddba8615cf7dfca614991708",
+      "newHash": "850558df2c3544f59eeffa3ac34703d322187d560a1ce62f362a59124f9d2307",
+      "title": ""
+    },
+    {
+      "id": "PKM-0047",
+      "url": "https://buycards.fr/",
+      "detectedAt": "2026-10-07T11:18:38Z",
+      "oldHash": "34daea83e5527a8f7350f74f7469696b50995aba20a99308208cd31dc8645be7",
+      "newHash": "bb5421646394afbbb4e97617719b2a9e71c94d69a549373fa21b4ee28f6784b3",
+      "title": "Buy Cards: Cartes à Collectionner Et Accessoires De Protection Pour Tout TCG"
+    },
+    {
+      "id": "PKM-0049",
+      "url": "https://lepolymorphe-cambrai.fr/",
+      "detectedAt": "2026-10-07T11:18:36Z",
+      "oldHash": "fd0491394192b7c992c3b364051060e4a3570de4671b98e8464365fdf7301b23",
+      "newHash": "23c3e77574075e65c92df1c836ea6ec671b50e73ee2c8efd097262038bab3d6f",
+      "title": "Le Polymorphe Cambrai - Bar à jeux et boutique de jeux"
+    },
+    {
+      "id": "PKM-0050",
+      "url": "https://www.konobacards.fr/",
+      "detectedAt": "2026-10-07T11:18:38Z",
+      "oldHash": "659b8ede3f8914304c639a4fa95b825bf57b2273cf583a54e049a4f730d26929",
+      "newHash": "2cfcc8ee95dc69560bc993b44e66ac79c688aa7337df48f62287bac0c206e7f8",
+      "title": "KONOBA CARDS – Spécialiste des cartes à jouer à Rouen"
+    },
+    {
+      "id": "PKM-0053",
+      "url": "https://www.pokelite.fr/",
+      "detectedAt": "2026-10-07T11:18:37Z",
+      "oldHash": "c5eef57de47a075c06a4c7c99f4d5b2e8dbd4dbd967d37fd4da75310896702d2",
+      "newHash": "0bb71e1da78a5d17fcca2a8abd4e859e5460d46fa3ac7730e0dd37dbf2714c96",
+      "title": "Pokelite — Boutique en ligne TCG Pokémon, Lorcana & One Piece"
+    },
+    {
+      "id": "PKM-0054",
+      "url": "https://love2collect.fr/",
+      "detectedAt": "2026-10-07T11:18:37Z",
+      "oldHash": "4c142835183a995495ecc2a2def23d4cf60faac5db4b41abec78c85dfd42507b",
+      "newHash": "9536dfc1a53449c4c0c207c3a576bbae5245d42b3a848d2dded4e7f510285840",
+      "title": "Love2Collect | Boutique Cartes & Pochettes à thème"
+    },
+    {
+      "id": "PKM-0056",
+      "url": "https://espritpopshop.fr/",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "bc2f697c74049b8e54d43d11b28a4f94509bc90a1c9e9b440753bcf5988ef998",
+      "newHash": "ffb217b93869578873f839bd523c80f3d61b80c8aa092bae6e101938dd031dea",
+      "title": "Boutique Pop Culture à Pau | Esprit Pop Shop"
+    },
+    {
+      "id": "PKM-0057",
+      "url": "https://jmcards.fr/",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "6a9ac48fe0575d42e2091c025f9d012329e91e1d42be5c2749f1511d17d5844f",
+      "newHash": "7fd613d5e5224a2168bbc6120ed45038faeada220b345a1afd7f96af84826eb9",
+      "title": "Boutique de cartes TCG Pokémon, Magic, Yu-Gi-Oh!, One Piece"
+    },
+    {
+      "id": "PKM-0058",
+      "url": "https://pikadi-collect.fr/",
+      "detectedAt": "2026-10-07T11:18:38Z",
+      "oldHash": "9bec9b39332325951f9a9553b80ae2c446f6671ea32a2565e9c1c5b3dca60538",
+      "newHash": "4119299a79a4c0f8b1670119a685c2b2c98c4f88a4b8e972163e469e316de0ec",
+      "title": "Pikadi Collect"
+    },
+    {
+      "id": "PKM-0059",
+      "url": "https://shop-in-touraine.fr/taxons/marchand/kmi-house",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "1e62dd06a38bd4b25f8dea9d89fddc2ff06db533e22b71b01b39e93f8ebeedc7",
+      "newHash": "e9acb05dfbf52886bed828f7ebe5430af42ebcdf2ffd878ea75dc89d43012cad",
+      "title": "Kmi House - Shop in Touraine"
+    },
+    {
+      "id": "PKM-0060",
+      "url": "https://mangasuki.fr/",
+      "detectedAt": "2026-10-07T11:18:37Z",
+      "oldHash": "fe295597b702ec6eef8ccfcca46369730f3282be39f5b888fa37eeb227791a11",
+      "newHash": "5f1f4124062246526f9c3da7ba1335f96c897057372e0b799b04591345f4b7b8",
+      "title": "MangaSuki"
+    },
+    {
+      "id": "PKM-0061",
+      "url": "https://www.lerepairedelexie.fr/",
+      "detectedAt": "2026-10-07T11:18:38Z",
+      "oldHash": "a6fe53f2081fb51de821ddbc3e8a1b91442765fa376ac38bd678918f7d8b06b4",
+      "newHash": "79e58bcff3f28baa5c2d310b0cec43a328aba73dcf40413aae342310b55e2d3c",
+      "title": "Accueil - Le Repaire de Lexie"
+    },
+    {
+      "id": "PKM-0063",
+      "url": "https://www.vegastore.fr/",
+      "detectedAt": "2026-10-07T11:18:38Z",
+      "oldHash": "fb2affb0f5af8ad853e015012be322a43a1c3b32f78d59c622111ef4cea37b69",
+      "newHash": "a76202e83f844e8ffe3c76b3818687087e9d1bae06f7f2465619af1e812d1fe1",
+      "title": "VegaStore - Boutique Carte Pokémon et Figurines"
+    },
+    {
+      "id": "PKM-0064",
+      "url": "https://www.dracaugames.com/",
+      "detectedAt": "2026-10-07T11:18:38Z",
+      "oldHash": "0cdd8b2f7f38767545d6693c82936f0d121383771bc9ea9f00412a6b2b218583",
+      "newHash": "8996562de9531a016bc4807ef082efc472abd8cb1bbb029d1916ba3921d9b5b6",
+      "title": "Boutique de cartes à jouer & collectionner – DracauGames"
+    },
+    {
+      "id": "PKM-0065",
+      "url": "https://feedmy.fr/",
+      "detectedAt": "2026-10-07T11:18:39Z",
+      "oldHash": "cc7bffc9224ba26aa1f64b0ba31a450a8fa5de1291531482291499cbd5fb0f91",
+      "newHash": "997ddaf393429f66e8d087aa1fa9c396842ff92350f0c8bb3096bd3c2fb1c9ba",
+      "title": "FeedMy | Spécialiste Beyblade X, Cartes Pokémon, Naruto Kayou & Jouets"
+    },
+    {
+      "id": "PKM-0067",
+      "url": "https://www.play-in.com/fr/gamme/3/pokemon",
+      "detectedAt": "2026-10-07T11:18:39Z",
+      "oldHash": "617ee59d05c65a257cc9dbbedbd7fb2aa709e3a18838119ba206ab1fe4d852de",
+      "newHash": "8ffd96ddf2c0d69f0b0151933a9e6c039a41a98595464db6ab42e9a92aa7d1ec",
+      "title": "Acheter vos cartes à collectionner Pokemon | Playin"
+    },
+    {
+      "id": "PKM-0068",
+      "url": "https://www.ultrajeux.com/jeu-4-pokemon.html",
+      "detectedAt": "2026-10-07T11:18:39Z",
+      "oldHash": "cc8567d4150b5176432cb504ee60e5d5ae001586cf29370710b6caeafde71c68",
+      "newHash": "95bd21c3431dc76d4bebe2dc2de85da9b4f4b8a162a1b179ba203f36ac8cff84",
+      "title": "Pokmon - UltraJeux"
+    },
+    {
+      "id": "PKM-0069",
+      "url": "https://www.philibertnet.com/fr/212-pokemon",
+      "detectedAt": "2026-10-07T11:18:38Z",
+      "oldHash": "0553dc18019e52411ec933864e58588dc947e94340f2b49ece953c4572d95f18",
+      "newHash": "c1f2ca47a95664fdc5f6ccaa52d00909523aac59849b607ae429be85e32f8267",
+      "title": "Pokémon - Jeux de Cartes - Decks, Boosters & Accessoires"
+    },
+    {
+      "id": "PKM-0070",
+      "url": "https://www.ludifolie.com/59-cartes-pokemon",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "112acf9a3893baef0cefbd81b7c521d3c3d5476b57a5715fe552f3dfc2ebc8cc",
+      "newHash": "9b339d72d5b0b47f8b39dabc4ab26f1dc25c31c35a244ea4a3afac751092aaef",
+      "title": ""
+    },
+    {
+      "id": "PKM-0071",
+      "url": "https://lecoindesbarons.com/",
+      "detectedAt": "2026-10-07T11:18:39Z",
+      "oldHash": "eb2f8bcc262ada4938b6486b16f2850a9b521e893a7ad7d43c52188b0b6fbf8f",
+      "newHash": "0feba863dbd92aee292029a0b5a52a05a6d5277320bc658b1892a910f919e472",
+      "title": "Spécialiste TCG : Yu-Gi-Oh!, Pokémon & Co. - Le Coin Des Barons"
+    },
+    {
+      "id": "PKM-0073",
+      "url": "https://www.kingdultes.com/collections/tcg-pokemon",
+      "detectedAt": "2026-10-07T11:18:39Z",
+      "oldHash": "58b650e82ebc9a48748b003e451005f21ce0211ac993eae997b53ffc97cdfab2",
+      "newHash": "2e5b1c7f4664ad12b53dcd6be3c882926d240073871412e89f806c3c8c0d30d8",
+      "title": "TCG Pokémon — Boosters, cartes rares et displays"
+    },
+    {
+      "id": "PKM-0074",
+      "url": "https://investcollect.com/",
+      "detectedAt": "2026-10-07T11:18:39Z",
+      "oldHash": "d01e0190f9d2e7724d585993fb97d61585041b6812ec1a3391447a756146f743",
+      "newHash": "08a637c3423934f6187f8d8037b7d83508348d1453aa15e2865f77ff40b950f4",
+      "title": "Invest Collect"
+    },
+    {
+      "id": "PKM-0076",
+      "url": "https://www.letempledujeu.fr/",
+      "detectedAt": "2026-10-07T11:18:42Z",
+      "oldHash": "233471937e1e0c95d34788bc6ff1484a84c34860d70838728c01555234992630",
+      "newHash": "f1ba39349fb00eb3127672f765c298d6f19d745e180665deeaf7d09c0ed1ecc4",
+      "title": "LETEMPLEDUJEU.FR - jeux de société, figurines, JdR, ..."
+    },
+    {
+      "id": "PKM-0077",
+      "url": "https://www.atmos-arena.com/",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "d6179d6d4d751c302b568b3b4438d72c17b5549866a6fe945ccf2ef586316a3a",
+      "newHash": "4b395586ec589e6d1b34a195d7a3293cabb917b7fdce0068aa99b12bea5bb200",
+      "title": "Atmos Arena – Venez jouer chez nous"
+    },
+    {
+      "id": "PKM-0078",
+      "url": "https://baroncollections.fr/",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "2bb01dc8c988bdf50a64548208acef8fb78823bd41cfbc7299b160a100cfa20e",
+      "newHash": "59b647d126b4d3db53e33d23474b32049cac10c98ba21323bafdc26402bebfaa",
+      "title": "BaronCollections"
+    },
+    {
+      "id": "PKM-0079",
+      "url": "https://www.starplayer.fr/1451-pokemon",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "dc1c98c4b7859feefd2bd28fa9ad1b137bd3fa22fbf93c795888bb9c12432b98",
+      "newHash": "83656a89d6b2adb2d67efb3f689858daa45780b66c40e1f34c3d6b118799d12a",
+      "title": ""
+    },
+    {
+      "id": "PKM-0080",
+      "url": "https://sortileges.fr/shop/category/cartes-pokemon-417",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "46b239fe981105ea1d7bd9b7b77303e647e13f206579801bc8811c4f3b01a780",
+      "newHash": "126ad81e69724bcf0c30b2fc121313afa518b15d8a2778432cd7477a016eb531",
+      "title": "Cartes Pokémon — boosters, decks & coffrets | Sortilèges"
+    },
+    {
+      "id": "PKM-0081",
+      "url": "https://www.trollune.fr/rayon/pokemon/",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "dad69ba4d43a5386c5009508063b4600910e95ac951f15cd07a41c0af2663398",
+      "newHash": "a76a982aed10a8b867a8e2cb406f04f89c6027f0d1aefadb009641592758789a",
+      "title": "Pokémon - Trollune"
+    },
+    {
+      "id": "PKM-0082",
+      "url": "https://cardsgeneration.fr/en/collections/pokemon-francais",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "fa2c68bf45bbb342b3c205657987f0402deea5f14607a70c4619a06cbb8f414e",
+      "newHash": "6b0f5a73b03ec18ddbed19fe1bbcf2434370652b3b93f12b3ce924bb3658ecda",
+      "title": "Pokémon French - CardsGeneration – Japanese Trading Card Shop – CardsGeneration – Boutique de cartes à collectionner japonaises"
+    },
+    {
+      "id": "PKM-0083",
+      "url": "https://jollycards.fr/",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "85ff4137d117c3e83862047ecada4afa36a2072577afcada6451ed52640d7d32",
+      "newHash": "37b66318ff76dfc0a8242bd6a2d2235686946ead221fa2c742edfbc1308045d3",
+      "title": "Boutique Pokémon, One Piece et Naruto : Cartes, Coffrets.. – JollyCards"
+    },
+    {
+      "id": "PKM-0084",
+      "url": "https://pokebinome.fr/",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "4b1f5978f4ece03051291e8e45a47cfea6d583c70c048ecea0f0c164628279c7",
+      "newHash": "5df5af909c465ef0579431e4391133f02c8c38a097300245e098d7721eda7be8",
+      "title": "Pokebinome"
+    },
+    {
+      "id": "PKM-0085",
+      "url": "https://domainedescartes.fr/",
+      "detectedAt": "2026-10-07T11:18:42Z",
+      "oldHash": "9f6b54b49ad2dec0881a4c84a0b10ad4660c11a4fc67962b7d161e6f8395116d",
+      "newHash": "faa4ea12575cf53b015a3dce397f6e1a8cfc8cb001b875d6e19a39f00d0f9425",
+      "title": "Accueil | Domaine Des Cartes"
+    },
+    {
+      "id": "PKM-0086",
+      "url": "https://www.maitresdesarenes.com/",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "c5e82002ca9aa8e3f6e7895a028682c59f74535a11b4129ff648c549490c4c1b",
+      "newHash": "6bfaf90a4ab48d0c339ad768381234d857c6693b20c3da35d7ffacf029829607",
+      "title": "Maîtres d’Arènes® – Boutique Pokémon, Cartes TCG & Produits Scellés Suisse"
+    },
+    {
+      "id": "PKM-0087",
+      "url": "https://cardlabtcg.com/",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "10b9c0df328584371cf100ffb1c09b656b9d1734f8187f1b084db013680af369",
+      "newHash": "a3b1515803a5b88b881c105b5bd6fb457782850bee94199288450568f0e9d271",
+      "title": "CardLab™"
+    },
+    {
+      "id": "PKM-0088",
+      "url": "https://hobbyhouse.fr/",
+      "detectedAt": "2026-10-07T11:18:40Z",
+      "oldHash": "192cdd67d9949510f263aeb55ffd39742fef87ba250660ef47a0eb3cceeba9b8",
+      "newHash": "344d529d904d57dbe9e237168fb1db2eceeb5bad46a85ac414c4b7debcac5017",
+      "title": "Hobby House"
+    },
+    {
+      "id": "PKM-0089",
+      "url": "https://gradedcardcenter.com/",
+      "detectedAt": "2026-10-07T11:18:42Z",
+      "oldHash": "6531a62aee92355f8783b8d5a0c62b5a6d70c00c8d76aac51f554db4e130e285",
+      "newHash": "41c355845189944079ccbcf3a198b335e99643d9200ee1f6f53a555292610893",
+      "title": "Cartes gradées, enchères et objets de collection | GCC"
+    },
+    {
+      "id": "PKM-0092",
+      "url": "https://www.micromania.fr/c/cartespokemon",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "0417b9793551b3d77e0eb7a4973a0ec697e85475aab64f8c3e1736c7a19fe244",
+      "newHash": "38ce44aaa5e8fd3fcc8b660a48c0df72c3696e7977486ab5f42090ab665788b9",
+      "title": ""
+    },
+    {
+      "id": "PKM-0093",
+      "url": "https://www.joueclub.fr/",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "b7c737960483fb07e80228902cbade78cd3507e88823ef803f65ab8d0a665caa",
+      "newHash": "bb406f09809e3a85bdae07d6bd630277369e6d45760f2968ebee555d241db5a3",
+      "title": "JouéClub | Spécialiste des jeux et jouets pour les enfants et adultes"
+    },
+    {
+      "id": "PKM-0095",
+      "url": "https://www.lagranderecre.fr/cartes-a-collectionner/",
+      "detectedAt": "2026-10-07T11:18:42Z",
+      "oldHash": "9405887e1ff925e507f53923c7cf638a21cce318202325f896a59aa68966d79e",
+      "newHash": "b19be9ee55efedd68b8ce06324ec2bb67d76f39b0841c21ade27bca0486e7c33",
+      "title": "Cartes à collectionner Pokémon, One Piece, Lorcana | La Grande Récré"
+    },
+    {
+      "id": "PKM-0096",
+      "url": "https://www.smythstoys.com/fr/fr-fr/jouets/jeux-de-societe-et-puzzles/cartes-a-collectionner/cartes-pokemon/c/SM1301061101",
+      "detectedAt": "2026-10-07T11:18:41Z",
+      "oldHash": "91c8a198843e88c899362ea9618a1a4080282ea11bf5c194652d9e9d31fb4603",
+      "newHash": "a0b9b2ff2a8bdf5e65d0323afed153c6ded7179bd64f80e8d9a8ebb8d564ddc4",
+      "title": "Pardon Our Interruption"
+    },
+    {
+      "id": "PKM-0098",
+      "url": "https://www.auchan.fr/",
+      "detectedAt": "2026-10-07T11:18:42Z",
+      "oldHash": "a91dcb34e2a7448eab40caba6eacfaa2143bd89ffcfc3a152f1b3b0dca86c02f",
+      "newHash": "81a83ea8087f0c574da01e809e98d8ba9b5741c179ad2671d089a631bffea5fc",
+      "title": "Auchan. Promos, infos drives et magasins, courses en ligne livrées à domicile."
+    },
+    {
+      "id": "PKM-0099",
+      "url": "https://www.e.leclerc/cat/cartes-pokemon",
+      "detectedAt": "2026-10-07T11:18:42Z",
+      "oldHash": "78d581b78936dd71efc934e8f92b1568fa4255a8798cc583c7612f0651099738",
+      "newHash": "915caa522a5031497e473ba8181bd954b80e7bf40f03f659a8ae6883ab14dcbe",
+      "title": "Cartes Pokémon au meilleur prix | E.leclerc"
+    },
+    {
+      "id": "PKM-0101",
+      "url": "https://www.monoprix.fr/",
+      "detectedAt": "2026-10-07T11:18:42Z",
+      "oldHash": "6b2ef6672f92d1cc49543faa8f8927e84ea8d5ff034269d43b1dccf0c0be79e5",
+      "newHash": "7e26af6baa115c9a6322e9372ee0f8d81e00273ea95252a88471aa3980e793e7",
+      "title": "Accueil | Monoprix.fr : Courses et Shopping en ligne et toutes les infos de votre supermarché"
+    },
+    {
+      "id": "PKM-0104",
+      "url": "https://fr.shopping.rakuten.com/s/carte+pokemon",
+      "detectedAt": "2026-10-07T11:18:42Z",
+      "oldHash": "1a9495265297600e765cab971c659cffaf947d1a847d3585610ad4f9a43b465d",
+      "newHash": "8333dcc85c910830eefe6b4dc441028edd6d79e7f9af7419b5514814727ed3b6",
+      "title": ""
+    },
+    {
+      "id": "PKM-0106",
+      "url": "https://www.vinted.fr/catalog?search_text=cartes%20pokemon%20fr",
+      "detectedAt": "2026-10-07T11:18:43Z",
+      "oldHash": "892135f1ec8cd9203e2e8b6b7980c3e61e6d03eeced5e296b16c9f71f2b5824b",
+      "newHash": "f00d0d9c78e0f5564e63caf849618bd172ac5a827d22d9abf931f336b325be79",
+      "title": "Articles | Vinted"
+    },
     {
       "id": "PKM-0066",
       "url": "https://www.parkage.com/",
@@ -1195,814 +2003,6 @@
       "oldHash": "22cc39101a1f5690d7618449380d9a7aabf5e212a4aa2d234385156b3b28ddc4",
       "newHash": "d8e25ea91ae798bbb16095c238ee7ddac67ce03977acafba8895d8ae2ab33226",
       "title": "PokéMagique - Boutique de cartes et d'accessoires Pokémon"
-    },
-    {
-      "id": "PKM-0014",
-      "url": "https://masterset.store/",
-      "detectedAt": "2026-09-23T09:30:16Z",
-      "oldHash": "de6dcf8aed800a32f97c7049c4c3916736d15f745735902655d441da2b52f2d7",
-      "newHash": "aa084954b601133a3da83f38c24f91e584a6c334be0d7383177cd5e25ad83d4e",
-      "title": "MASTERSET : Boutique spécialisée dans les TCG Pokémon, OP et d'autres"
-    },
-    {
-      "id": "PKM-0015",
-      "url": "https://kularo-cardshop.com/",
-      "detectedAt": "2026-09-23T09:30:17Z",
-      "oldHash": "96b187377690ebb6835514e82cd23528b5ec0c2131ac804673663a3846ecca4c",
-      "newHash": "afbc44bbbcb20c834498816739530f5910db429c04c02f35b44c149fc2ebb1b3",
-      "title": "Kularo Cardshop"
-    },
-    {
-      "id": "PKM-0016",
-      "url": "https://lorenzone.fr/",
-      "detectedAt": "2026-09-23T09:30:19Z",
-      "oldHash": "22b63ae76d59697c05899ef62d765e1cac2d45688ded1acd44cb6b1e28d3386a",
-      "newHash": "ded0a149a1597f2dbe1d8573284caf84f8455cbbfa4b0f4e78ca740ffedb2ff6",
-      "title": "LorenZone — Boutique TCG Pokémon, One Piece, Lorcana, Naruto & Magic"
-    },
-    {
-      "id": "PKM-0017",
-      "url": "https://hitndrop.com/",
-      "detectedAt": "2026-09-23T09:30:17Z",
-      "oldHash": "a0d47e86db8efdb73b91e455b484cb717ce3bcf7706ea5f4b8fb304be769cf69",
-      "newHash": "5aecac9db88baf5c8584fa57b36fa42f4dd4f728d1ae7941b98b2d854d98493f",
-      "title": "HIT'N DROP | Boutique TCG Pokémon"
-    },
-    {
-      "id": "PKM-0018",
-      "url": "https://www.destocktcg.fr/",
-      "detectedAt": "2026-09-23T09:30:17Z",
-      "oldHash": "ff98503d9625a63b3cedce3599e9f739f995585ef1ccbb0db4a9a993e466d64f",
-      "newHash": "4365ca32e5bc4612abce07e6a19c48270570e6c281845a7cc35416bae6e9748b",
-      "title": "DestockTCG | Cartes Pokémon, One Piece, Magic, Yu-Gi-Oh! - Le paradis des fans de TCG."
-    },
-    {
-      "id": "PKM-0019",
-      "url": "https://cardsandcostore.com/",
-      "detectedAt": "2026-09-23T09:30:17Z",
-      "oldHash": "5cdaa18a39e78bbaa1a7709490127e35c1a0c8dfd9e117f548ec1fd754008e92",
-      "newHash": "44401a0ede488f19642377c1ce5fb062ccc19dfc8f66808405dcf5f8c3c71d6b",
-      "title": "Cards&co Store, la boutique pour tous les fans de cartes de collection"
-    },
-    {
-      "id": "PKM-0020",
-      "url": "https://www.pokeloutre.fr/",
-      "detectedAt": "2026-09-23T09:30:18Z",
-      "oldHash": "4fdc41edfec4abd677133d69ef8d8cb55cb8e52017c0baf63a16432f941e9b9e",
-      "newHash": "df83cfbcddf1ebd3a4bcc10980af366804ef071579f6967305e9a70ea0fc473d",
-      "title": "Carte TCG - Achat items scellés et cartes à l'unité - PokéLoutre"
-    },
-    {
-      "id": "PKM-0021",
-      "url": "https://hikarudistribution.com/",
-      "detectedAt": "2026-09-23T09:30:17Z",
-      "oldHash": "f27f8700213388509be41e7780e4a29bbd8161f6c32f380ab6450dac7e5e6132",
-      "newHash": "0b70813c3f337ce3ceeb116fcf486da09daa8cecb77432494920c1660e4011f4",
-      "title": "Carte Pokemon & TCG | Hikaru Distribution - Display, Booster, Coffret"
-    },
-    {
-      "id": "PKM-0022",
-      "url": "https://missplaybros.com/product-category/pokemon-fr/",
-      "detectedAt": "2026-09-23T09:30:18Z",
-      "oldHash": "aad6a353548e8cb3f3ebe1761e2a35f09b9aeb74cdd6a580da9f4593d9b08754",
-      "newHash": "3c004b332d5c4a86af879355969204d359ff17db65e1cb4fe5265bfb2ad3a2ad",
-      "title": "Pokemon FR - Missplaybros"
-    },
-    {
-      "id": "PKM-0023",
-      "url": "https://www.fantasysphere.net/jeux-de-cartes-a-collectionner/pokemon/",
-      "detectedAt": "2026-09-23T09:30:18Z",
-      "oldHash": "ad2f8bcd8b3742808e4f78d401552ab542c5339733872114b59db8778dddf561",
-      "newHash": "9c293f17a6ca10dfabcbbb2f40579232c02f9f0ae935b4bd9ef2af888c4a73ab",
-      "title": "Pokémon - Produits & Accessoires TCG - JCC - Fantasy Sphere"
-    },
-    {
-      "id": "PKM-0024",
-      "url": "https://bulbiworld.com/",
-      "detectedAt": "2026-09-23T09:30:20Z",
-      "oldHash": "8b4d110f9186374f1752c164889d4713ea172b6b969fbae85e7f3c9010e7c045",
-      "newHash": "69a476c90033fe48ad3a4cc930e25cd3279ead00bbb7df2a752a52841f7ee4ce",
-      "title": "BULBI WORLD – NIVELLES"
-    },
-    {
-      "id": "PKM-0025",
-      "url": "https://geekncard.fr/",
-      "detectedAt": "2026-09-23T09:30:18Z",
-      "oldHash": "b3f4a89c64b61b17bcb800cad0c5c9183e5cac77e5d7a5e3ef5ac93937faa1b0",
-      "newHash": "e6a09c6c97a079e191794c4872c9b1a12db83a2a96d93b086d6d48a2b7451456",
-      "title": "Geek and Card - Invest - TCG - Collection - Jeux de société"
-    },
-    {
-      "id": "PKM-0026",
-      "url": "https://www.psyaieaiestudio.com/pokemon/coffrets-scelles-pokemon-francais-fr",
-      "detectedAt": "2026-09-23T09:30:19Z",
-      "oldHash": "c9912ef2bf4992cbea1bad2324854b582225b5f7762d229630f9776615757ef0",
-      "newHash": "2aeab8f8c926a8923b944fd65670592ff2db169525bb899205da0bf7e90f7269",
-      "title": "Coffrets scellés Pokémon Français [FR] / Pokémon | Psyaïeaïe Studio"
-    },
-    {
-      "id": "PKM-0027",
-      "url": "https://www.relictcg.com/",
-      "detectedAt": "2026-09-23T09:30:18Z",
-      "oldHash": "1e43cfd7c2539018760e91413606ac262eb81baea55b4c168a74a2fcb3d9c742",
-      "newHash": "e6a4c1cb6b018d3c404bdf4ec817d17e8d4434408b3c899d03c00c4921b92fe6",
-      "title": "Relic - Boutique spécialisée dans les JCC et jeux de société – RelicTCG"
-    },
-    {
-      "id": "PKM-0028",
-      "url": "https://www.mayapokemon.com/",
-      "detectedAt": "2026-09-23T09:30:20Z",
-      "oldHash": "5a7c0a929a81178ac7f1a351247365df150a9f3fb34a8ad304e5639f9476fc57",
-      "newHash": "3e86cc0d6c1e9d54619cf686ceede692fa317d121877ed273de7e6ae13d3eb53",
-      "title": ""
-    },
-    {
-      "id": "PKM-0029",
-      "url": "https://pokegourou.com/",
-      "detectedAt": "2026-09-23T09:30:18Z",
-      "oldHash": "b6eb99abe50a1ea44c81fcef7b579e3e4a3ecbf967f2960951914268cca8d81e",
-      "newHash": "ff548ed7867189888acfa364fddeae829faed915ac1d8ef21a50200ff10f1a5d",
-      "title": "PokeGourou - Acheter des cartes Pokémon officielles"
-    },
-    {
-      "id": "PKM-0031",
-      "url": "https://www.wikitcg.fr/",
-      "detectedAt": "2026-09-23T09:30:21Z",
-      "oldHash": "b012f556f884ecf2b2286c92ed8f08df5ba82068169c5459ee598dd10d04aa96",
-      "newHash": "a5a239cb415777f00c7bac32acf4aa38ece30d6d35bf081d79f61cff57af2173",
-      "title": "WikiTCG - Tout l'univers des cartes à collectionner (TCG) Pokémon"
-    },
-    {
-      "id": "PKM-0032",
-      "url": "https://huntersquest.fr/",
-      "detectedAt": "2026-09-23T09:30:18Z",
-      "oldHash": "4262bacdaa205c4876d9dfc3c1570c94059c693c2687c8d5c61e051e9178be9e",
-      "newHash": "d0b891f194b45644641aee004b979a3b741ab4e270ec7289ab3710eea3101343",
-      "title": "Cartes Pokémon, Disney, One Piece et Produits Dérivés – Hunters Quest"
-    },
-    {
-      "id": "PKM-0033",
-      "url": "https://pika-boutique.fr/",
-      "detectedAt": "2026-09-23T09:30:18Z",
-      "oldHash": "9652a61d4c72dbb8d4fcf4ba1d1bc6560b55d88c85534e4adbcaacf0b1a63791",
-      "newHash": "d8ca9682e45015ad2207223337b2eafa3c6c3cc4f5bd36acfd803119aa88a447",
-      "title": "Boutique de cartes Pokémon | Pika-boutique"
-    },
-    {
-      "id": "PKM-0034",
-      "url": "https://www.tradinggeek.fr/",
-      "detectedAt": "2026-09-23T09:30:27Z",
-      "oldHash": "8a528a275cea370387ae480c1454534c6a52b7b1efbc265b734af22058167b6c",
-      "newHash": "a783622f0bab9d03c9085ce02caf5d9ae0cac2ba8ca8712f21baec4247a338fb",
-      "title": "ACCUEIL -"
-    },
-    {
-      "id": "PKM-0035",
-      "url": "https://www.irahimcorp.fr/",
-      "detectedAt": "2026-09-23T09:30:20Z",
-      "oldHash": "c07719615c1c2a5bd001ad18446b02efed4cc2a9ddd784866cfe4ae13385b0f6",
-      "newHash": "c7f6d40fefe3471fbec615d2fe53400193daec265e72cec83f7e8a9c532a9c4c",
-      "title": ""
-    },
-    {
-      "id": "PKM-0036",
-      "url": "https://gmshop.fr/",
-      "detectedAt": "2026-09-23T09:30:19Z",
-      "oldHash": "d9e2ac2377dda65235723de805da1a6ba8bfc353914eff3067e4310350e04533",
-      "newHash": "9825a030908bc8166d36555ceb678ea3e66b9bed1078f234e91fc5a5ba5b6ec4",
-      "title": "GM Shop"
-    },
-    {
-      "id": "PKM-0037",
-      "url": "https://mymesis.fr/",
-      "detectedAt": "2026-09-23T09:30:19Z",
-      "oldHash": "20cf9d2dce03eed87791e10f548266844929864b40f0d9954e8b8d163a819140",
-      "newHash": "2746aab1b577ccb53e20d717ec62aa8a6841555384491af7232587e0d66dfde4",
-      "title": "Mymesis – L'art de collectionner"
-    },
-    {
-      "id": "PKM-0039",
-      "url": "https://hitmstreet.fr/",
-      "detectedAt": "2026-09-23T09:30:20Z",
-      "oldHash": "33196fee0790826cf3522d6a9d1da9e730b84d795f5d29f918432acc8a3b12b7",
-      "newHash": "fa8bfcc5273b6bc2953a22eed798f0b87e126c4d9519cbeda7378f93bfd5657a",
-      "title": "Hit'M Street – Hit'm Street"
-    },
-    {
-      "id": "PKM-0040",
-      "url": "https://pokestock.fr/",
-      "detectedAt": "2026-09-23T09:30:19Z",
-      "oldHash": "15fd61dca2ec52d8a4919d20866ce8b88be8de9b9df25044331934011d583428",
-      "newHash": "e12defb0d378baf8fa1e13856896537a0a79294410c4b7ceafe6c7823a15d500",
-      "title": "PokeStock, votre boutique spécialisée en Pokémon"
-    },
-    {
-      "id": "PKM-0042",
-      "url": "https://golden-poke.fr/",
-      "detectedAt": "2026-09-23T09:30:20Z",
-      "oldHash": "3c4703fc1c8cd49d0a93ba76d2cde615620d09eef513f4fecbc627b1ede228b5",
-      "newHash": "85cf851575fbc936742fb0d7b38d42cea69a4dfb98f781554d1c248caa3a1829",
-      "title": "Boutique Pokémon & TCG | Displays, ETB, Coffrets | Golden Poké"
-    },
-    {
-      "id": "PKM-0044",
-      "url": "https://ark-games.fr/",
-      "detectedAt": "2026-09-23T09:30:21Z",
-      "oldHash": "01925a49fe706a7d29d042cff2f7b63e224dfc2452203353338b5189da9785a2",
-      "newHash": "faf09bf74b321c3597859dd650aa23a92680d7d1ba37e068a932fac37fda6f0e",
-      "title": "ARK GAMES STUDIO - ARK games studio"
-    },
-    {
-      "id": "PKM-0046",
-      "url": "https://lmdx.fr/",
-      "detectedAt": "2026-09-23T09:30:22Z",
-      "oldHash": "f9e5cf128a52a5841881b7d8016117ddb68931f4fd482ad29a8ae5b75b9084ef",
-      "newHash": "75846d16742efeb4e8ca91f90d4a44034c0b0384ddba8615cf7dfca614991708",
-      "title": ""
-    },
-    {
-      "id": "PKM-0047",
-      "url": "https://buycards.fr/",
-      "detectedAt": "2026-09-23T09:30:22Z",
-      "oldHash": "1f9881e5372e9023b6a7ad6d55500042623c89f97847ab25e16857e3e3f98647",
-      "newHash": "34daea83e5527a8f7350f74f7469696b50995aba20a99308208cd31dc8645be7",
-      "title": "Buy Cards: Cartes à Collectionner Et Accessoires De Protection Pour Tout TCG"
-    },
-    {
-      "id": "PKM-0049",
-      "url": "https://lepolymorphe-cambrai.fr/",
-      "detectedAt": "2026-09-23T09:30:20Z",
-      "oldHash": "5316b7e0878a61a066e564120f919197a5db303d877927c55d518e0ed7437892",
-      "newHash": "fd0491394192b7c992c3b364051060e4a3570de4671b98e8464365fdf7301b23",
-      "title": "Le Polymorphe Cambrai - Bar à jeux et boutique de jeux"
-    },
-    {
-      "id": "PKM-0050",
-      "url": "https://www.konobacards.fr/",
-      "detectedAt": "2026-09-23T09:30:22Z",
-      "oldHash": "9f2c51a6a9fc442a55e94119067ce969ae3c8ad4213bedcca4c064de8c21e603",
-      "newHash": "659b8ede3f8914304c639a4fa95b825bf57b2273cf583a54e049a4f730d26929",
-      "title": "KONOBA CARDS – Spécialiste des cartes à jouer à Rouen"
-    },
-    {
-      "id": "PKM-0053",
-      "url": "https://www.pokelite.fr/",
-      "detectedAt": "2026-09-23T09:30:21Z",
-      "oldHash": "6dd0921f7541f83ee706164b48f66d3a064dbbb99a5841c068dd993b8b71a336",
-      "newHash": "c5eef57de47a075c06a4c7c99f4d5b2e8dbd4dbd967d37fd4da75310896702d2",
-      "title": "Pokelite — Boutique en ligne TCG Pokémon, Lorcana & One Piece"
-    },
-    {
-      "id": "PKM-0054",
-      "url": "https://love2collect.fr/",
-      "detectedAt": "2026-09-23T09:30:21Z",
-      "oldHash": "2afbbf4f98f37eff4a92332339721cf57c5404a18497e4b139485315eecbd923",
-      "newHash": "4c142835183a995495ecc2a2def23d4cf60faac5db4b41abec78c85dfd42507b",
-      "title": "Love2Collect | Boutique Cartes & Pochettes à thème"
-    },
-    {
-      "id": "PKM-0056",
-      "url": "https://espritpopshop.fr/",
-      "detectedAt": "2026-09-23T09:30:24Z",
-      "oldHash": "f09d1f0dd5a27fbea08672ea0c5a2868c33cc6e126e20f80ce772e43ba5c2cae",
-      "newHash": "bc2f697c74049b8e54d43d11b28a4f94509bc90a1c9e9b440753bcf5988ef998",
-      "title": "Boutique Pop Culture à Pau | Esprit Pop Shop"
-    },
-    {
-      "id": "PKM-0057",
-      "url": "https://jmcards.fr/",
-      "detectedAt": "2026-09-23T09:30:22Z",
-      "oldHash": "7c3625f523c6c346046fa3f1d7bc1ff6b821421002eb2d594ec18de6fa33a7eb",
-      "newHash": "6a9ac48fe0575d42e2091c025f9d012329e91e1d42be5c2749f1511d17d5844f",
-      "title": "Boutique de cartes TCG Pokémon, Magic, Yu-Gi-Oh!, One Piece"
-    },
-    {
-      "id": "PKM-0058",
-      "url": "https://pikadi-collect.fr/",
-      "detectedAt": "2026-09-23T09:30:22Z",
-      "oldHash": "dee7f291a06fa1fb00fbbeb4acceca12257ada63e520a46d042225fc10cea62e",
-      "newHash": "9bec9b39332325951f9a9553b80ae2c446f6671ea32a2565e9c1c5b3dca60538",
-      "title": "Cartes Pokémon FR & JP authentiques | Pikadi-Collect"
-    },
-    {
-      "id": "PKM-0059",
-      "url": "https://shop-in-touraine.fr/taxons/marchand/kmi-house",
-      "detectedAt": "2026-09-23T09:30:24Z",
-      "oldHash": "f8581eb34589f4690f20027d120522d7d9123865df84a2eb335b58bcbb015b1b",
-      "newHash": "1e62dd06a38bd4b25f8dea9d89fddc2ff06db533e22b71b01b39e93f8ebeedc7",
-      "title": "Kmi House - Shop in Touraine"
-    },
-    {
-      "id": "PKM-0060",
-      "url": "https://mangasuki.fr/",
-      "detectedAt": "2026-09-23T09:30:22Z",
-      "oldHash": "9912cb4c8db0d6f7694526644e0b364cb17c7b5dfb08a73fceebd60bc10eee65",
-      "newHash": "fe295597b702ec6eef8ccfcca46369730f3282be39f5b888fa37eeb227791a11",
-      "title": "MangaSuki"
-    },
-    {
-      "id": "PKM-0061",
-      "url": "https://www.lerepairedelexie.fr/",
-      "detectedAt": "2026-09-23T09:30:22Z",
-      "oldHash": "2cc52b9acd52b3984782503e24de30b546f1ae90189a9b4a754efa0f0af6b2ce",
-      "newHash": "a6fe53f2081fb51de821ddbc3e8a1b91442765fa376ac38bd678918f7d8b06b4",
-      "title": "Accueil - Le Repaire de Lexie"
-    },
-    {
-      "id": "PKM-0062",
-      "url": "https://pochama.store/",
-      "detectedAt": "2026-09-23T09:30:23Z",
-      "oldHash": "d07b3e2e16a0b5edc441a640cf3bfede22fe4c2ac55d69e9e1ba2a0007a69c59",
-      "newHash": "cc450371af5eac09c2bc65ca8ba490ddbd62a706e169c6b2585d2a1f92cc8f38",
-      "title": "Pochama – Cartes Pokémon, Boosters & Coffrets TCG | Boutique FR"
-    },
-    {
-      "id": "PKM-0063",
-      "url": "https://www.vegastore.fr/",
-      "detectedAt": "2026-09-23T09:30:22Z",
-      "oldHash": "8d8c02fd00da6e70bf255c05246beb9f1baacc0edf7d7d023ff4d193258ae9b6",
-      "newHash": "fb2affb0f5af8ad853e015012be322a43a1c3b32f78d59c622111ef4cea37b69",
-      "title": "VegaStore - Boutique Carte Pokémon et Figurines"
-    },
-    {
-      "id": "PKM-0064",
-      "url": "https://www.dracaugames.com/",
-      "detectedAt": "2026-09-23T09:30:22Z",
-      "oldHash": "033485d13f053b74f38bd660041512eaafd1eb79401f11edbca10ad176492a19",
-      "newHash": "0cdd8b2f7f38767545d6693c82936f0d121383771bc9ea9f00412a6b2b218583",
-      "title": "Boutique de cartes à jouer & collectionner – DracauGames"
-    },
-    {
-      "id": "PKM-0065",
-      "url": "https://feedmy.fr/",
-      "detectedAt": "2026-09-23T09:30:23Z",
-      "oldHash": "255fe5cbfb2f5057211ffc205d1aa7725381e84aef58b9b535066360e9d9404a",
-      "newHash": "cc7bffc9224ba26aa1f64b0ba31a450a8fa5de1291531482291499cbd5fb0f91",
-      "title": "FeedMy | Spécialiste Beyblade X, Cartes Pokémon, Naruto Kayou & Jouets"
-    },
-    {
-      "id": "PKM-0025",
-      "url": "https://geekncard.fr/",
-      "detectedAt": "2026-09-16T09:28:57Z",
-      "oldHash": "82dd7e024ebb2b83964b273298620398afbf974bd1a6581d70b59b0591341b20",
-      "newHash": "b3f4a89c64b61b17bcb800cad0c5c9183e5cac77e5d7a5e3ef5ac93937faa1b0",
-      "title": "Geek and Card - Invest - TCG - Collection - Jeux de société"
-    },
-    {
-      "id": "PKM-0026",
-      "url": "https://www.psyaieaiestudio.com/pokemon/coffrets-scelles-pokemon-francais-fr",
-      "detectedAt": "2026-09-16T09:28:58Z",
-      "oldHash": "25166ca3aa63e432cc268629e122dd8c20c71f98120d7691903a1addf8fed19d",
-      "newHash": "c9912ef2bf4992cbea1bad2324854b582225b5f7762d229630f9776615757ef0",
-      "title": "Coffrets scellés Pokémon Français [FR] / Pokémon | Psyaïeaïe Studio"
-    },
-    {
-      "id": "PKM-0027",
-      "url": "https://www.relictcg.com/",
-      "detectedAt": "2026-09-16T09:28:57Z",
-      "oldHash": "13d60c32bb21cd24711c9cac091510604517323d15036d209f737ba20379abde",
-      "newHash": "1e43cfd7c2539018760e91413606ac262eb81baea55b4c168a74a2fcb3d9c742",
-      "title": "Relic - Boutique spécialisée dans les JCC et jeux de société – RelicTCG"
-    },
-    {
-      "id": "PKM-0028",
-      "url": "https://www.mayapokemon.com/",
-      "detectedAt": "2026-09-16T09:29:00Z",
-      "oldHash": "1016a8086d641bdae05f7260260cab694ff4e9c255c4298d74388211f3f97418",
-      "newHash": "5a7c0a929a81178ac7f1a351247365df150a9f3fb34a8ad304e5639f9476fc57",
-      "title": ""
-    },
-    {
-      "id": "PKM-0029",
-      "url": "https://pokegourou.com/",
-      "detectedAt": "2026-09-16T09:28:57Z",
-      "oldHash": "557fa381d03923b9cc16205f02c3d79424feca812aeb7788f32f48af23cfcc60",
-      "newHash": "b6eb99abe50a1ea44c81fcef7b579e3e4a3ecbf967f2960951914268cca8d81e",
-      "title": "PokeGourou - Acheter des cartes Pokémon officielles"
-    },
-    {
-      "id": "PKM-0031",
-      "url": "https://www.wikitcg.fr/",
-      "detectedAt": "2026-09-16T09:29:05Z",
-      "oldHash": "3f4254d465af8a2482191f2578ad6b628037ee49b2956ec10ca571fd508600b8",
-      "newHash": "b012f556f884ecf2b2286c92ed8f08df5ba82068169c5459ee598dd10d04aa96",
-      "title": "WikiTCG - Tout l'univers des cartes à collectionner (TCG) Pokémon"
-    },
-    {
-      "id": "PKM-0032",
-      "url": "https://huntersquest.fr/",
-      "detectedAt": "2026-09-16T09:28:57Z",
-      "oldHash": "490188879df208eb61356575b6aebaeb4530f0de43a243134b6152a3382a6d86",
-      "newHash": "4262bacdaa205c4876d9dfc3c1570c94059c693c2687c8d5c61e051e9178be9e",
-      "title": "Cartes Pokémon, Disney, One Piece et Produits Dérivés – Hunters Quest"
-    },
-    {
-      "id": "PKM-0033",
-      "url": "https://pika-boutique.fr/",
-      "detectedAt": "2026-09-16T09:28:57Z",
-      "oldHash": "3af3b51bb8ca0a66b9f8bfcee1091c0c39994f02ee47845741105a500a4ba0e3",
-      "newHash": "9652a61d4c72dbb8d4fcf4ba1d1bc6560b55d88c85534e4adbcaacf0b1a63791",
-      "title": "Boutique de cartes Pokémon | Pika-boutique"
-    },
-    {
-      "id": "PKM-0034",
-      "url": "https://www.tradinggeek.fr/",
-      "detectedAt": "2026-09-16T09:29:04Z",
-      "oldHash": "f76e4c99afc41450b384515c98ff33690467971d911074918c50e9bcbf98ae78",
-      "newHash": "8a528a275cea370387ae480c1454534c6a52b7b1efbc265b734af22058167b6c",
-      "title": "ACCUEIL -"
-    },
-    {
-      "id": "PKM-0035",
-      "url": "https://www.irahimcorp.fr/",
-      "detectedAt": "2026-09-16T09:28:59Z",
-      "oldHash": "6015700d4d305cb4e7e49c068d5d3d3cbe8a3b3056706bd8ca8c1800f836424a",
-      "newHash": "c07719615c1c2a5bd001ad18446b02efed4cc2a9ddd784866cfe4ae13385b0f6",
-      "title": ""
-    },
-    {
-      "id": "PKM-0036",
-      "url": "https://gmshop.fr/",
-      "detectedAt": "2026-09-16T09:28:58Z",
-      "oldHash": "29fc2e1a9fbe61cea9cf2ffdfda1112da4f10bc0fc855f89b518dffcf6694dab",
-      "newHash": "d9e2ac2377dda65235723de805da1a6ba8bfc353914eff3067e4310350e04533",
-      "title": "GM Shop"
-    },
-    {
-      "id": "PKM-0037",
-      "url": "https://mymesis.fr/",
-      "detectedAt": "2026-09-16T09:28:57Z",
-      "oldHash": "2a0708d3fc6560a9e296f8911d508b38f55d6bed26ea1fa6897eafc01365c509",
-      "newHash": "20cf9d2dce03eed87791e10f548266844929864b40f0d9954e8b8d163a819140",
-      "title": "Mymesis – L'art de collectionner"
-    },
-    {
-      "id": "PKM-0039",
-      "url": "https://hitmstreet.fr/",
-      "detectedAt": "2026-09-16T09:28:58Z",
-      "oldHash": "5f33c2a7845a0a858dd11bcf9c1370a20b5d2617837c7feecbe582eec3579d5f",
-      "newHash": "33196fee0790826cf3522d6a9d1da9e730b84d795f5d29f918432acc8a3b12b7",
-      "title": "Hit'M Street – Hit'm Street"
-    },
-    {
-      "id": "PKM-0040",
-      "url": "https://pokestock.fr/",
-      "detectedAt": "2026-09-16T09:28:57Z",
-      "oldHash": "97d5768a87b27784879fbd673e63349d84b0bc5fe306e03120ed9f16753e1223",
-      "newHash": "15fd61dca2ec52d8a4919d20866ce8b88be8de9b9df25044331934011d583428",
-      "title": "PokeStock, votre boutique spécialisée en Pokémon"
-    },
-    {
-      "id": "PKM-0044",
-      "url": "https://ark-games.fr/",
-      "detectedAt": "2026-09-16T09:28:59Z",
-      "oldHash": "400ad23559c3b0c57be6af614c8952541433bcbbcb9e191e4ad05fcf52fdb75b",
-      "newHash": "01925a49fe706a7d29d042cff2f7b63e224dfc2452203353338b5189da9785a2",
-      "title": "ARK GAMES STUDIO - ARK games studio"
-    },
-    {
-      "id": "PKM-0046",
-      "url": "https://lmdx.fr/",
-      "detectedAt": "2026-09-16T09:28:59Z",
-      "oldHash": "2a82a72573d9bfc41c06f99f18b257b2f51a4edba4a3d34f73c9f86929a4e103",
-      "newHash": "f9e5cf128a52a5841881b7d8016117ddb68931f4fd482ad29a8ae5b75b9084ef",
-      "title": ""
-    },
-    {
-      "id": "PKM-0047",
-      "url": "https://buycards.fr/",
-      "detectedAt": "2026-09-16T09:29:00Z",
-      "oldHash": "431023e9248ed24400fc2201f9327be89700494e7d25e4b56627ff78f42f6fdb",
-      "newHash": "1f9881e5372e9023b6a7ad6d55500042623c89f97847ab25e16857e3e3f98647",
-      "title": "Buy Cards: Cartes à Collectionner Et Accessoires De Protection Pour Tout TCG"
-    },
-    {
-      "id": "PKM-0049",
-      "url": "https://lepolymorphe-cambrai.fr/",
-      "detectedAt": "2026-09-16T09:28:59Z",
-      "oldHash": "467b2c1c703b555d1b01cde576e9aa8d5b80f4feedf15abf6f3763118965e154",
-      "newHash": "5316b7e0878a61a066e564120f919197a5db303d877927c55d518e0ed7437892",
-      "title": "Le Polymorphe Cambrai - Bar à jeux et boutique de jeux"
-    },
-    {
-      "id": "PKM-0050",
-      "url": "https://www.konobacards.fr/",
-      "detectedAt": "2026-09-16T09:29:00Z",
-      "oldHash": "c1746d104148b0f199098a4d5cc90105c46ac07ab64ef08f7d1532fa6f492986",
-      "newHash": "9f2c51a6a9fc442a55e94119067ce969ae3c8ad4213bedcca4c064de8c21e603",
-      "title": "KONOBA CARDS – Spécialiste des cartes à jouer à Rouen"
-    },
-    {
-      "id": "PKM-0053",
-      "url": "https://www.pokelite.fr/",
-      "detectedAt": "2026-09-16T09:28:59Z",
-      "oldHash": "33c9863627ba2deb8232910a3701c5bb02b733c16a4d75782ce7598e6be8a0bf",
-      "newHash": "6dd0921f7541f83ee706164b48f66d3a064dbbb99a5841c068dd993b8b71a336",
-      "title": "Pokelite — Boutique en ligne TCG Pokémon, Lorcana & One Piece"
-    },
-    {
-      "id": "PKM-0054",
-      "url": "https://love2collect.fr/",
-      "detectedAt": "2026-09-16T09:29:00Z",
-      "oldHash": "1f1a75fab41bbfedc43cf3ea495ae9dee02d71d19d43d9eb8ee6d1a275596abf",
-      "newHash": "2afbbf4f98f37eff4a92332339721cf57c5404a18497e4b139485315eecbd923",
-      "title": "Love2Collect | Boutique Cartes & Pochettes à thème"
-    },
-    {
-      "id": "PKM-0056",
-      "url": "https://espritpopshop.fr/",
-      "detectedAt": "2026-09-16T09:29:00Z",
-      "oldHash": "b704d380042ce1a195c74562625760b5c45d0b5de7ebd9ce371db0d4e3618ba4",
-      "newHash": "f09d1f0dd5a27fbea08672ea0c5a2868c33cc6e126e20f80ce772e43ba5c2cae",
-      "title": "Boutique Pop Culture à Pau | Esprit Pop Shop"
-    },
-    {
-      "id": "PKM-0057",
-      "url": "https://jmcards.fr/",
-      "detectedAt": "2026-09-16T09:28:59Z",
-      "oldHash": "71156387dbcb7baed4abfbcdaa4bf0d6631045e33b89487d371bf354550aa7ba",
-      "newHash": "7c3625f523c6c346046fa3f1d7bc1ff6b821421002eb2d594ec18de6fa33a7eb",
-      "title": "Boutique de cartes TCG Pokémon, Magic, Yu-Gi-Oh!, One Piece"
-    },
-    {
-      "id": "PKM-0058",
-      "url": "https://pikadi-collect.fr/",
-      "detectedAt": "2026-09-16T09:29:00Z",
-      "oldHash": "5a54391a61b21a179c2102e763c911cf52e56b740cbce3c23515a5e267e59c1e",
-      "newHash": "dee7f291a06fa1fb00fbbeb4acceca12257ada63e520a46d042225fc10cea62e",
-      "title": "Cartes Pokémon FR & JP authentiques | Pikadi-Collect"
-    },
-    {
-      "id": "PKM-0059",
-      "url": "https://shop-in-touraine.fr/taxons/marchand/kmi-house",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "4394582a6d43675a01f2d52303f4d03d140db7629188869eee53fb0e2751e950",
-      "newHash": "f8581eb34589f4690f20027d120522d7d9123865df84a2eb335b58bcbb015b1b",
-      "title": "Kmi House - Shop in Touraine"
-    },
-    {
-      "id": "PKM-0060",
-      "url": "https://mangasuki.fr/",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "924b2d2e21a6b81ae700a3a72dddbc8e24b3f56ecf6f4f9d464388aa3fbc597a",
-      "newHash": "9912cb4c8db0d6f7694526644e0b364cb17c7b5dfb08a73fceebd60bc10eee65",
-      "title": "MangaSuki"
-    },
-    {
-      "id": "PKM-0061",
-      "url": "https://www.lerepairedelexie.fr/",
-      "detectedAt": "2026-09-16T09:29:00Z",
-      "oldHash": "4e8b30c190921c95f91cfcc22908e2c28b4217e04d46bb3a73327a3439a0f128",
-      "newHash": "2cc52b9acd52b3984782503e24de30b546f1ae90189a9b4a754efa0f0af6b2ce",
-      "title": "Accueil - Le Repaire de Lexie"
-    },
-    {
-      "id": "PKM-0062",
-      "url": "https://pochama.store/",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "7915484fb53eabc9e1c73469e358598135755afd09577dfdc27b018e994e50fb",
-      "newHash": "d07b3e2e16a0b5edc441a640cf3bfede22fe4c2ac55d69e9e1ba2a0007a69c59",
-      "title": "Pochama – Cartes Pokémon, Boosters & Coffrets TCG | Boutique FR"
-    },
-    {
-      "id": "PKM-0063",
-      "url": "https://www.vegastore.fr/",
-      "detectedAt": "2026-09-16T09:29:00Z",
-      "oldHash": "dc6e268b9a013709aaf6c1e41cb1b25f2dc19e883401d385e8a063336ecb10cb",
-      "newHash": "8d8c02fd00da6e70bf255c05246beb9f1baacc0edf7d7d023ff4d193258ae9b6",
-      "title": "VegaStore - Boutique Carte Pokémon et Figurines"
-    },
-    {
-      "id": "PKM-0064",
-      "url": "https://www.dracaugames.com/",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "c3be6d2d02a220caba5aef37e0a229ea9f1a5860be06f031f2fb53eda97bee65",
-      "newHash": "033485d13f053b74f38bd660041512eaafd1eb79401f11edbca10ad176492a19",
-      "title": "Boutique de cartes à jouer & collectionner – DracauGames"
-    },
-    {
-      "id": "PKM-0065",
-      "url": "https://feedmy.fr/",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "b2cd1fa73fe2dea49828113c7ea5f9dcfa06ad2a0c85c17185d1ceae6ea5faaa",
-      "newHash": "255fe5cbfb2f5057211ffc205d1aa7725381e84aef58b9b535066360e9d9404a",
-      "title": "FeedMy | Spécialiste Beyblade X, Cartes Pokémon, Naruto Kayou & Jouets"
-    },
-    {
-      "id": "PKM-0066",
-      "url": "https://www.parkage.com/",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "c4ef22c4e8baabc1d3ce3fab559b7cfb522f5a66cc47cebc0f4f5c52780a02ec",
-      "newHash": "5235c1009663c755f551d5968e2618a853d2148db5c23004bc6ffb91a2537d07",
-      "title": "Jeux de société, jeux de cartes One Piece, Yu-Gi-Oh!, Pokémon, Riftbound, Naruto, MTG et bien d'autres - Parkage.com"
-    },
-    {
-      "id": "PKM-0067",
-      "url": "https://www.play-in.com/fr/gamme/3/pokemon",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "d95ea2a41f7526165a8a3e18ff7b86e9b73462c54725c9d031f6a2450d6299c9",
-      "newHash": "1ca43cc0b8020a95be344c564d4c890b1de9b2725079860b0e8048a7ce530296",
-      "title": "Acheter vos cartes à collectionner Pokemon | Playin"
-    },
-    {
-      "id": "PKM-0068",
-      "url": "https://www.ultrajeux.com/jeu-4-pokemon.html",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "2a7ba00c0ddedfe70ea297988a1170a2009f3229e7603d646ddf761c154628a6",
-      "newHash": "2d231e772a2e560ab204ecabd6b49b7c2e1fbfa9dc6937a5a2bf1ea68ac0b6a3",
-      "title": "Pokmon - UltraJeux"
-    },
-    {
-      "id": "PKM-0069",
-      "url": "https://www.philibertnet.com/fr/212-pokemon",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "bca22717bbc5c0513c0ed18d5c569aaf41c709b2328dcf565f2e6e0c5da343a5",
-      "newHash": "353f432d42c030c9050416391cef0c761ff5fac71f4b11b967a01414808b3141",
-      "title": "Pokémon - Jeux de Cartes - Decks, Boosters & Accessoires"
-    },
-    {
-      "id": "PKM-0070",
-      "url": "https://www.ludifolie.com/59-cartes-pokemon",
-      "detectedAt": "2026-09-16T09:29:02Z",
-      "oldHash": "1d882d053b8e9917c7b5894ceba68c70d4ccb2afd6c5535197c5441b30f1f3b0",
-      "newHash": "7636acab614df10107831849d3499f047c25aa516d7e0c690d6b87054268a7e2",
-      "title": ""
-    },
-    {
-      "id": "PKM-0071",
-      "url": "https://lecoindesbarons.com/",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "884e1e586dd50d23064dc63b83284f415981850c0918b3ae50413ae06cabc236",
-      "newHash": "4c7e75c0b82ff25f1031b622ae6b6ef3a9be88f275c2d11ed9ef4b79518e43d1",
-      "title": "Spécialiste TCG : Yu-Gi-Oh!, Pokémon & Co. - Le Coin Des Barons"
-    },
-    {
-      "id": "PKM-0073",
-      "url": "https://www.kingdultes.com/collections/tcg-pokemon",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "2058f73ed5c6e42b37bc6a89c0fda4ad543129fb68de2391844cacc8ac11b608",
-      "newHash": "12826e4026a5f68b67a08f8d7cf8e725e7f040f0dd9081a1f8f3578d3a638bfc",
-      "title": "TCG Pokémon — Boosters, cartes rares et displays"
-    },
-    {
-      "id": "PKM-0074",
-      "url": "https://investcollect.com/",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "c898252ec4efb460160d902e4d8d93a8508183d9dd9d863bacc050d4ec4a60b4",
-      "newHash": "17a6b8b5d6707abb065c89d117761bcdb90d147a669af90f8ce8edc7e9478188",
-      "title": "Invest Collect"
-    },
-    {
-      "id": "PKM-0076",
-      "url": "https://www.letempledujeu.fr/",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "5323a499f8515a9d69c4ebb54bee37ae1e46a57352112c0166330e6b142b5026",
-      "newHash": "c5028c8a2e62e5e02ec20fcf51233d8c543e842bd2896acbf109dc9171a35d0d",
-      "title": "LETEMPLEDUJEU.FR - jeux de société, figurines, JdR, ..."
-    },
-    {
-      "id": "PKM-0077",
-      "url": "https://www.atmos-arena.com/",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "87a426770a6e33639267ff16fca3744952f1bf777871401bf6db3d9faa3a6821",
-      "newHash": "e028a3670d8316072dec18509f5755674329142dc4b7c68b55c7746e4ec7bfe0",
-      "title": "Atmos Arena – Venez jouer chez nous"
-    },
-    {
-      "id": "PKM-0078",
-      "url": "https://baroncollections.fr/",
-      "detectedAt": "2026-09-16T09:29:01Z",
-      "oldHash": "33d0cd920855811058d683e7cfd622f5bd63b610066095194c26da7878660155",
-      "newHash": "52c0acb05da193326c6129c3e39052925edb9147ef0ff89108c318ae788a974f",
-      "title": "BaronCollections"
-    },
-    {
-      "id": "PKM-0080",
-      "url": "https://sortileges.fr/shop/category/cartes-pokemon-417",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "bb4d1d3b0ec8e81b14e753498e825c35e0bf262229d8a4500b9d9f09429bd7f9",
-      "newHash": "1c8c778af66600b730f210c9217ea8d2266a278a0ad1f6d407edf00d0185ead2",
-      "title": "Cartes Pokémon — boosters, decks & coffrets | Sortilèges"
-    },
-    {
-      "id": "PKM-0082",
-      "url": "https://cardsgeneration.fr/en/collections/pokemon-francais",
-      "detectedAt": "2026-09-16T09:29:02Z",
-      "oldHash": "6f8d6e62e217050b725a1f02f676f16281c653be25f0f61b056f3295cdb149bb",
-      "newHash": "7179f67aed66bda735653ef332d119c25de830d925613eb306ce077efded033e",
-      "title": "Pokémon French - CardsGeneration – Japanese Trading Card Shop – CardsGeneration – Boutique de cartes à collectionner japonaises"
-    },
-    {
-      "id": "PKM-0083",
-      "url": "https://jollycards.fr/",
-      "detectedAt": "2026-09-16T09:29:02Z",
-      "oldHash": "a5ff012e8f3fff97224e3771a21aa225aa2e5a85f38e66cd8fcd52f68b5686fc",
-      "newHash": "ee8afbf8c8c440cb55d88897f578715b0c6fb46d0769c160d7641ba7ce079335",
-      "title": "Boutique Pokémon, One Piece et Naruto : Cartes, Coffrets.. – JollyCards"
-    },
-    {
-      "id": "PKM-0084",
-      "url": "https://pokebinome.fr/",
-      "detectedAt": "2026-09-16T09:29:02Z",
-      "oldHash": "957f5853306c9c083aba82e73128b41effbf310b5e630e9714fab28ee238f348",
-      "newHash": "f23cda61565808514b1a25251e4466a6ef55157001488a0a8c5988ac079e40d0",
-      "title": "Biinome"
-    },
-    {
-      "id": "PKM-0085",
-      "url": "https://domainedescartes.fr/",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "fc9c6b59e430b9acbfffd92f7f45eba927d7d4cd27755189e7ee83d585761e76",
-      "newHash": "fe7483fe785feaef2a27ed99bd62b53de9838e2ad5c773caf584d36132d12954",
-      "title": "Accueil | Domaine Des Cartes"
-    },
-    {
-      "id": "PKM-0086",
-      "url": "https://www.maitresdesarenes.com/",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "c4edd3c7ed4a3a27065e87bfa5c304e1688b8ec0d942d1751476aba75bb41476",
-      "newHash": "e3379455b2c96a265eb4eaf6ab5330ce646ceced560fc3666898119360906037",
-      "title": "Maîtres d’Arènes® – Boutique Pokémon, Cartes TCG & Produits Scellés Suisse"
-    },
-    {
-      "id": "PKM-0087",
-      "url": "https://cardlabtcg.com/",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "668c52bfb078df3c9ad849183840dfcc39400dc08dcd45c498719d4f7e90a6dd",
-      "newHash": "d75b377a0f0ddb76a5b089c9bd4824a3d5bb7168b1c4c6f67dcff1c86e0df352",
-      "title": "CardLab™"
-    },
-    {
-      "id": "PKM-0088",
-      "url": "https://hobbyhouse.fr/",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "9eddeedc173c3deed54a9589e97d89ece47a2ecb830dd345fa3b223e2d82acfb",
-      "newHash": "df31e268a47fa4e5dc75b824da7c27213e44ad5de6faf8b0d71cbff1fcfdcf83",
-      "title": "Hobby House"
-    },
-    {
-      "id": "PKM-0089",
-      "url": "https://gradedcardcenter.com/",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "b563dd5d2f31eb23859a271571b602f5e4011447512fd6ced76b04e56aa93410",
-      "newHash": "a1f09dc4d5b61a3df2c69923dea13a7bddbdc32f502cc3b24d70365c4994b41c",
-      "title": "Cartes gradées, enchères et objets de collection | GCC"
-    },
-    {
-      "id": "PKM-0093",
-      "url": "https://www.joueclub.fr/",
-      "detectedAt": "2026-09-16T09:29:04Z",
-      "oldHash": "c11ac680946dfe23c24f7e3ef6d2f6d9056edacfd1358cd401d57509ce1fd50b",
-      "newHash": "f54dee75f2b04a51b7897bb4381a12848039c421e5daacdf7ca94698686e631b",
-      "title": "JouéClub | Spécialiste des jeux et jouets pour les enfants et adultes"
-    },
-    {
-      "id": "PKM-0096",
-      "url": "https://www.smythstoys.com/fr/fr-fr/jouets/jeux-de-societe-et-puzzles/cartes-a-collectionner/cartes-pokemon/c/SM1301061101",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "d37cfa66f0232f3d7282dd3cd98d3ffc91fa9a7386fe529945362f56cf3a65df",
-      "newHash": "3b89cb9a285250e9a9fd35b28bd57ae0766669f6701cf27df315c62d7caba906",
-      "title": "Pardon Our Interruption"
-    },
-    {
-      "id": "PKM-0098",
-      "url": "https://www.auchan.fr/",
-      "detectedAt": "2026-09-16T09:29:04Z",
-      "oldHash": "150c8d8ad150b6582ff83a7991078943f86789341c7c9e6ff4aca43365244a4c",
-      "newHash": "4cf1828e70aeb08199189e0dddab08a36f6018c5d12c021c2fc1d6d48fc5dcd8",
-      "title": "Auchan. Promos, infos drives et magasins, courses en ligne livrées à domicile."
-    },
-    {
-      "id": "PKM-0099",
-      "url": "https://www.e.leclerc/cat/cartes-pokemon",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "428f557ca58f6a26a81504b03c5b387c32ad8fd90606330c0b68ee59618795e1",
-      "newHash": "7e37bc366e62ed5eeceda6773b3bd78e29ca5d7c75f619be7ae491640ab66124",
-      "title": "Cartes Pokémon au meilleur prix | E.leclerc"
-    },
-    {
-      "id": "PKM-0101",
-      "url": "https://www.monoprix.fr/",
-      "detectedAt": "2026-09-16T09:29:03Z",
-      "oldHash": "d98a9debcdfe99cf0f2118bb522c15a8710acf53ee6082588b14a0709bed0b13",
-      "newHash": "68cc4cde6cac5259194b2932fb7d7666a55616a13ad4e347cf50cff9e685f9d1",
-      "title": "Accueil | Monoprix.fr : Courses et Shopping en ligne et toutes les infos de votre supermarché"
-    },
-    {
-      "id": "PKM-0106",
-      "url": "https://www.vinted.fr/catalog?search_text=cartes%20pokemon%20fr",
-      "detectedAt": "2026-09-16T09:29:04Z",
-      "oldHash": "f5deae0e5fc3119f1e634791a6ab86193929abec801a119b02d3e32bab7fea38",
-      "newHash": "8bf2d840b54314a421643b98f34997871d3af4b066f2cbc9a4175f981c8fecd5",
-      "title": "Articles | Vinted"
-    },
-    {
-      "id": "PKM-0108",
-      "url": "https://kinkai.fr/",
-      "detectedAt": "2026-09-16T09:29:10Z",
-      "oldHash": "3bb40456027c77d05b991e4686f10e51739a6ebdca3e33ec5edcd1e2c28b34cf",
-      "newHash": "dc9a0cb330484bf0cb8ff297933a1eb9cc0ab41785f0a38ca65143eba3fb1cee",
-      "title": "Kinkai - Vente et achat de produits Manga et Pop culture"
     }
   ]
 }
