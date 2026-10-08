@@ -1,14 +1,710 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T11:11:56Z",
+  "updatedAt": "2026-10-08T11:37:32Z",
   "catalog": "activities",
-  "count": 163,
+  "count": 250,
   "records": [
     {
       "source": "OpenStreetMap / Overpass",
-      "area": "Cabourg",
+      "area": "Mende",
       "status": "source-error",
-      "reason": "https://overpass-api.de/api/interpreter: HTTP Error 504: Gateway Timeout ; https://overpass.kumi.systems/api/interpreter: The read operation timed out"
+      "reason": "https://overpass-api.de/api/interpreter: HTTP Error 504: Gateway Timeout ; https://overpass.kumi.systems/api/interpreter: HTTP Error 500: Internal Server Error"
+    },
+    {
+      "id": "ACT-CABOURG-001",
+      "url": "https://www.cabourg.fr/",
+      "detectedAt": "2026-10-08T11:37:09Z",
+      "oldHash": "7d74d2d1b68aec7601dc1c159159c6c781ba7af8b90ac5574f3196a141b2e89c",
+      "newHash": "d0ee2500d609764363dff40bdef82b0733719b77fb85221afa78f231b87e4dd0",
+      "title": "Accueil - Site officiel de Cabourg"
+    },
+    {
+      "id": "ACT-CABOURG-030",
+      "url": "https://www.normandie-cabourg-paysdauge-tourisme.fr/",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "391a117f31b7b3e35b0d9be0eb0f4d5aa15851ab58567a6df38fa6364ba06271",
+      "newHash": "7570666d94637d475cf41a765972809345a3dbb6ee59d731feeffe0a7c4bd1b1",
+      "title": "Normandie Pays d'Auge, le site de tourisme du Calvados"
+    },
+    {
+      "id": "ACT-CABOURG-043",
+      "url": "https://www.normandie-tourisme.fr/preparer-son-sejour/a-voir-a-faire/",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "848873eaa9dbcb22d60ef5990430c31d18dd3ce801c26c52efb3f8c23ac1cfe1",
+      "newHash": "3f0988cf480d3cc6bef3ed6cda2b6bb7388eeaebd7564c9e629fd369cb2bacb9",
+      "title": "Activités, musées et sites naturels à visiter - Normandie Tourisme"
+    },
+    {
+      "id": "ACT-CABOURG-047",
+      "url": "https://www.caenlamer-tourisme.fr/a-voir-a-faire/visites-et-activites/",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "40608d204edcf21aba3c2102e29164643dadecdf706b6a556fe3fb1e14610d4a",
+      "newHash": "a39d219e16c211dc2b40a6d2c3ac8b3a4e4fce2b0f9558eaa71391bd2d1a66b8",
+      "title": "Visites et activités - Caen la mer Tourisme"
+    },
+    {
+      "id": "ACT-CAB-AUTO-190D8D915148",
+      "url": "https://www.openstreetmap.org/node/1785206379",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "19f53fdecb0ec364439b05b0b27132e2e93664a7df03d673bbb2ea2df9e12de0",
+      "newHash": "08ce349e429005c09e2c47b4e94a53cca36c647022cbb2265762dc96d5944f32",
+      "title": "Node: ‪La Flamme‬ (‪1785206379‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-FE8ED91EB454",
+      "url": "https://mba.caen.fr/",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "1637ada436c96fe7534fe31a78fed5f209f43bee10a92778171fdd9829b2a4f7",
+      "newHash": "dba28285464e99ac1853172ce9897296f3729a10327e7f9db816a1e3941b66eb",
+      "title": "Musée des Beaux Arts de Caen"
+    },
+    {
+      "id": "ACT-CAB-AUTO-878BF3139AEC",
+      "url": "https://www.openstreetmap.org/node/2046174410",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "374e4db419035aa9e1a5cec420f955b205d16c7ff0211c0ebef357efb2dac51e",
+      "newHash": "6c90806d4faab73c191be1b04e3f703fd8d4b950f28a24de4018bb9b5fc2af55",
+      "title": "Node: ‪Louis XIV‬ (‪2046174410‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-96762E4C1AAD",
+      "url": "https://www.openstreetmap.org/node/4875713272",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "bac26d5d3cc91cd88757f715ec3c359cac1b90244fa2d94dfec0d4df925b8e93",
+      "newHash": "a2880e4ca3252e1a4608e4ab3e6b2b0060d993e05c821b04ee9fa30ff909d191",
+      "title": "Node: ‪Haras de Varaville‬ (‪4875713272‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-755F4BE95095",
+      "url": "https://www.openstreetmap.org/node/1901784364",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "468c1cd46732bf488166daa20c7cf7b17dccea80278ade0d963cf3063ba66949",
+      "newHash": "4710ce756f27b4afb53cfc1e8f35fb147b41cc4bccf15f0d7e7e6492c5b7ed2b",
+      "title": "Node: ‪Méridien de Greenwich‬ (‪1901784364‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-2DF88B24F836",
+      "url": "https://www.openstreetmap.org/node/4856015936",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "4854c63afc6d64be7e3ffffb8b15b870b34b8a0d4bf0f5750132c5ff87709170",
+      "newHash": "9bd2d24f037c8c704979ec3179cacb9c1c73e189e2636b47fb0835a6c879e77f",
+      "title": "Node: ‪Manoir de Tourpes‬ (‪4856015936‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-64D8C7342758",
+      "url": "https://www.openstreetmap.org/node/2806371031",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "1a2f638312634b168790b43ac6f9f9ec1bc5969f24440bda3ed46266adb9dcbc",
+      "newHash": "9957258f55363adedee05ba3dac6096c56b861738d82d5bcebf42175539194e2",
+      "title": "Node: ‪Monty Montgomery‬ (‪2806371031‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-7141AFF8EA9A",
+      "url": "https://www.openstreetmap.org/node/4859842923",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "1e0f9c6e137c69037810462d8d4155b0787b75f1837c97be214103bebc59ab67",
+      "newHash": "f8ab9e69780a794d321f2a1b09eb9fb646d2dc79a84873a6d370760cde3303dd",
+      "title": "Node: ‪Site archéologique de la maison forte du Ham‬ (‪4859842923‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-EA3A5BF4CE73",
+      "url": "https://www.openstreetmap.org/node/2610724778",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "f4ad251069e798515b1cdfc03db0d159b0443451d9fcd31a6342cbeac3026208",
+      "newHash": "2ca423e96b2feda7d22b87ad1da3f15d71df42bf5555def41db9c2f802ffe987",
+      "title": "Node: ‪Château du Heaume‬ (‪2610724778‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-DF3B60646150",
+      "url": "https://www.openstreetmap.org/node/7666880832",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "6280eb65bcf51c7ec0eb1ad217ecee0f76240f14e1a7d0ebf1f936c484f92e4e",
+      "newHash": "24af2b5f64469b7f26f4ab2988706e3f794c03a985d72df3d332eeadaf6244ba",
+      "title": "Node: ‪Monument Signal‬ (‪7666880832‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-CE8A8722D28D",
+      "url": "https://www.openstreetmap.org/node/2610724865",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "c219198885162cad14b11d0ff28a2cdb95bf2ba049e47681195e64dba233d4c2",
+      "newHash": "5d3dbe20da4b808fba123a2dd4df08956359412fbe33c472ce637b690504389a",
+      "title": "Node: ‪Château de Guernon-Ranville‬ (‪2610724865‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-50419094E269",
+      "url": "https://www.openstreetmap.org/node/4451922842",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "34a16fec5096df6275b598fbc1a499048dcd06d58a4f2c4d7da15801388d9823",
+      "newHash": "f2deb8da793f40eb86d96febf6b21ca025b240ecdb52679c2a765063d6d76b06",
+      "title": "Node: ‪Motte féodale d'Annebault‬ (‪4451922842‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-1859C096A4AC",
+      "url": "https://www.openstreetmap.org/node/4875713290",
+      "detectedAt": "2026-10-08T11:37:08Z",
+      "oldHash": "7367060aa6d3675652cadc144d7db8d69b7c17f1a7ceccc1e09ff58058da2ebb",
+      "newHash": "70f45e6ffe8b2074df13e3bd75eba26b54d2aae3b87027ccec334009fb59a80e",
+      "title": "Node: ‪Villa Sayer‬ (‪4875713290‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-FEE512597AB0",
+      "url": "https://www.openstreetmap.org/node/4859354338",
+      "detectedAt": "2026-10-08T11:37:09Z",
+      "oldHash": "8f974c5a036a91504f640810e99f579e27a66866cc105a9ee8d8371f97bbefed",
+      "newHash": "03f27d6ffd16741ba1d37ed0168391a892521fbfb166809a5f3dbea10173d6ff",
+      "title": "Node: ‪Manoir de Prébois‬ (‪4859354338‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-CAB-AUTO-7622E953941A",
+      "url": "https://www.openstreetmap.org/node/4859842926",
+      "detectedAt": "2026-10-08T11:37:09Z",
+      "oldHash": "4bd57625390f24943f80f8ce01b13158e2b4b617e36821b3ff71733f15f0b156",
+      "newHash": "e0e47ff2700a2db969febaeb83c94a2bd45356eab5344236fea1d7d39ad0905c",
+      "title": "Node: ‪Motte castrale de la Cour des Domaines‬ (‪4859842926‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-013",
+      "url": "https://www.louvre.fr/",
+      "detectedAt": "2026-10-08T11:37:09Z",
+      "oldHash": "133dcf73389d66d5383585b25eff4e4e2640cc91e5cb52fcdfe290ff9f4f2901",
+      "newHash": "ebe177be38fe69462d98aaa424ca93a29ff33cda573f51331b0ef0539d0dd2b0",
+      "title": "Site officiel du musée du Louvre"
+    },
+    {
+      "id": "ACT-PARIS-085",
+      "url": "https://www.chateauversailles.fr/",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "218651b33bd0e64dd82e615b4de017a8fa40c2d5f7d9c6317dfb6b0dec88a408",
+      "newHash": "cae4754a1f4b2c5826221cd15283cf7d1ad5dd7892a183b2f829b9e9d9e4d2ce",
+      "title": "Château de Versailles | Site officiel"
+    },
+    {
+      "id": "ACT-PARIS-094",
+      "url": "https://www.chateaudefontainebleau.fr/",
+      "detectedAt": "2026-10-08T11:37:09Z",
+      "oldHash": "93689d4bfc63a84dc7540db4edbd669bb4cec4a7eb9388af1559a8af6e6a729d",
+      "newHash": "14b95bc37a8678d185321460b7ca0b22c9db62d8524d52da415cd3b50bfd047b",
+      "title": "Château de Fontainebleau | Site officiel"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-9E62F42354C9",
+      "url": "https://www.openstreetmap.org/node/191031796",
+      "detectedAt": "2026-10-08T11:37:09Z",
+      "oldHash": "ebb7b4409f745e8c9d36365675ef9febf5da3a3321c144afca4bc269b9894df7",
+      "newHash": "3a6a83dbe1ebc42400fdbf98e6a4e6bbf615aa1274160a235ada47eaf0d24e69",
+      "title": "Node: ‪Point zéro des Routes de France‬ (‪191031796‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-F58D7D0DA0D3",
+      "url": "https://www.mep-fr.org/",
+      "detectedAt": "2026-10-08T11:37:14Z",
+      "oldHash": "b51a119163a07389be858d0fa2fac9b69657995e948077a17e7938fd71ad6816",
+      "newHash": "3565f3093b2969cb0932c3da78e90702dd551436e2727f47dd91643603590e38",
+      "title": "La MEP"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-A5052F4C11D8",
+      "url": "https://www.petitbouillonpharamond.com/",
+      "detectedAt": "2026-10-08T11:37:09Z",
+      "oldHash": "0ef85352ff0a2d385bd8d0f3cd6a54244d2eb8139eadb1faa8c6d65778f19b55",
+      "newHash": "abb499185ad2c3179ae410725b02ea20fe014c7bb6293a1b51d238e7cadcc3ba",
+      "title": "Le Petit Bouillon Pharamond"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-ED4C032A4DA8",
+      "url": "https://www.maisonsvictorhugo.paris.fr/paris",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "ebcba3de86b5439781665be73d7375cec29e5b38a7913779ca624a52d73e7ced",
+      "newHash": "9c3a1480f41d4cd5e5f69dfa1b5581fe556b49da891debddd7c2260c5f095948",
+      "title": "Maisons Victor Hugo | Paris"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-EE3CD1FE04A5",
+      "url": "https://www.bofingerparis.com/",
+      "detectedAt": "2026-10-08T11:37:09Z",
+      "oldHash": "ca68fd1e10a207a16aef12564b4d63c76facf3a98a0cc195f2e4bd50c6811c54",
+      "newHash": "49dede888e58a4fdf5773d6c68066c866501690d284f674d9600c104846e9ed0",
+      "title": "Bofinger | Brasserie | Paris | Place des Vosges | Bastille"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-64B8926199CA",
+      "url": "https://www.openstreetmap.org/node/530585154",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "3d7fab6cf444f28900627decb80abcfd656bb3dd3e495035f3b7b9119d48b7c8",
+      "newHash": "4552023b37907db917427537d52db012aaf7d4c27b184e3a3463b7ff4999ef2c",
+      "title": "Node: ‪Fontaine Cuvier‬ (‪530585154‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-74229B0E9D2A",
+      "url": "https://www.daliparis.com",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "615a7342800d8bf80e5c332fd78cfb8718ca7e692d6913e57a30094c6301e726",
+      "newHash": "1c70ef7218bd83463e75f6756999c2b52bdbf332460c4fe5ce5a57e402f4c40f",
+      "title": "Dalí Paris - Musée dédié au surréaliste catalan • Dali Paris"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-EFAE8D21002C",
+      "url": "https://www.museecarteajouer.com/",
+      "detectedAt": "2026-10-08T11:37:11Z",
+      "oldHash": "4256682841f37fd52b8bca6f5a284e6f79b470182a4bd1108ba7d1670cf3babb",
+      "newHash": "0b8ded37f907864294e9ccd11938db73e227216bdf87f11547dce753673adb0d",
+      "title": "Musée Français de la Carte à Jouer"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-5A5D647208A2",
+      "url": "https://www.boulognebillancourt.com/loisirs/culture/les-musees/musee-des-annees-trente-1",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "c947e1850ae29607ecef7825e7beb558fff9d8042d032d058c52f04a50fc9236",
+      "newHash": "f309ea3dcbdde78effb37a867cd4eb55c5bea1069c2c6f6015f35d81a04c7857",
+      "title": ""
+    },
+    {
+      "id": "ACT-PARIS-AUTO-BC9DE207DA96",
+      "url": "https://www.openstreetmap.org/node/517719949",
+      "detectedAt": "2026-10-08T11:37:09Z",
+      "oldHash": "b41d57d87b4c57da26b8d1021d8ac95bcbbf1ff00bd57ad0fea240dff86ee9fe",
+      "newHash": "1379c7030aa8cbe12e4c643ac72589f10aecea3bb9420747e970a0bb1a9b5e69",
+      "title": "Node: ‪Obélisque‬ (‪517719949‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-283A0D58EB51",
+      "url": "https://www.openstreetmap.org/node/326372977",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "7bc726fdb4095fd79ac70d9841e122b11fca4d7649d74dd5b18d1b3ade82c851",
+      "newHash": "c46583b285fb454bd89593e0da77f761a7a75e322e34b21db7377ffd78a6ab41",
+      "title": "Node: ‪Robinier du square René Viviani‬ (‪326372977‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-FCF7C95F3925",
+      "url": "https://www.paris.fr/lieux/gymnase-buffon-3188",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "856fcf68e201ba69faa4ef64ce2d60d158e34ab768d681a539ecb194aa5c5319",
+      "newHash": "ee5c1eec29c119cc1a339b1a320caad24b8b19fed0b567b2f0c276e3bc4a90fe",
+      "title": "Gymnase Buffon - Ville de Paris"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-1D26DCD28BD8",
+      "url": "https://www.openstreetmap.org/node/428054194",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "95998047c97aee54112b5fcf6f5d18ef4e637235405019b7ad41349b46189701",
+      "newHash": "50bb9ee69fbd05f66a47cd16b50b5c52dbac29d8bcaa5060a3dd8e9de546e6cb",
+      "title": "Node: ‪Folie Titon‬ (‪428054194‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-4CB0644B5491",
+      "url": "https://musee-moreau.fr",
+      "detectedAt": "2026-10-08T11:37:12Z",
+      "oldHash": "2709a60179d12adddbb5d196786c40d6a52c2d8e728b2559d48ac65f99833a26",
+      "newHash": "2f2ce981aea581e1f711b40a06e0439bd8672029f21b48fd7d72b1d27a3a79a3",
+      "title": "Page d'accueil | Musée Gustave Moreau"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-D269E2C2BFFD",
+      "url": "https://www.openstreetmap.org/node/918240892",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "341da0f634fd528f8fd1459f9ece80aea017b78f702b6cff86eec73284b7586c",
+      "newHash": "00529b15a198bb1ce55919cdad00bcbc6a909305148567266fc9b11c6b4e25d4",
+      "title": "Node: ‪Jacques Cartier‬ (‪918240892‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-42450D9BAA5F",
+      "url": "https://www.openstreetmap.org/node/918240758",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "91882e8d5b772aef7a20e7802e4a1786ee12683754a860f88f2994b4b35a569c",
+      "newHash": "7c15682f2a2cc9bd679bc33048e8a4dd7a3cffe085df058786cb0ae0cb12e115",
+      "title": "Node: ‪Samuel Champlain‬ (‪918240758‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-838E26B05933",
+      "url": "https://www.openstreetmap.org/node/570349020",
+      "detectedAt": "2026-10-08T11:37:11Z",
+      "oldHash": "307f5747d230bc9693d429de0f1390b09225b3e8a2353008911bfe33b06faaf0",
+      "newHash": "412b11b9a6f95e1ffd67347f904eb07e4a8d57c81434052e87048accf8616830",
+      "title": "Node: ‪Statue de George Washington‬ (‪570349020‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-64FA2BD87A93",
+      "url": "http://museeduvinparis.com",
+      "detectedAt": "2026-10-08T11:37:12Z",
+      "oldHash": "244a774e0ad79d80270794f089a20efa8424a41b8155856408fc2e7c5516b813",
+      "newHash": "01572b59f421a2cbba0671770e8314dfb791d449802160e5f0d19f9dd9b41e2d",
+      "title": ""
+    },
+    {
+      "id": "ACT-PARIS-AUTO-C2B493AE8B8E",
+      "url": "https://www.aphp.fr/musee",
+      "detectedAt": "2026-10-08T11:37:12Z",
+      "oldHash": "37195755a09b3eff08edf07f5a1bdbcc364b2c1df5c017091df28a5511dd0fc6",
+      "newHash": "f853cc6d53fb475344f5d3e00edeafdb54627ce9bd4e46e848eda9c7f467439a",
+      "title": "Musée de l'AP-HP | APHP"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-7D3A3D3C83EE",
+      "url": "https://www.openstreetmap.org/node/260279489",
+      "detectedAt": "2026-10-08T11:37:10Z",
+      "oldHash": "a34d345ab084a4cba1908f7e4a08d01983c263571288cf755d8a7253b965f769",
+      "newHash": "68a5541fd2df92c2f790f6ebb15c8df598ccf9a0d7057098cd53b4afbaa1dfae",
+      "title": "Node: ‪Mémorial du génocide arménien d'Issy-les-Moulineaux‬ (‪260279489‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-1A6CC1119751",
+      "url": "https://www.openstreetmap.org/node/457509221",
+      "detectedAt": "2026-10-08T11:37:11Z",
+      "oldHash": "9fe76a2f36dabdd71053f2f318d3186c150d0e5ba1b871785383429c8ed65825",
+      "newHash": "1a3e2c92282f479294f1e951b29e30bb096899e369424ce7e210ee09417d5a41",
+      "title": "Node: ‪Monument de Buzenval‬ (‪457509221‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-49E2423D7D35",
+      "url": "https://www.openstreetmap.org/node/611912940",
+      "detectedAt": "2026-10-08T11:37:11Z",
+      "oldHash": "6facb363ac4ce61938f60e0d3edf5de065e7f96da6b805af6a29c2bbe2f33ebb",
+      "newHash": "84031f44d548aa89dc3fcb173013bb951d064b395aa7f8eccbc2a49a3e02be01",
+      "title": "Node: ‪Château du Rancy‬ (‪611912940‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-9530D51AAB1C",
+      "url": "https://www.openstreetmap.org/node/848963621",
+      "detectedAt": "2026-10-08T11:37:11Z",
+      "oldHash": "45c7336a2417963162c7e78dc5780724f149d15d8e70f17cbfc7de27ad4068ea",
+      "newHash": "e309b014500a4c809b187e4e2029774446ada275501537e6f9434916d99dbdca",
+      "title": "Node: ‪Niveau de la crue de 1910‬ (‪848963621‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-2A61264A6CE5",
+      "url": "https://www.openstreetmap.org/node/961586210",
+      "detectedAt": "2026-10-08T11:37:11Z",
+      "oldHash": "de11daf2836cee08e91fd3a5721fe49fb502dcb4180c721ff940c8a0714870ba",
+      "newHash": "66fc43a0f96315c117396712ff7b56e5f82b6e2e9dee4095e0d6398d71a493dc",
+      "title": "Node: ‪Ancien hôtel-Dieu‬ (‪961586210‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-6B9EE82C6C0C",
+      "url": "https://www.openstreetmap.org/node/305305619",
+      "detectedAt": "2026-10-08T11:37:11Z",
+      "oldHash": "c05d112e0964299ebc5bf929cbce4184a0b18730108559a5977ed8b8359f2c5a",
+      "newHash": "774b51f3a122abd415c71af1bea3885094c27b7d0cab74aeda19196fb96d4917",
+      "title": "Node: ‪Monument aux morts‬ (‪305305619‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-PARIS-AUTO-A0582F5608AF",
+      "url": "https://www.openstreetmap.org/node/878453850",
+      "detectedAt": "2026-10-08T11:37:11Z",
+      "oldHash": "fb55e995c5ff406273b8b298263e81ba0552d9cb98fc5644483ace587b8fc639",
+      "newHash": "3bb6d1f57d2e259bf7c4bd6653cb96420f73901f244ced06dbaccddbb4974ac6",
+      "title": "Node: ‪Monument aux morts 1914-18‬ (‪878453850‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-ORSAY-001",
+      "url": "https://www.destination-paris-saclay.com/fr/",
+      "detectedAt": "2026-10-08T11:37:12Z",
+      "oldHash": "b5e6d896b21a7c1e4b74b2eaa643a7570330245a486ae0db6e1901de25cbb51b",
+      "newHash": "c55416c56e7f983cd52aec8f5677b9b38408ff6eddb95f0c1eaa843279a0fb7a",
+      "title": "Destination Paris-Saclay"
+    },
+    {
+      "id": "ACT-ORSAY-035",
+      "url": "https://www.parc-naturel-chevreuse.fr/",
+      "detectedAt": "2026-10-08T11:37:12Z",
+      "oldHash": "64ff5b905f85f689e40c40d89c80f87309535ddf4abbe24d568902690139bb01",
+      "newHash": "eabe31a40f4ce7cb8478917ca466320c5e85bceb5d87f4576212bb3e4972a5f0",
+      "title": "Parc naturel régional de la Haute Vallée de Chevreuse | Parc Naturel de la Haute Vallée de Chevreuse"
+    },
+    {
+      "id": "ACT-ORSAY-049",
+      "url": "https://www.rambouillet-tourisme.fr/",
+      "detectedAt": "2026-10-08T11:37:13Z",
+      "oldHash": "580a27df782901b8689c2e517d4225578fd942c201f5dad47bbf67dbdfe27c52",
+      "newHash": "f0aed43e26281e3d587a360749cb70e8285d58a47559e0cb9153e6a95d7986ae",
+      "title": "Rambouillet Tourisme | Site officiel de l'Office de tourisme"
+    },
+    {
+      "id": "ACT-MENDE-001",
+      "url": "https://www.mende-coeur-lozere.fr/",
+      "detectedAt": "2026-10-08T11:37:13Z",
+      "oldHash": "b7b1ffe55b04886fb7a0d8919443b6c63b1a3b708c8d6e686567023012c40a00",
+      "newHash": "6c2b233ef1abc6e1a19672542344b41fcf2d2fbb671a34976114b47a54773c74",
+      "title": "Office de tourisme Mende Cœur Lozère. Vacances Nature Massif central"
+    },
+    {
+      "id": "ACT-MENDE-020",
+      "url": "https://www.lozere-tourisme.com/",
+      "detectedAt": "2026-10-08T11:37:13Z",
+      "oldHash": "a5daa78c7b6a514f0413c13a709b5b4f2073c54057b03198d75bfb0998b2c38e",
+      "newHash": "5f69bf8aa25f64a2779ed3559526df0a1367fd1e18fb069db0ca57252755d1da",
+      "title": "Lozère Tourisme : destination nature en Cévennes, gorges du Tarn, Aubrac..."
+    },
+    {
+      "id": "ACT-MENDE-044",
+      "url": "https://www.cevennes-parcnational.fr/fr",
+      "detectedAt": "2026-10-08T11:37:13Z",
+      "oldHash": "121cdaf49079aeb795060fcc64bd1bab6abe0c172a07ae8fce49cd42043ee9b0",
+      "newHash": "d98de085dd70e75f7f8f404b382b53512eb8670fb0d150f76fb9d8627e48d907",
+      "title": "Parc national des Cévennes"
+    },
+    {
+      "id": "ACT-SAINTCYPRIEN-001",
+      "url": "https://www.tourisme-saint-cyprien.com/",
+      "detectedAt": "2026-10-08T11:37:13Z",
+      "oldHash": "da6ce6b6e51c6e12721d1f01e7a68ae224e37e2f82059924a0dbfa94a2502215",
+      "newHash": "daf82849d50a080c127cf95d00c739d0904b3950e4cd446bca955ed6e4c93dea",
+      "title": "Destination Saint Cyprien - Pyrénées Orientales"
+    },
+    {
+      "id": "ACT-SAINTCYPRIEN-039",
+      "url": "https://www.tourisme-pyreneesorientales.com/",
+      "detectedAt": "2026-10-08T11:37:14Z",
+      "oldHash": "66506ef15e0ddc563dc300f1e5124bdfd003cd814652f1e45418702b06cc514d",
+      "newHash": "7d7660d13f524715816944343a98dd9d31a787ddbf0796b43097fc2447a178f2",
+      "title": "Tourisme Pyrénées-Orientales"
+    },
+    {
+      "id": "ACT-SAINTCYPRIEN-065",
+      "url": "https://www.perpignantourisme.com/",
+      "detectedAt": "2026-10-08T11:37:14Z",
+      "oldHash": "2def9906ab225c1fc72eb996f2c7adcfbaa7c9e91101e7c935813c1b142ea50d",
+      "newHash": "d15d62b1043aca6d3648f1592ef0ffa9a7e50863988862ab9d05f659a95c320e",
+      "title": "Bienvenue à Perpignan ! - Perpignan"
+    },
+    {
+      "id": "ACT-STC-AUTO-D81D71201B3B",
+      "url": "https://www.collioure.com/decouvrir/les-incontournables/le-chateau-royal",
+      "detectedAt": "2026-10-08T11:37:17Z",
+      "oldHash": "f25818f1747a267c36c82e9bd8f50dfc15b0d310d554af7b37e56ee9b374b60f",
+      "newHash": "02b055bed9aaab865a9677a206836837c458282431420036de3e13cf15adb4c1",
+      "title": "Le Château Royal - Collioure Tourisme"
+    },
+    {
+      "id": "ACT-STC-AUTO-5BEE560E59CE",
+      "url": "https://www.openstreetmap.org/node/1657298085",
+      "detectedAt": "2026-10-08T11:37:14Z",
+      "oldHash": "5e0f737cf1699c79542b87123ae49777c85381439254c240e3a10dd7db21ae4f",
+      "newHash": "9424e40482ab864a50d462b23c5a9dfba98fd8d982480133c2349441e5d2aaf9",
+      "title": "Node: ‪Fort de Bellegarde‬ (‪1657298085‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-STC-AUTO-094EC4A79C5F",
+      "url": "https://www.openstreetmap.org/node/1657298078",
+      "detectedAt": "2026-10-08T11:37:14Z",
+      "oldHash": "60d125e4234bbbdb577d1268e23bcca460bf34b597896634158e638df50d8b02",
+      "newHash": "48b104cbf575ebe12701eaaf384d0ea055f1952665f1cdd793e259464799703b",
+      "title": "Node: ‪Dolmen de la Siureda‬ (‪1657298078‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-STC-AUTO-31254AAD022C",
+      "url": "https://music-ceret.com/",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "a59bc81a7bee70e69814ea474cb1c0867295192c8a249cf4edf0151f4933a5b0",
+      "newHash": "8f6174ea5d8c0678c724381fa9d4ed3824d7d9c320f13445139628438c283c0e",
+      "title": "Musée de la musique - CIMP Centre Internacional de Música Popular - Céret"
+    },
+    {
+      "id": "ACT-STC-AUTO-9E61402367F5",
+      "url": "https://www.openstreetmap.org/node/5071940040",
+      "detectedAt": "2026-10-08T11:37:14Z",
+      "oldHash": "1ed8640019d6e57bff8fb71f394063aad2e145674400b7d77e0798936eac7454",
+      "newHash": "361f92e07d405cef86c06045a72a54dcead34d605556dc4e71de5e694523384f",
+      "title": "Node: ‪Château de Pujols‬ (‪5071940040‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-STC-AUTO-CEF8315903AE",
+      "url": "https://www.openstreetmap.org/node/3174915000",
+      "detectedAt": "2026-10-08T11:37:14Z",
+      "oldHash": "8ebfbae69c8cc31e7a05f8a96017dd70e49a96c8d8e754f64c814b5e0d256164",
+      "newHash": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea",
+      "title": "Client Challenge"
+    },
+    {
+      "id": "ACT-STC-AUTO-51F082C74572",
+      "url": "https://www.openstreetmap.org/node/4336898946",
+      "detectedAt": "2026-10-08T11:37:14Z",
+      "oldHash": "73caf2d43cdd34c892b14d10beada719f91d977982695aae4e2459a2eb4e1361",
+      "newHash": "1bceeebc0e90df32cf57e03de3aa5669074f4eef1949b475edd1649aa2e9a782",
+      "title": "Node: ‪Monument aux Morts départemental 1870-1871‬ (‪4336898946‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-STC-AUTO-C6492933C9B8",
+      "url": "https://www.openstreetmap.org/node/972815821",
+      "detectedAt": "2026-10-08T11:37:14Z",
+      "oldHash": "ba6e6f18f68fa7e71e6652edf787c7563f7046e092fea325f2cb3c6daf36b4e7",
+      "newHash": "6b88a8d6797637a34ef2e4c59f316f5d5c5539706d99e71dbcc0b55d09ce1d92",
+      "title": "Node: ‪Dolmen de la Balma del Moro‬ (‪972815821‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-STC-AUTO-AE12D98614DD",
+      "url": "https://www.openstreetmap.org/node/3179816572",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "099e0b3005ae19b780b972a2be885881d7f1b74a27622c97f780729c09259553",
+      "newHash": "4d70cb31e4886d7a9bc476ae8553ca59da26c668532e9ccf0d48e9075403efb1",
+      "title": "Node: ‪Dolmen de la Cova dels Alarbs‬ (‪3179816572‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-STC-AUTO-481990AE8E8E",
+      "url": "https://www.openstreetmap.org/node/6217229848",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "dc01f38c1a522abd740b2f6df6e012e6de589ba4dae9729667d7730e3d159925",
+      "newHash": "f49c79e09b7c48523627d67e5265aa4c1a29c908f04a4b48a415b89dbb1dea40",
+      "title": "Node: ‪Dolmen de Comes Llobes dels Pils‬ (‪6217229848‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-STC-AUTO-677AE4C83B11",
+      "url": "https://www.openstreetmap.org/node/2184301048",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "8cd80feeb6e5bd73903495325115b966e1a4d32f2e4f31769f934cb5e19e9b11",
+      "newHash": "0c3c6deb656af068554aad5c31f04071169d34bd84d31e545e6ed7fc278732cc",
+      "title": "Node: ‪Dolmen del Coll de Medàs I‬ (‪2184301048‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-STC-AUTO-88C4E4D87DAD",
+      "url": "https://www.openstreetmap.org/node/5857040675",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "b2c42e10743319f0bb1bbf87cccdcf2b749d677f46fb4ef8bd00ffc30636f83c",
+      "newHash": "1cb1e89bd6797826972b954ceb933933be9a47bbb436bec68cdd10b14c30f940",
+      "title": "Node: ‪Dolmen del Coll de Medàs II‬ (‪5857040675‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-STC-AUTO-686C58C22C31",
+      "url": "https://www.openstreetmap.org/node/5857040676",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "64a5f29db8d322f00ce843accdc60602735f4e8f525a16d6c80e11941df89219",
+      "newHash": "1cd4379a22f3a172df02dc08a30e906f4a9cf505d661be34a1ab7d3159304f7a",
+      "title": "Node: ‪Dolmen del Coll de Medàs III‬ (‪5857040676‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOULOURIS-001",
+      "url": "https://www.esterel-cotedazur.com/",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "4dec2b1fb974d217cc2d6ba33659b256e9c583af8c3e5de9606f61e1f4be0cf4",
+      "newHash": "0e0cb813cf592ab3cea4f20ed0f731e71a48c3ea4c90c66d10d32d012ef9ef62",
+      "title": "Estérel Côte d'Azur : Infos tourisme Estérel & Est-Var"
+    },
+    {
+      "id": "ACT-BOULOURIS-046",
+      "url": "https://circuits.esterel-cotedazur.com/",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "3d9d1f926ab78b25b0312cb2e4a97c154818dd5476d04bb170e637198ccf836b",
+      "newHash": "c4558041ec8130173aee7655063fed0c56c5b7ba982a2ba1f2f647dae192af75",
+      "title": "Site officiel des circuits rando & VTT dans l'Estérel (Côte d'Azur)"
+    },
+    {
+      "id": "ACT-BOULOURIS-072",
+      "url": "https://www.cannes-france.com/",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "b287a54eaaa97bfd7cad86a22f5022802c128e4fd7ccd08441c3fa31cbd5f477",
+      "newHash": "854970bf37e49c721901aa7c5fb303f59dace76bb4b14a3e0616d22f4c5bf33c",
+      "title": "Cannes France, site officiel de l’Office de Tourisme pour organiser vos vacances | Cannes Tourisme"
+    },
+    {
+      "id": "ACT-BOULOURIS-077",
+      "url": "https://www.visitvar.fr/",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "26d6a9bfb678a48a85e9c6c29db555c449f4d972554deb7ef7e4afcc51fa971c",
+      "newHash": "9d87bbecb97a13d953e6d924bb6ed32ff237e868514e8c749aee0b5de9f647c3",
+      "title": "Le Var - Site officiel du Tourisme dans Le Var"
+    },
+    {
+      "id": "ACT-BOU-AUTO-7D1C5FB60211",
+      "url": "https://www.openstreetmap.org/node/3075087739",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "42d0f664dbcad22cd3971380608e52d6f47afdc4ab5e5917c63beada25b4b9e8",
+      "newHash": "fa288b44ff5782e148a15d36ab55d7587a6b49a2fe814c484f5b8edf238c7ced",
+      "title": "Node: ‪Khatchkar‬ (‪3075087739‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-F89F3BD6DF81",
+      "url": "https://www.openstreetmap.org/node/1718052671",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "ac49b6c7489a2783378123be72658587637571a49c1075af596cc864ba9435e0",
+      "newHash": "f741aa2ab1695eb5150d0f5355169ccdae4afa6bf7141111a05ed6dcb7a12af7",
+      "title": "Node: ‪Mont Vinaigre‬ (‪1718052671‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-CBD500E9267D",
+      "url": "https://www.cannes.com/fr/culture/musees-et-expositions/musee-du-masque-de-fer-et-du-fort-royal/a-voir-au-musee.html",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "76b1082f66d48c909d0185952642dae049b09a94966602c084c08e41dfac70d7",
+      "newHash": "e6e90f6e0c644bd1c9a65b6669f7b07c74a1ad62bdf00cde525be6cb55ebea62",
+      "title": "À voir au musée"
+    },
+    {
+      "id": "ACT-BOU-AUTO-9314F4C7B5A5",
+      "url": "https://www.openstreetmap.org/node/2855617946",
+      "detectedAt": "2026-10-08T11:37:15Z",
+      "oldHash": "50e8bb32e88c148184e50f527a309246785c091fccf0831b87b5c0c432a1730b",
+      "newHash": "fa3d692bc3051d6e798f14c55254f5b0011d32fb29ffad68421af45136119f0e",
+      "title": "Node: ‪Château de Vallauris‬ (‪2855617946‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-0B5423AF0DFA",
+      "url": "https://www.openstreetmap.org/node/2927541286",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "993114c70fc50414a28dec5f0267479bed3f2543df81fdcdb6cd029d41fcfe61",
+      "newHash": "26da16c34cc65d30b84abbc1b9d7f7e56fb5bb9501b0ef33de1415362084ff24",
+      "title": "Node: ‪Colonne commémorative du débarquement de Napoléon‬ (‪2927541286‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-9F36B21CF8B1",
+      "url": "https://www.openstreetmap.org/node/527875869",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "87f6da2ea966cce2a0dfb815cf4679ded078d23178fc6346a27250985bb8acf7",
+      "newHash": "a64b7878a4be78bae8058c3eaa6b85e32cc970f508c7a8c1d9d399467a37e55c",
+      "title": "Node: ‪Oppidum les Encourdoules (Cordula)‬ (‪527875869‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-3103A039D665",
+      "url": "https://www.openstreetmap.org/node/2826673998",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "e8bfba42a2469c01e4334741566eea23825f6a4f36e2d5741fc41a49a511aeef",
+      "newHash": "e52019ee481337ed80d17439cf8ccba217d2cd0de5d64b1394f96083165208ae",
+      "title": "Node: ‪Monument aux Morts‬ (‪2826673998‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-BD263707E11C",
+      "url": "https://www.openstreetmap.org/node/2281179859",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "418b373e3f4e3cae0c512be78a0a59b52cb3bc4b36d5c0b761db8973f758b089",
+      "newHash": "46b5ec33b9a17e94ca7669b04441d2baf9095710786402ddf091a1afa915a81a",
+      "title": "Node: ‪Dolmen de Verdoline‬ (‪2281179859‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-47CF9337C69C",
+      "url": "https://www.openstreetmap.org/node/3830657551",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "a6880bb573e54520ad060492797b502e8bf69ec1d44132764fc1ca92aadbce72",
+      "newHash": "641d2f34288c17552b45002a17c21e4ccfb7fd62329d1413336bbddf77185a52",
+      "title": "Node: ‪Bat'Ski‬ (‪3830657551‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-E2402AB46332",
+      "url": "https://www.openstreetmap.org/node/3748359909",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "808b6464a6903110bfbfa57fc68b3ac469aefd67a43e95a5255dfa98f422268c",
+      "newHash": "8659688ea1c4ddc8e9fae75e47921177ca2613c737c5d8aaf88aa42da898a3c5",
+      "title": "Node: ‪Complexe Sportif Croix Mallet‬ (‪3748359909‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-F63CA7AA102A",
+      "url": "https://www.openstreetmap.org/node/3748359912",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "05deb24cd28ad0e8c29c92b570416c9f542ddaf1acc553417f815fa01bd50729",
+      "newHash": "00c71c878c296580c7174278c1915ac8703af2f2b4f4d4df13e2611038cdf05d",
+      "title": "Node: ‪Société Nautique‬ (‪3748359912‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-3BE6B0E9F7A5",
+      "url": "https://www.openstreetmap.org/node/3748412949",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "ca60097823ffdd14be18c1f4386c81a7feec7d7b05fd8615d4f560098f744d99",
+      "newHash": "44ccc39548cde90e0685ef5593631ad4cd66e4d060813dd4500ae4280eb4ad89",
+      "title": "Node: ‪Tennis Club Beauvallon‬ (‪3748412949‬) | OpenStreetMap"
+    },
+    {
+      "id": "ACT-BOU-AUTO-1333158989FA",
+      "url": "https://www.openstreetmap.org/node/3195527033",
+      "detectedAt": "2026-10-08T11:37:16Z",
+      "oldHash": "81c50dca13ae42edef43a8eaf42fe81de88b42097af21ec06dd59f3008729cc6",
+      "newHash": "93d235ac0dc2e2f1be17ba5d0594e26afad3e1cbf5c884554af451c7bd0d7878",
+      "title": "Node: ‪Keep Cool Callian‬ (‪3195527033‬) | OpenStreetMap"
     },
     {
       "id": "ACT-CABOURG-001",

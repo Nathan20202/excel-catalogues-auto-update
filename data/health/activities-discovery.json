@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "catalog": "activities-discovery",
-  "cursor": 2,
+  "cursor": 4,
   "checkedThisRun": 40,
   "addedThisRun": 15,
   "failuresThisRun": 1,
   "areasThisRun": [
-    "Cabourg",
-    "Paris"
+    "Orsay",
+    "Mende"
   ],
-  "updatedAt": "2026-10-01T11:11:33Z"
+  "updatedAt": "2026-10-08T11:37:07Z"
 }
