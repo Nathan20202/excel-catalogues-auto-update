@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "catalog": "promo-discovery",
-  "cursor": 2,
-  "checkedThisRun": 4,
+  "cursor": 4,
+  "checkedThisRun": 1,
   "addedThisRun": 0,
   "failuresThisRun": 0,
   "queriesThisRun": [
-    "comparateur de prix",
-    "price comparison website"
+    "service cashback",
+    "cashback website"
   ],
-  "updatedAt": "2026-10-02T10:45:06Z"
+  "updatedAt": "2026-10-09T11:31:47Z"
 }
