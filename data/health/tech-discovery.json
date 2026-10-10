@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "catalog": "tech-discovery",
   "cursor": 0,
-  "checkedThisRun": 125,
+  "checkedThisRun": 126,
   "addedThisRun": 5,
   "failuresThisRun": 0,
   "feedsThisRun": [
@@ -13,5 +13,5 @@
     "https://blog.playstation.com/feed/",
     "https://blog.google/rss/"
   ],
-  "updatedAt": "2026-10-03T09:56:16Z"
+  "updatedAt": "2026-10-10T10:41:42Z"
 }

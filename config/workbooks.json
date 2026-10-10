@@ -846,7 +846,7 @@
           "sheet": "04 - Composants PC",
           "table": "TechPcComponents",
           "file": "data/tech/composants-pc.json",
-          "recordCount": 55,
+          "recordCount": 56,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -896,7 +896,7 @@
           "sheet": "06 - Mobiles & wearables",
           "table": "TechMobileWearables",
           "file": "data/tech/mobiles-wearables.json",
-          "recordCount": 51,
+          "recordCount": 55,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1146,7 +1146,7 @@
           "sheet": "16 - Sources & méthode",
           "table": "TechSourceRegister",
           "file": "data/tech/sources.json",
-          "recordCount": 376,
+          "recordCount": 381,
           "idColumn": "ID",
           "preserveColumns": [],
           "formulaColumns": [],
