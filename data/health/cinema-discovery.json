@@ -23,7 +23,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:48Z"
+      "checkedAt": "2026-10-15T09:59:47Z"
     },
     "1000043221": {
       "allocineId": "1000043221",
@@ -44,7 +44,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:47Z"
+      "checkedAt": "2026-10-15T09:59:46Z"
     },
     "1000018854": {
       "allocineId": "1000018854",
@@ -65,7 +65,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:47Z"
+      "checkedAt": "2026-10-15T09:59:46Z"
     },
     "317219": {
       "allocineId": "317219",
@@ -88,7 +88,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:47Z"
+      "checkedAt": "2026-10-15T09:59:46Z"
     },
     "324014": {
       "allocineId": "324014",
@@ -109,7 +109,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:48Z"
+      "checkedAt": "2026-10-15T09:59:47Z"
     },
     "1000041095": {
       "allocineId": "1000041095",
@@ -133,7 +133,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:49Z"
+      "checkedAt": "2026-10-15T09:59:47Z"
     },
     "1000014638": {
       "allocineId": "1000014638",
@@ -154,7 +154,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:49Z"
+      "checkedAt": "2026-10-15T09:59:47Z"
     },
     "325076": {
       "allocineId": "325076",
@@ -179,7 +179,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:49Z"
+      "checkedAt": "2026-10-15T09:59:47Z"
     },
     "1000023495": {
       "allocineId": "1000023495",
@@ -200,7 +200,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:49Z"
+      "checkedAt": "2026-10-15T09:59:47Z"
     },
     "1000042891": {
       "allocineId": "1000042891",
@@ -223,7 +223,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:49Z"
+      "checkedAt": "2026-10-15T09:59:47Z"
     },
     "26832": {
       "allocineId": "26832",
@@ -246,7 +246,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:49Z"
+      "checkedAt": "2026-10-15T09:59:47Z"
     },
     "1000046254": {
       "allocineId": "1000046254",
@@ -269,7 +269,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:52Z"
+      "checkedAt": "2026-10-15T09:59:51Z"
     },
     "1000045581": {
       "allocineId": "1000045581",
@@ -294,7 +294,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:49Z"
+      "checkedAt": "2026-10-15T09:59:47Z"
     },
     "1000014136": {
       "allocineId": "1000014136",
@@ -315,7 +315,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:50Z"
+      "checkedAt": "2026-10-15T09:59:50Z"
     },
     "772": {
       "allocineId": "772",
@@ -351,19 +351,19 @@
       "genres": [],
       "director": "Christian Philibert",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Ils avaient vingt ans en 1944 lorsqu’ils prirent le maquis pour libérer le pays sous les ordres du lieutenant Vallier. Quatre-vingts ans plus tard, sept jeunes du même âge sont sél",
       "pressScore": 2.4,
       "pressReviews": 5,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "rejected",
       "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "checkedAt": "2026-10-08T12:04:52Z"
+      "checkedAt": "2026-10-15T09:59:49Z"
     },
     "1000043595": {
       "allocineId": "1000043595",
@@ -376,19 +376,19 @@
       "genres": [],
       "director": "Philippe Tabarly",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Dans un monde saturé d’informations, le silence devient  un refuge. Cyprien N’Tsaï, jeune guitariste international, décide de changer sa vie. Il coupe radicalement avec le conformi",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:53Z"
+      "checkedAt": "2026-10-15T09:59:53Z"
     },
     "1000048049": {
       "allocineId": "1000048049",
@@ -401,19 +401,19 @@
       "genres": [],
       "director": "Samuel Suffren",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Trilogie de court-métrages du réalisateur haïtien Samuel Suffren composée de AGWE (2022,17'), DES REVES EN BATEAUX PAPIERS (2024, 19') et COEUR BLEU (2025, 15').« Mon père rêvait d",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:54Z"
+      "checkedAt": "2026-10-15T09:59:55Z"
     },
     "321354": {
       "allocineId": "321354",
@@ -434,7 +434,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:56Z"
+      "checkedAt": "2026-10-15T09:59:59Z"
     },
     "1000051178": {
       "allocineId": "1000051178",
@@ -445,7 +445,7 @@
       "year": 2026,
       "duration": null,
       "genres": [],
-      "director": "Fred Cavayé",
+      "director": "Albert Dupontel",
       "actors": [
         "une sélection élargie à six longs métrages et huit courts métrages",
         "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
@@ -458,7 +458,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:05:00Z"
+      "checkedAt": "2026-10-15T10:00:02Z"
     },
     "1000051176": {
       "allocineId": "1000051176",
@@ -469,7 +469,7 @@
       "year": 2026,
       "duration": null,
       "genres": [],
-      "director": "Fred Cavayé",
+      "director": "Albert Dupontel",
       "actors": [
         "une sélection élargie à six longs métrages et huit courts métrages",
         "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
@@ -482,7 +482,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:59Z"
+      "checkedAt": "2026-10-15T10:00:01Z"
     },
     "1000049013": {
       "allocineId": "1000049013",
@@ -503,7 +503,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:58Z"
+      "checkedAt": "2026-10-15T09:59:58Z"
     },
     "1000049118": {
       "allocineId": "1000049118",
@@ -524,7 +524,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:55Z"
+      "checkedAt": "2026-10-15T09:59:54Z"
     },
     "1000018371": {
       "allocineId": "1000018371",
@@ -545,7 +545,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:05:10Z"
+      "checkedAt": "2026-10-15T10:00:02Z"
     },
     "1000000085": {
       "allocineId": "1000000085",
@@ -568,7 +568,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:31Z"
+      "checkedAt": "2026-10-15T09:59:29Z"
     },
     "1000018384": {
       "allocineId": "1000018384",
@@ -589,7 +589,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:07Z"
+      "checkedAt": "2026-10-15T09:58:38Z"
     },
     "1000007388": {
       "allocineId": "1000007388",
@@ -610,7 +610,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:21Z"
+      "checkedAt": "2026-10-15T09:59:19Z"
     },
     "1000026039": {
       "allocineId": "1000026039",
@@ -631,7 +631,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:31Z"
+      "checkedAt": "2026-10-15T09:59:29Z"
     },
     "1000004458": {
       "allocineId": "1000004458",
@@ -692,7 +692,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:05:01Z"
+      "checkedAt": "2026-10-15T10:00:03Z"
     },
     "1000004679": {
       "allocineId": "1000004679",
@@ -715,7 +715,7 @@
       ],
       "status": "rejected",
       "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "checkedAt": "2026-10-08T12:05:01Z"
+      "checkedAt": "2026-10-15T10:00:03Z"
     },
     "319893": {
       "allocineId": "319893",
@@ -801,7 +801,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:05:04Z"
+      "checkedAt": "2026-10-15T10:00:04Z"
     },
     "1000031730": {
       "allocineId": "1000031730",
@@ -822,7 +822,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:05:03Z"
+      "checkedAt": "2026-10-15T10:00:04Z"
     },
     "1000021763": {
       "allocineId": "1000021763",
@@ -843,7 +843,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:05:02Z"
+      "checkedAt": "2026-10-15T10:00:05Z"
     },
     "1000027155": {
       "allocineId": "1000027155",
@@ -2881,7 +2881,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:32Z"
+      "checkedAt": "2026-10-15T09:59:30Z"
     },
     "1000028944": {
       "allocineId": "1000028944",
@@ -2902,7 +2902,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:32Z"
+      "checkedAt": "2026-10-15T09:59:30Z"
     },
     "1000036867": {
       "allocineId": "1000036867",
@@ -2925,7 +2925,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:32Z"
+      "checkedAt": "2026-10-15T09:59:30Z"
     },
     "1000026622": {
       "allocineId": "1000026622",
@@ -2948,7 +2948,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:32Z"
+      "checkedAt": "2026-10-15T09:59:29Z"
     },
     "326989": {
       "allocineId": "326989",
@@ -2969,7 +2969,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:33Z"
+      "checkedAt": "2026-10-15T09:59:31Z"
     },
     "1000048319": {
       "allocineId": "1000048319",
@@ -2990,7 +2990,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:33Z"
+      "checkedAt": "2026-10-15T09:59:31Z"
     },
     "1000042927": {
       "allocineId": "1000042927",
@@ -3011,7 +3011,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:32Z"
+      "checkedAt": "2026-10-15T09:59:30Z"
     },
     "1000023438": {
       "allocineId": "1000023438",
@@ -3032,9 +3032,9 @@
       "knownActors": [
         "Sophie Thatcher"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:34Z"
+      "checkedAt": "2026-10-15T09:59:31Z"
     },
     "232669": {
       "allocineId": "232669",
@@ -3066,19 +3066,19 @@
       "genres": [],
       "director": "Artus,",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Artus signe un show XXL à voir sur grand écran ! Il entre dans l'Histoire en devenant le premier humoriste à investir Paris La Défense Arena, la plus grande salle d’Europe, dans un format totalement inédit : une fusion des genres, entre humour et expérience live jamais vue auparavant.",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:43Z"
+      "checkedAt": "2026-10-15T09:59:40Z"
     },
     "1000037846": {
       "allocineId": "1000037846",
@@ -3101,7 +3101,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:35Z"
+      "checkedAt": "2026-10-15T09:59:33Z"
     },
     "1000045286": {
       "allocineId": "1000045286",
@@ -3114,19 +3114,19 @@
       "genres": [],
       "director": "Samantha Cutler,",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Un programme champêtre qui anime la ferme de mille et une aventures ! D’après l’album illustré de Julia Donaldson et Axel Scheffler.Betty Delorge et Harry Fortepaille, deux épouvan",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:36Z"
+      "checkedAt": "2026-10-15T09:59:32Z"
     },
     "1000028074": {
       "allocineId": "1000028074",
@@ -3148,7 +3148,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:35Z"
+      "checkedAt": "2026-10-15T09:59:33Z"
     },
     "53042": {
       "allocineId": "53042",
@@ -3188,7 +3188,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:37Z"
+      "checkedAt": "2026-10-15T09:59:33Z"
     },
     "1000051923": {
       "allocineId": "1000051923",
@@ -3209,7 +3209,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:39Z"
+      "checkedAt": "2026-10-15T09:59:36Z"
     },
     "1000020779": {
       "allocineId": "1000020779",
@@ -3230,7 +3230,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:41Z"
+      "checkedAt": "2026-10-15T09:59:38Z"
     },
     "1000051542": {
       "allocineId": "1000051542",
@@ -3251,7 +3251,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:38Z"
+      "checkedAt": "2026-10-15T09:59:35Z"
     },
     "3213": {
       "allocineId": "3213",
@@ -3272,7 +3272,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:42Z"
+      "checkedAt": "2026-10-15T09:59:41Z"
     },
     "1000046176": {
       "allocineId": "1000046176",
@@ -3336,7 +3336,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:40Z"
+      "checkedAt": "2026-10-15T09:59:37Z"
     },
     "325074": {
       "allocineId": "325074",
@@ -3379,7 +3379,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:47Z"
+      "checkedAt": "2026-10-15T09:59:45Z"
     },
     "1000044751": {
       "allocineId": "1000044751",
@@ -3422,7 +3422,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:44Z"
+      "checkedAt": "2026-10-15T09:59:43Z"
     },
     "1000052224": {
       "allocineId": "1000052224",
@@ -3493,7 +3493,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:21Z"
+      "checkedAt": "2026-10-15T09:59:19Z"
     },
     "1000011453": {
       "allocineId": "1000011453",
@@ -3553,14 +3553,14 @@
         "Vincent Lindon"
       ],
       "synopsis": "Libéré après 19 ans de bagne pour le vol d’un pain, Jean Valjean décide de changer de vie et de faire le bien autour de lui. Sous une fausse identité, il devient avec le temps un n",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.1,
+      "pressReviews": 34,
       "knownActors": [
         "Vincent Lindon"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:53Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-15T09:58:55Z"
     },
     "1000037463": {
       "allocineId": "1000037463",
@@ -3573,19 +3573,19 @@
       "genres": [],
       "director": "Danai Stylianou",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Les investigations archéologiques révèlent les secrets de l’histoire récente de Chypre.",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:53Z"
+      "checkedAt": "2026-10-15T09:59:57Z"
     },
     "1000032855": {
       "allocineId": "1000032855",
@@ -3608,7 +3608,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:21Z"
+      "checkedAt": "2026-10-15T09:59:19Z"
     },
     "1000015739": {
       "allocineId": "1000015739",
@@ -3631,7 +3631,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:21Z"
+      "checkedAt": "2026-10-15T09:59:19Z"
     },
     "1000026296": {
       "allocineId": "1000026296",
@@ -3652,7 +3652,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:21Z"
+      "checkedAt": "2026-10-15T09:59:19Z"
     },
     "55774": {
       "allocineId": "55774",
@@ -3673,7 +3673,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:21Z"
+      "checkedAt": "2026-10-15T09:59:19Z"
     },
     "1000007346": {
       "allocineId": "1000007346",
@@ -3694,7 +3694,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:22Z"
+      "checkedAt": "2026-10-15T09:59:20Z"
     },
     "1000049814": {
       "allocineId": "1000049814",
@@ -3715,7 +3715,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:24Z"
+      "checkedAt": "2026-10-15T09:59:22Z"
     },
     "310374": {
       "allocineId": "310374",
@@ -3728,19 +3728,19 @@
       "genres": [],
       "director": "Valeria Baldan,",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Un documentaire captivant qui explore les racines du mal, les mécanismes de la possession et la réalité des exorcismes. À travers des cas concrets et le témoignage de grands exorci",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:23Z"
+      "checkedAt": "2026-10-15T09:59:21Z"
     },
     "1000045261": {
       "allocineId": "1000045261",
@@ -3761,7 +3761,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:23Z"
+      "checkedAt": "2026-10-15T09:59:21Z"
     },
     "1000038237": {
       "allocineId": "1000038237",
@@ -3782,7 +3782,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:22Z"
+      "checkedAt": "2026-10-15T09:59:20Z"
     },
     "328096": {
       "allocineId": "328096",
@@ -3805,9 +3805,9 @@
         "Vincent Lindon",
         "Tahar Rahim"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:24Z"
+      "checkedAt": "2026-10-15T09:59:21Z"
     },
     "8101": {
       "allocineId": "8101",
@@ -3828,7 +3828,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:24Z"
+      "checkedAt": "2026-10-15T09:59:21Z"
     },
     "1000050921": {
       "allocineId": "1000050921",
@@ -3849,7 +3849,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:26Z"
+      "checkedAt": "2026-10-15T09:59:27Z"
     },
     "1000051519": {
       "allocineId": "1000051519",
@@ -3870,7 +3870,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:31Z"
+      "checkedAt": "2026-10-15T09:59:28Z"
     },
     "2233": {
       "allocineId": "2233",
@@ -3933,7 +3933,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:27Z"
+      "checkedAt": "2026-10-15T09:59:25Z"
     },
     "1000043022": {
       "allocineId": "1000043022",
@@ -3954,7 +3954,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:25Z"
+      "checkedAt": "2026-10-15T09:59:26Z"
     },
     "1000051536": {
       "allocineId": "1000051536",
@@ -3997,7 +3997,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:31Z"
+      "checkedAt": "2026-10-15T09:59:29Z"
     },
     "1000023068": {
       "allocineId": "1000023068",
@@ -4013,14 +4013,14 @@
         "Jessica Chastain"
       ],
       "synopsis": "MALFAISANTE nous entraine dans l’univers de la très jeune Bela, dont le quotidien se détériore de jour en jour en raison de la relation qu’elle entretient, au cœur de sa propre mai",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 1.8,
+      "pressReviews": 5,
       "knownActors": [
         "Jessica Chastain"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:54Z"
+      "status": "rejected",
+      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
+      "checkedAt": "2026-10-15T09:58:56Z"
     },
     "1000031247": {
       "allocineId": "1000031247",
@@ -4041,7 +4041,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:08Z"
+      "checkedAt": "2026-10-15T09:59:04Z"
     },
     "1000022205": {
       "allocineId": "1000022205",
@@ -4057,12 +4057,12 @@
         "Dmitri Mazourov"
       ],
       "synopsis": "Russie, 2022. Gleb, chef d’entreprise prospère, vit avec sa femme Galina et leur fils dans une ville de province. Il se retrouve confronté à des problèmes professionnels croissants",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 4.2,
+      "pressReviews": 37,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:55Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-10-15T09:58:56Z"
     },
     "1000019249": {
       "allocineId": "1000019249",
@@ -4078,12 +4078,12 @@
         "Charlie Garnier Naslin"
       ],
       "synopsis": "C’est Halloween, et Ducobu revient pour une aventure pleine de rires et de mystères ! Le professeur Latouche et Mademoiselle Rateau emménagent dans une maison… hantée par le ​ fant",
-      "pressScore": 2.7,
-      "pressReviews": 9,
+      "pressScore": 2.5,
+      "pressReviews": 10,
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:10Z"
+      "checkedAt": "2026-10-15T09:59:05Z"
     },
     "1000023992": {
       "allocineId": "1000023992",
@@ -4104,9 +4104,9 @@
       "knownActors": [
         "Isabelle Huppert"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:08Z"
+      "checkedAt": "2026-10-15T09:59:03Z"
     },
     "1000030290": {
       "allocineId": "1000030290",
@@ -4127,7 +4127,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:09Z"
+      "checkedAt": "2026-10-15T09:59:05Z"
     },
     "1000026649": {
       "allocineId": "1000026649",
@@ -4144,11 +4144,11 @@
       ],
       "synopsis": "Le film s'inspire de l'histoire vraie de Frances Haugen, une jeune ingénieure chez Facebook, qui sollicite l'aide de Jeff Horwitz, journaliste au Wall Street Journal. Ensemble, ils",
       "pressScore": 3.1,
-      "pressReviews": 27,
+      "pressReviews": 30,
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:09Z"
+      "checkedAt": "2026-10-15T09:59:04Z"
     },
     "285141": {
       "allocineId": "285141",
@@ -4167,9 +4167,9 @@
       "pressScore": 3.5,
       "pressReviews": 30,
       "knownActors": [],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:10Z"
+      "checkedAt": "2026-10-15T09:59:04Z"
     },
     "1000037443": {
       "allocineId": "1000037443",
@@ -4185,12 +4185,12 @@
         "Joe Bird"
       ],
       "synopsis": "Deux adolescents doivent échapper à une entité violente qui prend la forme de la personne qu’ils désirent le plus : l’un l’autre.",
-      "pressScore": 3.3,
-      "pressReviews": 21,
+      "pressScore": 3.4,
+      "pressReviews": 23,
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:11Z"
+      "checkedAt": "2026-10-15T09:59:06Z"
     },
     "145083": {
       "allocineId": "145083",
@@ -4213,7 +4213,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:11Z"
+      "checkedAt": "2026-10-15T09:59:06Z"
     },
     "1000045582": {
       "allocineId": "1000045582",
@@ -4226,18 +4226,19 @@
       "genres": [],
       "director": "Arnaud Demuynck,",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Plongez dans un univers où la différence devient poésie à travers six récits touchants. De Rémi, le souriceau vivant la tête en bas, à Sacha et son parcours inclusif à l’école, de",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:12Z"
+      "checkedAt": "2026-10-15T09:59:10Z"
     },
     "299748": {
       "allocineId": "299748",
@@ -4258,7 +4259,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:12Z"
+      "checkedAt": "2026-10-15T09:59:07Z"
     },
     "1000039641": {
       "allocineId": "1000039641",
@@ -4280,9 +4281,9 @@
       "knownActors": [
         "Vincent Lindon"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:13Z"
+      "checkedAt": "2026-10-15T09:59:07Z"
     },
     "313150": {
       "allocineId": "313150",
@@ -4303,7 +4304,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:11Z"
+      "checkedAt": "2026-10-15T09:59:06Z"
     },
     "302738": {
       "allocineId": "302738",
@@ -4326,9 +4327,9 @@
         "Vincent Lindon",
         "Tahar Rahim"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:14Z"
+      "checkedAt": "2026-10-15T09:59:10Z"
     },
     "1000049428": {
       "allocineId": "1000049428",
@@ -4370,7 +4371,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:13Z"
+      "checkedAt": "2026-10-15T09:59:07Z"
     },
     "1000050836": {
       "allocineId": "1000050836",
@@ -4391,7 +4392,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:15Z"
+      "checkedAt": "2026-10-15T09:59:11Z"
     },
     "15225": {
       "allocineId": "15225",
@@ -4454,11 +4455,11 @@
       ],
       "synopsis": "Un couple (Hiro, 53 ans, et sa femme Sono, 42 ans) tient un restaurant d'okonomiyaki et recrute des jeunes sortant de centres de détention pour les aider à réintégrer la société. Y",
       "pressScore": 2.8,
-      "pressReviews": 5,
+      "pressReviews": 6,
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-08T12:04:16Z"
+      "checkedAt": "2026-10-15T09:59:13Z"
     },
     "1000051533": {
       "allocineId": "1000051533",
@@ -4479,9 +4480,9 @@
       "knownActors": [
         "Omar Sy"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:04:18Z"
+      "checkedAt": "2026-10-15T09:59:12Z"
     },
     "1000012178": {
       "allocineId": "1000012178",
@@ -4494,19 +4495,19 @@
       "genres": [],
       "director": "Zhiqi Pan",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "À Shibati, ancien quartier populaire de Chongqing aujourd’hui encerclé par les centres d’affaires et les immeubles modernes, Madame Hu gagne sa vie en tenant une modeste auberge et",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:19Z"
+      "checkedAt": "2026-10-15T09:59:14Z"
     },
     "1000048424": {
       "allocineId": "1000048424",
@@ -4527,7 +4528,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:20Z"
+      "checkedAt": "2026-10-15T09:59:16Z"
     },
     "272376": {
       "allocineId": "272376",
@@ -4548,7 +4549,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:20Z"
+      "checkedAt": "2026-10-15T09:59:17Z"
     },
     "1000003973": {
       "allocineId": "1000003973",
@@ -4582,19 +4583,19 @@
       "genres": [],
       "director": "Maxime-Claude L'Ecuyer",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Robert Roussil, figure incontournable de la sculpture québécoise, s’est distingué par des œuvres audacieuses et un engagement profond pour la liberté d’expression. Depuis son décès",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:21Z"
+      "checkedAt": "2026-10-15T09:59:19Z"
     },
     "1000038349": {
       "allocineId": "1000038349",
@@ -4615,7 +4616,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:17Z"
+      "checkedAt": "2026-10-15T09:59:14Z"
     },
     "296642": {
       "allocineId": "296642",
@@ -4630,7 +4631,7 @@
       "actors": [
         "Manon Bresch"
       ],
-      "synopsis": "Jo et Raissa, deux meilleures amies depuis la primaire, qui, après avoir obtenu le baccalauréat, sont sur le point de se lancer dans des choix de parcours différents. Alors qu’elle",
+      "synopsis": "Jo et Raissa, deux meilleures amies depuis la primaire, viennent d'obtenir le baccalauréat. Elles s’apprêtent désormais à s’engager dans des voies différentes. Tandis qu’elles fête",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
@@ -4638,7 +4639,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:05Z"
+      "checkedAt": "2026-10-15T09:58:40Z"
     },
     "1000039483": {
       "allocineId": "1000039483",
@@ -4656,10 +4657,12 @@
       "synopsis": "Dans une famille de croque-morts, deux sœurs et un frère se retrouvent pour les funérailles de leur mère. Le personnel étant en grève, ils doivent accomplir le protocole funéraire",
       "pressScore": null,
       "pressReviews": 0,
-      "knownActors": [],
+      "knownActors": [
+        "Louise Coldefy"
+      ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:06Z"
+      "checkedAt": "2026-10-15T09:58:52Z"
     },
     "269068": {
       "allocineId": "269068",
@@ -4682,7 +4685,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:06Z"
+      "checkedAt": "2026-10-15T09:58:54Z"
     },
     "316136": {
       "allocineId": "316136",
@@ -4726,7 +4729,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:07Z"
+      "checkedAt": "2026-10-15T09:58:39Z"
     },
     "1000052028": {
       "allocineId": "1000052028",
@@ -4747,7 +4750,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:30Z"
+      "checkedAt": "2026-10-15T09:59:29Z"
     },
     "321790": {
       "allocineId": "321790",
@@ -4763,12 +4766,12 @@
         "Gary Clichy"
       ],
       "synopsis": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père. Mais à l’école, à la maison, sur le tracteur, Christophe penche... et tombe. Il est obl",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 4.3,
+      "pressReviews": 38,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:54Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-10-15T09:58:55Z"
     },
     "314939": {
       "allocineId": "314939",
@@ -4784,14 +4787,14 @@
         "Noah Centineo"
       ],
       "synopsis": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tour",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.0,
+      "pressReviews": 3,
       "knownActors": [
         "Noah Centineo"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:55Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-15T09:58:57Z"
     },
     "318791": {
       "allocineId": "318791",
@@ -4807,14 +4810,14 @@
         "Austin Abrams"
       ],
       "synopsis": "Au large de la côte californienne, Jay Gardiner part à la recherche de la dépouille de son père récemment disparu. Alors qu’il sonde les fonds marins, le jeune plongeur se retrouve",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 2.6,
+      "pressReviews": 11,
       "knownActors": [
         "Austin Abrams"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:55Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-15T09:58:57Z"
     },
     "1000013643": {
       "allocineId": "1000013643",
@@ -4830,12 +4833,12 @@
         "Axel Auriant"
       ],
       "synopsis": "Mochy est un jeune chien au grand cœur… mais il n’a pas un physique facile… Ça ne l’empêche pas d’avoir un rêve : participer au concours du plus beau chien. Défiant tous les obstac",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.2,
+      "pressReviews": 15,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:56Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-10-15T09:58:55Z"
     },
     "1000047512": {
       "allocineId": "1000047512",
@@ -4850,13 +4853,13 @@
       "actors": [
         "Alicia Hava"
       ],
-      "synopsis": "Algérie, juin 1955. Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger. Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retr",
-      "pressScore": null,
-      "pressReviews": 0,
+      "synopsis": "Algérie, juin 1955.Khadidja quitte la Kabylie pour rejoindre son grand frère Malek à Alger.Suite à une altercation au marché, il se fait arrêter par la police et Khadidja se retrou",
+      "pressScore": 3.4,
+      "pressReviews": 10,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:57Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-10-15T09:58:58Z"
     },
     "1000012312": {
       "allocineId": "1000012312",
@@ -4872,14 +4875,14 @@
         "Monia Chokri"
       ],
       "synopsis": "Anna, 18 ans, demande l’aide médicale à mourir. Elle décide de se laisser quinze jours pour accomplir son souhait de revoir ses demi-sœurs avant de s’éteindre. Séparées par le proc",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 2.8,
+      "pressReviews": 12,
       "knownActors": [
         "Monia Chokri"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:57Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-15T09:58:59Z"
     },
     "1000019091": {
       "allocineId": "1000019091",
@@ -4895,12 +4898,12 @@
         "Marie Ulven"
       ],
       "synopsis": "Alors qu’elle est au sommet de sa carrière musicale, Maja vacille et voit ses ambitions s’interrompre brutalement. Elle se réfugie chez sa mère, enseignante à Oslo, qui lui décroch",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.2,
+      "pressReviews": 12,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:58Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-10-15T09:58:59Z"
     },
     "196666": {
       "allocineId": "196666",
@@ -4921,9 +4924,9 @@
       "knownActors": [
         "Jennifer Lawrence"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-08T12:03:58Z"
+      "checkedAt": "2026-10-15T09:58:58Z"
     },
     "1000028085": {
       "allocineId": "1000028085",
@@ -4936,18 +4939,19 @@
       "genres": [],
       "director": "Nicolas Wadimoff",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "Profondément émouvant et d’une force tranquille, ce film poignant traite de la perte au milieu de l'enfer et de la préservation de l’identité dans les moments sombres. Une carte de",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.5,
+      "pressReviews": 10,
       "knownActors": [
-        "Vincent Lindon"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:59Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-15T09:58:59Z"
     },
     "1000018264": {
       "allocineId": "1000018264",
@@ -4968,7 +4972,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:03:59Z"
+      "checkedAt": "2026-10-15T09:58:58Z"
     },
     "1000039457": {
       "allocineId": "1000039457",
@@ -4984,12 +4988,12 @@
         "Song Sunmi"
       ],
       "synopsis": "Suite à son récent divorce, une grande actrice coréenne retourne sur le devant de la scène douze ans après sa dernière apparition à l’écran. À l’occasion de la sortie du film, elle",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.8,
+      "pressReviews": 14,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:01Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-10-15T09:59:00Z"
     },
     "1000048944": {
       "allocineId": "1000048944",
@@ -5002,18 +5006,19 @@
       "genres": [],
       "director": "Boris Claret,",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
       "synopsis": "France 2026 : vivre sans emploi, ça peut arriver, mais sans aucun revenu… comment dire ? Votée en décembre 2023, la loi Plein emploi conditionne l'allocation du RSA au fait d'exerc",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 2.5,
+      "pressReviews": 6,
       "knownActors": [
-        "Vincent Lindon"
+        "Louise Coldefy",
+        "Julia Piaton"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:01Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-15T09:59:00Z"
     },
     "1000035013": {
       "allocineId": "1000035013",
@@ -5026,7 +5031,7 @@
       "genres": [],
       "director": "Toon Wang",
       "actors": [
-        "Chen Bor Jeng"
+        "Rui-zhe Zhang"
       ],
       "synopsis": "Deux jeunes hommes découvrent que les portes d’un temple local sont des antiquités précieuses. Séduits par la tentation de l’argent facile, ils commettent un vol audacieux. Mais la",
       "pressScore": null,
@@ -5034,7 +5039,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:02Z"
+      "checkedAt": "2026-10-15T09:59:02Z"
     },
     "1000036827": {
       "allocineId": "1000036827",
@@ -5050,12 +5055,12 @@
         "Alexandre Triaca"
       ],
       "synopsis": "Paul élève seul sa fille Agathe dans un village soudé autour de sa paroisse. Lorsqu’un prêtre annonce l’arrivée de migrants africains, la communauté se divise. Paul et Agathe souti",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 2.6,
+      "pressReviews": 5,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:02Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-10-15T09:59:03Z"
     },
     "1000051724": {
       "allocineId": "1000051724",
@@ -5076,7 +5081,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:03Z"
+      "checkedAt": "2026-10-15T09:59:01Z"
     },
     "1000043020": {
       "allocineId": "1000043020",
@@ -5097,7 +5102,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:03Z"
+      "checkedAt": "2026-10-15T09:59:01Z"
     },
     "1000020311": {
       "allocineId": "1000020311",
@@ -5118,7 +5123,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:04Z"
+      "checkedAt": "2026-10-15T09:58:53Z"
     },
     "304756": {
       "allocineId": "304756",
@@ -5141,7 +5146,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:05Z"
+      "checkedAt": "2026-10-15T09:58:54Z"
     },
     "1000017474": {
       "allocineId": "1000017474",
@@ -5152,27 +5157,502 @@
       "year": 2026,
       "duration": null,
       "genres": [],
-      "director": "Xiangyi Jin",
+      "director": "Jin Xiangyi",
       "actors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Chen Yadi"
       ],
       "synopsis": "Après plusieurs années passées en France, Wan Ye, photographe, revient à Wenzhou, sa ville dʼorigine. Entre retrouvailles, mémoire familiale et désir de départ, le film explore ce",
       "pressScore": null,
       "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:59:43Z"
+    },
+    "1000016901": {
+      "allocineId": "1000016901",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016901.html",
+      "title": "Clayface",
+      "originalTitle": null,
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "James Watkins",
+      "actors": [
+        "Tom Rhys Harries"
+      ],
+      "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandon",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:38Z"
+    },
+    "322884": {
+      "allocineId": "322884",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=322884.html",
+      "title": "Wicker",
+      "originalTitle": null,
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Alex Huston Fischer,",
+      "actors": [
+        "Olivia Colman"
+      ],
+      "synopsis": "Mise au ban de son village, une pêcheuse solitaire commande au vannier local un mari en osier. Cet époux improbable se révèle doté d’une sensibilité et de talents qui dépassent tou",
+      "pressScore": null,
+      "pressReviews": 0,
       "knownActors": [
-        "Vincent Lindon",
-        "Tahar Rahim"
+        "Olivia Colman"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-08T12:04:46Z"
+      "checkedAt": "2026-10-15T09:58:39Z"
+    },
+    "1000024131": {
+      "allocineId": "1000024131",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024131.html",
+      "title": "Shaun le Mouton : La Bêêête d'Halloween",
+      "originalTitle": "Shaun The Sheep: The Beast Of Mossy Bottom",
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Steve Cox,",
+      "actors": [
+        "Justin Fletcher"
+      ],
+      "synopsis": "A Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque S",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:40Z"
+    },
+    "1000026725": {
+      "allocineId": "1000026725",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026725.html",
+      "title": "Une femme aujourd’hui",
+      "originalTitle": null,
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Robert Guédiguian",
+      "actors": [
+        "Marilou Aussilloux"
+      ],
+      "synopsis": "Juliette, 30 ans, semble avoir tout pour elle : un poste prestigieux dans la finance, une belle maison, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est ag",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:41Z"
+    },
+    "318225": {
+      "allocineId": "318225",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318225.html",
+      "title": "La Gradiva",
+      "originalTitle": null,
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Marine Atlan",
+      "actors": [
+        "Antonia Buresi"
+      ],
+      "synopsis": "Un groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalem",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:42Z"
+    },
+    "1000043220": {
+      "allocineId": "1000043220",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043220.html",
+      "title": "Marie Madeleine",
+      "originalTitle": null,
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Gessica Généus",
+      "actors": [
+        "Gessica Généus"
+      ],
+      "synopsis": "À Jacmel, en Haïti, la mer, les églises et les esprits façonnent la vie. Marie Madeleine est une femme libre. Elle vit de la prostitution et traverse les nuits sans se soumettre au",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:42Z"
+    },
+    "315883": {
+      "allocineId": "315883",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=315883.html",
+      "title": "Klara et le soleil",
+      "originalTitle": "Klara and the Sun",
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Taika Waititi",
+      "actors": [
+        "Jenna Ortega"
+      ],
+      "synopsis": "Lorsque Klara rencontre Josie, chacune perçoit immédiatement chez l'autre une âme soeur. Josie entretient une relation compliquée avec sa mère et toutes deux ont traversé de lourde",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Jenna Ortega"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:43Z"
+    },
+    "1000051245": {
+      "allocineId": "1000051245",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051245.html",
+      "title": "Mylène Farmer – Égrégore – L’avant-première",
+      "originalTitle": null,
+      "releaseDate": "2026-10-27",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "François Hanss",
+      "actors": [
+        "Louise Coldefy",
+        "Julia Piaton"
+      ],
+      "synopsis": "Soyez les premiers à vous immerger dans le nouvel album événement de Mylène Farmer, mis en images.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:44Z"
+    },
+    "200088": {
+      "allocineId": "200088",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=200088.html",
+      "title": "Hunger Games - La Révolte : Partie 1",
+      "originalTitle": "The Hunger Games - Mockingjay: Part 1",
+      "releaseDate": "2014-11-19",
+      "year": 2014,
+      "duration": null,
+      "genres": [],
+      "director": "Francis Lawrence",
+      "actors": [
+        "Jennifer Lawrence"
+      ],
+      "synopsis": "Katniss Everdeen s’est réfugiée dans le District 13 après avoir détruit à jamais l’arène et les Jeux. Sous le commandement de la Présidente Coin, chef du district, et suivant les c",
+      "pressScore": 3.0,
+      "pressReviews": 24,
+      "knownActors": [
+        "Jennifer Lawrence"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-15T09:58:45Z"
+    },
+    "12587": {
+      "allocineId": "12587",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=12587.html",
+      "title": "Safe",
+      "originalTitle": null,
+      "releaseDate": "1996-04-17",
+      "year": 1996,
+      "duration": null,
+      "genres": [],
+      "director": "Todd Haynes",
+      "actors": [
+        "Julianne Moore"
+      ],
+      "synopsis": "Carol White, une femme au foyer aisée et passive, partage son temps entre les séances d'aérobic, la cuisine et les achats pour sa maison. Son univers douillet bascule lorsqu'elle d",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Julianne Moore"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:46Z"
+    },
+    "13069": {
+      "allocineId": "13069",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=13069.html",
+      "title": "Peking Opera Blues",
+      "originalTitle": "Do ma daan",
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Tsui Hark",
+      "actors": [
+        "Mark Cheng"
+      ],
+      "synopsis": "Peu de temps après l’instauration de la République de Chine, le pays est soumis à un contrôle militaire, et disputé par différents groupes. Tsao Wan est la fille d’un seigneur de g",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:46Z"
+    },
+    "7234": {
+      "allocineId": "7234",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=7234.html",
+      "title": "Poison",
+      "originalTitle": null,
+      "releaseDate": "1991-11-27",
+      "year": 1991,
+      "duration": null,
+      "genres": [],
+      "director": "Todd Haynes",
+      "actors": [
+        "Millie White"
+      ],
+      "synopsis": "Un essai en forme d'hommage à Jean Genet, contant en trois volets, trois petites histoires sur la déviance sous toutes ses formes : \"Héros\", ou comment un garçon de 7 ans en arrive",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:47Z"
+    },
+    "1000026766": {
+      "allocineId": "1000026766",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026766.html",
+      "title": "Les Recommencements",
+      "originalTitle": null,
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Isabelle Ingold,",
+      "actors": [
+        "Louise Coldefy",
+        "Julia Piaton"
+      ],
+      "synopsis": "Vétéran de la guerre du Vietnam, Al Moon vit en solitaire sur les terres de sa tribu, en Californie du Nord. À mesure que la violence et les destructions écologiques s’abattent sur",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:47Z"
+    },
+    "1000048555": {
+      "allocineId": "1000048555",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048555.html",
+      "title": "BTS World Tour 'ARIRANG' In Buenos Aires : Live viewing",
+      "originalTitle": "BTS World Tour 'ARIRANG' In Buenos Aires: Live",
+      "releaseDate": "2026-10-25",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jungjae Ha",
+      "actors": [],
+      "synopsis": "BTS World Tour 'ARIRANG' In Buenos Aires : Diffusion en direct.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:48Z"
+    },
+    "5847": {
+      "allocineId": "5847",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=5847.html",
+      "title": "Octobre à Paris",
+      "originalTitle": null,
+      "releaseDate": null,
+      "year": null,
+      "duration": null,
+      "genres": [],
+      "director": "Jacques Panijel",
+      "actors": [
+        "Louise Coldefy",
+        "Julia Piaton"
+      ],
+      "synopsis": "Documentaire retraçant la préparation, l'organisation et les conséquence de la manifestation parisienne du 17 octobre 1961, visant à protester contre le couvre-feu imposé aux Algér",
+      "pressScore": 3.8,
+      "pressReviews": 11,
+      "knownActors": [],
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-10-15T09:58:48Z"
+    },
+    "1000042833": {
+      "allocineId": "1000042833",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042833.html",
+      "title": "Violence du corps de l’autre",
+      "originalTitle": null,
+      "releaseDate": "2026-10-23",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Denis Côté",
+      "actors": [
+        "Larissa Corriveau"
+      ],
+      "synopsis": "Mira part à la rencontre de gens désespérés avec qui elle semble avoir noué d’étranges pactes de mort. Sans port d’attache, elle s’arrête chez Madeleine et Ludo, deux esprits libre",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:49Z"
+    },
+    "37179": {
+      "allocineId": "37179",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=37179.html",
+      "title": "Nadja",
+      "originalTitle": null,
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Michael Almereyda",
+      "actors": [
+        "Elina Löwensohn"
+      ],
+      "synopsis": "Après la mort de son père, le comte Dracula, Nadja, jeune vampire désenchantée, erre à travers New York, espérant que cette disparition la libérera enfin du poids d’une existence é",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:49Z"
+    },
+    "1000045315": {
+      "allocineId": "1000045315",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045315.html",
+      "title": "L’Histoire de Manon (The Royal Ballet)",
+      "originalTitle": "Royal Ballet and Opera: Manon",
+      "releaseDate": "2026-10-27",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Kenneth MacMillan",
+      "actors": [
+        "William Bracewell"
+      ],
+      "synopsis": "Dans les bas-fonds du Paris du 18e siècle, l’argent est roi. Rien n’est sacré, et même l’amour peut s’acheter si on y met le prix. Enfant de ce milieu hédoniste et interlope, Manon est tiraillée entre deux désirs contradictoires quand elle tombe amoureuse de l’étudiant Des Grieux. Loyal et dévoué, il lui ouvre la possibilité d’une vie honorable. Mais elle demeure tentée par les richesses que lui promet la vie parisienne… Le tourment intérieur de Manon et sa lutte pour survivre sont au cœur de cette adaptation poignante du roman de l’Abbé Prévost, réalisée par Kenneth MacMillan en 1974. Dans cette œuvre emblématique du Royal Ballet, MacMillan, dans une analyse tout en nuances de la psyché humaine, offre un regard sans détour sur la dépravation morale du Paris de Manon, tandis que la partition de Jules Massenet et les décors de Nicholas Georgiadis illustrent à merveille toute sa décadence et son déclin.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:50Z"
+    },
+    "1000036109": {
+      "allocineId": "1000036109",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036109.html",
+      "title": "Le Printemps vint en riant",
+      "originalTitle": "Dakhal Al Rabie Yadhak",
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Noha Adel",
+      "actors": [
+        "Sally Abdou"
+      ],
+      "synopsis": "JUINAu crépuscule du printemps, Salwa et sa fille Reem invitent leur voisin âgé Mokhtar et son fils Shady à un délicat brunch sur leur balcon, en guise de gratitude pour avoir retr",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:51Z"
+    },
+    "1000018229": {
+      "allocineId": "1000018229",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018229.html",
+      "title": "Untitled Event Animation Studiocanal Movie",
+      "originalTitle": null,
+      "releaseDate": "2026-10-21",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Albert Dupontel",
+      "actors": [
+        "Louise Coldefy",
+        "Julia Piaton"
+      ],
+      "synopsis": "",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Louise Coldefy",
+        "Julia Piaton"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:52Z"
+    },
+    "1000004528": {
+      "allocineId": "1000004528",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html",
+      "title": "Hunger Games : Lever de soleil sur la moisson",
+      "originalTitle": "The Hunger Games: Sunrise On The Reaping",
+      "releaseDate": "2026-11-18",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Francis Lawrence",
+      "actors": [
+        "Joseph Zada"
+      ],
+      "synopsis": "Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront ti",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:58:53Z"
+    },
+    "1000049002": {
+      "allocineId": "1000049002",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049002.html",
+      "title": "La meilleure façon, c'est par accident",
+      "originalTitle": null,
+      "releaseDate": "2026-09-18",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Noémie D. Leclerc",
+      "actors": [
+        "Louise Coldefy",
+        "Julia Piaton"
+      ],
+      "synopsis": "Après la mort de son père adoptif, une jeune cinéaste replonge dans ses archives vidéo pour finalement réaliser qu’elle ne l’a jamais filmé – sauf une fois, par accident. Maintenan",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Louise Coldefy",
+        "Julia Piaton"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-15T09:59:52Z"
     }
   },
-  "updatedAt": "2026-10-08T12:05:14Z",
-  "checkedThisRun": 131,
-  "addedThisRun": 8,
-  "pendingThisRun": 66,
+  "updatedAt": "2026-10-15T10:00:05Z",
+  "checkedThisRun": 128,
+  "addedThisRun": 11,
+  "pendingThisRun": 67,
   "rejectedThisRun": 31,
   "failuresThisRun": 0,
   "criteria": {
