@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "catalog": "promo-discovery",
-  "cursor": 4,
-  "checkedThisRun": 1,
+  "cursor": 0,
+  "checkedThisRun": 0,
   "addedThisRun": 0,
   "failuresThisRun": 0,
   "queriesThisRun": [
-    "service cashback",
-    "cashback website"
+    "site de codes promotionnels",
+    "coupon website"
   ],
-  "updatedAt": "2026-10-09T11:31:47Z"
+  "updatedAt": "2026-10-16T09:20:41Z"
 }
