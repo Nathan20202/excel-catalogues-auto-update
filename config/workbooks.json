@@ -896,7 +896,7 @@
           "sheet": "06 - Mobiles & wearables",
           "table": "TechMobileWearables",
           "file": "data/tech/mobiles-wearables.json",
-          "recordCount": 55,
+          "recordCount": 56,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1046,7 +1046,7 @@
           "sheet": "12 - Maison connectée",
           "table": "TechSmartHome",
           "file": "data/tech/maison-connectee.json",
-          "recordCount": 34,
+          "recordCount": 36,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1146,7 +1146,7 @@
           "sheet": "16 - Sources & méthode",
           "table": "TechSourceRegister",
           "file": "data/tech/sources.json",
-          "recordCount": 381,
+          "recordCount": 384,
           "idColumn": "ID",
           "preserveColumns": [],
           "formulaColumns": [],
