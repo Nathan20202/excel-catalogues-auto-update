@@ -896,7 +896,7 @@
           "sheet": "06 - Mobiles & wearables",
           "table": "TechMobileWearables",
           "file": "data/tech/mobiles-wearables.json",
-          "recordCount": 56,
+          "recordCount": 59,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1146,7 +1146,7 @@
           "sheet": "16 - Sources & méthode",
           "table": "TechSourceRegister",
           "file": "data/tech/sources.json",
-          "recordCount": 384,
+          "recordCount": 387,
           "idColumn": "ID",
           "preserveColumns": [],
           "formulaColumns": [],

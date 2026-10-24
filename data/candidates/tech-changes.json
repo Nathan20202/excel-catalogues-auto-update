@@ -1,9 +1,1497 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T08:40:05Z",
+  "updatedAt": "2026-10-24T08:57:52Z",
   "catalog": "tech",
   "count": 250,
   "records": [
+    {
+      "id": "PC-CREATEUR-09",
+      "url": "https://www.fractal-design.com/products/cases/define/define-7-xl/",
+      "detectedAt": "2026-10-24T08:57:18Z",
+      "oldHash": "e553511ed8dc92faa33484568468298261e640d70a8c005393d47fca125f172f",
+      "newHash": "be6b9d5ea4c4d2cfa635a47048f5ae81df40447fa4e25d3648b0c699d4488de3",
+      "title": "Define 7 XL Black - Light TG | Fractal Design"
+    },
+    {
+      "id": "PC-POLYVALENT-05",
+      "url": "https://www.samsung.com/fr/memory-storage/nvme-ssd/990-pro-2tb-nvme-pcie-gen-4-mz-v9p2t0bw/",
+      "detectedAt": "2026-10-24T08:57:18Z",
+      "oldHash": "5f694fc59330328caa2deb82e3b2ce998318375e651047f8042bcbf6a782e1f4",
+      "newHash": "37d684e4e97606d56453c154a9ec6d5fe078fbc40b9e1b2897a31873219cd2f1",
+      "title": "SSD 990 PRO NVMe M.2 PCIe 4.0 - 2 To (MZ-V9P2T0BW) | Samsung FR"
+    },
+    {
+      "id": "PC-COMPACT-03",
+      "url": "https://rog.asus.com/fr/motherboards/rog-strix/rog-strix-b850-i-gaming-wifi/",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "ddb55babeefedf74cf30ea1833242265cabc12635e52488baf466b76b60a7f64",
+      "newHash": "1a3ee367b4b6da546f6a8f21c0575ff01ce6088f3b1c4a997bb8ff88a7576cf0",
+      "title": "ROG STRIX B850-I GAMING WIFI | ROG Strix | Gaming Cartes mères｜ROG - Republic of Gamers｜ROG France"
+    },
+    {
+      "id": "PC-COMPACT-04",
+      "url": "https://www.gskill.com/",
+      "detectedAt": "2026-10-24T08:57:18Z",
+      "oldHash": "8118026728090a312236ab4a9fc50866342967f53fabfa3a9f0b01cd25e236fd",
+      "newHash": "a0a04d9ec61766952e798bd8f2cb96d75443db44b75c3c698263c4c4509549cf",
+      "title": ""
+    },
+    {
+      "id": "PC-COMPACT-08",
+      "url": "https://www.fractal-design.com/products/cases/terra/",
+      "detectedAt": "2026-10-24T08:57:18Z",
+      "oldHash": "d31d47fd40b5c7e312ce5790bc5778929d9dd5d577269ff2008555a7cd01a613",
+      "newHash": "56a2d43f97093564f5455df9ce5130b8955c48ed3c7714cb5b0f7e34ffcb8ac7",
+      "title": "Cases | Fractal Design"
+    },
+    {
+      "id": "TECH-PC-PROCESSEUR-POLYVALENT-BEST",
+      "url": "https://newsroom.intel.com/client-computing/intel-announces-new-intel-core-ultra-200s-plus-series-desktop-processors",
+      "detectedAt": "2026-10-24T08:57:20Z",
+      "oldHash": "1d2579b8a54871b4193153ca5aa6b56eb308c372f7071886a44ec7b04cdc6bcf",
+      "newHash": "7a2782f77d33b01cb67810251be4cd6e4534d6741ac6f6fa65fe9804354da0eb",
+      "title": "Intel Announces New Intel Core Ultra 200S Plus Series Desktop..."
+    },
+    {
+      "id": "TECH-PC-CARTE-MERE-AM5-Q-P-BEST",
+      "url": "https://www.asus.com/fr/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x870e-plus-wifi7/",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "a81a2c0c66fc0441473d7c9ff541a49880d7035b365cc4221d22c200f21a9e5e",
+      "newHash": "54c93a7e872d70f22e1a106b192835bca0f516538b84e06821a928e97601ca7f",
+      "title": "TUF GAMING X870E-PLUS WIFI7｜Cartes mères｜ASUS France"
+    },
+    {
+      "id": "TECH-PC-MEMOIRE-GAMING-VALUE",
+      "url": "https://www.crucial.fr/memory/ddr5/cp2k16g60c36u5b",
+      "detectedAt": "2026-10-24T08:57:18Z",
+      "oldHash": "0001f50630c9a9832376d7f768942b11789db5aec8bcf3c70ef592efef3f7988",
+      "newHash": "78f3467efc2b8df1fcf1a5f73a2ab969f0572b90eb2439ead413edbc39e02e18",
+      "title": "Request Rejected"
+    },
+    {
+      "id": "TECH-PC-ALIMENTATION-Q-P-BEST",
+      "url": "https://seasonic.com/vertex-gx/",
+      "detectedAt": "2026-10-24T08:57:20Z",
+      "oldHash": "677a24de508c03ba3bf59423f2585e888b6be9388b410cd37b76d6a9f959a5f2",
+      "newHash": "c8001734984ea045b92152f415b8592d139128e6d33c5a68f88655c2a824d4f1",
+      "title": "VERTEX GX ATX 3.1 - Seasonic High Quality Power Supplies"
+    },
+    {
+      "id": "TECH-PC-REFROIDISSEMENT-LIQUIDE-VALUE",
+      "url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-360/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "f45f6c1d99fcba8b7805de384056e2f5ff1c6aa9c3c1ecb59a2c0518f20989a5",
+      "newHash": "75f3a3552faf9a10cf2804da5dace63f6b5479fbd0d432190b2d14a77c5b87a2",
+      "title": "Liquid Freezer III Pro 360 A-RGB | Multi Compatible All-in-One CPU Water Cooler with A-RGB | ARCTIC"
+    },
+    {
+      "id": "TECH-PC-BOITIER-PREMIUM-VALUE",
+      "url": "https://lian-li.com/product/lancool-217/",
+      "detectedAt": "2026-10-24T08:57:23Z",
+      "oldHash": "0e631e909696e881513c2d782ba1e90082fa62c2d66e50610631d1bacc8e8061",
+      "newHash": "6e043086bb298cd35f9bb00cd127c2bbe2d36e2e56b80b6e7d540bfa544ea399",
+      "title": "LANCOOL 217 - LIAN LI is a Leading Provider of PC Cases | Computer Cases"
+    },
+    {
+      "id": "TECH-PC-BOITIER-Q-P-BEST",
+      "url": "https://lian-li.com/product/lancool-207-digital/",
+      "detectedAt": "2026-10-24T08:57:23Z",
+      "oldHash": "cf796ac55dd70a2afaf77fd7118664e7ccdb1d1eeb8e43cbeb3d7daf5f57b28a",
+      "newHash": "0308de56801a3dbaf335b37cf30d1dfd8903a083bcc95c32d85e2c587227e26a",
+      "title": "LANCOOL 207 DIGITAL - LIAN LI is a Leading Provider of PC Cases | Computer Cases"
+    },
+    {
+      "id": "TECH-PC-PATE-THERMIQUE-BEST",
+      "url": "https://www.thermal-grizzly.com/en/kryonaut-extreme/s-tg-ke",
+      "detectedAt": "2026-10-24T08:57:20Z",
+      "oldHash": "b840018bb75c3b2c9df501915e8bc0b00e929d26a053fbb6bcd66a678a3fef1c",
+      "newHash": "5192d284075c02f35c838cb502c2d4a434c5d83db741ec90ea0e6cb9981f635a",
+      "title": "Thermal Grizzly Kryonaut Extreme Thermal Paste"
+    },
+    {
+      "id": "TECH-PC-PATE-THERMIQUE-VALUE",
+      "url": "https://www.arctic.de/en/MX-6/",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "646081aae3429a46a4060c4a76c4a7db62753f26a9e882001de5e246afe4afe7",
+      "newHash": "d5dbd1f6f4c175fad11f79aa90002488cd84fc44dfcb73b232548f5b661317a3",
+      "title": "MX-6 | ULTIMATE Performance Thermal Paste | ACTCP00079A | ARCTIC"
+    },
+    {
+      "id": "TECH-PC-CARTE-SON-DAC-BEST",
+      "url": "https://rme-audio.de/adi-2-dac.html",
+      "detectedAt": "2026-10-24T08:57:20Z",
+      "oldHash": "3c6e422bdae4e0819fb29a83b4e75eb3b3836a42be57cfe4df49e76594fe4444",
+      "newHash": "2ab469454c904af2d871b0ae8d3349549bcd10310c8bbb04384feea2eef6a950",
+      "title": "ADI-2-DAC FS - RME Audio Interfaces | Format Converters | Preamps | Network Audio & MADI Solutions"
+    },
+    {
+      "id": "TECH-PC-CARTE-SON-DAC-VALUE",
+      "url": "https://www.fiio.com/k7",
+      "detectedAt": "2026-10-24T08:57:20Z",
+      "oldHash": "6ecae85b3f66e791aded6315b381bca549692619df5bfb3307ad51a61e355ff6",
+      "newHash": "c06a22329dd1d7937253ca55c7e519aa511745fc2f9aaac38dd58a6757c2f2d7",
+      "title": "Desktop DAC and Amplifier K7/K7 BT"
+    },
+    {
+      "id": "TECH-PC-CARTE-DE-CAPTURE-BEST",
+      "url": "https://www.elgato.com/fr/fr/p/game-capture-4k-pro",
+      "detectedAt": "2026-10-24T08:57:19Z",
+      "oldHash": "3d131c8f370b815b196e99b4d3f739adbf586ad1f7675f8432acab4c77432c4f",
+      "newHash": "4cf963e295f83d15e2ec16134213b4c21e72a24750eba4afa45100c7f78e4005",
+      "title": "Game Capture 4K Pro | Elgato"
+    },
+    {
+      "id": "TECH-PC-CARTE-DE-CAPTURE-VALUE",
+      "url": "https://www.elgato.com/fr/fr/p/game-capture-4k-x",
+      "detectedAt": "2026-10-24T08:57:20Z",
+      "oldHash": "4949889532c944cb5df8f5463f01a5346bfe447cb650d16f0d387939c8e06daa",
+      "newHash": "0c06b3e6078ba254b67730032d50ff57593c7910cbbdc877ebfac8838248a04a",
+      "title": "Game Capture 4K X | Elgato"
+    },
+    {
+      "id": "TECH-PC-CARTE-RESEAU-BEST",
+      "url": "https://www.asus.com/fr/networking-iot-servers/wired-networking/all-series/xg-c100c-v2/",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "369b858755f55662b4188844c2dd5bfba21213d6e5c34be78c6b55f47c73fd97",
+      "newHash": "24144dbb91567a6e51a91d8a305f47afed5c680bf2baa54ea4a814c240ab743c",
+      "title": "ASUS France"
+    },
+    {
+      "id": "TECH-PC-LECTEUR-OPTIQUE-ARCHIVAGE-BEST",
+      "url": "https://pioneer-blurayodd.eu/products/bdr-x13u-s/index.php",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "c136afa192ee134a9ed941a86cda5201478d308db1176af4fb669c42f42750a6",
+      "newHash": "5929c45f857f940098db70d464765de2cd1d1529a45722539f664487d1a74c64",
+      "title": "お知らせ ： パイオニア株式会社"
+    },
+    {
+      "id": "TECH-PC-LECTEUR-OPTIQUE-ARCHIVAGE-VALUE",
+      "url": "https://www.asus.com/fr/motherboards-components/optical-drives/external-blu-ray-drive/bw16d1hu-pro/",
+      "detectedAt": "2026-10-24T08:57:22Z",
+      "oldHash": "777a8949003dfad64f4f9e836f36055a44fba1e51f3d35e0be5c216a0bff03d1",
+      "newHash": "38f2b2d987ed749d844715345f3e27345d470a031c92857e0a9f895462088688",
+      "title": "External Blu-ray Drive｜Lecteurs optiques et graveurs｜ASUS France"
+    },
+    {
+      "id": "TECH-PC-CONTROLEUR-HUB-INTERNE-BEST",
+      "url": "https://www.corsair.com/fr/fr/s/icue-link",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "80195e237a74f21a20162c9d0beddfd302a441e76f077f328c5b6e4129ad7013",
+      "newHash": "1ca00c0306fb44ebb5fbb79dfa681f04b4eefb35d23d657bd56fcfaab49116f9",
+      "title": "CORSAIR iCUE LINK Smart Component Technology"
+    },
+    {
+      "id": "TECH-PC-CONTROLEUR-HUB-INTERNE-VALUE",
+      "url": "https://nzxt.com/product/internal-usb-hub-gen-3",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "2a2e1fb0d94fa0db658ab626a683a9e148ee10268dfeddaf707c6e92b999fb6e",
+      "newHash": "236d1c563eaa26f3deab75fab5ca214644a694f11c5fd8466ee1f4e94abd8081",
+      "title": "NZXT | Internal USB Hub | 4-Port USB 2.0 Expansion"
+    },
+    {
+      "id": "TECH-AUTO-F3468EA93AA3",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
+      "detectedAt": "2026-10-24T08:57:20Z",
+      "oldHash": "ae7e48955bc20c1a6b48e9dfa6010ee484f64c2a9d9dc85c2fc58feabf04d5c0",
+      "newHash": "f6afe935763e3abe1021c859b83afb6acc91a8a52d83ad2701163d55b6bd2249",
+      "title": "GFN Thursday: ‘WARDOGS’ on GeForce NOW | NVIDIA Blog"
+    },
+    {
+      "id": "TECH-AUTO-838B591AEB10",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "d39647fdfdb63c485119115d90209ab41e9c17bdf4214bc0699ab272c4817884",
+      "newHash": "e97acc8cfb5078ddcfadda6c6e69987f4f393c50c282e90cf55d8a7460f9945f",
+      "title": "GFN Thursday: DLSS 5 and September Games | NVIDIA Blog"
+    },
+    {
+      "id": "TECH-AUTO-04812389539E",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "ae96c6a1d885d2a301194a5e5efa469aade0d3c6fde83eb1e5a79c7ebcb1d940",
+      "newHash": "76c8f9b43bd7e86bb1fbc9f4898b202773a73387d17a63c301788625e389158d",
+      "title": "GFN Thursday: ‘Aniimo’ on GeForce NOW | NVIDIA Blog"
+    },
+    {
+      "id": "TECH-AUTO-7A97EF45EF5F",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "d9cb2128070180d2d6aadb8f51f5bf0581b56528a19ad77290ce913c737ac788",
+      "newHash": "548bd9f70b0a1a406ac9161ad55d244bde6027645ac6941e84a7ed36ac7a2c1d",
+      "title": "GFN Thursday: 'CONTROL Resonant' | NVIDIA Blog"
+    },
+    {
+      "id": "TECH-AUTO-77852FB24237",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "bbbc72e4931ca321f5284f933a9177fd96d39b323aa32b5b0058e5763944590b",
+      "newHash": "f26baa4e59ab0021afbf05862218bf07d664d9d3f33eb220d08ee6277fbb7f60",
+      "title": "GFN Thursday: GeForce NOW October Games | NVIDIA Blog"
+    },
+    {
+      "id": "TECH-AUTO-22621A26CA48",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+      "detectedAt": "2026-10-24T08:57:21Z",
+      "oldHash": "697dbc11b0e871e1eb34582c7e313133ce2a26779c5d10d4782e5c5bf99ddf44",
+      "newHash": "568ce6d297e0aeb8a6c93b27e2a79d389c1ff2327153f4532d410abb47556f88",
+      "title": "GFN Thursday: 'Gears of War: E-Day' GeForce NOW | NVIDIA Blog"
+    },
+    {
+      "id": "TECH-COMPUTERS-ULTRAPORTABLE-WINDOWS-VALUE",
+      "url": "https://www.asus.com/fr/blog/first-look-new-asus-laptops-at-ces-2026/",
+      "detectedAt": "2026-10-24T08:57:22Z",
+      "oldHash": "dadcdb8006e98a8de595f1059e7078c686a2765267986ffda143eda7930ed8e8",
+      "newHash": "2b2f2bde033ddd799b2433ae5f7eb46eed0b1d5a832415e152bc5cc42d8fc90e",
+      "title": "Nouveaux PC ASUS au CES 2026 : aperçu complet｜ASUS France"
+    },
+    {
+      "id": "TECH-COMPUTERS-ULTRAPORTABLE-MAC-BEST",
+      "url": "https://www.apple.com/fr/mac/",
+      "detectedAt": "2026-10-24T08:57:22Z",
+      "oldHash": "117e5fe1aa6df1659e6f63e1578c70df6271992cf5bb3de410d375d0cdb36a70",
+      "newHash": "c6d04a6729a28b04badd66c4484243931014847b07b352481f8a74c8c492c716",
+      "title": "Mac - Apple (FR)"
+    },
+    {
+      "id": "TECH-COMPUTERS-PORTABLE-PREMIUM-VALUE",
+      "url": "https://www.lenovo.com/fr/fr/yoga/",
+      "detectedAt": "2026-10-24T08:57:22Z",
+      "oldHash": "ec58c7cc8cb183497979abbc72e91e95e53f5ed31849bd5f6193cdb49265acd9",
+      "newHash": "b52a0b3444cd378b24a07a334b21925fa5be6c3858fbaf0c1d5d0f9a8da3648a",
+      "title": "Ordinateurs portables Yoga, 2-en-1 et PC tout-en-un | Lenovo France"
+    },
+    {
+      "id": "TECH-COMPUTERS-PORTABLE-GAMING-ULTIME-VALUE",
+      "url": "https://www.lenovo.com/fr/fr/legion/",
+      "detectedAt": "2026-10-24T08:57:22Z",
+      "oldHash": "48cfc2d08e5b2bcafa14e9923104d73d525ea6a6e6d046527abd6807b50938c0",
+      "newHash": "89d3535489554e36ab6748471404749ae837b8032d31682e7cbf34520a7de94f",
+      "title": "Lenovo Legion : PC Gaming Haute Performance | Lenovo France"
+    },
+    {
+      "id": "TECH-COMPUTERS-PORTABLE-GAMING-FIN-VALUE",
+      "url": "https://www.asus.com/fr/laptops/for-gaming/tuf-gaming/",
+      "detectedAt": "2026-10-24T08:57:22Z",
+      "oldHash": "456af565fd508fabbc25fa9ee6c5fe106b7d18448aa6d3a2af702e0537a5d522",
+      "newHash": "15c0a7af8eb1f8fe690325e3285bcbdb6eb8dd97f5e0d0c2d127b3c46e842e11",
+      "title": "TUF Gaming｜PC portables｜ASUS France"
+    },
+    {
+      "id": "TECH-COMPUTERS-PORTABLE-CREATEUR-VALUE",
+      "url": "https://www.asus.com/fr/laptops/for-creators/proart/",
+      "detectedAt": "2026-10-24T08:57:23Z",
+      "oldHash": "912f555a8bd5432cd8dc33389430980540c5ec7fff0268c4aec5fb0333c1528c",
+      "newHash": "a31e35fa50d13a3c0b4437e3761d0cc6ed6c811621119b069708297bad0022c1",
+      "title": "ProArt PC portable pour créateur ｜ASUS France"
+    },
+    {
+      "id": "TECH-COMPUTERS-PORTABLE-REPARABLE-VALUE",
+      "url": "https://frame.work/fr/fr/products/laptop13-diy-intel-ultra-1",
+      "detectedAt": "2026-10-24T08:57:22Z",
+      "oldHash": "2b4a24d2b462f058083d397cdeda7e2a1f5770f2b8b137b83103f3136b3cf2d8",
+      "newHash": "02ffba4169efa5a68b6d26a6469959790b6280ff42fcbb039cfd9ec2c0947be4",
+      "title": "Framework | Configure Framework Laptop 13 DIY Edition (Intel® Core™"
+    },
+    {
+      "id": "TECH-COMPUTERS-STATION-DE-TRAVAIL-MOBILE-BEST",
+      "url": "https://www.lenovo.com/fr/fr/c/laptops/thinkpad/thinkpadp/",
+      "detectedAt": "2026-10-24T08:57:23Z",
+      "oldHash": "d588c1aa93a36233aacc3c854cc6bc2d2c59c2bf63745ed0de9d1e2670299071",
+      "newHash": "f300013f3e2f3e0cb7c41d87636660a82b9a5b476c1cc60a8b16e7d0422139dc",
+      "title": "ThinkPad série P | Stations de travail mobiles | Lenovo France"
+    },
+    {
+      "id": "TECH-COMPUTERS-PC-DE-BUREAU-COMPACT-VALUE",
+      "url": "https://store.minisforum.com/collections/amd-series",
+      "detectedAt": "2026-10-24T08:57:23Z",
+      "oldHash": "29d99485584721b5a5813e7fc992666aacf8e177756f5f6410b2065357e17724",
+      "newHash": "0dbc36452a239e83a24ceb581f5b8430518fb1cb4536a7285f4407fc86507520",
+      "title": "MINISFORUM AMD Ryzen Series | AI Mini PCs & Workstations"
+    },
+    {
+      "id": "TECH-COMPUTERS-CHROMEBOOK-VALUE",
+      "url": "https://www.asus.com/fr/laptops/for-home/chromebook/",
+      "detectedAt": "2026-10-24T08:57:23Z",
+      "oldHash": "2685aa41e6b4ed72cce826d35f6c378063e99c3c10d3c8c1a80419dab67a00a2",
+      "newHash": "eb75d33f56f7bf4280caf70290202de72edab511dcb0f6466a7ae7eb827f8385",
+      "title": "Chromebook｜PC portables Pour la maison｜ASUS France"
+    },
+    {
+      "id": "TECH-COMPUTERS-PC-FAMILIAL-VALUE",
+      "url": "https://www.lenovo.com/fr/fr/c/laptops/ideapad/",
+      "detectedAt": "2026-10-24T08:57:23Z",
+      "oldHash": "2071f30e0997303fd6191a9457b6e58c4b13196489b24545fa7fee7a6fb62a04",
+      "newHash": "3218a7c70f937f2b860a965232395f3ece38624678fdaff824d091a231642ac7",
+      "title": "Lenovo IdeaPad : PC Portables pour Tous les Besoins | Lenovo France"
+    },
+    {
+      "id": "TECH-AUTO-C3464F447144",
+      "url": "https://blogs.windows.com/devices/2026/09/23/introducing-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2/",
+      "detectedAt": "2026-10-24T08:57:23Z",
+      "oldHash": "f3fde92b7e4e9194e2d04c572e0ebbf32dd27a6159b7332990a007051857fc49",
+      "newHash": "6aa38e8871acb7380e2f59d110432fd3e7599e904504855c6c6578267231ed2b",
+      "title": "Introducing the next Surface Pro 12-inch and Surface Laptop 13-inch with Snapdragon X2 Plus: Greater performance that travels light | Microsoft Devices Blog"
+    },
+    {
+      "id": "TECH-MOBILE-SMARTPHONE-ABSOLU-VALUE",
+      "url": "https://www.samsung.com/fr/smartphones/galaxy-s26-ultra/",
+      "detectedAt": "2026-10-24T08:57:23Z",
+      "oldHash": "df47076dcafeba04b13b3971c4b256af20a6cc22db515119c48342c3948847fc",
+      "newHash": "8592bbba8bf989e49780f68fe93f790e0e8279625fe4d3e18a7eec85792bf6b0",
+      "title": "Galaxy S26 Ultra | Caractéristiques | Samsung FR"
+    },
+    {
+      "id": "TECH-MOBILE-SMARTPHONE-PHOTO-BEST",
+      "url": "https://store.google.com/fr/product/pixel_10_pro?hl=fr",
+      "detectedAt": "2026-10-24T08:57:24Z",
+      "oldHash": "e077c8051127ebfbbdd0880f47eda865a5d37cd18a2cafaa8cc939d64c49bf16",
+      "newHash": "9f5c16217b5f21c32a03d13bce104e553278018356a8c57fab0cbf40192bb833",
+      "title": ""
+    },
+    {
+      "id": "TECH-MOBILE-SMARTPHONE-Q-P-VALUE",
+      "url": "https://www.oneplus.com/fr/oneplus-nord-5",
+      "detectedAt": "2026-10-24T08:57:24Z",
+      "oldHash": "e5eee64659b6c41cfc9e0c35ea7b0475aaee2e9217616e0d1d60aafe0e8ed1a9",
+      "newHash": "1b1cc1fcbf9e8db78d4e806894b6709682d8cf147b92e41c457bbfbd026055ab",
+      "title": "OnePlus Nord 5 - OnePlus (France)"
+    },
+    {
+      "id": "TECH-MOBILE-SMARTPHONE-PLIANT-BEST",
+      "url": "https://store.google.com/fr/product/pixel_10_pro_fold?hl=fr",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "6a656059186e260c85ae57df1874c702793fbe0cdec306040d2a91a0e3093686",
+      "newHash": "95484490dd4e995c4cffafa220de1d60fa34a42a899d2ed8262614f43429bbcb",
+      "title": ""
+    },
+    {
+      "id": "TECH-MOBILE-TELEPHONE-SIMPLE-BEST",
+      "url": "https://www.hmd.com/fr_fr/nokia-3210",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "7d040efd9feba158cb3a20c14fc3c732e339d1901c81b5c93933be90a826660f",
+      "newHash": "12429ce5cc1cdf71f80d02a8c6098cf326633daf185228aa7928785b6f038c35",
+      "title": "HMD"
+    },
+    {
+      "id": "TECH-MOBILE-TELEPHONE-SIMPLE-VALUE",
+      "url": "https://www.hmd.com/fr_fr/feature-phones",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "a9a248ae06ac5c560126753eac0653f2fbfe9c6d6437f7fe04b4ad51a9fb67a4",
+      "newHash": "7c0c080a39746dbbe7851ac4af7c61f1309dc6c7fbc6c37890fa8c7919265781",
+      "title": "Feature Phones by HMD. Compare Basic Mobiles by Price"
+    },
+    {
+      "id": "TECH-MOBILE-TABLETTE-ANDROID-BEST",
+      "url": "https://www.samsung.com/fr/tablets/galaxy-tab-s/",
+      "detectedAt": "2026-10-24T08:57:24Z",
+      "oldHash": "5ee067653a8c75d90b5b6ac050e43f2dc08d2256748d6fee6f6b1f9734e65e82",
+      "newHash": "9f7c35f90fe77549bb5d9fca5df9a29dcc224095bc50752e7a4945c8713f119d",
+      "title": "Tablettes Tactiles Samsung Galaxy Tab S | Samsung FR"
+    },
+    {
+      "id": "TECH-MOBILE-TABLETTE-ANDROID-VALUE",
+      "url": "https://www.samsung.com/fr/tablets/",
+      "detectedAt": "2026-10-24T08:57:24Z",
+      "oldHash": "8388811f59e78ee27b1f4c75c464b47e9c222d6b321b6093a0c033f50ac7f337",
+      "newHash": "d66b8e1a8e8af5b095caa9353c35797fa5eaff8d13015c39f6334ed1bc0265bc",
+      "title": "Tablettes Tactiles Samsung Galaxy Tab Android | Samsung FR"
+    },
+    {
+      "id": "TECH-MOBILE-TABLETTE-FAMILIALE-VALUE",
+      "url": "https://www.mi.com/fr/pad/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "428235bf5cdab65d70508d11506b3fce557b41c3fa1b769af61b00d7f5244037",
+      "newHash": "1634a94794e49daf1ffaa2bbc2b480cdedac52cec393483023ecbe509949de20",
+      "title": "404 - Mi France"
+    },
+    {
+      "id": "TECH-MOBILE-LISEUSE-NOIR-ET-BLANC-BEST",
+      "url": "https://fr.kobobooks.com/collections/ereaders",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "e075eae29178bfc15a1ae32e2a9e8244273782ab9a754f27befdbc56702541df",
+      "newHash": "29444db3bd23800f6dda9f901f23ed25476f02f75fbab3aba63ec21a5b001150",
+      "title": "Liseuses | Rakuten Kobo Boutique Liseuse France"
+    },
+    {
+      "id": "TECH-MOBILE-LISEUSE-NOIR-ET-BLANC-VALUE",
+      "url": "https://fr.kobobooks.com/products/kobo-clara-bw",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "27c510c30197d641099e342b3199d41cc4911545ecec428334a18601f05a0b61",
+      "newHash": "93a9b9c1a0c47217e14c744265194f591d3e31164534dd3c6d49b4643fff190b",
+      "title": "Kobo Clara BW | Rakuten Kobo Boutique Liseuse France"
+    },
+    {
+      "id": "TECH-MOBILE-LISEUSE-COULEUR-VALUE",
+      "url": "https://fr.kobobooks.com/products/kobo-libra-colour",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "f518bb657f46ae404e468bebf0025fda299113c2e100a9f13d4fd0be76bd4749",
+      "newHash": "2739290ed538b3ca3ccdcdbb3e6eb0692605be65c65efca87943c968d4b1e723",
+      "title": "Kobo Libra Colour | Rakuten Kobo Boutique Liseuse France"
+    },
+    {
+      "id": "TECH-MOBILE-CARNET-NUMERIQUE-BEST",
+      "url": "https://remarkable.com/products/remarkable-paper/pro",
+      "detectedAt": "2026-10-24T08:57:24Z",
+      "oldHash": "bea715a814974ce34062d9c3933a31e72d51ec928e7aa1a63c7184989c2ac51b",
+      "newHash": "aa8d93438cb551a0769364ada070da69d69b947e438c2b39880fa9f8fec8ed09",
+      "title": "reMarkable Paper Pro | reMarkable"
+    },
+    {
+      "id": "TECH-MOBILE-CARNET-NUMERIQUE-VALUE",
+      "url": "https://shop.boox.com/products/noteair5c",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "55f866265566baa54e3ad5827563ae3fc2d7fdb1ca292b6920da9fbdcb91f5f6",
+      "newHash": "263c6e05916f87508cc79f225527f6acad82be6ed17c89d86e378ddec6c14cfd",
+      "title": "BOOX Note Air5 C — 10.3\" Color E-Ink Tablet with Android 15 | BOOX Store – The Official BOOX Store"
+    },
+    {
+      "id": "TECH-MOBILE-MONTRE-CONNECTEE-APPLE-BEST",
+      "url": "https://www.apple.com/fr/watch/",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "6b6c71dd56050d86065d821dd76d2cdcab5b9344c784b427e223ec8a2a7dbb9f",
+      "newHash": "bfe7200d5883384a26f392af9cedf6d283c5e11e3384b119c3de629b98c30ecb",
+      "title": "Apple Watch - Apple (FR)"
+    },
+    {
+      "id": "TECH-MOBILE-MONTRE-CONNECTEE-ANDROID-BEST",
+      "url": "https://www.samsung.com/fr/watches/",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "193ed2eb758bfec4e81171dc5309c6fb12afd9c30ba550b7df521214d9aaf9e3",
+      "newHash": "cad2b2d2c81bd34abce0f042cf6f2ad0d6b2687a27ab9c93990a5fa19f1fd869",
+      "title": "Montres Connectées Samsung Galaxy Watch | Samsung FR"
+    },
+    {
+      "id": "TECH-MOBILE-MONTRE-CONNECTEE-ANDROID-VALUE",
+      "url": "https://store.google.com/fr/product/pixel_watch_4?hl=fr",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "0d11406b5cbf4363f53bb6e18835f72387f44d70734f4af19f3ad6efbde3d70b",
+      "newHash": "953937b189239fae2da249c27b4ca82daee10f7c9bf7e70295c51c70b8902d11",
+      "title": ""
+    },
+    {
+      "id": "TECH-MOBILE-MONTRE-SPORT-VALUE",
+      "url": "https://www.garmin.com/fr-FR/p/1462801/",
+      "detectedAt": "2026-10-24T08:57:25Z",
+      "oldHash": "82d3ebe7c367d3dd7bb4dbe3f50ce2fb2fba1ce64198bf526c71f00e4b1b3faa",
+      "newHash": "ace3562884a39f64ea356dabbc8fc46a03af3fadd170a70e1870626ab832cdbd",
+      "title": "Garmin Forerunner 970 | Montre connectée GPS de running"
+    },
+    {
+      "id": "TECH-MOBILE-MONTRE-SANTE-DISCRETE-VALUE",
+      "url": "https://www.garmin.com/fr-FR/p/1555457/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "92ec406c99794931a797eeee9623f52270cbccd0070e3d0d3e668f4083531c61",
+      "newHash": "9f1a6e5e86fe7ff8a36c37cf5810f3694bc1ea6788cbd458eb90735e6652ad6c",
+      "title": "Garmin vívoactive® 6 | Montre connectée GPS connectée forme & santé"
+    },
+    {
+      "id": "TECH-MOBILE-BAGUE-CONNECTEE-BEST",
+      "url": "https://ouraring.com/fr/store/rings/oura-ring-4",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "1c4366067357fa97600368362334fcadeb260cfc7886b8cb9b901666c45f59e0",
+      "newHash": "4e016969fd3624cbc514e0e5e8fae78e31b6af577a63940973c1a421e6fc5282",
+      "title": "Découvrez Oura et ses anneaux de suivi de la santé, de l'activité et du sommeil | Oura"
+    },
+    {
+      "id": "TECH-MOBILE-BAGUE-CONNECTEE-VALUE",
+      "url": "https://www.samsung.com/fr/rings/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "b3ef9f204caf3ec8a00d795fefe1373201a5dc8a71594e280855b2e62d3d687d",
+      "newHash": "d3b003d24a797fd554261f002539d70e58c60ccab44f6fa7f2bb09cc995610d5",
+      "title": "Toutes les bagues intelligentes Galaxy Ring | Samsung France"
+    },
+    {
+      "id": "TECH-AUTO-B02935B93B58",
+      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "e4ad42c12f93c4380c2af5d54e67141b08d1a5d76c8ced9d2b84951683cc375d",
+      "newHash": "eef9808bdaf86ee4c4fa3fa805fb9e3339c6e4e4cefc65fcda23e076e3fa1338",
+      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5 - Apple"
+    },
+    {
+      "id": "TECH-AUTO-0E4C54E6AC75",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "9c34e01bab402733387f2b7041d19f721757eec41577ee6066bcc13040dfc0bc",
+      "newHash": "7f12edc22e31661ec509f44eb9d27f66ba6b3abc169361bd79d0644bd24f3691",
+      "title": "Apple unveils Apple Watch Ultra 4 - Apple"
+    },
+    {
+      "id": "TECH-AUTO-9B78CEF408B4",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "1ed5969a3ba54fa01cebfa217c1514175d2524a8fb7a562f2cc1af986f17b402",
+      "newHash": "d226b96e645146f39a6f936e667a7366d0345c5565c7f2f1cfa8d0b4fbbede32",
+      "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System - Apple"
+    },
+    {
+      "id": "TECH-AUTO-CCE517CB8665",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "8af5d6923a2107f5eafb8338d6fded2f2c096a5062e5b13878c96cae66d3549d",
+      "newHash": "a809ff5d22076d2bd387e1abaee14b6ea089196e3a2d72af3f37bc04b9300792",
+      "title": "GFN Thursday: GeForce NOW Supports Firefox | NVIDIA Blog"
+    },
+    {
+      "id": "TECH-AUTO-451B7C3D79F8",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7509227111648452609/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "15d88e8d2553e488739f5f4c473c49c5bb505678bf96ac07bc4bf457e7c961b2",
+      "newHash": "3e6f90d4f14db5b4e477a12f8d0989f8585731c50c16a8cc18bb5e2597b33eca",
+      "title": "Copilot Update: Autopilot, Code, Home, Office and More | Satya Nadella posted on the topic | LinkedIn"
+    },
+    {
+      "id": "TECH-AUTO-85C680C4C51F",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7508596155145043968/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "ebef2262eb163201cfcfea73d5e6722f40130e35d69617a0b4088d3965f3e640",
+      "newHash": "d527497051bd77673f18575dab454a2ad286df72e5a8e3bba27f022947b971f4",
+      "title": "Majorana-2 Tech Delivered to DARPA for Testing | Satya Nadella posted on the topic | LinkedIn"
+    },
+    {
+      "id": "TECH-AUTO-42A9F993F44B",
+      "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "cf7d9202d8b34e39e39476a0af65868b40bf2fe73fa3a7eda87b65ce7efb026e",
+      "newHash": "c44192adad9cea0dedada9634e9393e697d40a4f82eee3def4d727e5ab98fcc6",
+      "title": "Our first streaming transcription model debuts at no. 1 on Artificial Analysis | Microsoft AI"
+    },
+    {
+      "id": "TECH-AUTO-095CB26A83EC",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7510854041028108288/",
+      "detectedAt": "2026-10-24T08:57:27Z",
+      "oldHash": "a682bf3100a5376a4cc61e5180d3e90856df41a98ec600cec6fbdacbb049e9ad",
+      "newHash": "1c67b199445f6f92b5c9ee5259520eb4763bea17f9d08e06b58048203eafe3d3",
+      "title": "Introducing Hiring Assistant 2: More Advanced Reasoning, Memory and Personalization to Deliver Better Candidate Results | Satya Nadella | 147 comments"
+    },
+    {
+      "id": "TECH-AUTO-B5DD0F445A42",
+      "url": "https://news.xbox.com/en-us/2026/10/08/introducing-xp/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "88af9d3d8168314abe28d01773c6181538282246818604b8f4ef5816868cce84",
+      "newHash": "6744f9886d27e81b57de57cd67f690c211281da95610bcb44c7c3af1800aa86d",
+      "title": "Introducing XP - XBOX Wire"
+    },
+    {
+      "id": "TECH-AUTO-21B37ECE9A7D",
+      "url": "https://commandline.microsoft.com/local-models-sandboxed-tools-github-windows/",
+      "detectedAt": "2026-10-24T08:57:26Z",
+      "oldHash": "2a852ce760d10ef09abaa71e3bd5c151d3cbf7b9cf3a3c9d956f5deaf8e6d2e8",
+      "newHash": "c528fa6d4abaaae98b7595d1ec5eaf9444c668cba62b9a9259eab93444886392",
+      "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot"
+    },
+    {
+      "id": "TECH-AUTO-249F2A4CAB6C",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513664726296354817/",
+      "detectedAt": "2026-10-24T08:57:27Z",
+      "oldHash": "1f7cc6b2fa63381298210d64f674161534f3e60b4e3088427c5a8c121d59b06c",
+      "newHash": "de8d155ea80b259a9864c9e467175d4b184384c566340751ba473934cfa07705",
+      "title": "Windows Brings Unmetered Intelligence to Every PC | Satya Nadella posted on the topic | LinkedIn"
+    },
+    {
+      "id": "TECH-DISPLAY-TV-OLED-ULTIME-VALUE",
+      "url": "https://www.lg.com/fr/tv-barres-de-son/oled-evo/lg-oled65c66lb/",
+      "detectedAt": "2026-10-24T08:57:27Z",
+      "oldHash": "9093bea02ef3dd751599cc4b6c47155908d21c838e5835121f9e78cca977fadc",
+      "newHash": "5ae523521cd2faa071cfe4741191f0d94661bc1f041a446457bcbbf868fb9737",
+      "title": "TV LG OLED65C66LB - 65 pouces (164 cm) | LG OLED evo AI C6 | 4K Smart TV | 2026 | LG France"
+    },
+    {
+      "id": "TECH-DISPLAY-TV-GRANDE-PIECE-LUMINEUSE-VALUE",
+      "url": "https://www.samsung.com/fr/tvs/qled-tv/qn80h-65-inch-neo-qled-4k-mini-led-smart-tv-tq65qn80hauxxc/",
+      "detectedAt": "2026-10-24T08:57:27Z",
+      "oldHash": "1cc4d4d70f23a0c5fa4f5820ea4915a5d92885cba7e8f281eabe3bcb98030757",
+      "newHash": "88291a191ecf92308f5ae4d4b01656f7b0b773505c0f5de634dd27ee2920b199",
+      "title": "TV Neo QLED 65″ QN80H 4K Smart TV 2026 avec Samsung Vision AI & Dolby Atmos TQ65QN80HAUXXC | Samsung FR"
+    },
+    {
+      "id": "TECH-DISPLAY-TV-Q-P-VALUE",
+      "url": "https://www.tcl.com/fr/fr/tvs",
+      "detectedAt": "2026-10-24T08:57:27Z",
+      "oldHash": "aed0421e48fbf59c8662c071d07c1c4dc4ed4b4517c21c13757456cc09650d2f",
+      "newHash": "cff82b4352e6b0fe8f3a9b5602c560578618ad1ded279b0a77cea5b665db2b9d",
+      "title": "Smart TV - Téléviseur - Mini LED QLED TV - 4K/8K -TCL France"
+    },
+    {
+      "id": "TECH-DISPLAY-MONITEUR-GAMING-4K-VALUE",
+      "url": "https://rog.asus.com/fr/monitors/27-to-31-5-inches/rog-strix-oled-xg32uqdms/",
+      "detectedAt": "2026-10-24T08:57:28Z",
+      "oldHash": "8586b9c6e1813785a00cce25d060c22fe167ef8ed9361417c34492143045b4d1",
+      "newHash": "aa1f6b6a2af1f608881e1b454445eeac9eb091f9e372731c1575a772ae1e2667",
+      "title": "Écran de gaming 4K QD OLED 32 pouces | ASUS Global"
+    },
+    {
+      "id": "TECH-DISPLAY-MONITEUR-E-SPORT-BEST",
+      "url": "https://www.lg.com/fr/moniteurs/gaming/lg-27gx790b-b/",
+      "detectedAt": "2026-10-24T08:57:29Z",
+      "oldHash": "1452f5c00fa585cbea49f429220aa9e0243671fc025ff6c51d789a611a43dc2d",
+      "newHash": "314f8bb420f3f8d455f498c18ba73508f303dddd39ba15c4e4160dff2ce5a412",
+      "title": "Moniteur gaming 27\" OLED 4ème génération QHD avec Dual Mode(540Hz@QHD, 720Hz@HD) | LG France"
+    },
+    {
+      "id": "TECH-DISPLAY-MONITEUR-E-SPORT-VALUE",
+      "url": "https://rog.asus.com/fr/monitors/27-to-31-5-inches/rog-swift-oled-pg27aqwp-w/",
+      "detectedAt": "2026-10-24T08:57:28Z",
+      "oldHash": "4504e31d8a1628a619c2da526859469d7fef6baa80f38d12f45c3f14a325ce3d",
+      "newHash": "da76e9966a6ebd2000a1afcbf8b624e9b117ccd9372f1786690d81a1d7774616",
+      "title": "ROG Swift OLED PG27AQWP-W | Tandem TrueBlack Glossy™ OLED"
+    },
+    {
+      "id": "TECH-DISPLAY-MONITEUR-CREATEUR-BEST",
+      "url": "https://www.asus.com/fr/displays-desktops/monitors/proart/proart-display-oled-pa32ucdm/",
+      "detectedAt": "2026-10-24T08:57:27Z",
+      "oldHash": "a8c002b1044c85be4af955e2c89d0eb6e4b19fd3dd0d2dbcdffada2967d8fa52",
+      "newHash": "65a16cfa0728e87c41751703808703e0d7b77c0456a042532e7f7e19cce926d3",
+      "title": "ProArt Display OLED PA32UCDM｜Moniteurs｜ASUS France"
+    },
+    {
+      "id": "TECH-DISPLAY-MONITEUR-CREATEUR-VALUE",
+      "url": "https://www.benq.eu/fr-fr/monitor/professional/sw272u.html",
+      "detectedAt": "2026-10-24T08:57:27Z",
+      "oldHash": "177ce1e8c1a91986ddcfcb83b844d41f74d8bbdda6d464e49ee15ba4efc349b7",
+      "newHash": "0ca8dd7b38a78e5bd45b1b816ad5e35d5a74dfdeda6e7835bbb50daaa526c105",
+      "title": "Ecran pour photographes SW272U│27 pouces 4K AdobeRGB 90W USB-C | BenQ France"
+    },
+    {
+      "id": "TECH-DISPLAY-PROJECTEUR-HOME-CINEMA-VALUE",
+      "url": "https://www.epson.fr/fr_FR/for-home/home-cinema",
+      "detectedAt": "2026-10-24T08:57:28Z",
+      "oldHash": "3bbdd4609b4490261d89b2df4f113d200387cb4d1af9300d2c572ca4f5dac242",
+      "newHash": "c958abcd2d847f2946446975ea77812c6f84f1f2c0e993c665ad69f449f5839c",
+      "title": "Pour les particuliers | Projecteurs de divertissement à domicile | Epson France"
+    },
+    {
+      "id": "TECH-DISPLAY-PROJECTEUR-ULTRA-COURTE-FOCALE-BEST",
+      "url": "https://www.epson.fr/fr_FR/for-home/home-cinema/ultra-short-throw-smart-projectors",
+      "detectedAt": "2026-10-24T08:57:28Z",
+      "oldHash": "bdac6851af593ad0b5c1e0215dfc7129952044af3811a15f03764002ff39ba60",
+      "newHash": "b2878b6996b7422662b2a7f0a5f7ea4a4cfd7ea01350706ce6f87ad91504a9e9",
+      "title": "Projecteurs intelligents à ultra-courte focale Epson Lifestudio | Epson France"
+    },
+    {
+      "id": "TECH-DISPLAY-PROJECTEUR-ULTRA-COURTE-FOCALE-VALUE",
+      "url": "https://www.hisense.fr/laser-tv/",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "171034f7ee12d0af4b349d1ac5c272a0bb0143cd10dc5ee4aac6afad0b5bd782",
+      "newHash": "39f047ba3c680469a9a51acb57ca4cfbf9b0db113a1b2410522e7be3f1faa9d4",
+      "title": "Laser TV Hisense | Écran géant chez vous"
+    },
+    {
+      "id": "TECH-DISPLAY-ECRAN-PORTABLE-BEST",
+      "url": "https://www.asus.com/fr/displays-desktops/monitors/zenscreen/",
+      "detectedAt": "2026-10-24T08:57:29Z",
+      "oldHash": "b00e56ddacc85e4c3c828f24419785259f1615d1cb64a5d79ba72ed206bc43e3",
+      "newHash": "080f6ba87bc588d2bd41b802dea7c7c6beeade300f943a228bd92f6691bd4486",
+      "title": "ZenScreen｜Moniteurs｜ASUS France"
+    },
+    {
+      "id": "TECH-DISPLAY-ECRAN-POUR-MAC-BEST",
+      "url": "https://www.apple.com/fr/studio-display/",
+      "detectedAt": "2026-10-24T08:57:28Z",
+      "oldHash": "5165e375c4b3d699dd83c535d705af64560fb62a445e573656950fb45f2e3416",
+      "newHash": "f67c096f9ac618b8ec07e07132e644119cd2fd6ffd7e4200d334768bb8e7d9a1",
+      "title": "Studio Display - Apple (FR)"
+    },
+    {
+      "id": "TECH-DISPLAY-ECRAN-POUR-MAC-VALUE",
+      "url": "https://www.benq.eu/fr-fr/monitor/home/ma320u.html",
+      "detectedAt": "2026-10-24T08:57:28Z",
+      "oldHash": "36730fd8b99bc3c506704332efad78659136cdaad281df954821b2f6c4be2e7c",
+      "newHash": "fd9fc11238878c9a6c9c6cd2a45f9526ccdb4b6920b47bb21f640a7b934ad7ba",
+      "title": "MA320U｜Moniteur Nano Mat 32'' 4K pour utilisateur MacBook, couleur Mac P3, USB-C 90W, support réglable | BenQ France"
+    },
+    {
+      "id": "TECH-AUDIO-CASQUE-BLUETOOTH-ANC-VALUE",
+      "url": "https://www.bose.fr/fr_fr/products/headphones/noise_cancelling_headphones/quietcomfort-headphones.html",
+      "detectedAt": "2026-10-24T08:57:29Z",
+      "oldHash": "1cfc028d66e915402df366094780489882e5ed505272c3325b983fdf329c9d23",
+      "newHash": "a7fe637e3927dde911c7d23852defb96e21fce2ea82b2f4410487e5fa2d95ea3",
+      "title": "Casques, écouteurs, enceintes, barres de son et bien plus encore | Bose"
+    },
+    {
+      "id": "TECH-AUDIO-CASQUE-ANC-PREMIUM-BEST",
+      "url": "https://www.bose.fr/p/headphones/bose-quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
+      "detectedAt": "2026-10-24T08:57:28Z",
+      "oldHash": "d471eae1214858812911a7af19e6515148103a0bf538b9027d1869b3b1b462e3",
+      "newHash": "68297c0d62c3f9d8aaa48b08e2a96a722a21ae3f9d3c1a20bddf820ee9fad287",
+      "title": "Achetez le casque Bose QuietComfort Ultra (2e génération) | Bose"
+    },
+    {
+      "id": "TECH-AUDIO-ECOUTEURS-ANC-VALUE",
+      "url": "https://www.apple.com/fr/airpods-pro/",
+      "detectedAt": "2026-10-24T08:57:28Z",
+      "oldHash": "05c941f81b8af730d14439f11678c0bfcb3c1eefbb769164eb80864ae7d1133b",
+      "newHash": "5a87a110ab4b4cd3f84b028ec4f40783cb073e50e1ced16e8a7981df00d457e2",
+      "title": "AirPods Pro 3 - Apple (FR)"
+    },
+    {
+      "id": "TECH-AUDIO-CASQUE-HI-FI-OUVERT-BEST",
+      "url": "https://www.sennheiser-hearing.com/fr-FR/p/hd-800-s/",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "39c0a3bf6840962303462f6bcf526d01598a88d0612eb85d54f3f1cba7094701",
+      "newHash": "125fcad90b1e2d2b2757be5ae4f61982051b1c9ec90f0733fd4d668212d3018e",
+      "title": "Sennheiser HD 800 S – Casque de référence à dos ouvert – Sonova Consumer Hearing GmbH"
+    },
+    {
+      "id": "TECH-AUDIO-CASQUE-HI-FI-OUVERT-VALUE",
+      "url": "https://www.sennheiser-hearing.com/fr-FR/p/hd-600/",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "312b3c1983098ae95627aa724080bbbbea6043b7c798b4d5a826ae2b15952470",
+      "newHash": "75c911fd25ec8a2bba8ff6ccd0e9aa6a2661ca5eb9949ce660bfb62d96f74412",
+      "title": "HD 600 – Sonova Consumer Hearing GmbH"
+    },
+    {
+      "id": "TECH-AUDIO-DAC-AMPLI-PORTABLE-BEST",
+      "url": "https://chordelectronics.co.uk/product/mojo-2",
+      "detectedAt": "2026-10-24T08:57:29Z",
+      "oldHash": "d6327e2d9fa0ee067b9cfb11f2270b12dda62da7cc13bf62c2d8df993e85ceec",
+      "newHash": "8aee9fc705e759c15a9da08eacddc3dcd4c4f04f688eff71616e75e39d4d27ed",
+      "title": "Mojo 2 - Chord Electronics Ltd"
+    },
+    {
+      "id": "TECH-AUDIO-DAC-AMPLI-PORTABLE-VALUE",
+      "url": "https://www.fiio.com/btr17",
+      "detectedAt": "2026-10-24T08:57:31Z",
+      "oldHash": "ed5d12d9e2f881f17dc6506e408ba3ffeb565d4603ea559e03372778a12c50d9",
+      "newHash": "bf5871c7c722973e0bf96a60cb0b725cf0df3aa605763952d8eef4fcebd7abb9",
+      "title": "Portable Bluetooth DAC and Headphone Amplifier-BTR17"
+    },
+    {
+      "id": "TECH-AUDIO-ENCEINTE-BLUETOOTH-BEST",
+      "url": "https://www.sonos.com/fr-fr/shop/move-2",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "edea58233d42b212c62be975a0725090f27dfb8d89a17cd9044f29b3fae39a23",
+      "newHash": "ef06c735dfa7aa9b68459de69a99afa07bf294c8d2155e86abd61e2c3ee0b8bf",
+      "title": ""
+    },
+    {
+      "id": "TECH-AUDIO-MULTIROOM-BEST",
+      "url": "https://www.sonos.com/fr-fr/shop/era-300",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "407f2b38e399877f48910454e991760ecc25cb81bdcf4c9aea73559313cf7890",
+      "newHash": "59817dc19fc3544b82e86bf989ffcc21b079a8fb9efecabb6ab22514adebf313",
+      "title": ""
+    },
+    {
+      "id": "TECH-AUDIO-MULTIROOM-VALUE",
+      "url": "https://www.sonos.com/fr-fr/shop/era-100",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "71872472f63b1ae2e4ce25feb2fd206506dee55ac47f7f0079dc2cc99a0f2931",
+      "newHash": "97015b5d432e21e3e7e0f063f467038ac4e34beddf9c995d583f563024509b81",
+      "title": ""
+    },
+    {
+      "id": "TECH-AUDIO-BARRE-DE-SON-VALUE",
+      "url": "https://www.samsung.com/fr/audio-devices/soundbar/",
+      "detectedAt": "2026-10-24T08:57:31Z",
+      "oldHash": "de1519175f51d9617fb78eca0211648c4ba10df7035b2aa64dd3256913c21e50",
+      "newHash": "95cf5807b45fce5d806f9bf354ea70de8b98d9b78e3a76f827c01861b6fc5560",
+      "title": "Audio Samsung | Enceintes et barres de son | Samsung France"
+    },
+    {
+      "id": "TECH-AUDIO-HOME-CINEMA-SEPARE-BEST",
+      "url": "https://www.denon.com/fr-fr/category/av-receivers/",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "a5e3989c6118a9e215544ba809b264af53a9e27cd86e000989097696a41c113a",
+      "newHash": "3d0c8a307a6d358a41d00c5142ee1bcdde902bb18f97488a0b080d20c52322c9",
+      "title": "Amplis tuner audio/vidéo | Denon - France"
+    },
+    {
+      "id": "TECH-AUDIO-ENCEINTES-ACTIVES-BUREAU-BEST",
+      "url": "https://fr.kef.com/products/lsx-2",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "8416e959617df45ad8d493fc990f5cde53b9b42244c8fef74dfc967102f99e9e",
+      "newHash": "49ea750ff07ee55110e78c3e29af2e2308f7a1a62b1990c7dc8914c9962c6581",
+      "title": "LSX II - Enceintes Bibliothèque | KEF FR"
+    },
+    {
+      "id": "TECH-AUDIO-ENCEINTES-ACTIVES-BUREAU-VALUE",
+      "url": "https://www.kaliaudio.com/lp-unf",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "57d2394a9ba452cc27beafd25855e41ccadefabaa5f16e85f0f2088542fe3a79",
+      "newHash": "5026ae1daaeeb5d93c9317532944df1267de33a5a09d596eb0504dcbd470668f",
+      "title": "Kali Audio — LP-UNF"
+    },
+    {
+      "id": "TECH-AUDIO-MONITEURS-STUDIO-BEST",
+      "url": "https://www.genelec.com/8341a",
+      "detectedAt": "2026-10-24T08:57:32Z",
+      "oldHash": "4c2fdda60ef8cfd7c29a66db982490c9d2f01306d0ad20296cc990bfb5240068",
+      "newHash": "14758f2d6324ffd7d02248dfa471401d08054cd0a5b68643d1eefcdbe157d33b",
+      "title": "8341A - Genelec.com"
+    },
+    {
+      "id": "TECH-AUDIO-MONITEURS-STUDIO-VALUE",
+      "url": "https://www.kaliaudio.com/independence",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "932698ad1af771861d88b888c62915c94c273ea028b9131455ef4fa03f6be203",
+      "newHash": "4d04bf325ad8a3e720116f031eeeca29e960ba32a1c0569d01773f648ddf091e",
+      "title": "Kali Audio — Kali Audio's IN-8 is a best-in-class 3-way studio monitor with an 8\" woofer, 4\" midrange & 1\" tweet."
+    },
+    {
+      "id": "TECH-AUDIO-INTERFACE-AUDIO-BEST",
+      "url": "https://rme-audio.de/fireface-ucx-ii.html",
+      "detectedAt": "2026-10-24T08:57:31Z",
+      "oldHash": "2871baa8d7635302beb8bd7ad9a9ba826c3e48fc140202ed838207504bc266be",
+      "newHash": "22f0dd5db2a946fd168ce403ddcc5895dec231da4a3e1185de0c39ac0eabb055",
+      "title": "Fireface UCX II - RME Audio Interfaces | Format Converters | Preamps | Network Audio & MADI Solutions"
+    },
+    {
+      "id": "TECH-AUDIO-INTERFACE-AUDIO-VALUE",
+      "url": "https://focusrite.com/products/scarlett-2i2",
+      "detectedAt": "2026-10-24T08:57:31Z",
+      "oldHash": "51dbffa3960433679d3e94c975a705a7d95e719a27e9c2e71d02ebcbf0c764f5",
+      "newHash": "ba2780de1a110870fa06bbb90585c503c9a41b8f2e48373b4d8e117aceaa0e8c",
+      "title": "Scarlett 2i2 4th Generation | Focusrite"
+    },
+    {
+      "id": "TECH-AUDIO-MICRO-STREAMING-BEST",
+      "url": "https://www.shure.com/fr-FR/produits/microphones/sm7db",
+      "detectedAt": "2026-10-24T08:57:30Z",
+      "oldHash": "2052ae361844f6672158462aec6479b2c599076838d5c52d5579672264e2a296",
+      "newHash": "6d05fa121d4b216baf692628a35844f053a2c91fe6c4bde9ea61c2d271f5360d",
+      "title": "SM7dB - Microphone dynamique pour la voix avec préampli intégré - Shure France"
+    },
+    {
+      "id": "TECH-AUDIO-RADIO-STREAMER-VALUE",
+      "url": "https://www.wiimhome.com/wiimpro/overview",
+      "detectedAt": "2026-10-24T08:57:31Z",
+      "oldHash": "6b5b8ad6686a9c4694532e1234f28120c74683f2a259c0576865ec7f292a4693",
+      "newHash": "e122012e83b76e6db90fcfa8bd4a25d867838d3de27008f599490dcc1e9e229d",
+      "title": "WiiM Pro/Pro Plus | Versatile Audiophile Streaming: Unleash the Brilliance"
+    },
+    {
+      "id": "TECH-AUTO-4C5CCED9CBA3",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "detectedAt": "2026-10-24T08:57:31Z",
+      "oldHash": "2385b2438e034ae684bfc9d3619c9ceb48b8aa24a4af403b5c0f223da3083a5b",
+      "newHash": "f59f033a34d252cb0ef6693856684c7a8b09ba5e7394f6df50373bd36d1b973d",
+      "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation - Apple"
+    },
+    {
+      "id": "TECH-GAMING-CONSOLE-SALON-PREMIUM-VALUE",
+      "url": "https://direct.playstation.com/fr-fr/buy-consoles/playstation5-console-model-group-slim",
+      "detectedAt": "2026-10-24T08:57:32Z",
+      "oldHash": "0733263a4c88b1830e6d8c9696e81d0c6c38a4b066a202b5c4c58635f026b9ae",
+      "newHash": "a7f6c51a663886b2b6583147063e25ac0ac396babb826aca7ab851c5623e5074",
+      "title": "Voir tout - PS5"
+    },
+    {
+      "id": "TECH-GAMING-CONSOLE-PORTABLE-PC-VALUE",
+      "url": "https://store.steampowered.com/steamdeck?l=french",
+      "detectedAt": "2026-10-24T08:57:31Z",
+      "oldHash": "58d98983e1d80db9f96828e8eb152316e9ff8ebfb803f37b75f5794aa96763eb",
+      "newHash": "5ae4cbfbf0cc172c35fd3704317403616c761484a93eabbb784178a903e17eb0",
+      "title": "Steam Deck™"
+    },
+    {
+      "id": "TECH-GAMING-CONSOLE-XBOX-BEST",
+      "url": "https://news.xbox.com/fr-fr/2026/03/11/preparer-la-prochaine-generation-de-xbox/",
+      "detectedAt": "2026-10-24T08:57:31Z",
+      "oldHash": "4aee0a0880bc06773627861949336c36c931173f5d3f984f948b533fd97e256c",
+      "newHash": "4e97b45627155a11a6e23d97fc141ad66ea9d682540d9cfc6a76e0ba74d91ba5",
+      "title": "Préparer la prochaine génération de Xbox - XBOX Wire en Francais"
+    },
+    {
+      "id": "TECH-GAMING-CASQUE-VR-AUTONOME-VALUE",
+      "url": "https://www.meta.com/fr/quest/quest-3s/",
+      "detectedAt": "2026-10-24T08:57:32Z",
+      "oldHash": "f72980b59d33fbaceaac4c48ecd18833eb6466f3d891e1f989f40d2d8bf0e983",
+      "newHash": "ffcca97ba0c02cac9f220ed8e3cba2067b57ed0da9edec2c6772c2a6cfcd79f2",
+      "title": "Meta Quest 3S : casque de réalité virtuelle nouvelle génération | Meta Store (fr-FR)"
+    },
+    {
+      "id": "TECH-GAMING-CASQUE-SPATIAL-PREMIUM-VALUE",
+      "url": "https://news.samsung.com/fr/galaxy_xr",
+      "detectedAt": "2026-10-24T08:57:32Z",
+      "oldHash": "c24096ace547edf5b7c0e7db789a4b0777f9d4622104b2f20745d6583fd5eb8d",
+      "newHash": "1793214af2f1b435615ec39a419129c1b4483a1d60a6f814bc17ced274d7dda6",
+      "title": "Samsung présente Galaxy XR : Un nouveau monde de possibilités – Samsung Newsroom France"
+    },
+    {
+      "id": "TECH-GAMING-VR-PLAYSTATION-BEST",
+      "url": "https://www.playstation.com/fr-fr/ps-vr2/",
+      "detectedAt": "2026-10-24T08:57:32Z",
+      "oldHash": "9fbb3db47bf0906bf716dee1a390b0a4070a7b7c586f0c7c5f26bc17c32ba1ed",
+      "newHash": "ab11788375532b5c71249e264f5fdf38cb9fee2048732745f2fde60551cfa46d",
+      "title": "PlayStation®VR2 | La nouvelle génération du jeu en VR sur PS5 | PlayStation (France)"
+    },
+    {
+      "id": "TECH-GAMING-VOLANT-SIM-RACING-BEST",
+      "url": "https://www.fanatec.com/eu-en/racing-wheels-direct-drive-bases/",
+      "detectedAt": "2026-10-24T08:57:33Z",
+      "oldHash": "cc4099cb3d0bf4841638304496486531b74add206bb1f148d4b09a18c74a6ae5",
+      "newHash": "26733139154526fa5486764a20e32c9f731992df0632244ba1530d577832eb92",
+      "title": "Direct Drive Wheel Bases | Sim Racing Bases | Fanatec"
+    },
+    {
+      "id": "TECH-GAMING-VOLANT-SIM-RACING-VALUE",
+      "url": "https://www.thrustmaster.com/fr-fr/products/t598/",
+      "detectedAt": "2026-10-24T08:57:33Z",
+      "oldHash": "2eb9e9921ea6abae8b1000117ddd0530444d9e76dd70a825325c77af0db1fe75",
+      "newHash": "795cb1692d702f0e21cccfd5dca69a86f938d33b27e2b693bbaab4027ba25507",
+      "title": "T598 - Direct Axial Drive - Simracing | Thrustmaster"
+    },
+    {
+      "id": "TECH-GAMING-HOTAS-SIMULATION-VOL-BEST",
+      "url": "https://www.thrustmaster.com/fr-fr/products/hotas-warthog/",
+      "detectedAt": "2026-10-24T08:57:33Z",
+      "oldHash": "d05c488c87b00018faf00792342aa62117c4e2dadee96578bf13713250e94880",
+      "newHash": "99f6d230b86565bfaa27d17671134c0ab3f5a2779a7287a44bf12f7a3d68a84f",
+      "title": "HOTAS WARTHOG MKII - Aviation militaire, Simulation de vol, Tous les produits flying | Thrustmaster"
+    },
+    {
+      "id": "TECH-GAMING-HOTAS-SIMULATION-VOL-VALUE",
+      "url": "https://www.thrustmaster.com/fr-fr/products/t-16000m-fcs-hotas/",
+      "detectedAt": "2026-10-24T08:57:33Z",
+      "oldHash": "e66f07c159a674752bb9a2ae2dee728c196ab3da9315c94dc84a13daead9dfcd",
+      "newHash": "e5b2bfb24748787644b3907438d7b415e10f7ba90184068805936cbafcec815f",
+      "title": "T.16000M FCS Hotas - Joysticks et accessoires pour la simulation de vol sur PC, Simulation de vol, Spacesim, Tous les produits flying | Thrustmaster"
+    },
+    {
+      "id": "TECH-GAMING-MANETTE-PC-CONSOLE-BEST",
+      "url": "https://www.xbox.com/fr-FR/accessories/controllers/elite-wireless-controller-series-2",
+      "detectedAt": "2026-10-24T08:57:33Z",
+      "oldHash": "021c83814ff6a4ef8231ee1e305ff9f64265099491b7c43b5ea8b31e30f42fc4",
+      "newHash": "213832cbc8da6d10ee4a290cfacd335bd54100e9f4f89cf9907069307ffd9cf8",
+      "title": "Manette sans fil XBOX Elite Series 2 | XBOX"
+    },
+    {
+      "id": "TECH-GAMING-MANETTE-PLAYSTATION-BEST",
+      "url": "https://www.playstation.com/fr-fr/accessories/dualsense-edge-wireless-controller/",
+      "detectedAt": "2026-10-24T08:57:33Z",
+      "oldHash": "ce22ec7f8c523ecd084391f5d3efcad923c5be11b76c8815567aaf891dbc2d15",
+      "newHash": "64d69ef85513ade5277077c69f21944aa73d7d764c3ff5ef9ca8998fea8656b5",
+      "title": "Manette sans fil DualSense Edge® | La manette pro pour PS5 | PlayStation (France)"
+    },
+    {
+      "id": "TECH-GAMING-MANETTE-PLAYSTATION-VALUE",
+      "url": "https://www.playstation.com/fr-fr/accessories/dualsense-wireless-controller/",
+      "detectedAt": "2026-10-24T08:57:33Z",
+      "oldHash": "e1909f49c0653f6a6f8563ce361fc886440199e0bb8a80a4fd67d2ba20c2856c",
+      "newHash": "0fa3760e58f4f903cd6b2be5fca64bbd23d8b31cbfcde3c7c365dca7a6430b32",
+      "title": "Manette sans fil DualSense | La nouvelle manette PS5 novatrice | PlayStation"
+    },
+    {
+      "id": "TECH-GAMING-CLAVIER-GAMING-VALUE",
+      "url": "https://www.keychron.com/collections/keychron-he-keyboards",
+      "detectedAt": "2026-10-24T08:57:34Z",
+      "oldHash": "a4d505e8a045e4929f72fb7ef1df59cc2b8f561aa51e8f48fb71b2b4b4070c1b",
+      "newHash": "2b388b8e06dd76e00e9deeea3fcaa7b825595ba45e7bc4c56c793ac17bc2f563",
+      "title": "Keychron HE Keyboards"
+    },
+    {
+      "id": "TECH-GAMING-SOURIS-FPS-BEST",
+      "url": "https://www.razer.com/eu-en/pc/gaming-mice",
+      "detectedAt": "2026-10-24T08:57:33Z",
+      "oldHash": "da8724e543eb1ed6728c37aac7f5f586f785dfd23fc0e7a59cfee66d9a2c34d0",
+      "newHash": "46886e7b1fcdfbb39cd32b2257a9b4f7c3c8bb028e0933720d5c7a8c12fa6fcc",
+      "title": "Gaming Mice - Wired and Wireless Gaming Mouse | Razer Europe"
+    },
+    {
+      "id": "TECH-GAMING-SOURIS-FPS-VALUE",
+      "url": "https://www.razer.com/eu-en/gaming-mice/razer-viper-v3-pro",
+      "detectedAt": "2026-10-24T08:57:34Z",
+      "oldHash": "c457cd541bafcecb8c870fe7211bccda34e57ef718c85b7bb4349d1124e15d66",
+      "newHash": "496f7eb6bba534ad9b07e95bf93abca225e0d654e8be8349813b7b3ceda06c48",
+      "title": "Razer Viper V3 Pro - Ultralight Wireless Esports Mouse | Razer Europe"
+    },
+    {
+      "id": "TECH-GAMING-SOURIS-POLYVALENTE-BEST",
+      "url": "https://www.razer.com/eu-en/gaming-mice/razer-basilisk-v3-pro-35k",
+      "detectedAt": "2026-10-24T08:57:35Z",
+      "oldHash": "d4da600503c7e2837f19825f96073766dfe50f4610efaa929dcb4c11fa7b5b08",
+      "newHash": "513a11dcd04f658abc9b27f498aff0209200b60f04dc05fd6cd5a7e0e991d993",
+      "title": "Wireless Ergonomic RGB Gaming Mouse - Razer Basilisk V3 Pro 35K | Razer Europe"
+    },
+    {
+      "id": "TECH-GAMING-SOURIS-POLYVALENTE-VALUE",
+      "url": "https://www.logitechg.com/fr-fr/products/gaming-mice.html",
+      "detectedAt": "2026-10-24T08:57:34Z",
+      "oldHash": "e72a7c04574dc0dc8ef9b4a4170b4f1287c2575210f6f2de863e8e8eb378888b",
+      "newHash": "80c251cc9d038e27b142ea9dee4d58587a6cdced677cce2afe4af656ada52ef5",
+      "title": "Souris Gaming - Sans fil, PC, Filaires | Logitech G"
+    },
+    {
+      "id": "TECH-GAMING-CHAISE-GAMING-VALUE",
+      "url": "https://secretlab.eu/fr/pages/titan-evo-2022-series",
+      "detectedAt": "2026-10-24T08:57:35Z",
+      "oldHash": "8f462558d5e9e12a0b7e55d0e734192ca38e4d4c299b6769c159aec7cb011c10",
+      "newHash": "4470a6f4391574c09f1fd26bc12b3ea4f03ef46bbef35849a4966235cba2dda0",
+      "title": "Caractéristiques des chaises gaming | Secretlab TITAN Evo | Secretlab EU"
+    },
+    {
+      "id": "TECH-AUTO-83F7E5AFBE52",
+      "url": "https://blog.playstation.com/2026/09/21/lisa-x-playstation-arrives-this-october-first-look-at-the-dualsense-wireless-controller-lisa-limited-edition-and-all-new-merchandise/",
+      "detectedAt": "2026-10-24T08:57:34Z",
+      "oldHash": "680bde1842743e8006a65ac015dcc0b9246c39d8e05d3fd4c82f0b0d611fcf11",
+      "newHash": "235f3d98678c0aea66d694d2c8108669dc37cbae568a5d2b44a09a6eba28a0dc",
+      "title": "LISA x PlayStation arrives this October: First look at the DualSense wireless controller – LISA Limited Edition and all-new merchandise – PlayStation.Blog"
+    },
+    {
+      "id": "TECH-AUTO-9F2CCCF16C58",
+      "url": "https://news.xbox.com/en-us/2026/10/01/ikea-xbox-gaming-collection-yxstaby/",
+      "detectedAt": "2026-10-24T08:57:34Z",
+      "oldHash": "c5ce01c8f665141a0e0c350ea8597a3e0ab0d21c4e028359847853a3fcaf9bfb",
+      "newHash": "b7e73b93338d77da943f224bf5abfb567ec00a4ebd3727d7076863ceb5437e72",
+      "title": "IKEA and XBOX Team Up on YXSTABY, a New Collection Made for Gaming at Home - XBOX Wire"
+    },
+    {
+      "id": "TECH-CAMERA-HYBRIDE-ULTIME-VALUE",
+      "url": "https://www.nikon.fr/fr_FR/product/cameras/mirrorless/z-8",
+      "detectedAt": "2026-10-24T08:57:39Z",
+      "oldHash": "a354cfca037e5e9d5c112d0ea5ceb6585a37b5b34904f34b1461bed18bb8632f",
+      "newHash": "72b8b85f779fcdbc270f630308ce06c2420193667030f8e57fe0bf67894d4ea8",
+      "title": "Z8 : Appareil photo hybride plein format professionnel pour les vidéos et les photos | Nikon"
+    },
+    {
+      "id": "TECH-CAMERA-HYBRIDE-POLYVALENT-VALUE",
+      "url": "https://www.nikon.fr/fr_FR/product/cameras/mirrorless/z6iii",
+      "detectedAt": "2026-10-24T08:57:39Z",
+      "oldHash": "ccdabd4f78503d0ad17db7a947fc2b5e8e9f6618ce74e18dd803d791c8411d2a",
+      "newHash": "863c8775dd95b5cb941b571b7418cb326b0a7daf071cbac770d8b5fac747e120",
+      "title": "Appareil photo hybride plein format Z6III avec viseur électronique DCI-P3 | Nikon"
+    },
+    {
+      "id": "TECH-CAMERA-HYBRIDE-DEBUTANT-PLEIN-FORMAT-BEST",
+      "url": "https://www.nikon.fr/fr_FR/product/cameras/mirrorless/z5ii--28-75mm-f2.8-VOA170K007",
+      "detectedAt": "2026-10-24T08:57:35Z",
+      "oldHash": "cc748d270c19c9a4f47ddff8004f883d4cce9919628ea19eb9f6ba78b649e5d7",
+      "newHash": "f447d9f7a55ac0f3718cad64bf2314c13b279cc6f9d274b04414e82e51b4947d",
+      "title": "Z5II + 28-75mm f/2.8"
+    },
+    {
+      "id": "TECH-CAMERA-HYBRIDE-APS-C-BEST",
+      "url": "https://fujifilm-x.com/fr-fr/products/cameras/x-h2s/",
+      "detectedAt": "2026-10-24T08:57:36Z",
+      "oldHash": "2be61c93b9333074ebbc8e93dd07055ddea9e05f285bbb2ed3c29ed3b86deede",
+      "newHash": "eb4ac5be46a32d245f2cd0c8a22060a264e0bb2fe769151c50b7cbfed6f8f608",
+      "title": "FUJIFILM X-H2S | Appareils photo | FUJIFILM X Series & GFX - France"
+    },
+    {
+      "id": "TECH-CAMERA-HYBRIDE-APS-C-VALUE",
+      "url": "https://fujifilm-x.com/fr-fr/products/cameras/x-s20/",
+      "detectedAt": "2026-10-24T08:57:36Z",
+      "oldHash": "c3c9ec3959c7f0da471fcb1a3d8a00c151da083ac191efd66ef2ff2fcf59e752",
+      "newHash": "1086f4f3a8c0b8c157f0d5a570ca59b252b42f1e7ec8b008f6d191d1bf4d588b",
+      "title": "FUJIFILM X-S20 | Appareils photo | FUJIFILM X Series & GFX - France"
+    },
+    {
+      "id": "TECH-CAMERA-COMPACT-EXPERT-BEST",
+      "url": "https://leica-camera.com/fr-FR/photographie/appareils-photo/q/q3-43-noir",
+      "detectedAt": "2026-10-24T08:57:35Z",
+      "oldHash": "9259fddb8d2ad4cd1e8647865e4899a47fb673a0fa9f92c08e4808bf656f09b7",
+      "newHash": "309b8ee68570751ce5b35c6e0820948646880b12dbc7af8c1029c0ff2fcf4bc1",
+      "title": "Leica Q3 43mm | Leica Camera FR"
+    },
+    {
+      "id": "TECH-CAMERA-CAMERA-360-VALUE",
+      "url": "https://www.insta360.com/fr/",
+      "detectedAt": "2026-10-24T08:57:36Z",
+      "oldHash": "e4938e9eddf64e5a56cf9183e13ebcdaafe9fc744a0b04060d1705d5fe1cfc3e",
+      "newHash": "e6df79ad35f251ba4064b247a433e4f9d1476df79fb87ef32eabdfae2bd832cf",
+      "title": "Insta360 Camera 360 - Insta360, le leader des caméras 360"
+    },
+    {
+      "id": "TECH-CAMERA-DRONE-CAMERA-ULTIME-BEST",
+      "url": "https://www.dji.com/fr",
+      "detectedAt": "2026-10-24T08:57:36Z",
+      "oldHash": "f9234cd0cf11affeece04b01ecb70ac8cc63803a18b399d3c5fbc8bb13534ee0",
+      "newHash": "d3bb56e2b8b5580a58a4eaf9545f62af84e3e96cc4980d664134a116265740d3",
+      "title": "DJI - Official Website"
+    },
+    {
+      "id": "TECH-CAMERA-WEBCAM-BEST",
+      "url": "https://www.elgato.com/fr/fr/p/facecam-pro",
+      "detectedAt": "2026-10-24T08:57:37Z",
+      "oldHash": "166e6feaf2e7aa1141588303c0cec00247507fe0bfb272d465b431b5339f23aa",
+      "newHash": "7400e92a14a2223ec8c592f6b27bcb49420d17fa3c45e9c7b82f31890225a536",
+      "title": "Facecam Pro | Elgato"
+    },
+    {
+      "id": "TECH-CAMERA-WEBCAM-VALUE",
+      "url": "https://www.logitech.com/fr-fr/products/webcams/mx-brio-4k-webcam.html",
+      "detectedAt": "2026-10-24T08:57:37Z",
+      "oldHash": "6c3a02b75fd18793430ac9d999cec4b6e698977c82b5511ef28bf38322e326e4",
+      "newHash": "4434632ca611f1b5dfddb6603efb7b76b84e957de832c10ddcd1f8df3e371766",
+      "title": "Acheter la webcam MX Brio UHD 4K | Logitech"
+    },
+    {
+      "id": "TECH-CAMERA-ECLAIRAGE-CREATEUR-BEST",
+      "url": "https://www.aputure.com/products/ls-600x-pro",
+      "detectedAt": "2026-10-24T08:57:39Z",
+      "oldHash": "b3050b64a5004de2891a03c96054ec5dfe166c4e269c34e68b6f9e7d72cb9aec",
+      "newHash": "a081486cca958eae5dc4e7fe6cb82dc040be9e3dfb93336b5711a37c4fcda3eb",
+      "title": "LS 600x Pro | Aputure"
+    },
+    {
+      "id": "TECH-CAMERA-ECLAIRAGE-CREATEUR-VALUE",
+      "url": "https://amarancreators.com/products/amaran-200x-s",
+      "detectedAt": "2026-10-24T08:57:38Z",
+      "oldHash": "c48f52e85cfb1e72c49fa88828be4342b06079693f097b3061b9fe8e5ef002a1",
+      "newHash": "1aaa18ed8c6a67ed2bc904dd9c4becdd2575b2b435db96d4a19a53b0239404e0",
+      "title": "amaran 200x S | amaran"
+    },
+    {
+      "id": "TECH-NETWORK-ROUTEUR-WI-FI-7-VALUE",
+      "url": "https://www.asus.com/fr/networking-iot-servers/wifi-routers/asus-wifi-routers/rt-be86u/",
+      "detectedAt": "2026-10-24T08:57:39Z",
+      "oldHash": "70ac7f7c4c1a3c9bc24e69f70ebd5b6617599b4229ad748f84d93687db2c9d62",
+      "newHash": "2ca0e6e6d4e9c68c87b5d7b388a0ee8cb79e8ee0acde2beab8d7f5a6380cd82c",
+      "title": "RT-BE86U｜｜ASUS France"
+    },
+    {
+      "id": "TECH-NETWORK-MESH-WI-FI-7-VALUE",
+      "url": "https://www.tp-link.com/fr/whole-home-mesh/deco-7-series/",
+      "detectedAt": "2026-10-24T08:57:38Z",
+      "oldHash": "c609672b6c1e9de0288050ed3e336ae78bb54baa023aa6e1adfaa8b5ea1e1ec8",
+      "newHash": "41e0680beb78588d3008343e14b7cdb9e29f275dc9f7a986347da1aad6f0eb76",
+      "title": "Deco 7 Series | Système WiFi Mesh 7 pour toute la maison | TP-Link"
+    },
+    {
+      "id": "TECH-NETWORK-RESEAU-PROSUMER-BEST",
+      "url": "https://eu.store.ui.com/eu/en/category/all-unifi-cloud-gateways/products/udm-pro-max",
+      "detectedAt": "2026-10-24T08:57:38Z",
+      "oldHash": "06864f240441bb3935ee3c9db5999b02d0c9e8530259c5adce16630c8fa19739",
+      "newHash": "c02d2f9df6a7f423fa799c8c04b0718b7f66a22cbc766d862f9a5855841578a9",
+      "title": "Dream Machine Pro Max - Ubiquiti Store Europe"
+    },
+    {
+      "id": "TECH-NETWORK-RESEAU-PROSUMER-VALUE",
+      "url": "https://eu.store.ui.com/eu/en/category/cloud-gateways-compact/products/ucg-ultra",
+      "detectedAt": "2026-10-24T08:57:38Z",
+      "oldHash": "34d7084784e06cfb0b94571fd710fa3f55fe9b23dbdc289a679e7d488101fe38",
+      "newHash": "c869bf944df4b85c34c1c638238609b1407678d3de5032b8193c69d48af58c25",
+      "title": "Cloud Gateway Ultra - Ubiquiti Store Europe"
+    },
+    {
+      "id": "TECH-NETWORK-POINT-D-ACCES-WI-FI-BEST",
+      "url": "https://eu.store.ui.com/eu/en/category/all-wifi/products/u7-pro-max",
+      "detectedAt": "2026-10-24T08:57:38Z",
+      "oldHash": "4e9e66633719b0a975d445a8e96c5f4241decc99b3cc2cfb86e1d0d17195230d",
+      "newHash": "77ebafa4899040687786c5c35b3a19f142777de2adbb92434f5447dc3ae5df5f",
+      "title": "Access Point U7 Pro Max - Ubiquiti Store Europe"
+    },
+    {
+      "id": "TECH-NETWORK-SWITCH-10-GBE-BEST",
+      "url": "https://eu.store.ui.com/eu/en/category/all-switching/products/usw-pro-max-16-poe",
+      "detectedAt": "2026-10-24T08:57:39Z",
+      "oldHash": "79e694d05b52e7b7960f0ca045d46b4cce7df93a7fe725ad55f2c27edd3f884f",
+      "newHash": "cac3a8071f77d14e5bbe0e822e1d3224379f8b894c38c959877cf3831f5cf56a",
+      "title": "Switch Pro Max 16 PoE - Ubiquiti Store Europe"
+    },
+    {
+      "id": "TECH-NETWORK-SWITCH-10-GBE-VALUE",
+      "url": "https://www.qnap.com/fr-fr/product/qsw-2104-2t",
+      "detectedAt": "2026-10-24T08:57:40Z",
+      "oldHash": "5c997afca24acac2eea2d3401b88e8657cc75e1ff4ec10009bd204c08ac05e33",
+      "newHash": "809504e653b15974491270f10781068fa05851d1c0430b62648b98d0c343fc80",
+      "title": "QSW-2104-2T | Un switch plug and play doté de la connectivité 10GbE et 2,5GbE, adapté aux TPE et aux professionnels | QNAP"
+    },
+    {
+      "id": "TECH-NETWORK-NAS-2-BAIES-VALUE",
+      "url": "https://www.qnap.com/fr-fr/qutube/video/3hqYyHM7keA",
+      "detectedAt": "2026-10-24T08:57:39Z",
+      "oldHash": "51eb86613816adf81a2b0fa925bdfc6f632061c6a7d0ad42150e2ce7c47ab24a",
+      "newHash": "3e2c9cc36a2a088a43135b51ce2cd455c6efd4da631692f227f8b85cd07293ae",
+      "title": ""
+    },
+    {
+      "id": "TECH-NETWORK-NAS-4-BAIES-VALUE",
+      "url": "https://www.qnap.com/fr-fr/product/ts-464",
+      "detectedAt": "2026-10-24T08:57:40Z",
+      "oldHash": "f7e4740624db4cced60f2a4524c92996b5419a1ef19ab0c3fb1cf761653e2e96",
+      "newHash": "cb6c3b96562e01a22d8683fc454c257cd1abf14f796dbb39a60b80c8af78db74",
+      "title": "TS-464 | Dites au revoir au NAS 1 Giga et bonjour au NAS 2,5GbE. | QNAP"
+    },
+    {
+      "id": "TECH-NETWORK-NAS-HAUT-DE-GAMME-VALUE",
+      "url": "https://www.qnap.com/fr-fr/product/tvs-h674",
+      "detectedAt": "2026-10-24T08:57:41Z",
+      "oldHash": "e129886d70d091310a25c4a9f157c5a02e2f9314115745027be6dc4f769fb619",
+      "newHash": "58ca930b5deaddecad038c8ca8d1191058dfe117bf8d8cc1266b5244db220d07",
+      "title": "TVS-h674 | Stockage sous ZFS hautement fiable avec l’extensibilité PCIe Gen 4 pour la connectivité 10/25GbE, cache SSD M.2 NVMe et processeurs multi-thread pour les applications de virtualisation | QNAP"
+    },
+    {
+      "id": "TECH-NETWORK-SSD-EXTERNE-VALUE",
+      "url": "https://www.crucial.fr/ssd/x9-pro/ct2000x9prossd9",
+      "detectedAt": "2026-10-24T08:57:39Z",
+      "oldHash": "c6d58b6e0739fb8396fb9e9da9f27c4d8ab39f56ea02e82143315ad7f1e9f269",
+      "newHash": "ae83728fd4f516caaf87671cdde34e4f68ef6bc8fd5ed788f9dca7b19198d6fb",
+      "title": "Request Rejected"
+    },
+    {
+      "id": "TECH-NETWORK-SSD-EXTERNE-THUNDERBOLT-BEST",
+      "url": "https://www.owc.com/solutions/envoy-ultra",
+      "detectedAt": "2026-10-24T08:57:39Z",
+      "oldHash": "00b3ffc7cf896eecf88747fdf89f27f14d2be05ca48299afd2404f6349af7a3e",
+      "newHash": "95e26755b3f3413ed123e723304cca17082eba63d8edf946ed08eb0431e18c98",
+      "title": ""
+    },
+    {
+      "id": "TECH-NETWORK-SSD-EXTERNE-THUNDERBOLT-VALUE",
+      "url": "https://www.westerndigital.com/fr-fr/products/portable-drives/sandisk-professional-pro-g40-ssd",
+      "detectedAt": "2026-10-24T08:57:40Z",
+      "oldHash": "464fa05cf20aabd9d31af114fb0a81f02b753d95b404d134a01b6433a199261d",
+      "newHash": "a79fa15b0f15ccf8032cce82fc52e86f0c6f5769fe7862f71d5369fecb074339",
+      "title": ""
+    },
+    {
+      "id": "TECH-NETWORK-DISQUE-EXTERNE-SAUVEGARDE-BEST",
+      "url": "https://www.westerndigital.com/fr-fr/products/external-drives/wd-my-book-usb-3-0-hdd",
+      "detectedAt": "2026-10-24T08:57:40Z",
+      "oldHash": "4cbbf02f24eee6cedb72ce5bbeb73c86c8ac2ad02a191b74db3ac3d28de43e67",
+      "newHash": "67529cc6ebe45f20ddc4422e4b9b57aae0b7bec47249506d4b0b85b9b90c559a",
+      "title": ""
+    },
+    {
+      "id": "TECH-NETWORK-DISQUE-EXTERNE-SAUVEGARDE-VALUE",
+      "url": "https://www.westerndigital.com/fr-fr/products/external-drives/wd-elements-desktop-usb-3-0-hdd",
+      "detectedAt": "2026-10-24T08:57:46Z",
+      "oldHash": "c702928053c4fdf05d634a8c4e69d0568a5a84545460450f91b780ba85537680",
+      "newHash": "880de7b12ddcf71acc6f43d63cbfc8a7291e9465fe6d4cdc2cada7ef9579ad24",
+      "title": ""
+    },
+    {
+      "id": "TECH-NETWORK-CLE-USB-VALUE",
+      "url": "https://www.samsung.com/fr/memory-storage/usb-flash-drive/",
+      "detectedAt": "2026-10-24T08:57:41Z",
+      "oldHash": "8d86638662012fd97be77fc5a69d650d2c4924a3c59bf1362370ebc5e33d933a",
+      "newHash": "b0dc1fc6ffb6d9b4e07443485b1824b691c250f8aa6c64aebaa0a3b550fb91c9",
+      "title": "Clé USB et USB-C | Pour téléphone | Samsung France"
+    },
+    {
+      "id": "TECH-NETWORK-SAUVEGARDE-CLOUD-PERSONNELLE-BEST",
+      "url": "https://c2.synology.com/fr-fr/storage/overview",
+      "detectedAt": "2026-10-24T08:57:40Z",
+      "oldHash": "0ad78827213cdb37368455ebd4c3dcd679c4f82f9c852a752e98b711be55a170",
+      "newHash": "3192c1b0d54013c9648a371a5947c35a6182cd2a9640221ca4cb7eee92d40695",
+      "title": "C2 Storage"
+    },
+    {
+      "id": "TECH-NETWORK-SAUVEGARDE-CLOUD-PERSONNELLE-VALUE",
+      "url": "https://www.backblaze.com/cloud-backup/personal",
+      "detectedAt": "2026-10-24T08:57:40Z",
+      "oldHash": "be7f3b242ff208873e3eb21ffedf97075fa00440456afce1edf09c1dcf69c647",
+      "newHash": "f09444cdb3409b018c90c171d2f5cca1dbb336806cd4de1c535ac707829f8949",
+      "title": "Unlimited Cloud Backup for Mac & PC | Backblaze — $9/Month"
+    },
+    {
+      "id": "TECH-NETWORK-MODEM-5G-SECOURS-BEST",
+      "url": "https://www.netgear.com/fr/home/mobile-wifi/hotspots/",
+      "detectedAt": "2026-10-24T08:57:41Z",
+      "oldHash": "8daf2e76f44a6de81a6cefe41a369d9eb05efd81a08eb4dff79e7250a801cc5e",
+      "newHash": "022d2520462a1f68536ae16d77b7257c6ab3face3c725e3d9c95576ed34f4f3a",
+      "title": "Routeurs mobiles : 5G, 4G LTE - Appareils WiFi portables - NETGEAR"
+    },
+    {
+      "id": "TECH-NETWORK-VPN-ROUTEUR-BEST",
+      "url": "https://firewalla.com/products/firewalla-gold-pro",
+      "detectedAt": "2026-10-24T08:57:41Z",
+      "oldHash": "6ef1fd636b01a4f6eaf6c0c98b6d832f6e1a5e1155b10d3c9eddab5481bd9bdf",
+      "newHash": "7405586a78f0f6d28a2a7a3a2486459200e9137a29ef600a9098c1964071a573",
+      "title": "Firewalla Gold Pro: (10 Gbps) Cyber Security Firewall (Ships Worldwide | Firewalla"
+    },
+    {
+      "id": "TECH-NETWORK-VPN-ROUTEUR-VALUE",
+      "url": "https://www.gl-inet.com/products/gl-mt6000/",
+      "detectedAt": "2026-10-24T08:57:41Z",
+      "oldHash": "2fb047fc6e59b8f25163676b14cfc1b13e4629581fa8d0edca2d8d2c145989af",
+      "newHash": "d3a69be6f532385939621efa6276a821d2587357cddf9d37925171607d530ea4",
+      "title": "Flint 2 (GL-MT6000) | High-Performance VPN Router — GL.iNet"
+    },
+    {
+      "id": "TECH-HOME-ECLAIRAGE-CONNECTE-VALUE",
+      "url": "https://www.ikea.com/fr/fr/cat/maison-connectee-hs001/",
+      "detectedAt": "2026-10-24T08:57:41Z",
+      "oldHash": "e054851d71bcdda6d1d8e3689a40045c280ce282b616acee52cfea99dfbeab53",
+      "newHash": "1dda20d2330df7c27f3980ce5fc284a1839049460958b2be4f1fb24d0231fd3b",
+      "title": "Maison connectée - domotique et objet connecté - IKEA"
+    },
+    {
+      "id": "TECH-HOME-HUB-DOMOTIQUE-BEST",
+      "url": "https://www.home-assistant.io/green/",
+      "detectedAt": "2026-10-24T08:57:41Z",
+      "oldHash": "4a70dc0c11880aab8bd9a7f2c14aeb98ea58abbd01ceb913b7876cd5dac63b58",
+      "newHash": "b16a54b4456980dd0c4ab2f5c2613853f150cf8576254529f09d3f583c325432",
+      "title": "Home Assistant Green - Home Assistant"
+    },
+    {
+      "id": "TECH-HOME-HUB-DOMOTIQUE-VALUE",
+      "url": "https://www.aqara.com/eu/news-eu/works-with-apple-homekit-aqara-hub/",
+      "detectedAt": "2026-10-24T08:57:42Z",
+      "oldHash": "3a61bb6f26b5f972512c1d5036564b2eb2322fffffb43451d4e222458eb57903",
+      "newHash": "50b7f5159af4015193778915575e8b50736da33990dabfa3ef0287378c0feaac",
+      "title": "Works with Apple HomeKit – Aqara Hub - Aqara"
+    },
+    {
+      "id": "TECH-HOME-SERRURE-CONNECTEE-BEST",
+      "url": "https://nuki.io/fr-fr/produits/smart-lock-ultra",
+      "detectedAt": "2026-10-24T08:57:42Z",
+      "oldHash": "a28889a038860e112fcca507428f5338fb05b119ceadc8df7cb92ce481bac70a",
+      "newHash": "261d7c169c4fa535c7a553f364fcb24becfef60fafed2caa419495d7f3341f6f",
+      "title": "Nuki | Smart Lock Ultra | Smart Locks en ligne | Nuki The Smart Lock"
+    },
+    {
+      "id": "TECH-HOME-SONNETTE-VIDEO-BEST",
+      "url": "https://ring.com/fr/fr/products/battery-doorbell-pro-2nd-gen",
+      "detectedAt": "2026-10-24T08:57:41Z",
+      "oldHash": "4ef9db36ce8f97448e3b350fc57896bfb85f717d2956e0f1aaff2dd9779391dd",
+      "newHash": "c871b7c7f880be84c51a9d5c8f196440fe1f2283d686524e139a110c15745ed6",
+      "title": "Ring Battery Video Doorbell Pro (2e gén.) | Sonnette vidéo | Ring | Ring"
+    },
+    {
+      "id": "TECH-HOME-CAMERA-EXTERIEURE-BEST",
+      "url": "https://www.eufy.com/eu-fr",
+      "detectedAt": "2026-10-24T08:57:41Z",
+      "oldHash": "85055b4c3ac09da66349d423b1ed4fdff842faf4424900dae515e9a09ac1721e",
+      "newHash": "66c2b7aa98fbdfe64d24e62784fe90f5f8624d9a3bf02e7b6113c8f1e41c7126",
+      "title": "eufy | Construit avec soin - eufy France"
+    },
+    {
+      "id": "TECH-HOME-CAMERA-EXTERIEURE-VALUE",
+      "url": "https://www.tapo.com/fr/product/smart-camera/tapo-c425/",
+      "detectedAt": "2026-10-24T08:57:42Z",
+      "oldHash": "27600a3286cae77afa23221fd83cb4dafe91a29428a0db0adaefe4e2499ed13c",
+      "newHash": "9cff6b366f723ca6bdbe261eccb097697b57860f141d77a6c35c358c42cb0929",
+      "title": "Tapo C425 | Caméra de surveillance connectée intérieure/extérieure sans fil 2K+ QHD 4MP (base magnétique incluse) | Tapo"
+    },
+    {
+      "id": "TECH-HOME-CAMERA-POE-BEST",
+      "url": "https://eu.store.ui.com/eu/en/category/cameras-bullet/products/uvc-ai-pro",
+      "detectedAt": "2026-10-24T08:57:42Z",
+      "oldHash": "119ac2168d2c59ac6422851aa84f00909be0d11a4e261b83f819cc7783aae1e0",
+      "newHash": "863c19af2cab4f0dd37a0a534e32c9326cb4f027f7f69af36f2f5c7336144ce0",
+      "title": "Camera AI Pro - Ubiquiti Store Europe"
+    },
+    {
+      "id": "TECH-HOME-CAMERA-POE-VALUE",
+      "url": "https://reolink.com/fr/product/rlc-810a/",
+      "detectedAt": "2026-10-24T08:57:42Z",
+      "oldHash": "b63a5d6febd64515bfb00e849d927484ea6bcdb76a4df3db0eabe36a3e1a054a",
+      "newHash": "ca6de8bfb99fe10ef99e0d4774b1a5a35d32d711acf073b5072ca43142467423",
+      "title": "[Officiel] Reolink RLC-810A | Caméra de sécurité PoE 4K avec détection intelligente"
+    },
+    {
+      "id": "TECH-HOME-ALARME-CONNECTEE-BEST",
+      "url": "https://ajax.systems/fr/",
+      "detectedAt": "2026-10-24T08:57:43Z",
+      "oldHash": "463c64e18686da57ae594f8d0085f196f81c6979ab2b44dadc611682cd034998",
+      "newHash": "e98d46638a72ad6189753d3f09aa54ee5a5e012e73a5cec2e4df9fde90f46714",
+      "title": "Système de sécurité Ajax | Site officiel"
+    },
+    {
+      "id": "TECH-HOME-ROBOT-ASPIRATEUR-ULTIME-VALUE",
+      "url": "https://fr.roborock.com/pages/robot-vacuum-cleaner",
+      "detectedAt": "2026-10-24T08:57:43Z",
+      "oldHash": "e5fefb63362e9edde27701670a86ded8bdbb6bd5d354db1857ec7fde70cd2814",
+      "newHash": "1ffaf998271fbd2822ed429a6005d0a9d8c3ef90edb61d13f67b8104dc539c12",
+      "title": "Robots Aspirateurs | Roborock FR Official Store"
+    },
+    {
+      "id": "TECH-HOME-ASPIRATEUR-BALAI-BEST",
+      "url": "https://www.dyson.fr/aspirateurs/sans-fil/gen5detect",
+      "detectedAt": "2026-10-24T08:57:43Z",
+      "oldHash": "9138cb80c23ce171cd1b4387c37db44bca2cec697e6be90d18719d4eb6c8342b",
+      "newHash": "ab411e6eeefd6deb3866111c4589c31f133c50db863d93ac172d120e21dfeb97",
+      "title": "Aspirateur Dyson Gen5detect™ | Dyson.fr"
+    },
+    {
+      "id": "TECH-HOME-THERMOSTAT-CONNECTE-BEST",
+      "url": "https://www.tado.com/fr-fr",
+      "detectedAt": "2026-10-24T08:57:43Z",
+      "oldHash": "5d168826af61d130280cdbd6ac00218f57bb8bd45cfb56938f4d9e53cdd572b9",
+      "newHash": "c040aca59d625a355214bea831b5fe0dd98749c4efda68362c3117f168c5a929",
+      "title": "Économisez en pilotant votre chauffage via une appli | tado°"
+    },
+    {
+      "id": "TECH-HOME-DETECTEUR-FUMEE-CONNECTE-VALUE",
+      "url": "https://www.x-sense.com/collections/smart-smoke-alarms",
+      "detectedAt": "2026-10-24T08:57:44Z",
+      "oldHash": "307d9f48ddfe93d63357172fe562302a2e61c3fdbeacc080480735a274ed4955",
+      "newHash": "67ff93e5634b3582af0725fbad44cef2aec77400273d889aa085b371feb38720",
+      "title": "Smart Smoke Alarms for Home Safety | X-SENSE"
+    },
+    {
+      "id": "TECH-HOME-PRISE-CONNECTEE-BEST",
+      "url": "https://www.evehome.com/fr/eve-energy",
+      "detectedAt": "2026-10-24T08:57:44Z",
+      "oldHash": "6d3a568021b78c0e434937b0b53a0530336ef78bdf40be1eef7a4f841d54a7ac",
+      "newHash": "d0a31c3772a47a7f50e0a03dab1282c890b67f7e4273d709ef0da9eef65524e8",
+      "title": "Eve Energy | evehome.com"
+    },
+    {
+      "id": "TECH-HOME-PRISE-CONNECTEE-VALUE",
+      "url": "https://www.tapo.com/fr/product/smart-plug/tapo-p110m/",
+      "detectedAt": "2026-10-24T08:57:44Z",
+      "oldHash": "2cb17c0525c4756fbb7f438b6f93a5bb994ba4852c9deb1b6ba2a5a5d67c1af1",
+      "newHash": "7b00e900db388a923fd2cbd4986b9f02579ee231fdf55a5a32c2fb1657ba8098",
+      "title": "Tapo P110M | Mini Prise Connectée WiFi avec suivi de conso - Compatible Matter | Tapo"
+    },
+    {
+      "id": "TECH-HOME-ECRAN-CONNECTE-VALUE",
+      "url": "https://store.google.com/fr/product/nest_hub_2nd_gen?hl=fr",
+      "detectedAt": "2026-10-24T08:57:45Z",
+      "oldHash": "59e2929351732a88358ed91cccfaafb196c597280dc94bffebfc26fe486b0625",
+      "newHash": "d696df2e8bcc32970cac0dbdf37c0dba717efc17fb41af8d818c9ddbbf2cab84",
+      "title": ""
+    },
+    {
+      "id": "TECH-HOME-INTERPHONE-PORTAIL-VALUE",
+      "url": "https://reolink.com/fr/product/reolink-video-doorbell-poe/",
+      "detectedAt": "2026-10-24T08:57:45Z",
+      "oldHash": "42211f6b4cb41a3bc1f47da8d539dff1319fa5a58a206ce66c40927c984930cb",
+      "newHash": "2c35d686a703eda6933ef8785677ac86953406cd320f2158b52073dafef531d1",
+      "title": "Reolink PoE Doorbell | Sonnette vidéo PoE 2K+ intelligente"
+    },
+    {
+      "id": "TECH-AUTO-B28BD93CACA9",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+      "detectedAt": "2026-10-24T08:57:44Z",
+      "oldHash": "f66861eab861920e360296318e78d52339a5a3dbab065ae0e75e6f2d418df1ee",
+      "newHash": "9ae52771e8cf9a1ac821dc0e5d33664860ff9eae2c8202c4b28f0af54a104253",
+      "title": "Apple announces the next generation of HomePod mini - Apple"
+    },
+    {
+      "id": "TECH-AUTO-1EBC583E2CAF",
+      "url": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+      "detectedAt": "2026-10-24T08:57:44Z",
+      "oldHash": "77d379d38126367acea129312056bd79abca7011b3faddbe76815d15687dc635",
+      "newHash": "08e46774c6a926e0b9502ebebc80cb0f160981a59a67d075e8abc6a8e5d38ef3",
+      "title": "Introducing Apple Home Collection, a new lineup of smart home accessories - Apple"
+    },
+    {
+      "id": "TECH-DESK-CLAVIER-MECANIQUE-BUREAU-VALUE",
+      "url": "https://www.keychron.com/products/keychron-v1-max-qmk-via-wireless-custom-mechanical-keyboard",
+      "detectedAt": "2026-10-24T08:57:48Z",
+      "oldHash": "235493a1d6b7b6ec581f544a90d93cffe070fc945e46ffd5eb34d7464c996918",
+      "newHash": "9f4c2939414791e46db5196ee06a3b24102354e8cd5292e9b262a55d58abb8bf",
+      "title": "Keychron V1 Max QMK/VIA Wireless Custom Mechanical Keyboard"
+    },
+    {
+      "id": "TECH-DESK-CLAVIER-BUREAUTIQUE-BEST",
+      "url": "https://www.logitech.com/fr-fr/products/keyboards/mx-keys-s.html",
+      "detectedAt": "2026-10-24T08:57:45Z",
+      "oldHash": "6bc3982e3d2ddde4fd715d75058a8b612617a010aa3cb93da5e5cdfb4730d1a4",
+      "newHash": "0eaa39f1571a5d6acad2e5da554a1cc3491afb8b6390045a69decdbf9ded3498",
+      "title": "Acheter le clavier MX Keys S - Standard ou mini | Logitech"
+    },
+    {
+      "id": "TECH-DESK-CLAVIER-BUREAUTIQUE-VALUE",
+      "url": "https://www.logitech.com/fr-fr/products/keyboards.html",
+      "detectedAt": "2026-10-24T08:57:45Z",
+      "oldHash": "c6e487f9aa1a6d0564055b7a00b413a0541d8cb51f80ea308b7a59c94decdd20",
+      "newHash": "e4d92bb8f750be461715f1575233cc2e7b78f908e1fd14a2d8df79d47d5076f8",
+      "title": "Claviers d'ordinateur - Sans fil, Bluetooth, mécaniques | Logitech"
+    },
+    {
+      "id": "TECH-DESK-SOURIS-BUREAUTIQUE-VALUE",
+      "url": "https://www.logitech.com/fr-fr/products/mice/lift-vertical-ergonomic-mouse.html",
+      "detectedAt": "2026-10-24T08:57:45Z",
+      "oldHash": "af497e69f0a7e72a7e570dc45ea6c9488b8aa9369017fe5a6ab4d27862e3bed7",
+      "newHash": "18a1fe8fc73775811f018b63ceada003d7278ed033e6b21fb0444fa7ec90cc2f",
+      "title": "Souris ergonomique verticale Lift | Logitech"
+    },
     {
       "id": "TECH-AUDIO-MULTIROOM-BEST",
       "url": "https://www.sonos.com/fr-fr/shop/era-300",
@@ -515,1494 +2003,6 @@
       "oldHash": "785758226f728aa088d681100892a7a1f7df09aee1893c9d1bd9050c88d15a54",
       "newHash": "00b3ffc7cf896eecf88747fdf89f27f14d2be05ca48299afd2404f6349af7a3e",
       "title": "OWC Envoy Ultra – 6,000MB/s Thunderbolt 5 Portable SSD"
-    },
-    {
-      "id": "TECH-NETWORK-SSD-EXTERNE-THUNDERBOLT-VALUE",
-      "url": "https://www.westerndigital.com/fr-fr/products/portable-drives/sandisk-professional-pro-g40-ssd",
-      "detectedAt": "2026-10-17T08:39:40Z",
-      "oldHash": "a49001599a3b3c5b775c14a3caef091fc8c47738dd77f60ed2badf977ad464f2",
-      "newHash": "464fa05cf20aabd9d31af114fb0a81f02b753d95b404d134a01b6433a199261d",
-      "title": ""
-    },
-    {
-      "id": "TECH-NETWORK-DISQUE-EXTERNE-SAUVEGARDE-BEST",
-      "url": "https://www.westerndigital.com/fr-fr/products/external-drives/wd-my-book-usb-3-0-hdd",
-      "detectedAt": "2026-10-17T08:39:37Z",
-      "oldHash": "cc0ab509c84a2e90bb71e6d2efdb2c84b096995e5fce34d6c8344bc23ea78d27",
-      "newHash": "4cbbf02f24eee6cedb72ce5bbeb73c86c8ac2ad02a191b74db3ac3d28de43e67",
-      "title": ""
-    },
-    {
-      "id": "TECH-NETWORK-DISQUE-EXTERNE-SAUVEGARDE-VALUE",
-      "url": "https://www.westerndigital.com/fr-fr/products/external-drives/wd-elements-desktop-usb-3-0-hdd",
-      "detectedAt": "2026-10-17T08:39:40Z",
-      "oldHash": "18ec53a976e329b1ecf3838456929207700525edb27dea3320f03481f63a1667",
-      "newHash": "c702928053c4fdf05d634a8c4e69d0568a5a84545460450f91b780ba85537680",
-      "title": ""
-    },
-    {
-      "id": "TECH-NETWORK-CLE-USB-VALUE",
-      "url": "https://www.samsung.com/fr/memory-storage/usb-flash-drive/",
-      "detectedAt": "2026-10-17T08:39:33Z",
-      "oldHash": "75bf3a6e02b2d36dbcd8be2044ad6ab2a63c1b895cc41317424deb031ccdbab7",
-      "newHash": "8d86638662012fd97be77fc5a69d650d2c4924a3c59bf1362370ebc5e33d933a",
-      "title": "Clé USB et USB-C | Pour téléphone | Samsung France"
-    },
-    {
-      "id": "TECH-NETWORK-CARTE-MEMOIRE-SD-VALUE",
-      "url": "https://www.westerndigital.com/fr-fr/products/memory-cards/sandisk-extreme-pro-uhs-ii-sd",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "b9bdaedea0f0ec561c14fa129b26d528fcbd9fc414f23c1e3e0e97b30951fb71",
-      "newHash": "1eb305a4879ebff0b4d1a5474f2d7b93ae8517a01ec4d58d4ed494936ae60637",
-      "title": ""
-    },
-    {
-      "id": "TECH-NETWORK-MODEM-5G-SECOURS-BEST",
-      "url": "https://www.netgear.com/fr/home/mobile-wifi/hotspots/",
-      "detectedAt": "2026-10-17T08:39:34Z",
-      "oldHash": "f48b4621873af2acbe5bad3c3dfeee7bde3358198eae84da078404c47f0d0d2b",
-      "newHash": "8daf2e76f44a6de81a6cefe41a369d9eb05efd81a08eb4dff79e7250a801cc5e",
-      "title": "Routeurs mobiles : 5G, 4G LTE - Appareils WiFi portables - NETGEAR"
-    },
-    {
-      "id": "TECH-NETWORK-VPN-ROUTEUR-BEST",
-      "url": "https://firewalla.com/products/firewalla-gold-pro",
-      "detectedAt": "2026-10-17T08:39:34Z",
-      "oldHash": "7d058c5aec438aae548aa96e052764a836a38fa25caaf5eab365ddb507236d74",
-      "newHash": "6ef1fd636b01a4f6eaf6c0c98b6d832f6e1a5e1155b10d3c9eddab5481bd9bdf",
-      "title": "Firewalla Gold Pro: (10 Gbps) Cyber Security Firewall (Ships Worldwide | Firewalla"
-    },
-    {
-      "id": "TECH-NETWORK-VPN-ROUTEUR-VALUE",
-      "url": "https://www.gl-inet.com/products/gl-mt6000/",
-      "detectedAt": "2026-10-17T08:39:34Z",
-      "oldHash": "4a869aa5d64b1ef5812b42dfda83fad841a0ec93e41597e364fa323414ec6ad6",
-      "newHash": "2fb047fc6e59b8f25163676b14cfc1b13e4629581fa8d0edca2d8d2c145989af",
-      "title": "Flint 2 (GL-MT6000) | High-Performance VPN Router — GL.iNet"
-    },
-    {
-      "id": "TECH-HOME-ECLAIRAGE-CONNECTE-VALUE",
-      "url": "https://www.ikea.com/fr/fr/cat/maison-connectee-hs001/",
-      "detectedAt": "2026-10-17T08:39:34Z",
-      "oldHash": "8c877d85811e6bf19f05b765db0ad97f94d5c08ffea8fec7086810bbc8e4300c",
-      "newHash": "e054851d71bcdda6d1d8e3689a40045c280ce282b616acee52cfea99dfbeab53",
-      "title": "Maison connectée - domotique et objet connecté - IKEA"
-    },
-    {
-      "id": "TECH-HOME-HUB-DOMOTIQUE-BEST",
-      "url": "https://www.home-assistant.io/green/",
-      "detectedAt": "2026-10-17T08:39:34Z",
-      "oldHash": "184966cd6ba222d79005233f9318049b563fd8a2a863bb22a68c7f2a159470a9",
-      "newHash": "4a70dc0c11880aab8bd9a7f2c14aeb98ea58abbd01ceb913b7876cd5dac63b58",
-      "title": "Home Assistant Green - Home Assistant"
-    },
-    {
-      "id": "TECH-HOME-HUB-DOMOTIQUE-VALUE",
-      "url": "https://www.aqara.com/eu/news-eu/works-with-apple-homekit-aqara-hub/",
-      "detectedAt": "2026-10-17T08:39:36Z",
-      "oldHash": "c8b4fcc2e92d101ba640b2549f9eb2e3ea7011c513b42d8ad27042a4f6af524a",
-      "newHash": "3a61bb6f26b5f972512c1d5036564b2eb2322fffffb43451d4e222458eb57903",
-      "title": "Works with Apple HomeKit – Aqara Hub - Aqara"
-    },
-    {
-      "id": "TECH-HOME-SERRURE-CONNECTEE-BEST",
-      "url": "https://nuki.io/fr-fr/produits/smart-lock-ultra",
-      "detectedAt": "2026-10-17T08:39:37Z",
-      "oldHash": "a22ccd0750efeba4003b1a5584413f723286d3454b4f2579709fe4d5f090ce95",
-      "newHash": "a28889a038860e112fcca507428f5338fb05b119ceadc8df7cb92ce481bac70a",
-      "title": "Nuki | Smart Lock Ultra | Smart Locks en ligne | Nuki The Smart Lock"
-    },
-    {
-      "id": "TECH-HOME-SONNETTE-VIDEO-BEST",
-      "url": "https://ring.com/fr/fr/products/battery-doorbell-pro-2nd-gen",
-      "detectedAt": "2026-10-17T08:39:35Z",
-      "oldHash": "ffca0c34e6cb743e34f82e748a420a1c2250a7465577bcd577eb6310e6f58964",
-      "newHash": "4ef9db36ce8f97448e3b350fc57896bfb85f717d2956e0f1aaff2dd9779391dd",
-      "title": "Ring Battery Video Doorbell Pro (2e gén.) | Sonnette vidéo | Ring | Ring"
-    },
-    {
-      "id": "TECH-HOME-CAMERA-EXTERIEURE-BEST",
-      "url": "https://www.eufy.com/eu-fr",
-      "detectedAt": "2026-10-17T08:39:34Z",
-      "oldHash": "d7ef73aa939372585bcb57153666e10e9e8ec52f828d0599750ba70914e9319d",
-      "newHash": "85055b4c3ac09da66349d423b1ed4fdff842faf4424900dae515e9a09ac1721e",
-      "title": "eufy | Construit avec soin - eufy France"
-    },
-    {
-      "id": "TECH-HOME-CAMERA-EXTERIEURE-VALUE",
-      "url": "https://www.tapo.com/fr/product/smart-camera/tapo-c425/",
-      "detectedAt": "2026-10-17T08:39:35Z",
-      "oldHash": "9ee7057a657b932a5ad6551f84b35e41a92b6372d60359b89d66869bb57f8587",
-      "newHash": "27600a3286cae77afa23221fd83cb4dafe91a29428a0db0adaefe4e2499ed13c",
-      "title": "Tapo C425 | Caméra de surveillance connectée intérieure/extérieure sans fil 2K+ QHD 4MP (base magnétique incluse) | Tapo"
-    },
-    {
-      "id": "TECH-HOME-CAMERA-POE-BEST",
-      "url": "https://eu.store.ui.com/eu/en/category/cameras-bullet/products/uvc-ai-pro",
-      "detectedAt": "2026-10-17T08:39:34Z",
-      "oldHash": "b6d38ff992b627fe1acef63c02d743bfd4fa9e00f3f15a1845ef3172bcf170e3",
-      "newHash": "119ac2168d2c59ac6422851aa84f00909be0d11a4e261b83f819cc7783aae1e0",
-      "title": "Camera AI Pro - Ubiquiti Store Europe"
-    },
-    {
-      "id": "TECH-HOME-CAMERA-POE-VALUE",
-      "url": "https://reolink.com/fr/product/rlc-810a/",
-      "detectedAt": "2026-10-17T08:39:36Z",
-      "oldHash": "1d489ca0af3cca3f35f8cbc7800cc3d14c9a71477a36f50f142843e1da5dfbe3",
-      "newHash": "b63a5d6febd64515bfb00e849d927484ea6bcdb76a4df3db0eabe36a3e1a054a",
-      "title": "[Officiel] Reolink RLC-810A | Caméra de sécurité PoE 4K avec détection intelligente"
-    },
-    {
-      "id": "TECH-HOME-ALARME-CONNECTEE-BEST",
-      "url": "https://ajax.systems/fr/",
-      "detectedAt": "2026-10-17T08:39:35Z",
-      "oldHash": "e31d1d251fa25cde81cc38ff27bc37adc1c7416b36493c9321f175b682ef314d",
-      "newHash": "463c64e18686da57ae594f8d0085f196f81c6979ab2b44dadc611682cd034998",
-      "title": "Système de sécurité Ajax | Site officiel"
-    },
-    {
-      "id": "TECH-HOME-ROBOT-ASPIRATEUR-ULTIME-VALUE",
-      "url": "https://fr.roborock.com/pages/robot-vacuum-cleaner",
-      "detectedAt": "2026-10-17T08:39:36Z",
-      "oldHash": "8d2267b0e78998469f476946db323e68f3fb178fa3fd33a4808cf83ef7bfe230",
-      "newHash": "e5fefb63362e9edde27701670a86ded8bdbb6bd5d354db1857ec7fde70cd2814",
-      "title": "Robots Aspirateurs | Roborock FR Official Store"
-    },
-    {
-      "id": "TECH-HOME-ASPIRATEUR-BALAI-BEST",
-      "url": "https://www.dyson.fr/aspirateurs/sans-fil/gen5detect",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "966183f6faba98411d53e7d8585314c415647bbbe77ff52ded069f1ce6c4823c",
-      "newHash": "9138cb80c23ce171cd1b4387c37db44bca2cec697e6be90d18719d4eb6c8342b",
-      "title": "Aspirateur Dyson Gen5detect™ | Dyson.fr"
-    },
-    {
-      "id": "TECH-HOME-THERMOSTAT-CONNECTE-BEST",
-      "url": "https://www.tado.com/fr-fr",
-      "detectedAt": "2026-10-17T08:39:36Z",
-      "oldHash": "109ebdbbc2cbc734b604c697663888b8d67267742be78cf44ffd242387c11fcc",
-      "newHash": "5d168826af61d130280cdbd6ac00218f57bb8bd45cfb56938f4d9e53cdd572b9",
-      "title": "Économisez en pilotant votre chauffage via une appli | tado°"
-    },
-    {
-      "id": "TECH-HOME-DETECTEUR-FUMEE-CONNECTE-VALUE",
-      "url": "https://www.x-sense.com/collections/smart-smoke-alarms",
-      "detectedAt": "2026-10-17T08:39:37Z",
-      "oldHash": "0b07dc191e3c702034daac6029e6ddf7336813be8c11e102339b20bed1761134",
-      "newHash": "307d9f48ddfe93d63357172fe562302a2e61c3fdbeacc080480735a274ed4955",
-      "title": "Smart Smoke Alarms for Home Safety | X-SENSE"
-    },
-    {
-      "id": "TECH-HOME-PRISE-CONNECTEE-BEST",
-      "url": "https://www.evehome.com/fr/eve-energy",
-      "detectedAt": "2026-10-17T08:39:37Z",
-      "oldHash": "899bf5040033b011493e67d0179f2700e07d78586de16d950c72bb45c2e20922",
-      "newHash": "6d3a568021b78c0e434937b0b53a0530336ef78bdf40be1eef7a4f841d54a7ac",
-      "title": "Eve Energy | evehome.com"
-    },
-    {
-      "id": "TECH-HOME-PRISE-CONNECTEE-VALUE",
-      "url": "https://www.tapo.com/fr/product/smart-plug/tapo-p110m/",
-      "detectedAt": "2026-10-17T08:39:37Z",
-      "oldHash": "6b43b4a6f6c763a353ddb3ec936090f2771a8c09feba3a69245667864618e64f",
-      "newHash": "2cb17c0525c4756fbb7f438b6f93a5bb994ba4852c9deb1b6ba2a5a5d67c1af1",
-      "title": "Tapo P110M | Mini Prise Connectée WiFi avec suivi de conso - Compatible Matter | Tapo"
-    },
-    {
-      "id": "TECH-HOME-ECRAN-CONNECTE-VALUE",
-      "url": "https://store.google.com/fr/product/nest_hub_2nd_gen?hl=fr",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "60a57036f26aae24c6a96deb194debd5f9dd6ee220f0117213265ea569734492",
-      "newHash": "59e2929351732a88358ed91cccfaafb196c597280dc94bffebfc26fe486b0625",
-      "title": ""
-    },
-    {
-      "id": "TECH-HOME-INTERPHONE-PORTAIL-VALUE",
-      "url": "https://reolink.com/fr/product/reolink-video-doorbell-poe/",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "ad5a898dc1a71368da6100825d6b0a9245487b48b4270609af27cd46d24f0cae",
-      "newHash": "42211f6b4cb41a3bc1f47da8d539dff1319fa5a58a206ce66c40927c984930cb",
-      "title": "Reolink PoE Doorbell | Sonnette vidéo PoE 2K+ intelligente"
-    },
-    {
-      "id": "TECH-DESK-CLAVIER-MECANIQUE-BUREAU-VALUE",
-      "url": "https://www.keychron.com/products/keychron-v1-max-qmk-via-wireless-custom-mechanical-keyboard",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "6b74affc4bd6c32eac673f83acafdac103b58e0e205f11b7c5f84f0beff28902",
-      "newHash": "235493a1d6b7b6ec581f544a90d93cffe070fc945e46ffd5eb34d7464c996918",
-      "title": "Keychron V1 Max QMK/VIA Wireless Custom Mechanical Keyboard"
-    },
-    {
-      "id": "TECH-DESK-CLAVIER-BUREAUTIQUE-BEST",
-      "url": "https://www.logitech.com/fr-fr/products/keyboards/mx-keys-s.html",
-      "detectedAt": "2026-10-17T08:39:37Z",
-      "oldHash": "0441fdc440a293818d93f2cdc15965371e3522622bbc992d29810adc3db4cdd4",
-      "newHash": "6bc3982e3d2ddde4fd715d75058a8b612617a010aa3cb93da5e5cdfb4730d1a4",
-      "title": "Acheter le clavier MX Keys S - Standard ou mini | Logitech"
-    },
-    {
-      "id": "TECH-DESK-CLAVIER-BUREAUTIQUE-VALUE",
-      "url": "https://www.logitech.com/fr-fr/products/keyboards.html",
-      "detectedAt": "2026-10-17T08:39:37Z",
-      "oldHash": "39fafea909a10abc7389a0caa21815413beae0d2b68ccb2fc48245dd5f21a4d9",
-      "newHash": "c6e487f9aa1a6d0564055b7a00b413a0541d8cb51f80ea308b7a59c94decdd20",
-      "title": "Claviers d'ordinateur - Sans fil, Bluetooth, mécaniques | Logitech"
-    },
-    {
-      "id": "TECH-DESK-SOURIS-BUREAUTIQUE-VALUE",
-      "url": "https://www.logitech.com/fr-fr/products/mice/lift-vertical-ergonomic-mouse.html",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "9e8c0f2612743f088d354572ce28f488504fccdaef71099ffe878f7e27a8dcd1",
-      "newHash": "af497e69f0a7e72a7e570dc45ea6c9488b8aa9369017fe5a6ab4d27862e3bed7",
-      "title": "Souris ergonomique verticale Lift | Logitech"
-    },
-    {
-      "id": "TECH-DESK-TRACKBALL-BEST",
-      "url": "https://www.logitech.com/fr-fr/products/mice.html",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "74d7e9db0b3e50864e73408bbf912063de39e2153585d55ef586c96c036e8544",
-      "newHash": "4a2e54fae5df4c69d5d86fb62f33890fefdb8f88cf6d7c8c264db77f3632ce7d",
-      "title": "Souris d'ordinateur - Souris sans fil, Bluetooth, filaire | Logitech"
-    },
-    {
-      "id": "TECH-DESK-DOCK-THUNDERBOLT-VALUE",
-      "url": "https://fr.ugreen.com/",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "fae728d1969b684dbf0e43d79176028f5f317586c6e54e72ba30224a155a69e6",
-      "newHash": "de48c196ce951fdb5091e0c403ff59f03151506b293167b9ea87adc00db7638f",
-      "title": "Chargeur, Hub USB, Station d'accueil et plus ! – UGREEN FR"
-    },
-    {
-      "id": "TECH-DESK-HUB-USB-C-BEST",
-      "url": "https://www.anker.com/eu-en/collections/hubs-and-docks",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "43180b35b6b421f30526777b60704eac66775fb3bf74d2a6c3def43bc687ead7",
-      "newHash": "aa5eb11d438383f381ecc022f18b480c6ce9db35652dfd2b70328d9b3f6b6969",
-      "title": "Huby i doki - Anker PL - Anker EU"
-    },
-    {
-      "id": "TECH-DESK-CHARGEUR-USB-C-BEST",
-      "url": "https://www.anker.com/eu-en/collections/chargers",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "ecf8f3402c510bcaa6c4634dcfb84a2d81ca35caef3e82a3428b635fa64a60c9",
-      "newHash": "fe07b743798b8c9d78f8a60a8fada5ca7b3550e983f1394e550d34f12eba1a19",
-      "title": "Chargers - Anker EU"
-    },
-    {
-      "id": "TECH-DESK-BATTERIE-EXTERNE-BEST",
-      "url": "https://www.anker.com/eu-en/collections/power-banks",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "ea676a13eaaa09a4fe9b4793d031c94edb9f9035d0cb44d4ee9e48b619eeb801",
-      "newHash": "98160d43530a2d2b1be51292b7c7e9b40149c434b13982acfd913192a7b0f6c9",
-      "title": "Powerbanki - Anker PL - Anker EU"
-    },
-    {
-      "id": "TECH-DESK-WEBCAM-CONFERENCE-VALUE",
-      "url": "https://www.logitech.com/fr-fr/products/webcams/brio-500-webcam.html",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "0217c99581e55c33f04adeb51a2dceae9950a4cb9fb4cb1e77517371af18589f",
-      "newHash": "b8d9a2971416e0d3f7819b776a23d51e855a4bf2f0f306a2260841718c6c62bb",
-      "title": "Webcam Brio 500 HDR 1080p avec mode Affichage | Logitech"
-    },
-    {
-      "id": "TECH-DESK-CONTROLEUR-DE-RACCOURCIS-BEST",
-      "url": "https://www.elgato.com/fr/fr/s/explore-stream-deck",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "6a3b5e3b20ce4a41543dbb363c2607c171ca729be09cb202486a02d92d923ba7",
-      "newHash": "44591d5f7220a32357a031b97e0a35b16c888f3dab6a003090eaf84b1328db95",
-      "title": "Explorez Stream Deck | Elgato"
-    },
-    {
-      "id": "TECH-DESK-ONDULEUR-BUREAU-BEST",
-      "url": "https://www.apc.com/fr/fr/product-range/61915-smartups/",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "ac4e63e54eb5bf6545f97a94c1071392ac117a8b59b4d707edd872009b54eebd",
-      "newHash": "2317755b03ebc04a4aaccd9adf228ac465fe7858500b838e71286902c7f55c53",
-      "title": "Smart-UPS - Onduleur – Professionnels | Schneider Electric France"
-    },
-    {
-      "id": "TECH-DESK-ONDULEUR-BUREAU-VALUE",
-      "url": "https://www.cyberpower.com/eu/fr/product/sku/cp1500epfclcd",
-      "detectedAt": "2026-10-17T08:39:41Z",
-      "oldHash": "582ef2229f028c758feb6ac7d0be2c1b0c1d03b14ad07760fe7c5aab9e6b9bbb",
-      "newHash": "645a62e5869a3ff6f888483cb3b3a0a0274c434dc67a90cc49d1c0bb847967cd",
-      "title": "CyberPower | UPS Systems, PDUs, Inverters | Professional Power Solutions"
-    },
-    {
-      "id": "TECH-DESK-BUREAU-ASSIS-DEBOUT-VALUE",
-      "url": "https://www.flexispot.fr/bureau-assis-debout",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "288f99a54b935dab3d73c9445474203c507b2f163aa09ba9ac5bd66162b71bfc",
-      "newHash": "35aed6f18a13fecb98ccac9b93ad86b9b769599e1a535e6d7575db945a002357",
-      "title": "Product details|FlexiSpot | FlexiSpot"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-ULTIME-BEST",
-      "url": "https://blog.bambulab.com/xcellence-made-simple-bambu-lab-presents-the-x2d/",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "9e01562198fe5c532c8878edcd2bcac86c4c7c049134b08ca3f4c9e9b7ee6ee8",
-      "newHash": "5cef35662352acd1f1e8917f3d1616cd0573d007af5f42380c03585841f12c33",
-      "title": "Xcellence made simple - Bambu Lab presents the X2D"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-ULTIME-VALUE",
-      "url": "https://bambulab.com/en/h2d",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "b7a070ec4b942f9a0dd3caf010e5866e02dd1ebc6dc3a5839b42870a4334e052",
-      "newHash": "24c654f6019b60ab1c07d438d50972047bda371623d663faa184031d86a1f8b8",
-      "title": "Bambu Lab H2D|3D Printer|Laser Engrave Cut|Plotting All-in-one | Bambu Lab"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-Q-P-VALUE",
-      "url": "https://bambulab.com/en/p1",
-      "detectedAt": "2026-10-17T08:39:38Z",
-      "oldHash": "a23726f936e3f094ce4afb6303d74d6089812884f76a98c80b3c740542d22b36",
-      "newHash": "9f913b67ff75655f284a32dd6e40ca8bf7fbcca85293b83467944ccd1757d5cd",
-      "title": "Bambu Lab P1 Series | Reliable Out-of-the-Box Performance | Bambu Lab"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-DEBUTANT-BEST",
-      "url": "https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "7c96d4b9755a36ad6b54387e4b440d4483eee0eaab02153300c7776037aaf3ee",
-      "newHash": "ef140d5596a50348d4ef5af68b0eec04217193ebcefbf3646e06a3ad833b6832",
-      "title": "MINI/+ | Original Prusa 3D printers directly from Josef Prusa"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-DEBUTANT-VALUE",
-      "url": "https://bambulab.com/en/a1-mini",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "082e69e264f9955a92344b7a28c8968b0d5de3b60c24db0ed57e1844560f09ad",
-      "newHash": "63aeb2f0c12028edf252a3f3023065f09288377585ab867e790296dc2bd86fc3",
-      "title": "Bambu Lab A1 mini | Desktop 3D Printer | A1 series | Bambu Lab"
-    },
-    {
-      "id": "TECH-MAKERS-DECOUPE-LASER-VALUE",
-      "url": "https://fr.xtool.com/products/xtool-s1-laser-cutter",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "fcdcf702ec0882a88706aac2e7855d81c5dfae45bbec14e49244afd5f6ae4966",
-      "newHash": "7c4aeb692f5df8a83e993edb7acd1057d252d054d77295dd58dfc8b8d0408296",
-      "title": "xTool France | Machines de Gravure, Découpe, Soudure & DTF"
-    },
-    {
-      "id": "TECH-MAKERS-CNC-DE-BUREAU-BEST",
-      "url": "https://shop.carbide3d.com/products/shapeoko5",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "1e96991e3d371b6224538ce48318ffa3670ecb9290ed6d79e910593bce87787d",
-      "newHash": "b842ac71a43bf8de55dea3f6175dac5ba8bdd4c20cf142298e190e07ca510279",
-      "title": "Shapeoko 5.1 Pro CNC Router - Carbide 3D"
-    },
-    {
-      "id": "TECH-MAKERS-CNC-DE-BUREAU-VALUE",
-      "url": "https://www.sainsmart.com/collections/genmitsu-cnc",
-      "detectedAt": "2026-10-17T08:39:40Z",
-      "oldHash": "a01b13df06843cffab8e0425865471e4b4d4a6da6fcbb11febebce0bc42596bd",
-      "newHash": "a44bb56774dfa76fba7f602b21c9a527c603911878784d932f6d39500ddfa144",
-      "title": "Genmitsu CNC & Engraving – SainSmart.com"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-DE-SOUDAGE-BEST",
-      "url": "https://www.jbctools.com/cd-2bqf-compact-soldering-station-product-1586.html",
-      "detectedAt": "2026-10-17T08:39:40Z",
-      "oldHash": "659858a60dac225919fc4191f9d252e495ad83fdfcf131a15993a481d842b5b6",
-      "newHash": "8926608b90142b3df81d5daa467ba01b56c1aa8bebf141b36d46c24c9b220963",
-      "title": "CAE CONTROL UNIT - CAE with Tip Claening System"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-DE-SOUDAGE-VALUE",
-      "url": "https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/",
-      "detectedAt": "2026-10-17T08:39:39Z",
-      "oldHash": "7998442c0b74c5fc91645b73bd8f35701f933bfee74ec340369d8a006ac4aa23",
-      "newHash": "9c14406897b546f361044d35486228e88a677cdee79a492453a88150ca2be1c8",
-      "title": "PINECIL – Smart Mini Portable Soldering Iron (Version 2) - PINE STORE"
-    },
-    {
-      "id": "TECH-MAKERS-MULTIMETRE-BEST",
-      "url": "https://www.fluke.com/fr-fr/produit/test-electrique/multimetres-numeriques/fluke-87v",
-      "detectedAt": "2026-10-17T08:39:40Z",
-      "oldHash": "837f4c4cb0b2c7ee4fa013c60241bcd6fad7a50ae4fa139cdf20e76ed9872f74",
-      "newHash": "eb4d698ced09287b4468855f15ea9eecaf81a98d80477033288fd53e93ad8d33",
-      "title": "Multimètre industriel Fluke 87V | Fluke"
-    },
-    {
-      "id": "TECH-MAKERS-MULTIMETRE-VALUE",
-      "url": "https://brymen.eu/shop/bm235/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "ea8042291673e4a60c5d71d9f0995efc23044e66f10c6975562a1a97e1814e65",
-      "newHash": "594106ea9997d7bcd28d6336a002530a453faa060c9c4e899c00c50556f0dc9e",
-      "title": "Brymen BM235 | True RMS Multimeter for Electricians"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-ELECTRIQUE-PORTABLE-VALUE",
-      "url": "https://www.ecoflow.com/fr/x-stream",
-      "detectedAt": "2026-10-17T08:39:41Z",
-      "oldHash": "5e9f1f7c130ebc7130760f55763c3b375627f3f4f1ef7a12204ec9f1247d4a85",
-      "newHash": "07ca467b01da0f2feeb971124725129b4258644d94759e41969686ead1594173",
-      "title": "x-stream | EcoFlow FR"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-ELECTRIQUE-COMPACTE-BEST",
-      "url": "https://fr.bluettipower.eu/pages/elite-200-v2-station-electrique-portable",
-      "detectedAt": "2026-10-17T08:39:40Z",
-      "oldHash": "f81271a7102564cc2a2ebe21f9186f27b8255131072dd2e2a9c2d8f27de27999",
-      "newHash": "c9654da6ea3c999f90a6a72b42512f09be70fdb1218a8d3ae6f74d6339b529aa",
-      "title": "BLUETTI Elite 200 V2 Station électrique portable - L'énergie ultime pour le hors-réseau, le camping et la sauvegarde de la maison - BLUETTI FR"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-ELECTRIQUE-COMPACTE-VALUE",
-      "url": "https://fr.bluettipower.eu/products/elite-30-v2-station-electrique-portable",
-      "detectedAt": "2026-10-17T08:39:40Z",
-      "oldHash": "4ebb160fbdf67f91d89f970f54c2b38db0ecd7cac7396b593cbcc97c8a8a3992",
-      "newHash": "9cd8dd451bcd9ca2996dd04bdc1c02e351e06e37b688601d5f1344f1957f4852",
-      "title": "BLUETTI Elite 30 V2 Station électrique portable | 600 W 288 Wh - BLUETTI FR"
-    },
-    {
-      "id": "TECH-MAKERS-DOMOTIQUE-ENERGIE-BEST",
-      "url": "https://www.shelly.com/products/shelly-pro-3em",
-      "detectedAt": "2026-10-17T08:39:41Z",
-      "oldHash": "8c73a9be5b699f57126433cf97d3f54af374bcc7ffe0630f2857e6e571aa5e87",
-      "newHash": "1aa024f4efaaad4bb92aa01907fbf5f233d182add5f5046f4a11d5d31a1758cd",
-      "title": "Shelly Smart Home Devices | Shelly Europe"
-    },
-    {
-      "id": "TECH-MAKERS-DOMOTIQUE-ENERGIE-VALUE",
-      "url": "https://www.ecojoko.com/",
-      "detectedAt": "2026-10-17T08:39:41Z",
-      "oldHash": "c31f66ca2cfdb432c75be59d92ced49bf63d521e8fbce08d3b83723410570fff",
-      "newHash": "a9a99e375ba2a25ccaca355a731e3ce590f478d1604324306a468703313991f0",
-      "title": "Ecojoko - mesurez et optimisez votre consommation d'électricité"
-    },
-    {
-      "id": "TECH-MAKERS-ORDINATEUR-MONOCARTE-BEST",
-      "url": "https://developer.nvidia.com/embedded/jetson-agx-orin-developer-kit",
-      "detectedAt": "2026-10-17T08:39:41Z",
-      "oldHash": "b1a2739be22674dfad3efabcec8feee0505d48718e0b6bae32282d499df257a2",
-      "newHash": "f65bd01c45e421b929f9d53fa8e7ecd85a77944a78364900be5ec3805ec2fae9",
-      "title": "Jetson AGX Orin for Next-Gen Robotics | NVIDIA"
-    },
-    {
-      "id": "TECH-MAKERS-KIT-ROBOTIQUE-BEST",
-      "url": "https://education.lego.com/fr-fr/products/lego-education-spike-prime-set/45678/",
-      "detectedAt": "2026-10-17T08:39:40Z",
-      "oldHash": "caa760c7f154d17bdade5a3023c7856fb7559270d7a95cc3680e20bc5acb58ef",
-      "newHash": "eba7d94a05f9e4360cc5825bf31364e17c76713124edb8a0aa902b334c6e90b4",
-      "title": "SPIKE™ Prime – STEAM Set - Grades 6 - 8 | LEGO® Education"
-    },
-    {
-      "id": "TECH-AUTO-10535B70F6FA",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/reinventing-organic-redox-flow-batteries-with-microsoft-discovery/4552343",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "97a2f6b28e88447e88298b37c82500cbbfcb839e45bb190bb21aa446ef7d6381",
-      "newHash": "abaf5fa78254aaba7b4d67c768329cd30a4aadf2bf63df4eac2536c346b889ea",
-      "title": "Reinventing Organic Redox Flow Batteries with Microsoft Discovery | Microsoft Community Hub"
-    },
-    {
-      "id": "TECH-MOBILITY-TROTTINETTE-URBAINE-VALUE",
-      "url": "https://www.mi.com/fr/electric-scooter/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "9fdc046bfbd9dd8c740d854038cd6c491f274f09034bd12442f5593902c87ea7",
-      "newHash": "85f730f823903d791ecfd3119c7dc798e8b14f80d0764f9b1372bd792b114f06",
-      "title": ""
-    },
-    {
-      "id": "TECH-MOBILITY-VELO-ELECTRIQUE-URBAIN-BEST",
-      "url": "https://moustachebikes.com/fr/velos-electriques/lundi-27/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "c0398886f3aa029966b6b1babc5f831d6cf95d91ee6408aca3e2d2a5a5106bc4",
-      "newHash": "85e9c0c0efeb55a9294a2337cbf16a6806cf08cdb87ddadedea74a1c1f974e64",
-      "title": "Lundi 27 - Moustache Bikes"
-    },
-    {
-      "id": "TECH-MOBILITY-GPS-VELO-BEST",
-      "url": "https://www.garmin.com/fr-FR/p/1196129/",
-      "detectedAt": "2026-10-17T08:39:41Z",
-      "oldHash": "1817a24cae7e2fe43ae5b89b1078097db1d6839031083bdd6bbee73898050489",
-      "newHash": "ff996b42ab773a0bfb680433727e3cc9d220288c5e276c161c9b83913f42f8b1",
-      "title": "Garmin Edge® 1050 | Compteur de vélo haut de gamme"
-    },
-    {
-      "id": "TECH-MOBILITY-GPS-VELO-VALUE",
-      "url": "https://www.garmin.com/fr-FR/p/798938/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "04926369d4dc5fe164ddb8979006c04c77b9243121225200d3b593015ce05aa9",
-      "newHash": "1cac543a916c93f0d66d37bbec487497e54c93b1dfc69e6f2ce82472b14d44d8",
-      "title": "Garmin Edge® 540 | Ordinateur de vélo | Cyclisme"
-    },
-    {
-      "id": "TECH-MOBILITY-GPS-MOTO-BEST",
-      "url": "https://www.garmin.com/fr-FR/p/867974/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "9d6e047c33c7c27e98cb954ed0aa5062167199b94fa7748340aa7ab6f5d18da6",
-      "newHash": "a4e25ccbb92e7ffb4f0956b78582f83fbe5856ffdec48a1a8643fa39f4d2caca",
-      "title": "Garmin zūmo® XT2 | GPS pour moto"
-    },
-    {
-      "id": "TECH-MOBILITY-TRACEUR-D-OBJET-BEST",
-      "url": "https://www.apple.com/fr/airtag/",
-      "detectedAt": "2026-10-17T08:39:41Z",
-      "oldHash": "211439e4fee3d3afc87c754a6934b7aaf9e5b8d83c882d5420ab36e42f234605",
-      "newHash": "2af48da53b0d66650ccafb23cd55ab358ff0b52c6cf8a233821596fc5bc65554",
-      "title": "AirTag – Apple (FR)"
-    },
-    {
-      "id": "TECH-MOBILITY-TRACEUR-D-OBJET-VALUE",
-      "url": "https://www.samsung.com/fr/mobile-accessories/galaxy-smarttag2-black-ei-t5600bbegeu/",
-      "detectedAt": "2026-10-17T08:39:41Z",
-      "oldHash": "95167a8a48e4a81b0105a3e098203d17d69de7daf688c3ae6b25768a728f06f4",
-      "newHash": "8eb50e044e434bda8a6180f4c85ae5dcdd204807031194039098d722a22407e8",
-      "title": "Tracker Bluetooth Galaxy SmartTag2 Anthracite | Samsung FR"
-    },
-    {
-      "id": "TECH-MOBILITY-COMPRESSEUR-PORTABLE-BEST",
-      "url": "https://www.bosch-diy.com/fr/fr/p/easypump-0603947000",
-      "detectedAt": "2026-10-17T08:39:44Z",
-      "oldHash": "110e9e4470a51b3942f6f7a899521a23b34d41a1921803629049ac2c883cf1db",
-      "newHash": "6b2467bcfd9f0f4a5d8c8eed00f1ab36a1e22baed3d926fb95eda833732ecdb4",
-      "title": "EasyPump Pompe à air comprimé sans fil | Bosch DIY"
-    },
-    {
-      "id": "TECH-MOBILITY-COMPRESSEUR-PORTABLE-VALUE",
-      "url": "https://www.mi.com/fr/product/xiaomi-portable-electric-air-compressor-2/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "34e59df02fcd12f10710e02d5d5ff07d403864b63941587ae980b5dd9069ea59",
-      "newHash": "752956cfc36e31984424f708d610af36ad9151ee92f9befc2b452d090cf15175",
-      "title": "Xiaomi Portable Electric Air Compressor 2 | Xiaomi France | Toutes les spécifications et fonctionnalités"
-    },
-    {
-      "id": "TECH-MOBILITY-DEMARREUR-BATTERIE-BEST",
-      "url": "https://no.co/gbx155",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "b68426b5ae5b8854b9f962ac46e7e210a499b6379760143f67fc5450b41ca7db",
-      "newHash": "a64de73d1a8c504c026622e4079338f1c5c897fe4fa85f588d868fbea973fe2d",
-      "title": "NOCO - 4250A Lithium Jump Starter - GBX155"
-    },
-    {
-      "id": "TECH-MOBILITY-DEMARREUR-BATTERIE-VALUE",
-      "url": "https://no.co/gb40",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "f113d9e7734cc152247e7e0fabc88746b744b751a852768d6ed373a8195a2910",
-      "newHash": "720e0e97c8b4d7ba769432a78578f7c8d89c0b3c3534a05a15fd14740e96333a",
-      "title": "NOCO - 1000A Lithium Jump Starter - GB40"
-    },
-    {
-      "id": "TECH-MOBILITY-SUPPORT-TELEPHONE-VOITURE-BEST",
-      "url": "https://www.peakdesign.com/eu/pages/mobile",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "456b6a2027d3f9e1d9a816687db05fc06d8edb4fb59db109c19d57f98d80b440",
-      "newHash": "2506c0802da1fb224e6b6b2df065b86a31f86e0bce2cca9160c64d03d1cceada",
-      "title": "mobile | Peak Design Official Site"
-    },
-    {
-      "id": "GUIDE-002",
-      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "671c4d107df361d39dc68eff12c2a895bb1666856be1a814f553fe52d71fc7d7",
-      "newHash": "cdfd1f26a7070e75fa4e4a623320d9609f8d1245e99954beb8ae3d397effaae8",
-      "title": "GeForce RTX 50 Series Graphics Cards | NVIDIA"
-    },
-    {
-      "id": "GUIDE-005",
-      "url": "https://rog.asus.com/fr/laptops/rog-zephyrus/rog-zephyrus-duo-2026/",
-      "detectedAt": "2026-10-17T08:39:43Z",
-      "oldHash": "c402834d5e5c06070ce673925bb8645079c92ac4f6f4bebf2dcadf2594c39df6",
-      "newHash": "6b28e7ebb2018a783f4d129227b1be458d2a26548f342877ce8545025f9fda69",
-      "title": "ROG Zephyrus Duo (2026) GX651 | ROG Zephyrus | Gaming Ordinateurs portables｜ROG - Republic of Gamers｜ROG France"
-    },
-    {
-      "id": "GUIDE-006",
-      "url": "https://www.apple.com/fr/iphone/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "e679702a28d408e0922d33e7cdd32861f54fd0a8ab118b4d3f132e668209da61",
-      "newHash": "f850465df29bb49d6e3a336ddcdafaa8163e344c18208c537fbc3f4274106f53",
-      "title": "iPhone - Apple (FR)"
-    },
-    {
-      "id": "GUIDE-007",
-      "url": "https://store.google.com/fr/product/pixel_10a?hl=fr",
-      "detectedAt": "2026-10-17T08:39:44Z",
-      "oldHash": "21d1b5addb5f2032b3a1b17a33826fcdc84b3a1b06a72d673cec90444fe1f988",
-      "newHash": "02ffeb4fbe29aaa26172c0bb257a45abbf079c0545235ebf394ceec3d8a46fd4",
-      "title": ""
-    },
-    {
-      "id": "GUIDE-008",
-      "url": "https://www.apple.com/fr/ipad/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "5285d98433ea8c0e21d1e71e6ca829228e9ca2ccd85b95e86b7476bac05e91ad",
-      "newHash": "d83af46ecef88d23015b23907eeceedfe6baa000494b10b412dd42c5e44f6417",
-      "title": "iPad - Apple (FR)"
-    },
-    {
-      "id": "GUIDE-009",
-      "url": "https://www.amazon.fr/kindle-scribe-colorsoft/dp/B0FC1K5QZ9",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "3fafe29d02f615177cc6f77e1b2eaf72af1f41da652901103033ea03fcd82bb9",
-      "newHash": "021170fdcf270e940c5b047d03818379ed24f8892b1fe8ced3553fa1062e2a71",
-      "title": "Amazon Kindle Scribe Colorsoft 64 Go (nouvelle génération) : écran couleur 11\" effet papier, éclairage avant ; fin, léger, puissant ; écrivez dans le carnet, les documents et les livres (graphite) : Amazon.fr: Autres"
-    },
-    {
-      "id": "GUIDE-010",
-      "url": "https://www.garmin.com/fr-FR/p/1703902/",
-      "detectedAt": "2026-10-17T08:39:42Z",
-      "oldHash": "3e8e1996ee511f3defd9db36814480a893d373c853531032b4a998667fe6474b",
-      "newHash": "a5eb3966e3b1ac53aa9fc45409ad0b8f4ee43b19958027f55f4b42b11effa0f9",
-      "title": "Garmin fenix 8 Pro | Montre connectée multisports haut de gamme | 51 mm"
-    },
-    {
-      "id": "GUIDE-011",
-      "url": "https://www.lg.com/fr/tv-barres-de-son/oled-evo/lg-oled55g64lw/",
-      "detectedAt": "2026-10-17T08:39:45Z",
-      "oldHash": "ef5e42aee851639bd640f4ef85d5c2c62903ec58c0616ade0b8bc09d84fed254",
-      "newHash": "07a144bf5695974fc31eaa940a92e12305314b26fc3659aac97889d2d2ab4649",
-      "title": "Smart TV LG OLED evo AI 4K G6 2026 55 pouces - OLED55G64LW.AEU | FR | LG France"
-    },
-    {
-      "id": "GUIDE-012",
-      "url": "https://www.lg.com/fr/tv-barres-de-son/oled/oled65b6elc/",
-      "detectedAt": "2026-10-17T08:39:43Z",
-      "oldHash": "94ef59eaa27c8b4277dbb4174af983f3e330dbebc797466a895056373dabb27f",
-      "newHash": "2d7890be3179660e4cb78e048cdddcabf8a8d1313a46f7c47bc26be364ccb233",
-      "title": "65 pouces (164 cm) | LG OLED AI B6E | 4K Smart TV | 2026 | LG France"
-    },
-    {
-      "id": "GUIDE-013",
-      "url": "https://news.samsung.com/fr/gamme-moniteurs-2026",
-      "detectedAt": "2026-10-17T08:39:43Z",
-      "oldHash": "8aa74e1e698b6f925c414d22b1ffe3203f620a10e7f8d3a048245f8a41f20cb7",
-      "newHash": "e34304d45951ed382392c8a9363bdb419435cd333ca75f0499b1347226d25ad0",
-      "title": "Samsung dévoile la nouvelle génération de moniteurs Odyssey et ViewFinity, dont le premier écran de jeu 6K du marché – Samsung Newsroom France"
-    },
-    {
-      "id": "GUIDE-015",
-      "url": "https://www.epson.fr/fr_FR/produits/projector/home-cin%C3%A9ma/eh-ls9000w---projecteur-laser-4k-pour-home-cin%C3%A9ma/p/54430",
-      "detectedAt": "2026-10-17T08:39:44Z",
-      "oldHash": "66580fccf888f5832ab250ed2dd626a7d653c75e5e82d43b50125ab3a63ad205",
-      "newHash": "021c91cdeb54c248c90713b97e3d317636c647ab51c0402704ea3f49bc2ea9d6",
-      "title": "EH-LS9000W - Projecteur laser 4K pour home cinéma | Home cinéma | Projecteurs | Produits | Epson France"
-    },
-    {
-      "id": "GUIDE-019",
-      "url": "https://www.playstation.com/fr-fr/ps5/ps5-pro/",
-      "detectedAt": "2026-10-17T08:39:43Z",
-      "oldHash": "bab9537e5d6219d39e72f448ae09adf828e9b1ee4256ef6f1ecf952646030fb2",
-      "newHash": "f4037fa040ff8da2042933db230471096d13ad9b0d594d9ca3b081013fd7ef07",
-      "title": "PlayStation®5 Pro | Découvrez Play Unleashed (France)"
-    },
-    {
-      "id": "GUIDE-020",
-      "url": "https://store.nintendo.com/fr-fr/nintendo-switch-2",
-      "detectedAt": "2026-10-17T08:39:43Z",
-      "oldHash": "db642879dac08dd8ec48c6b1ea020cba4b6e20b2f3c491ac91af10d6833a5fd5",
-      "newHash": "bccdc71d9cac0041949b75e3701ecae29e9240d7ec4182ff69eef7207b3c4ca7",
-      "title": ""
-    },
-    {
-      "id": "GUIDE-021",
-      "url": "https://rog.asus.com/fr/gaming-handhelds/rog-ally/rog-ally-x-2024/",
-      "detectedAt": "2026-10-17T08:39:45Z",
-      "oldHash": "7ab04caf3da037f5363feea382e7d9c410087c2d8cd5deccac1e50271f7e5668",
-      "newHash": "3886b69c2c0bd139c66b79f77631662387b2ba23e4d0ec5aadeca374dd99362b",
-      "title": "ROG Ally X (2024) | Console portable ASUS｜ROG France"
-    },
-    {
-      "id": "GUIDE-022",
-      "url": "https://www.meta.com/fr/quest/quest-3/",
-      "detectedAt": "2026-10-17T08:39:43Z",
-      "oldHash": "0794c77ffbd6250a5d77212de9b6fecc9a6327189ada2bfb7ee17aebb8a62ee3",
-      "newHash": "b680438a511890698599aaaac848155de96ab6a1612d13d79d3093e01cc6f510",
-      "title": "Meta Quest 3 : casque de réalité virtuelle nouvelle génération | Meta Store (fr-FR)"
-    },
-    {
-      "id": "GUIDE-026",
-      "url": "https://www.asus.com/fr/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-be88u/",
-      "detectedAt": "2026-10-17T08:39:50Z",
-      "oldHash": "79a3b6dc28f0a3b6d9516c6efe9b896a5a933e8e54b52705e2c08e6c4a90153b",
-      "newHash": "ca39a96e66e17c20a35a965bc933111f29a2866525dfd84a10b4e4bf72c24ddb",
-      "title": "RT-BE88U｜｜ASUS France"
-    },
-    {
-      "id": "GUIDE-027",
-      "url": "https://www.asus.com/fr/networking-iot-servers/whole-home-mesh-systems/asus-zenwifi/asus-zenwifi-bq16/techspec/",
-      "detectedAt": "2026-10-17T08:39:45Z",
-      "oldHash": "319ff92971af78394f3f1b95db469a3e6bd5766897cc8bb8c9ee90c18e4ae376",
-      "newHash": "a53eddc0f9746a1827b26fca9700b39e941c7bc4e463ca8dc72915c57f9a537c",
-      "title": "ASUS ZenWiFi BQ16 - Caractéristiques techniques｜Systèmes Mesh pour toute la maison｜ASUS France"
-    },
-    {
-      "id": "GUIDE-028",
-      "url": "https://event.synology.com/fr-fr/enhance-your-nas",
-      "detectedAt": "2026-10-17T08:39:44Z",
-      "oldHash": "7d880a7b270f4ee88ecef6558bf8937103e30a056f68ee7d82fdb21ac649c666",
-      "newHash": "d33fd1aad6d618ff9cb774238dfb68dc9ce12b2ebb8be318661de6b4e087a0bf",
-      "title": "Upgrade your NAS with flash storage, 10GbE, and added memory"
-    },
-    {
-      "id": "GUIDE-029",
-      "url": "https://www.samsung.com/fr/memory-storage/portable-ssd/portable-ssd-t9-4tb-black-mu-pg4t0b-eu/",
-      "detectedAt": "2026-10-17T08:39:44Z",
-      "oldHash": "12d7739c0c6bdf8b512ef49b12ffe62ca92584d64c737c74edd678dcdb830e00",
-      "newHash": "203c6052722ef82b535e9666742dd69e097db0c6d9c76d7c34441d243740519e",
-      "title": "SSD Externe T9 USB 3.2 - 4 To (MU-PG4T0B/EU) | Samsung FR"
-    },
-    {
-      "id": "GUIDE-030",
-      "url": "https://www.philips-hue.com/fr-fr/support/article/philips-hue-and-matter-complete-setup-and-support-guide/000012",
-      "detectedAt": "2026-10-17T08:39:44Z",
-      "oldHash": "2d3248af6dd6a17605155113aaaca40d78fffc0e617f206f21d12a7923774067",
-      "newHash": "bd67ed2972336267467c606b66374f24a1e7f5930ac1412eb585206a8aa247f7",
-      "title": "Philips Hue et Matter : guide de configuration et de support complet | Philips Hue FR"
-    },
-    {
-      "id": "GUIDE-032",
-      "url": "https://www.keychron.com/products/keychron-q1-max-qmk-via-wireless-custom-mechanical-keyboard",
-      "detectedAt": "2026-10-17T08:39:45Z",
-      "oldHash": "06557a195b9e6829ddbd33186d60a20b34a48474fc6a1dae9ceebd9e0350c474",
-      "newHash": "e8f1f3cb1e29f088e45d02a8c20f468f3edae10f4140f7d84defeab98b4d9a9b",
-      "title": "Keychron Q1 Max QMK/VIA Wireless Custom Mechanical Keyboard"
-    },
-    {
-      "id": "GUIDE-035",
-      "url": "https://www.epson.fr/fr_FR/for-home/ecotank",
-      "detectedAt": "2026-10-17T08:39:45Z",
-      "oldHash": "6075a6be0c7f85e22c733330dd8803c259fea04b611ce035a957e1bdf411f9f2",
-      "newHash": "180e3f6bf1c664b58bb1000db55610e5809bbc8cfd92444a0c488adc0c77f86d",
-      "title": "Pour les particuliers | Imprimantes EcoTank | Epson France"
-    },
-    {
-      "id": "GUIDE-037",
-      "url": "https://www.prusa3d.com/product/prusa-core-one/",
-      "detectedAt": "2026-10-17T08:39:45Z",
-      "oldHash": "39f0bda7fca67c84c9deff6cefe766d93ac31c8cdea3137aee64ae018c0ed04d",
-      "newHash": "e7fb49a0fd3a6616b795c809b3d6177566068e77f82330e9a19fcafb9e48adae",
-      "title": "Prusa CORE One+ (Gen 2) | Original Prusa 3D printers directly from Josef Prusa"
-    },
-    {
-      "id": "GUIDE-038",
-      "url": "https://fr.bluettipower.eu/products/apex-300-batterie-de-secours-domestique",
-      "detectedAt": "2026-10-17T08:39:45Z",
-      "oldHash": "01f4766cca32bffe4b7a0eabc5015c26fc85b7739490f97f88c6223387255cdf",
-      "newHash": "52a44e197392f5760eeb5fbfb75ceabca2bbcd19a5d981c1bda744e865f5568a",
-      "title": "BLUETTI Apex 300 Station d'alimentation polyvalente | 3 840 W, 2 764,8 - BLUETTI FR"
-    },
-    {
-      "id": "PC-QP-1440P-03",
-      "url": "https://www.asus.com/fr/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850-pro-wifi7-w-neo/",
-      "detectedAt": "2026-10-17T08:39:47Z",
-      "oldHash": "539a7c3d1c698f6562cfd0f64ae1d6953762b7c0e47b07c3ae0e2268b19b1cb4",
-      "newHash": "4628eb5b33a5f7d48aab48fcd7f85a39070fef833ebcbf7cbe85e5adf7fb4dd5",
-      "title": "TUF GAMING B850-PRO WIFI7 W NEO｜Cartes mères｜ASUS France"
-    },
-    {
-      "id": "PC-QP-1440P-04",
-      "url": "https://www.crucial.fr/campaigns/pro-mode/gamer",
-      "detectedAt": "2026-10-17T08:39:45Z",
-      "oldHash": "67209c5fea625d2490525606dd909bfe6e780da62147237c9287217e3c13dc93",
-      "newHash": "462b24126a1030000909332dadf0a593f0620ebd29bcc25014f54c3a2cf34ae7",
-      "title": "Request Rejected"
-    },
-    {
-      "id": "PC-QP-1440P-05",
-      "url": "https://www.westerndigital.com/fr-fr/products/internal-drives/wd-black-sn850x-nvme-ssd",
-      "detectedAt": "2026-10-17T08:39:57Z",
-      "oldHash": "22720ba677b548b06e9048199417cd2ed1ba1928bba84aa30bf6a6eb0b912fc6",
-      "newHash": "7c0c1fbec565445ce41c4aa4ef2768b2550bfac9e4f610cb002031130f63e20f",
-      "title": ""
-    },
-    {
-      "id": "PC-QP-1440P-06",
-      "url": "https://www.thermalright.com/product/phantom-spirit-120-se/",
-      "detectedAt": "2026-10-17T08:39:46Z",
-      "oldHash": "9a327dd3d953ff30f904150dafb01dbba01bd7c24d907283fcac0d69ecdb4282",
-      "newHash": "16a698c3a3141f3482c8ad8a41c4c54bdc6954dd6012c544dcb5ed051ddc4a0a",
-      "title": "Phantom Spirit 120 SE – Thermalright"
-    },
-    {
-      "id": "PC-QP-1440P-08",
-      "url": "https://lian-li.com/product/lancool-207/",
-      "detectedAt": "2026-10-17T08:39:49Z",
-      "oldHash": "5f5700074924dae770caefa62505280be6a2812ebcd601df332411321aad4f04",
-      "newHash": "4ff2900094d20253c3b1c0206f9186429a19c836f2f18f0b791bacdcee4ad4a8",
-      "title": "LANCOOL 207 - LIAN LI is a Leading Provider of PC Cases | Computer Cases"
-    },
-    {
-      "id": "PC-QP-1440P-09",
-      "url": "https://www.arctic.de/en/P12-PWM-PST/",
-      "detectedAt": "2026-10-17T08:39:53Z",
-      "oldHash": "0b98045011aa8a4354802387fcd1f4a231af9d6145d6b9ef86a269dacd1057a0",
-      "newHash": "66af35da8eeab9a2c783d0d1bc9d305818f09b6c00ecede11526e369f4616d9e",
-      "title": "P12 PWM PST A-RGB | 120 mm A-RGB PWM Fan with Cable Splitter | ARCTIC"
-    },
-    {
-      "id": "PC-PREMIUM-4K-04",
-      "url": "https://www.gskill.com/products/1/165/390/Trident-Z5-Neo-RGB-DDR5-AMD-EXPO",
-      "detectedAt": "2026-10-17T08:39:48Z",
-      "oldHash": "edca6e08971d6f93e79a683798264a5b42b85ec287da0d5dec01be331b424574",
-      "newHash": "6af81642cb7a98d2f46e15e4efb0ed554c209ccbe9f7c5436b0217c1725eae4a",
-      "title": ""
-    },
-    {
-      "id": "PC-PREMIUM-4K-05",
-      "url": "https://www.samsung.com/fr/memory-storage/nvme-ssd/9100-pro-4tb-nvme-pcie-gen-5-mz-vap4t0bw/",
-      "detectedAt": "2026-10-17T08:39:47Z",
-      "oldHash": "c3aa6ecef4a33ffb91f680fd76cd34c12715974a325989ca133d7f77883f0eb0",
-      "newHash": "a6b099c8b48b94104e16370a4afa501f95142dd61bf4d7264581ef03dc9b8b0d",
-      "title": "SSD Interne 9100 PRO PCIe® 5.0 x4 - 4 To (MZ-VAP4T0BW) | Samsung FR"
-    },
-    {
-      "id": "PC-PREMIUM-4K-08",
-      "url": "https://www.fractal-design.com/products/cases/north/north-xl/",
-      "detectedAt": "2026-10-17T08:39:47Z",
-      "oldHash": "d301dd5b1ca178f86b2bae3da1dc69a8a98b469112931b21ba03ecc594fce03d",
-      "newHash": "33c46ff8f8e46a882a766e9f63cf3905e9c24c7c80635fad622df9a3b177fa67",
-      "title": "North XL Chalk White Mesh | Fractal Design"
-    },
-    {
-      "id": "PC-ULTIME-03",
-      "url": "https://www.asus.com/fr/motherboards-components/motherboards/proart/proart-x870e-creator-wifi/",
-      "detectedAt": "2026-10-17T08:39:51Z",
-      "oldHash": "374840d4cfda0c5e8c4530a3d90aa1199706bb0b552d16281eec4f9ac44c8c5f",
-      "newHash": "22971091ed496cb46fd6f919c446ebd98417e55ef7ef61d4b8bab0a623dec083",
-      "title": "ProArt X870E-CREATOR WIFI｜Cartes mères｜ASUS France"
-    },
-    {
-      "id": "PC-ULTIME-04",
-      "url": "https://www.corsair.com/fr/fr/c/memory/ddr5-ram",
-      "detectedAt": "2026-10-17T08:39:50Z",
-      "oldHash": "0725b1c7fb299b627f8aaa4d06df77752c18e885d7eb48a3719593311bb737a5",
-      "newHash": "d1b6f8c3dc0f8d9d7a2807610d36af1f364402cfd125c1c52a46feb816fc914c",
-      "title": "Mémoire RAM DDR5 | Mémoire gaming DDR5 pour ordinateur | CORSAIR"
-    },
-    {
-      "id": "PC-ULTIME-06",
-      "url": "https://www.seagate.com/fr/fr/products/nas-drives/ironwolf-hard-drive/",
-      "detectedAt": "2026-10-17T08:39:48Z",
-      "oldHash": "0e3d224fbb69d1a41b126f84db76f42f50d193e7f7f785d63f91af05616ea64f",
-      "newHash": "8c2fd29a81eee98d1764d7ede3ffa0847971703319cb4a022b04e96698f52b94",
-      "title": "Disques durs NAS Seagate IronWolf (stockage NAS) | Seagate France"
-    },
-    {
-      "id": "PC-ULTIME-07",
-      "url": "https://www.arctic.de/en/Liquid-Freezer-III-Pro-420/",
-      "detectedAt": "2026-10-17T08:39:56Z",
-      "oldHash": "58cedf639f55def895f4287f188d52b9d43959c2b7437ef96b79cba357718407",
-      "newHash": "cd3407bd56eb88044b61c6001acf48260195b1cc8cdbec2375e7d059c2442dc9",
-      "title": "Liquid Freezer III Pro 420 | Multi Compatible All-in-One CPU Water Cooler | ARCTIC"
-    },
-    {
-      "id": "TECH-HOME-PRISE-CONNECTEE-VALUE",
-      "url": "https://www.tapo.com/fr/product/smart-plug/tapo-p110m/",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "eeb5b6917df2b60cb5dfd7d474389b0337430c4f8a7920f38b6d310d063b2834",
-      "newHash": "6b43b4a6f6c763a353ddb3ec936090f2771a8c09feba3a69245667864618e64f",
-      "title": "Tapo P110M | Mini Prise Connectée WiFi avec suivi de conso - Compatible Matter | Tapo"
-    },
-    {
-      "id": "TECH-HOME-ECRAN-CONNECTE-VALUE",
-      "url": "https://store.google.com/fr/product/nest_hub_2nd_gen?hl=fr",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "3e45f51d6407ee0bfe278c389c2b1809b2ab26ba948bc7cfca5da2f83fe57787",
-      "newHash": "60a57036f26aae24c6a96deb194debd5f9dd6ee220f0117213265ea569734492",
-      "title": ""
-    },
-    {
-      "id": "TECH-HOME-INTERPHONE-PORTAIL-VALUE",
-      "url": "https://reolink.com/fr/product/reolink-video-doorbell-poe/",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "d3aa3781863502e762da1c81d662b80c6ac9a1545383005913cae42bb551f077",
-      "newHash": "ad5a898dc1a71368da6100825d6b0a9245487b48b4270609af27cd46d24f0cae",
-      "title": "Reolink PoE Doorbell | Sonnette vidéo PoE 2K+ intelligente"
-    },
-    {
-      "id": "TECH-DESK-CLAVIER-MECANIQUE-BUREAU-VALUE",
-      "url": "https://www.keychron.com/products/keychron-v1-max-qmk-via-wireless-custom-mechanical-keyboard",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "6eaa7a6f7960fa26baa69399b3a05d585702acacbbe4f88665f68b72346b6a91",
-      "newHash": "6b74affc4bd6c32eac673f83acafdac103b58e0e205f11b7c5f84f0beff28902",
-      "title": "Keychron V1 Max QMK/VIA Wireless Custom Mechanical Keyboard"
-    },
-    {
-      "id": "TECH-DESK-CLAVIER-BUREAUTIQUE-BEST",
-      "url": "https://www.logitech.com/fr-fr/products/keyboards/mx-keys-s.html",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "c41a211a41ec0047a184da0f0533f818e8a822844385e4992f1c6970af0ac6fa",
-      "newHash": "0441fdc440a293818d93f2cdc15965371e3522622bbc992d29810adc3db4cdd4",
-      "title": "Acheter le clavier MX Keys S - Standard ou mini | Logitech"
-    },
-    {
-      "id": "TECH-DESK-CLAVIER-BUREAUTIQUE-VALUE",
-      "url": "https://www.logitech.com/fr-fr/products/keyboards.html",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "3f44beedb0674642c26c2d8fcec600619338fc90e2ee2999c3006adb1c261f02",
-      "newHash": "39fafea909a10abc7389a0caa21815413beae0d2b68ccb2fc48245dd5f21a4d9",
-      "title": "Claviers d'ordinateur - Sans fil, Bluetooth, mécaniques | Logitech"
-    },
-    {
-      "id": "TECH-DESK-SOURIS-BUREAUTIQUE-VALUE",
-      "url": "https://www.logitech.com/fr-fr/products/mice/lift-vertical-ergonomic-mouse.html",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "f99fabae8b69fa0a10af04564440328ca4c16fa9038a4d242ab0d5768cc9027b",
-      "newHash": "9e8c0f2612743f088d354572ce28f488504fccdaef71099ffe878f7e27a8dcd1",
-      "title": "Souris ergonomique verticale Lift | Logitech"
-    },
-    {
-      "id": "TECH-DESK-TRACKBALL-BEST",
-      "url": "https://www.logitech.com/fr-fr/products/mice.html",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "ce4db69165b7ddae712d3c8f6c5d4314725520c8b8ae0232a69335a58a71193b",
-      "newHash": "74d7e9db0b3e50864e73408bbf912063de39e2153585d55ef586c96c036e8544",
-      "title": "Souris d'ordinateur - Souris sans fil, Bluetooth, filaire | Logitech"
-    },
-    {
-      "id": "TECH-DESK-DOCK-THUNDERBOLT-VALUE",
-      "url": "https://fr.ugreen.com/",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "70508983aa5102d52adc7bbb60dd59b375505a736bb574e1971d0c1ac960ebd1",
-      "newHash": "fae728d1969b684dbf0e43d79176028f5f317586c6e54e72ba30224a155a69e6",
-      "title": "Chargeur, Hub USB, Station d'accueil et plus ! – UGREEN FR"
-    },
-    {
-      "id": "TECH-DESK-HUB-USB-C-BEST",
-      "url": "https://www.anker.com/eu-en/collections/hubs-and-docks",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "85f90b77b3b4f49f068b6ba7bcf469205a18cf0a5f3e04b83eb86335f906dd80",
-      "newHash": "43180b35b6b421f30526777b60704eac66775fb3bf74d2a6c3def43bc687ead7",
-      "title": "Huby i doki - Anker PL - Anker EU"
-    },
-    {
-      "id": "TECH-DESK-CHARGEUR-USB-C-BEST",
-      "url": "https://www.anker.com/eu-en/collections/chargers",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "22b1655c4f15ce4491dee5fb0c0a1abea253a08478eaff2949625ccff276f19f",
-      "newHash": "ecf8f3402c510bcaa6c4634dcfb84a2d81ca35caef3e82a3428b635fa64a60c9",
-      "title": "Chargers - Anker EU"
-    },
-    {
-      "id": "TECH-DESK-BATTERIE-EXTERNE-BEST",
-      "url": "https://www.anker.com/eu-en/collections/power-banks",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "fed2c35c48ba93444380e1f7fb2414a95292c11ef7557ee197618b4043917c9b",
-      "newHash": "ea676a13eaaa09a4fe9b4793d031c94edb9f9035d0cb44d4ee9e48b619eeb801",
-      "title": "Powerbanki - Anker PL - Anker EU"
-    },
-    {
-      "id": "TECH-DESK-WEBCAM-CONFERENCE-VALUE",
-      "url": "https://www.logitech.com/fr-fr/products/webcams/brio-500-webcam.html",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "a32e2de5c5687db3cdb35a16bc8fd539a5ec1cd803e548aa2d042d6389440d0a",
-      "newHash": "0217c99581e55c33f04adeb51a2dceae9950a4cb9fb4cb1e77517371af18589f",
-      "title": "Webcam Brio 500 HDR 1080p avec mode Affichage | Logitech"
-    },
-    {
-      "id": "TECH-DESK-CONTROLEUR-DE-RACCOURCIS-BEST",
-      "url": "https://www.elgato.com/fr/fr/s/explore-stream-deck",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "df00cfb909b8c352ed670b425e5b03e5cc67c7a693d122e5310f0c1a7626a941",
-      "newHash": "6a3b5e3b20ce4a41543dbb363c2607c171ca729be09cb202486a02d92d923ba7",
-      "title": "Explorez Stream Deck | Elgato"
-    },
-    {
-      "id": "TECH-DESK-ONDULEUR-BUREAU-BEST",
-      "url": "https://www.apc.com/fr/fr/product-range/61915-smartups/",
-      "detectedAt": "2026-10-10T10:41:46Z",
-      "oldHash": "4f0a83f468e5e4fa092c028d94bd4fe9ebe8dbfc698d6dacde4c0411dacfd5c9",
-      "newHash": "ac4e63e54eb5bf6545f97a94c1071392ac117a8b59b4d707edd872009b54eebd",
-      "title": "Smart-UPS - Onduleur – Professionnels | Schneider Electric France"
-    },
-    {
-      "id": "TECH-DESK-ONDULEUR-BUREAU-VALUE",
-      "url": "https://www.cyberpower.com/eu/fr/product/sku/cp1500epfclcd",
-      "detectedAt": "2026-10-10T10:41:46Z",
-      "oldHash": "02c0eed0c1ef31e2f26fa299c96769fc0437c376da7ef4907638070aeea64330",
-      "newHash": "582ef2229f028c758feb6ac7d0be2c1b0c1d03b14ad07760fe7c5aab9e6b9bbb",
-      "title": "CyberPower | UPS Systems, PDUs, Inverters | Professional Power Solutions"
-    },
-    {
-      "id": "TECH-DESK-BUREAU-ASSIS-DEBOUT-VALUE",
-      "url": "https://www.flexispot.fr/bureau-assis-debout",
-      "detectedAt": "2026-10-10T10:41:45Z",
-      "oldHash": "c16cd6125c84bf189ca1c2ef9f3971eff92fa8ce6489fbb29cfe316cd7e27a80",
-      "newHash": "288f99a54b935dab3d73c9445474203c507b2f163aa09ba9ac5bd66162b71bfc",
-      "title": "Product details|FlexiSpot | FlexiSpot"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-ULTIME-BEST",
-      "url": "https://blog.bambulab.com/xcellence-made-simple-bambu-lab-presents-the-x2d/",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "ef0a2d196c160dc34ab91a1129baa578bb2cac4a47afbc7b5e8a046c8da37df2",
-      "newHash": "9e01562198fe5c532c8878edcd2bcac86c4c7c049134b08ca3f4c9e9b7ee6ee8",
-      "title": "Xcellence made simple - Bambu Lab presents the X2D"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-ULTIME-VALUE",
-      "url": "https://bambulab.com/en/h2d",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "4a27fc2761ae752e79d7d8f4f570d682251ff6a6ecf0b1a54fe7091186028386",
-      "newHash": "b7a070ec4b942f9a0dd3caf010e5866e02dd1ebc6dc3a5839b42870a4334e052",
-      "title": "Bambu Lab H2D|3D Printer|Laser Engrave Cut|Plotting All-in-one | Bambu Lab"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-Q-P-VALUE",
-      "url": "https://bambulab.com/en/p1",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "3ea9be2df85aafe2b18b6b1b98db0c18ee16e349f05ec2ef2577867ef256bb6c",
-      "newHash": "a23726f936e3f094ce4afb6303d74d6089812884f76a98c80b3c740542d22b36",
-      "title": "Bambu Lab P1 Series | Reliable Out-of-the-Box Performance | Bambu Lab"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-DEBUTANT-BEST",
-      "url": "https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/",
-      "detectedAt": "2026-10-10T10:41:45Z",
-      "oldHash": "57f01e2c6301774d43ca4b9e95ceeae00d88e2ccae61791db6036d14c6af9c92",
-      "newHash": "7c96d4b9755a36ad6b54387e4b440d4483eee0eaab02153300c7776037aaf3ee",
-      "title": "MINI/+ | Original Prusa 3D printers directly from Josef Prusa"
-    },
-    {
-      "id": "TECH-MAKERS-IMPRIMANTE-3D-DEBUTANT-VALUE",
-      "url": "https://bambulab.com/en/a1-mini",
-      "detectedAt": "2026-10-10T10:41:43Z",
-      "oldHash": "973a7dc26734efd8012f71455fca18204a4d477ccdbd2ca91ec465bde6dab801",
-      "newHash": "082e69e264f9955a92344b7a28c8968b0d5de3b60c24db0ed57e1844560f09ad",
-      "title": "Bambu Lab A1 mini | Desktop 3D Printer | A1 series | Bambu Lab"
-    },
-    {
-      "id": "TECH-MAKERS-DECOUPE-LASER-VALUE",
-      "url": "https://fr.xtool.com/products/xtool-s1-laser-cutter",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "16a111c9ff02d7e42f70e0fbdef40761b3c78ac338cba2a4ffe492167674b572",
-      "newHash": "fcdcf702ec0882a88706aac2e7855d81c5dfae45bbec14e49244afd5f6ae4966",
-      "title": "xTool France | Machines de Gravure, Découpe, Soudure & DTF"
-    },
-    {
-      "id": "TECH-MAKERS-CNC-DE-BUREAU-BEST",
-      "url": "https://shop.carbide3d.com/products/shapeoko5",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "636182a8225021dbc4e171d5492a47fb69e6207894382334d7dba694a32bfcab",
-      "newHash": "1e96991e3d371b6224538ce48318ffa3670ecb9290ed6d79e910593bce87787d",
-      "title": "Shapeoko 5.1 Pro CNC Router - Carbide 3D"
-    },
-    {
-      "id": "TECH-MAKERS-CNC-DE-BUREAU-VALUE",
-      "url": "https://www.sainsmart.com/collections/genmitsu-cnc",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "9da56d48d86fc1705d1c14d874c4a0e2677525c1e1e0ff79f2b983a84bb65c9c",
-      "newHash": "a01b13df06843cffab8e0425865471e4b4d4a6da6fcbb11febebce0bc42596bd",
-      "title": "Genmitsu CNC & Engraving – SainSmart.com"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-DE-SOUDAGE-BEST",
-      "url": "https://www.jbctools.com/cd-2bqf-compact-soldering-station-product-1586.html",
-      "detectedAt": "2026-10-10T10:41:45Z",
-      "oldHash": "ba024ab5eba4eb6ef65e99fd42a0cd231fcbddab5dcefad00251926859b8c6af",
-      "newHash": "659858a60dac225919fc4191f9d252e495ad83fdfcf131a15993a481d842b5b6",
-      "title": "CAE CONTROL UNIT - CAE with Tip Claening System"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-DE-SOUDAGE-VALUE",
-      "url": "https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "a72c8a410c3e700417faed1d47d746dcd7800856add77fbd60af501df21d0784",
-      "newHash": "7998442c0b74c5fc91645b73bd8f35701f933bfee74ec340369d8a006ac4aa23",
-      "title": "PINECIL – Smart Mini Portable Soldering Iron (Version 2) - PINE STORE"
-    },
-    {
-      "id": "TECH-MAKERS-OSCILLOSCOPE-VALUE",
-      "url": "https://www.rigolna.com/products/digital-oscilloscopes/dho800/",
-      "detectedAt": "2026-10-10T10:41:44Z",
-      "oldHash": "c58254a856b5a111ecd0f5665ee43563c31a5194ede3d79605c72843f1e80b81",
-      "newHash": "2bda8f9a43e3d31abac54425ac4c0257580eeb0bc43bfca63448949249b187e4",
-      "title": "DHO800 | RIGOL"
-    },
-    {
-      "id": "TECH-MAKERS-MULTIMETRE-VALUE",
-      "url": "https://brymen.eu/shop/bm235/",
-      "detectedAt": "2026-10-10T10:41:46Z",
-      "oldHash": "7c572b4cba4ca0719541fbd6c47b9a38319f7132b6e97072bbb433a3ea73b5ae",
-      "newHash": "ea8042291673e4a60c5d71d9f0995efc23044e66f10c6975562a1a97e1814e65",
-      "title": "Brymen BM235 | True RMS Multimeter for Electricians"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-ELECTRIQUE-PORTABLE-VALUE",
-      "url": "https://www.ecoflow.com/fr/x-stream",
-      "detectedAt": "2026-10-10T10:41:46Z",
-      "oldHash": "1a1e15a2ba0b440ba61dc71ff9f546c26fc2ebdddb5aed3c6a3fa7760adefa68",
-      "newHash": "5e9f1f7c130ebc7130760f55763c3b375627f3f4f1ef7a12204ec9f1247d4a85",
-      "title": "x-stream | EcoFlow FR"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-ELECTRIQUE-COMPACTE-BEST",
-      "url": "https://fr.bluettipower.eu/pages/elite-200-v2-station-electrique-portable",
-      "detectedAt": "2026-10-10T10:41:45Z",
-      "oldHash": "37c08060a7cf9c707781d39ad7c367442dccec22a4ad9f864aec184e83312042",
-      "newHash": "f81271a7102564cc2a2ebe21f9186f27b8255131072dd2e2a9c2d8f27de27999",
-      "title": "BLUETTI Elite 200 V2 Station électrique portable - L'énergie ultime pour le hors-réseau, le camping et la sauvegarde de la maison - BLUETTI FR"
-    },
-    {
-      "id": "TECH-MAKERS-STATION-ELECTRIQUE-COMPACTE-VALUE",
-      "url": "https://fr.bluettipower.eu/products/elite-30-v2-station-electrique-portable",
-      "detectedAt": "2026-10-10T10:41:45Z",
-      "oldHash": "444ffd9d385afba1f5979fc4a49d5c98c22f120c25f1df2971a8c931bd628b8d",
-      "newHash": "4ebb160fbdf67f91d89f970f54c2b38db0ecd7cac7396b593cbcc97c8a8a3992",
-      "title": "BLUETTI Elite 30 V2 Station électrique portable | 600 W 288 Wh - BLUETTI FR"
-    },
-    {
-      "id": "TECH-MAKERS-DOMOTIQUE-ENERGIE-BEST",
-      "url": "https://www.shelly.com/products/shelly-pro-3em",
-      "detectedAt": "2026-10-10T10:41:46Z",
-      "oldHash": "a12104b1b92f52858f24d8d8fa44a29cef4a9899f863ec2fa78c9914a9516b6f",
-      "newHash": "8c73a9be5b699f57126433cf97d3f54af374bcc7ffe0630f2857e6e571aa5e87",
-      "title": ""
-    },
-    {
-      "id": "TECH-MAKERS-DOMOTIQUE-ENERGIE-VALUE",
-      "url": "https://www.ecojoko.com/",
-      "detectedAt": "2026-10-10T10:41:46Z",
-      "oldHash": "a0e4ba1a3dc10ac8cd04a0f25a1568de6e01da837a096a6b7cc9fd9e169c7dfa",
-      "newHash": "c31f66ca2cfdb432c75be59d92ced49bf63d521e8fbce08d3b83723410570fff",
-      "title": "Ecojoko - mesurez et optimisez votre consommation d'électricité"
-    },
-    {
-      "id": "TECH-MAKERS-ORDINATEUR-MONOCARTE-BEST",
-      "url": "https://developer.nvidia.com/embedded/jetson-agx-orin-developer-kit",
-      "detectedAt": "2026-10-10T10:41:45Z",
-      "oldHash": "0597023154cf48034fbd2b4e88c40381597ce231cd505ede0f944855020b50e7",
-      "newHash": "b1a2739be22674dfad3efabcec8feee0505d48718e0b6bae32282d499df257a2",
-      "title": "Jetson AGX Orin for Next-Gen Robotics | NVIDIA"
-    },
-    {
-      "id": "TECH-MAKERS-KIT-ROBOTIQUE-BEST",
-      "url": "https://education.lego.com/fr-fr/products/lego-education-spike-prime-set/45678/",
-      "detectedAt": "2026-10-10T10:41:45Z",
-      "oldHash": "acd0a7210dacc1cc868e1bbcf440309a483f7272e3206663f947fefbb7492e66",
-      "newHash": "caa760c7f154d17bdade5a3023c7856fb7559270d7a95cc3680e20bc5acb58ef",
-      "title": "SPIKE™ Prime – STEAM Set - Grades 6 - 8 | LEGO® Education"
-    },
-    {
-      "id": "TECH-AUTO-10535B70F6FA",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/reinventing-organic-redox-flow-batteries-with-microsoft-discovery/4552343",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "0302dc44d6e47a43263d5ddbc5086bae110dbb0107663f4032d0e2f7406208ce",
-      "newHash": "97a2f6b28e88447e88298b37c82500cbbfcb839e45bb190bb21aa446ef7d6381",
-      "title": "Reinventing Organic Redox Flow Batteries with Microsoft Discovery | Microsoft Community Hub"
-    },
-    {
-      "id": "TECH-MOBILITY-TROTTINETTE-URBAINE-VALUE",
-      "url": "https://www.mi.com/fr/electric-scooter/",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "85f730f823903d791ecfd3119c7dc798e8b14f80d0764f9b1372bd792b114f06",
-      "newHash": "9fdc046bfbd9dd8c740d854038cd6c491f274f09034bd12442f5593902c87ea7",
-      "title": "404 - Mi France"
-    },
-    {
-      "id": "TECH-MOBILITY-VELO-ELECTRIQUE-URBAIN-BEST",
-      "url": "https://moustachebikes.com/fr/velos-electriques/lundi-27/",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "d371cbcd45f756617d6127c816246661289ec7bd812bcc5dea7f2543257b9332",
-      "newHash": "c0398886f3aa029966b6b1babc5f831d6cf95d91ee6408aca3e2d2a5a5106bc4",
-      "title": "Lundi 27 - Moustache Bikes"
-    },
-    {
-      "id": "TECH-MOBILITY-GPS-VELO-BEST",
-      "url": "https://www.garmin.com/fr-FR/p/1196129/",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "ddc31c9eca3a626720e896d423feaa14155d67533f7adb6bd9d8912f12ca7f5d",
-      "newHash": "1817a24cae7e2fe43ae5b89b1078097db1d6839031083bdd6bbee73898050489",
-      "title": "Garmin Edge® 1050 | Compteur de vélo haut de gamme"
-    },
-    {
-      "id": "TECH-MOBILITY-GPS-VELO-VALUE",
-      "url": "https://www.garmin.com/fr-FR/p/798938/",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "f7b8264f185227745270e5a1f6dcd221a806ad0af31fa65499d9eb14869bcfea",
-      "newHash": "04926369d4dc5fe164ddb8979006c04c77b9243121225200d3b593015ce05aa9",
-      "title": "Garmin Edge® 540 | Ordinateur de vélo | Cyclisme"
-    },
-    {
-      "id": "TECH-MOBILITY-GPS-MOTO-BEST",
-      "url": "https://www.garmin.com/fr-FR/p/867974/",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "f2cfabaa7b09bbd37b26aa408a07da9560a86847b25e1e899eb9451537702540",
-      "newHash": "9d6e047c33c7c27e98cb954ed0aa5062167199b94fa7748340aa7ab6f5d18da6",
-      "title": "Garmin zūmo® XT2 | GPS pour moto"
-    },
-    {
-      "id": "TECH-MOBILITY-TRACEUR-D-OBJET-VALUE",
-      "url": "https://www.samsung.com/fr/mobile-accessories/galaxy-smarttag2-black-ei-t5600bbegeu/",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "31a3033464fa55d40f021838a7b689f322f4f94f971d777b076ac014291785e7",
-      "newHash": "95167a8a48e4a81b0105a3e098203d17d69de7daf688c3ae6b25768a728f06f4",
-      "title": "Tracker Bluetooth Galaxy SmartTag2 Anthracite | Samsung FR"
-    },
-    {
-      "id": "TECH-MOBILITY-COMPRESSEUR-PORTABLE-BEST",
-      "url": "https://www.bosch-diy.com/fr/fr/p/easypump-0603947000",
-      "detectedAt": "2026-10-10T10:41:48Z",
-      "oldHash": "6fa66068e19dc7f71fdbc1e38d9a3e57b4fd76b06f5de68ef24df0df2cd730a3",
-      "newHash": "110e9e4470a51b3942f6f7a899521a23b34d41a1921803629049ac2c883cf1db",
-      "title": "EasyPump Pompe à air comprimé sans fil | Bosch DIY"
-    },
-    {
-      "id": "TECH-MOBILITY-COMPRESSEUR-PORTABLE-VALUE",
-      "url": "https://www.mi.com/fr/product/xiaomi-portable-electric-air-compressor-2/",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "9eadd95ff8ebfdffdfa7d4bfedaa739b342466883fae2ac7dbcfe1dd45a5018a",
-      "newHash": "34e59df02fcd12f10710e02d5d5ff07d403864b63941587ae980b5dd9069ea59",
-      "title": "Xiaomi Portable Electric Air Compressor 2 | Xiaomi France | Toutes les spécifications et fonctionnalités"
-    },
-    {
-      "id": "TECH-MOBILITY-DEMARREUR-BATTERIE-BEST",
-      "url": "https://no.co/gbx155",
-      "detectedAt": "2026-10-10T10:41:48Z",
-      "oldHash": "95ca1ba31051c4b87ce45ae0394eafc14589943eab5159e9f0b6c8e4351a0cd4",
-      "newHash": "b68426b5ae5b8854b9f962ac46e7e210a499b6379760143f67fc5450b41ca7db",
-      "title": "NOCO - 4250A Lithium Jump Starter - GBX155"
-    },
-    {
-      "id": "TECH-MOBILITY-DEMARREUR-BATTERIE-VALUE",
-      "url": "https://no.co/gb40",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "7449beb3ab41e07a22975f95c440e8e7ebdb92ea29793fc463bd446ad2d15afc",
-      "newHash": "f113d9e7734cc152247e7e0fabc88746b744b751a852768d6ed373a8195a2910",
-      "title": "NOCO - 1000A Lithium Jump Starter - GB40"
-    },
-    {
-      "id": "TECH-MOBILITY-SUPPORT-TELEPHONE-VOITURE-BEST",
-      "url": "https://www.peakdesign.com/eu/pages/mobile",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "9683340ab20b352b56f16f2f5d2ac8abbc0003bfe75fd4c7d4e17fd7e43cd378",
-      "newHash": "456b6a2027d3f9e1d9a816687db05fc06d8edb4fb59db109c19d57f98d80b440",
-      "title": "mobile | Peak Design Official Site"
-    },
-    {
-      "id": "SRC-AUTO-4A2D53C5B8EB",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "1903adfbe49098921681420c0931235df03f3b518ea3fcc085744722c4e4290f",
-      "newHash": "66ffb734548aee565fd1415784d8127c71cb4ef6c85a02738aec592e9917f295",
-      "title": "We’re exploring a potential data center in Lea County, New Mexico."
-    },
-    {
-      "id": "GUIDE-002",
-      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/",
-      "detectedAt": "2026-10-10T10:41:47Z",
-      "oldHash": "f4d9f3319336ed5de22871832c0a113fa4d60207ee6c2ed1c0f7fc0c628fd46b",
-      "newHash": "671c4d107df361d39dc68eff12c2a895bb1666856be1a814f553fe52d71fc7d7",
-      "title": "GeForce RTX 50 Series Graphics Cards | NVIDIA"
-    },
-    {
-      "id": "GUIDE-005",
-      "url": "https://rog.asus.com/fr/laptops/rog-zephyrus/rog-zephyrus-duo-2026/",
-      "detectedAt": "2026-10-10T10:41:48Z",
-      "oldHash": "dcbcc13c88ad2360039dd28c3aba61dbc8c9ad13b88c7e2186ecd0ad416025d9",
-      "newHash": "c402834d5e5c06070ce673925bb8645079c92ac4f6f4bebf2dcadf2594c39df6",
-      "title": "ROG Zephyrus Duo (2026) GX651 | ROG Zephyrus | Gaming Ordinateurs portables｜ROG - Republic of Gamers｜ROG France"
-    },
-    {
-      "id": "GUIDE-007",
-      "url": "https://store.google.com/fr/product/pixel_10a?hl=fr",
-      "detectedAt": "2026-10-10T10:41:49Z",
-      "oldHash": "79de5fa6086f1bc98231894cdd1bd416e66850e1a2dfd02eed8087aa05228acc",
-      "newHash": "21d1b5addb5f2032b3a1b17a33826fcdc84b3a1b06a72d673cec90444fe1f988",
-      "title": ""
-    },
-    {
-      "id": "GUIDE-009",
-      "url": "https://www.amazon.fr/kindle-scribe-colorsoft/dp/B0FC1K5QZ9",
-      "detectedAt": "2026-10-10T10:41:48Z",
-      "oldHash": "3fd88a01def1d9defac1a5e21e072e55de4d2cdaf287aef8a86462928795bc48",
-      "newHash": "3fafe29d02f615177cc6f77e1b2eaf72af1f41da652901103033ea03fcd82bb9",
-      "title": "Amazon Kindle Scribe Colorsoft 64 Go (nouvelle génération) : écran couleur 11\" effet papier, éclairage avant ; fin, léger, puissant ; écrivez dans le carnet, les documents et les livres (graphite) : Amazon.fr: Autres"
-    },
-    {
-      "id": "GUIDE-010",
-      "url": "https://www.garmin.com/fr-FR/p/1703902/",
-      "detectedAt": "2026-10-10T10:41:53Z",
-      "oldHash": "ab5a1fe28c5c51d5af9ac68d9e45cc71350991b04d03d6aecec320d4fe70996b",
-      "newHash": "3e8e1996ee511f3defd9db36814480a893d373c853531032b4a998667fe6474b",
-      "title": "Garmin fenix 8 Pro | Montre connectée multisports haut de gamme | 51 mm"
-    },
-    {
-      "id": "GUIDE-011",
-      "url": "https://www.lg.com/fr/tv-barres-de-son/oled-evo/lg-oled55g64lw/",
-      "detectedAt": "2026-10-10T10:41:48Z",
-      "oldHash": "f02dcf6afb71cf0dc32b6be4e64dbed47edc3c9b45f0751aae627ec7778641d0",
-      "newHash": "ef5e42aee851639bd640f4ef85d5c2c62903ec58c0616ade0b8bc09d84fed254",
-      "title": "Smart TV LG OLED evo AI 4K G6 2026 55 pouces - OLED55G64LW.AEU | FR | LG France"
-    },
-    {
-      "id": "GUIDE-012",
-      "url": "https://www.lg.com/fr/tv-barres-de-son/oled/oled65b6elc/",
-      "detectedAt": "2026-10-10T10:41:50Z",
-      "oldHash": "acc55463004d7e1cb68bb97886b8d19cdd4abe56449a15d9ba17bf6ae8637bf7",
-      "newHash": "94ef59eaa27c8b4277dbb4174af983f3e330dbebc797466a895056373dabb27f",
-      "title": "65 pouces (164 cm) | LG OLED AI B6E | 4K Smart TV | 2026 | LG France"
-    },
-    {
-      "id": "GUIDE-013",
-      "url": "https://news.samsung.com/fr/gamme-moniteurs-2026",
-      "detectedAt": "2026-10-10T10:41:48Z",
-      "oldHash": "ac5cabdd8fd0cd7ebb74de9dc5daf6b72b27588c44d875540f597f9c3dff0267",
-      "newHash": "8aa74e1e698b6f925c414d22b1ffe3203f620a10e7f8d3a048245f8a41f20cb7",
-      "title": "Samsung dévoile la nouvelle génération de moniteurs Odyssey et ViewFinity, dont le premier écran de jeu 6K du marché – Samsung Newsroom France"
-    },
-    {
-      "id": "GUIDE-015",
-      "url": "https://www.epson.fr/fr_FR/produits/projector/home-cin%C3%A9ma/eh-ls9000w---projecteur-laser-4k-pour-home-cin%C3%A9ma/p/54430",
-      "detectedAt": "2026-10-10T10:41:49Z",
-      "oldHash": "186ef96f32a786a1c9fcd0711cfcc74261ee9f37e31f66805928e26c17f9b4b1",
-      "newHash": "66580fccf888f5832ab250ed2dd626a7d653c75e5e82d43b50125ab3a63ad205",
-      "title": "EH-LS9000W - Projecteur laser 4K pour home cinéma | Home cinéma | Projecteurs | Produits | Epson France"
-    },
-    {
-      "id": "GUIDE-018",
-      "url": "https://www.sonos.com/fr-fr/blog/c/brand",
-      "detectedAt": "2026-10-10T10:41:48Z",
-      "oldHash": "a90f42413c88e9b59fcbb7909ef5f7d1538edf302ee43ceaf0cb3156d1ac7425",
-      "newHash": "89d5044b16ce4f8b2c1c9c85b2667048a6daaa5c1ef866a62501926e571f9e79",
-      "title": "Marque | Blog Sonos"
-    },
-    {
-      "id": "GUIDE-019",
-      "url": "https://www.playstation.com/fr-fr/ps5/ps5-pro/",
-      "detectedAt": "2026-10-10T10:41:48Z",
-      "oldHash": "f42a36341f7b4c0a0606293a09671180a67077af89e231025de91ad21d21e116",
-      "newHash": "bab9537e5d6219d39e72f448ae09adf828e9b1ee4256ef6f1ecf952646030fb2",
-      "title": "PlayStation®5 Pro | Découvrez Play Unleashed (France)"
-    },
-    {
-      "id": "GUIDE-020",
-      "url": "https://store.nintendo.com/fr-fr/nintendo-switch-2",
-      "detectedAt": "2026-10-10T10:41:49Z",
-      "oldHash": "46e7ef877391b23e6e6ce2c15d4ba4bf5fca5f971481013f7324b1b73dfc95bd",
-      "newHash": "db642879dac08dd8ec48c6b1ea020cba4b6e20b2f3c491ac91af10d6833a5fd5",
-      "title": ""
-    },
-    {
-      "id": "GUIDE-021",
-      "url": "https://rog.asus.com/fr/gaming-handhelds/rog-ally/rog-ally-x-2024/",
-      "detectedAt": "2026-10-10T10:41:51Z",
-      "oldHash": "af8ad1cdaf94858bfc2b430d6fd7937eaad4a8a0e1ab8b36301028f96b8ac728",
-      "newHash": "7ab04caf3da037f5363feea382e7d9c410087c2d8cd5deccac1e50271f7e5668",
-      "title": "ROG Ally X (2024) | Console portable ASUS｜ROG France"
-    },
-    {
-      "id": "GUIDE-022",
-      "url": "https://www.meta.com/fr/quest/quest-3/",
-      "detectedAt": "2026-10-10T10:41:49Z",
-      "oldHash": "5fea862b730601f69a46dba48065ce4d83eb3ec395ddc94535f86aa777af9888",
-      "newHash": "0794c77ffbd6250a5d77212de9b6fecc9a6327189ada2bfb7ee17aebb8a62ee3",
-      "title": "Meta Quest 3 : casque de réalité virtuelle nouvelle génération | Meta Store (fr-FR)"
-    },
-    {
-      "id": "GUIDE-026",
-      "url": "https://www.asus.com/fr/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-be88u/",
-      "detectedAt": "2026-10-10T10:41:54Z",
-      "oldHash": "72b638fd009204351fbc30c8b356953b618748795793b3331e6a6a752553bdf1",
-      "newHash": "79a3b6dc28f0a3b6d9516c6efe9b896a5a933e8e54b52705e2c08e6c4a90153b",
-      "title": "RT-BE88U｜｜ASUS France"
-    },
-    {
-      "id": "GUIDE-027",
-      "url": "https://www.asus.com/fr/networking-iot-servers/whole-home-mesh-systems/asus-zenwifi/asus-zenwifi-bq16/techspec/",
-      "detectedAt": "2026-10-10T10:41:54Z",
-      "oldHash": "f57e82636cf03986438a27005bf0ce952b2a423cb6bb67bb7ef7c71226a5f540",
-      "newHash": "319ff92971af78394f3f1b95db469a3e6bd5766897cc8bb8c9ee90c18e4ae376",
-      "title": "ASUS ZenWiFi BQ16 - Caractéristiques techniques｜Systèmes Mesh pour toute la maison｜ASUS France"
-    },
-    {
-      "id": "GUIDE-028",
-      "url": "https://event.synology.com/fr-fr/enhance-your-nas",
-      "detectedAt": "2026-10-10T10:41:50Z",
-      "oldHash": "2568e4235229ba49f16d10bae7cd10f8b2935e9760753f0d8d2247080f316ee8",
-      "newHash": "7d880a7b270f4ee88ecef6558bf8937103e30a056f68ee7d82fdb21ac649c666",
-      "title": "Upgrade your NAS with flash storage, 10GbE, and added memory"
-    },
-    {
-      "id": "GUIDE-029",
-      "url": "https://www.samsung.com/fr/memory-storage/portable-ssd/portable-ssd-t9-4tb-black-mu-pg4t0b-eu/",
-      "detectedAt": "2026-10-10T10:41:49Z",
-      "oldHash": "778b2bed29da572422867e094cc2b25d2887429ffac473d680ac93bf90cae628",
-      "newHash": "12d7739c0c6bdf8b512ef49b12ffe62ca92584d64c737c74edd678dcdb830e00",
-      "title": "SSD Externe T9 USB 3.2 - 4 To (MU-PG4T0B/EU) | Samsung FR"
-    },
-    {
-      "id": "GUIDE-030",
-      "url": "https://www.philips-hue.com/fr-fr/support/article/philips-hue-and-matter-complete-setup-and-support-guide/000012",
-      "detectedAt": "2026-10-10T10:41:50Z",
-      "oldHash": "78e078f3d13eec27f537b0549e6c7ce0309d14dafc8e0c733053a865f027af70",
-      "newHash": "2d3248af6dd6a17605155113aaaca40d78fffc0e617f206f21d12a7923774067",
-      "title": "Philips Hue et Matter : guide de configuration et de support complet | Philips Hue FR"
-    },
-    {
-      "id": "GUIDE-032",
-      "url": "https://www.keychron.com/products/keychron-q1-max-qmk-via-wireless-custom-mechanical-keyboard",
-      "detectedAt": "2026-10-10T10:41:51Z",
-      "oldHash": "b2410d0cc067dc032231be0e7be15b0d8675e2c3c194f9a07db759aec9fa035d",
-      "newHash": "06557a195b9e6829ddbd33186d60a20b34a48474fc6a1dae9ceebd9e0350c474",
-      "title": "Keychron Q1 Max QMK/VIA Wireless Custom Mechanical Keyboard"
-    },
-    {
-      "id": "GUIDE-035",
-      "url": "https://www.epson.fr/fr_FR/for-home/ecotank",
-      "detectedAt": "2026-10-10T10:41:50Z",
-      "oldHash": "051c3232f275261c4926c3d2bd53baf6512215d17f17d4ec8d70d9fbc3711cc9",
-      "newHash": "6075a6be0c7f85e22c733330dd8803c259fea04b611ce035a957e1bdf411f9f2",
-      "title": "Pour les particuliers | Imprimantes EcoTank | Epson France"
-    },
-    {
-      "id": "GUIDE-037",
-      "url": "https://www.prusa3d.com/product/prusa-core-one/",
-      "detectedAt": "2026-10-10T10:41:51Z",
-      "oldHash": "9e69019f4f32f8f32b3e612367ea611b47462d6317cf53d61babec47e45d0ba2",
-      "newHash": "39f0bda7fca67c84c9deff6cefe766d93ac31c8cdea3137aee64ae018c0ed04d",
-      "title": "Prusa CORE One+ (Gen 2) | Original Prusa 3D printers directly from Josef Prusa"
-    },
-    {
-      "id": "GUIDE-038",
-      "url": "https://fr.bluettipower.eu/products/apex-300-batterie-de-secours-domestique",
-      "detectedAt": "2026-10-10T10:41:51Z",
-      "oldHash": "462ad1367ba8db5058c350293e749d65118b98e1c1d0862654d089eb1af2edd4",
-      "newHash": "01f4766cca32bffe4b7a0eabc5015c26fc85b7739490f97f88c6223387255cdf",
-      "title": "BLUETTI Apex 300 Station d'alimentation polyvalente | 3 840 W, 2 764,8 - BLUETTI FR"
-    },
-    {
-      "id": "PC-QP-1440P-03",
-      "url": "https://www.asus.com/fr/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b850-pro-wifi7-w-neo/",
-      "detectedAt": "2026-10-10T10:41:55Z",
-      "oldHash": "d40de6e25dfcb5b7de90ccaf5a6fbd714dffd1e6295c31a8a34465f4eff0de03",
-      "newHash": "539a7c3d1c698f6562cfd0f64ae1d6953762b7c0e47b07c3ae0e2268b19b1cb4",
-      "title": "TUF GAMING B850-PRO WIFI7 W NEO｜Cartes mères｜ASUS France"
-    },
-    {
-      "id": "PC-QP-1440P-04",
-      "url": "https://www.crucial.fr/campaigns/pro-mode/gamer",
-      "detectedAt": "2026-10-10T10:41:51Z",
-      "oldHash": "9213bd6ae3cb923675b107bc349093bd312339f5131cee333d31c1cde71e28df",
-      "newHash": "67209c5fea625d2490525606dd909bfe6e780da62147237c9287217e3c13dc93",
-      "title": "Request Rejected"
-    },
-    {
-      "id": "PC-QP-1440P-05",
-      "url": "https://www.westerndigital.com/fr-fr/products/internal-drives/wd-black-sn850x-nvme-ssd",
-      "detectedAt": "2026-10-10T10:41:52Z",
-      "oldHash": "3afc6653fa6dd113c9780c9f8b4aaf402a84ec9e3c04939a35429f910b6a0a62",
-      "newHash": "22720ba677b548b06e9048199417cd2ed1ba1928bba84aa30bf6a6eb0b912fc6",
-      "title": ""
-    },
-    {
-      "id": "PC-QP-1440P-06",
-      "url": "https://www.thermalright.com/product/phantom-spirit-120-se/",
-      "detectedAt": "2026-10-10T10:41:52Z",
-      "oldHash": "95c9994be1f68d7ef08f584f5a19eeaa6ad2f9cb54395b2b2d27fdc09ff24945",
-      "newHash": "9a327dd3d953ff30f904150dafb01dbba01bd7c24d907283fcac0d69ecdb4282",
-      "title": "Phantom Spirit 120 SE – Thermalright"
-    },
-    {
-      "id": "PC-QP-1440P-07",
-      "url": "https://www.corsair.com/fr/fr/explorer/diy-builder/power-supply-units/explaining-the-corsair-psu-lineup/",
-      "detectedAt": "2026-10-10T10:41:52Z",
-      "oldHash": "94009bb98e80418b37d8b461b83a260704a802e3bfac005451a247d84b8c655c",
-      "newHash": "266a2afd06be40b0c3f541349941d390a00994b6b4f98fafb4e81fcd15a94f9d",
-      "title": "Présentation de la gamme d'alimentations CORSAIR (2026) | CORSAIR"
     }
   ]
 }
