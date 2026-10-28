@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
   "catalog": "pokemon-discovery",
-  "cursor": 7,
+  "cursor": 8,
   "checkedThisRun": 0,
   "addedThisRun": 0,
   "failuresThisRun": 0,
-  "areaThisRun": "Grand Est",
+  "areaThisRun": "Pays de la Loire",
   "scannedAreas": [
     "Auvergne-Rhône-Alpes",
     "Grand Est",
     "Hauts-de-France",
     "Nouvelle-Aquitaine",
     "Occitanie",
+    "Pays de la Loire",
     "Provence-Alpes-Côte d’Azur",
     "Île-de-France"
   ],
-  "updatedAt": "2026-10-21T09:34:41Z"
+  "updatedAt": "2026-10-28T10:47:04Z"
 }
