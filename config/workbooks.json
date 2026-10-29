@@ -1212,7 +1212,7 @@
           "sheet": "Orsay",
           "table": "ActivitiesOrsay",
           "file": "data/activites/orsay.json",
-          "recordCount": 70,
+          "recordCount": 85,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
