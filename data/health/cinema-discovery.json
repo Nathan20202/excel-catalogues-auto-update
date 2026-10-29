@@ -106,10 +106,12 @@
       "synopsis": "Nora, Thomas et leur fille Ida vivent dans une ferme isolée avec pour seule voisine, Cristina, une peintre italienne. Alors que tout le monde prépare une soirée d’anniversaire surp",
       "pressScore": 3.2,
       "pressReviews": 37,
-      "knownActors": [],
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:16:03Z"
+      "knownActors": [
+        "Hafsia Herzi"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-29T11:34:22Z"
     },
     "1000041095": {
       "allocineId": "1000041095",
@@ -154,7 +156,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:16:04Z"
+      "checkedAt": "2026-10-29T11:34:22Z"
     },
     "325076": {
       "allocineId": "325076",
@@ -269,7 +271,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:16:05Z"
+      "checkedAt": "2026-10-29T11:34:23Z"
     },
     "1000045581": {
       "allocineId": "1000045581",
@@ -315,7 +317,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:16:05Z"
+      "checkedAt": "2026-10-29T11:34:25Z"
     },
     "772": {
       "allocineId": "772",
@@ -351,19 +353,19 @@
       "genres": [],
       "director": "Christian Philibert",
       "actors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "synopsis": "Ils avaient vingt ans en 1944 lorsqu’ils prirent le maquis pour libérer le pays sous les ordres du lieutenant Vallier. Quatre-vingts ans plus tard, sept jeunes du même âge sont sél",
       "pressScore": 2.4,
       "pressReviews": 5,
       "knownActors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "status": "rejected",
       "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "checkedAt": "2026-10-22T10:16:06Z"
+      "checkedAt": "2026-10-29T11:34:25Z"
     },
     "1000043595": {
       "allocineId": "1000043595",
@@ -545,7 +547,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:56Z"
+      "checkedAt": "2026-10-29T11:33:27Z"
     },
     "1000000085": {
       "allocineId": "1000000085",
@@ -589,7 +591,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:00Z"
+      "checkedAt": "2026-10-29T11:33:42Z"
     },
     "1000007388": {
       "allocineId": "1000007388",
@@ -610,7 +612,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:33Z"
+      "checkedAt": "2026-10-29T11:34:11Z"
     },
     "1000026039": {
       "allocineId": "1000026039",
@@ -3487,7 +3489,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:33Z"
+      "checkedAt": "2026-10-29T11:34:11Z"
     },
     "1000011453": {
       "allocineId": "1000011453",
@@ -3526,12 +3528,14 @@
         "Jung-Min Hwang"
       ],
       "synopsis": "Les renforts sont partis maîtriser des feux de forêt et toutes les communications sont coupées.Au poste de police de Hope, Bum-seok et Sung-ae se démènent pour défendre leur villag",
-      "pressScore": null,
-      "pressReviews": 0,
-      "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:41Z"
+      "pressScore": 4.1,
+      "pressReviews": 36,
+      "knownActors": [
+        "Jung-Min Hwang"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-29T11:33:31Z"
     },
     "326160": {
       "allocineId": "326160",
@@ -3554,7 +3558,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:11Z"
+      "checkedAt": "2026-10-29T11:33:50Z"
     },
     "1000037463": {
       "allocineId": "1000037463",
@@ -3602,7 +3606,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:33Z"
+      "checkedAt": "2026-10-29T11:34:11Z"
     },
     "1000015739": {
       "allocineId": "1000015739",
@@ -3625,7 +3629,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:33Z"
+      "checkedAt": "2026-10-29T11:34:11Z"
     },
     "1000026296": {
       "allocineId": "1000026296",
@@ -3646,7 +3650,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:33Z"
+      "checkedAt": "2026-10-29T11:34:11Z"
     },
     "55774": {
       "allocineId": "55774",
@@ -3667,7 +3671,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:33Z"
+      "checkedAt": "2026-10-29T11:34:11Z"
     },
     "1000007346": {
       "allocineId": "1000007346",
@@ -3688,7 +3692,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:34Z"
+      "checkedAt": "2026-10-29T11:34:12Z"
     },
     "1000049814": {
       "allocineId": "1000049814",
@@ -3709,7 +3713,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:37Z"
+      "checkedAt": "2026-10-29T11:34:15Z"
     },
     "310374": {
       "allocineId": "310374",
@@ -3722,19 +3726,19 @@
       "genres": [],
       "director": "Valeria Baldan,",
       "actors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "synopsis": "Un documentaire captivant qui explore les racines du mal, les mécanismes de la possession et la réalité des exorcismes. À travers des cas concrets et le témoignage de grands exorci",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:35Z"
+      "checkedAt": "2026-10-29T11:34:13Z"
     },
     "1000045261": {
       "allocineId": "1000045261",
@@ -3755,7 +3759,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:36Z"
+      "checkedAt": "2026-10-29T11:34:14Z"
     },
     "1000038237": {
       "allocineId": "1000038237",
@@ -3776,7 +3780,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:34Z"
+      "checkedAt": "2026-10-29T11:34:12Z"
     },
     "328096": {
       "allocineId": "328096",
@@ -3801,7 +3805,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:36Z"
+      "checkedAt": "2026-10-29T11:34:13Z"
     },
     "8101": {
       "allocineId": "8101",
@@ -3822,7 +3826,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:35Z"
+      "checkedAt": "2026-10-29T11:34:13Z"
     },
     "1000050921": {
       "allocineId": "1000050921",
@@ -3843,7 +3847,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:42Z"
+      "checkedAt": "2026-10-29T11:34:18Z"
     },
     "1000051519": {
       "allocineId": "1000051519",
@@ -3864,7 +3868,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:41Z"
+      "checkedAt": "2026-10-29T11:34:19Z"
     },
     "2233": {
       "allocineId": "2233",
@@ -3927,7 +3931,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:40Z"
+      "checkedAt": "2026-10-29T11:34:18Z"
     },
     "1000043022": {
       "allocineId": "1000043022",
@@ -3948,7 +3952,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:38Z"
+      "checkedAt": "2026-10-29T11:34:16Z"
     },
     "1000051536": {
       "allocineId": "1000051536",
@@ -3991,7 +3995,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:45Z"
+      "checkedAt": "2026-10-29T11:34:21Z"
     },
     "1000023068": {
       "allocineId": "1000023068",
@@ -4014,7 +4018,7 @@
       ],
       "status": "rejected",
       "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "checkedAt": "2026-10-22T10:15:12Z"
+      "checkedAt": "2026-10-29T11:33:51Z"
     },
     "1000031247": {
       "allocineId": "1000031247",
@@ -4035,7 +4039,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:19Z"
+      "checkedAt": "2026-10-29T11:33:55Z"
     },
     "1000022205": {
       "allocineId": "1000022205",
@@ -4056,7 +4060,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:11Z"
+      "checkedAt": "2026-10-29T11:33:50Z"
     },
     "1000019249": {
       "allocineId": "1000019249",
@@ -4077,7 +4081,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:18Z"
+      "checkedAt": "2026-10-29T11:33:55Z"
     },
     "1000023992": {
       "allocineId": "1000023992",
@@ -4100,7 +4104,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:18Z"
+      "checkedAt": "2026-10-29T11:33:55Z"
     },
     "1000030290": {
       "allocineId": "1000030290",
@@ -4121,7 +4125,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:20Z"
+      "checkedAt": "2026-10-29T11:33:57Z"
     },
     "1000026649": {
       "allocineId": "1000026649",
@@ -4142,7 +4146,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:19Z"
+      "checkedAt": "2026-10-29T11:33:56Z"
     },
     "285141": {
       "allocineId": "285141",
@@ -4163,7 +4167,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:19Z"
+      "checkedAt": "2026-10-29T11:33:56Z"
     },
     "1000037443": {
       "allocineId": "1000037443",
@@ -4184,7 +4188,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:20Z"
+      "checkedAt": "2026-10-29T11:33:58Z"
     },
     "145083": {
       "allocineId": "145083",
@@ -4207,7 +4211,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:22Z"
+      "checkedAt": "2026-10-29T11:33:58Z"
     },
     "1000045582": {
       "allocineId": "1000045582",
@@ -4220,19 +4224,19 @@
       "genres": [],
       "director": "Arnaud Demuynck,",
       "actors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "synopsis": "Plongez dans un univers où la différence devient poésie à travers six récits touchants. De Rémi, le souriceau vivant la tête en bas, à Sacha et son parcours inclusif à l’école, de",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:21Z"
+      "checkedAt": "2026-10-29T11:33:58Z"
     },
     "299748": {
       "allocineId": "299748",
@@ -4253,7 +4257,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:22Z"
+      "checkedAt": "2026-10-29T11:33:59Z"
     },
     "1000039641": {
       "allocineId": "1000039641",
@@ -4277,7 +4281,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:23Z"
+      "checkedAt": "2026-10-29T11:34:01Z"
     },
     "313150": {
       "allocineId": "313150",
@@ -4298,7 +4302,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:21Z"
+      "checkedAt": "2026-10-29T11:33:59Z"
     },
     "302738": {
       "allocineId": "302738",
@@ -4323,7 +4327,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:21Z"
+      "checkedAt": "2026-10-29T11:33:58Z"
     },
     "1000049428": {
       "allocineId": "1000049428",
@@ -4365,7 +4369,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:22Z"
+      "checkedAt": "2026-10-29T11:34:00Z"
     },
     "1000050836": {
       "allocineId": "1000050836",
@@ -4386,7 +4390,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:29Z"
+      "checkedAt": "2026-10-29T11:34:07Z"
     },
     "15225": {
       "allocineId": "15225",
@@ -4453,7 +4457,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:26Z"
+      "checkedAt": "2026-10-29T11:34:04Z"
     },
     "1000051533": {
       "allocineId": "1000051533",
@@ -4476,7 +4480,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:25Z"
+      "checkedAt": "2026-10-29T11:34:05Z"
     },
     "1000012178": {
       "allocineId": "1000012178",
@@ -4489,19 +4493,19 @@
       "genres": [],
       "director": "Zhiqi Pan",
       "actors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "synopsis": "À Shibati, ancien quartier populaire de Chongqing aujourd’hui encerclé par les centres d’affaires et les immeubles modernes, Madame Hu gagne sa vie en tenant une modeste auberge et",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:28Z"
+      "checkedAt": "2026-10-29T11:34:06Z"
     },
     "1000048424": {
       "allocineId": "1000048424",
@@ -4522,7 +4526,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:31Z"
+      "checkedAt": "2026-10-29T11:34:09Z"
     },
     "272376": {
       "allocineId": "272376",
@@ -4543,7 +4547,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:30Z"
+      "checkedAt": "2026-10-29T11:34:09Z"
     },
     "1000003973": {
       "allocineId": "1000003973",
@@ -4577,19 +4581,19 @@
       "genres": [],
       "director": "Maxime-Claude L'Ecuyer",
       "actors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "synopsis": "Robert Roussil, figure incontournable de la sculpture québécoise, s’est distingué par des œuvres audacieuses et un engagement profond pour la liberté d’expression. Depuis son décès",
       "pressScore": null,
       "pressReviews": 0,
       "knownActors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:33Z"
+      "checkedAt": "2026-10-29T11:34:11Z"
     },
     "1000038349": {
       "allocineId": "1000038349",
@@ -4610,7 +4614,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:28Z"
+      "checkedAt": "2026-10-29T11:34:08Z"
     },
     "296642": {
       "allocineId": "296642",
@@ -4631,9 +4635,9 @@
       "knownActors": [
         "Manon Bresch"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:03Z"
+      "checkedAt": "2026-10-29T11:33:43Z"
     },
     "1000039483": {
       "allocineId": "1000039483",
@@ -4656,7 +4660,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:57Z"
+      "checkedAt": "2026-10-29T11:33:27Z"
     },
     "269068": {
       "allocineId": "269068",
@@ -4679,7 +4683,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:59Z"
+      "checkedAt": "2026-10-29T11:33:28Z"
     },
     "316136": {
       "allocineId": "316136",
@@ -4719,11 +4723,11 @@
       ],
       "synopsis": "Alexandre est prêt à tout pour renouer avec sa fille. Quitte à infiltrer une équipe de bras cassés dans un univers de jeu médiéval-fantastique. Cette quête improbable pourrait bien",
       "pressScore": 2.8,
-      "pressReviews": 24,
+      "pressReviews": 28,
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:00Z"
+      "checkedAt": "2026-10-29T11:33:43Z"
     },
     "1000052028": {
       "allocineId": "1000052028",
@@ -4744,7 +4748,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:44Z"
+      "checkedAt": "2026-10-29T11:34:20Z"
     },
     "321790": {
       "allocineId": "321790",
@@ -4765,7 +4769,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:11Z"
+      "checkedAt": "2026-10-29T11:33:50Z"
     },
     "314939": {
       "allocineId": "314939",
@@ -4788,7 +4792,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:11Z"
+      "checkedAt": "2026-10-29T11:33:51Z"
     },
     "318791": {
       "allocineId": "318791",
@@ -4811,7 +4815,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:11Z"
+      "checkedAt": "2026-10-29T11:33:51Z"
     },
     "1000013643": {
       "allocineId": "1000013643",
@@ -4832,7 +4836,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:12Z"
+      "checkedAt": "2026-10-29T11:33:50Z"
     },
     "1000047512": {
       "allocineId": "1000047512",
@@ -4851,9 +4855,9 @@
       "pressScore": 3.5,
       "pressReviews": 11,
       "knownActors": [],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:14Z"
+      "checkedAt": "2026-10-29T11:33:51Z"
     },
     "1000012312": {
       "allocineId": "1000012312",
@@ -4876,7 +4880,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:14Z"
+      "checkedAt": "2026-10-29T11:33:52Z"
     },
     "1000019091": {
       "allocineId": "1000019091",
@@ -4897,7 +4901,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:13Z"
+      "checkedAt": "2026-10-29T11:33:52Z"
     },
     "196666": {
       "allocineId": "196666",
@@ -4920,7 +4924,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:14Z"
+      "checkedAt": "2026-10-29T11:33:52Z"
     },
     "1000028085": {
       "allocineId": "1000028085",
@@ -4945,7 +4949,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:14Z"
+      "checkedAt": "2026-10-29T11:33:52Z"
     },
     "1000018264": {
       "allocineId": "1000018264",
@@ -4966,7 +4970,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:13Z"
+      "checkedAt": "2026-10-29T11:33:52Z"
     },
     "1000039457": {
       "allocineId": "1000039457",
@@ -4987,7 +4991,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:14Z"
+      "checkedAt": "2026-10-29T11:33:52Z"
     },
     "1000048944": {
       "allocineId": "1000048944",
@@ -5012,7 +5016,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:14Z"
+      "checkedAt": "2026-10-29T11:33:52Z"
     },
     "1000035013": {
       "allocineId": "1000035013",
@@ -5033,7 +5037,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:15Z"
+      "checkedAt": "2026-10-29T11:33:53Z"
     },
     "1000036827": {
       "allocineId": "1000036827",
@@ -5054,7 +5058,7 @@
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:17Z"
+      "checkedAt": "2026-10-29T11:33:53Z"
     },
     "1000051724": {
       "allocineId": "1000051724",
@@ -5075,7 +5079,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:16Z"
+      "checkedAt": "2026-10-29T11:33:54Z"
     },
     "1000043020": {
       "allocineId": "1000043020",
@@ -5096,7 +5100,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:14Z"
+      "checkedAt": "2026-10-29T11:33:54Z"
     },
     "1000020311": {
       "allocineId": "1000020311",
@@ -5112,12 +5116,12 @@
         "Gilles Lellouche"
       ],
       "synopsis": "Juin 1943, Jean Moulin, chef de la Résistance, est arrêté alors qu'il tente de réunifier les forces de l’Armée Secrète. Interrogé par Klaus Barbie, le chef de la Gestapo de Lyon, M",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.3,
+      "pressReviews": 37,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:42Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-10-29T11:33:30Z"
     },
     "304756": {
       "allocineId": "304756",
@@ -5178,11 +5182,11 @@
       ],
       "synopsis": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandon",
       "pressScore": 3.1,
-      "pressReviews": 12,
+      "pressReviews": 17,
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:00Z"
+      "checkedAt": "2026-10-29T11:33:43Z"
     },
     "322884": {
       "allocineId": "322884",
@@ -5203,9 +5207,9 @@
       "knownActors": [
         "Olivia Colman"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:02Z"
+      "checkedAt": "2026-10-29T11:33:44Z"
     },
     "1000024131": {
       "allocineId": "1000024131",
@@ -5224,9 +5228,9 @@
       "pressScore": 3.9,
       "pressReviews": 16,
       "knownActors": [],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:02Z"
+      "checkedAt": "2026-10-29T11:33:43Z"
     },
     "1000026725": {
       "allocineId": "1000026725",
@@ -5242,12 +5246,12 @@
         "Marilou Aussilloux"
       ],
       "synopsis": "Juliette, 30 ans, semble avoir tout pour elle : un poste prestigieux dans la finance, une belle maison, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est ag",
-      "pressScore": 3.2,
-      "pressReviews": 26,
+      "pressScore": 3.1,
+      "pressReviews": 28,
       "knownActors": [],
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:01Z"
+      "checkedAt": "2026-10-29T11:33:44Z"
     },
     "318225": {
       "allocineId": "318225",
@@ -5266,9 +5270,9 @@
       "pressScore": 4.5,
       "pressReviews": 38,
       "knownActors": [],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:03Z"
+      "checkedAt": "2026-10-29T11:33:42Z"
     },
     "1000043220": {
       "allocineId": "1000043220",
@@ -5287,9 +5291,9 @@
       "pressScore": 3.7,
       "pressReviews": 24,
       "knownActors": [],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:04Z"
+      "checkedAt": "2026-10-29T11:33:44Z"
     },
     "315883": {
       "allocineId": "315883",
@@ -5312,7 +5316,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:04Z"
+      "checkedAt": "2026-10-29T11:33:44Z"
     },
     "1000051245": {
       "allocineId": "1000051245",
@@ -5357,7 +5361,7 @@
       ],
       "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:15:04Z"
+      "checkedAt": "2026-10-29T11:33:44Z"
     },
     "12587": {
       "allocineId": "12587",
@@ -5401,7 +5405,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:05Z"
+      "checkedAt": "2026-10-29T11:33:46Z"
     },
     "7234": {
       "allocineId": "7234",
@@ -5442,9 +5446,9 @@
       "pressScore": 3.7,
       "pressReviews": 7,
       "knownActors": [],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:08Z"
+      "checkedAt": "2026-10-29T11:33:45Z"
     },
     "1000048555": {
       "allocineId": "1000048555",
@@ -5485,7 +5489,7 @@
       "knownActors": [],
       "status": "already-present",
       "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
-      "checkedAt": "2026-10-22T10:15:03Z"
+      "checkedAt": "2026-10-29T11:33:45Z"
     },
     "1000042833": {
       "allocineId": "1000042833",
@@ -5506,7 +5510,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:10Z"
+      "checkedAt": "2026-10-29T11:33:49Z"
     },
     "37179": {
       "allocineId": "37179",
@@ -5527,7 +5531,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:09Z"
+      "checkedAt": "2026-10-29T11:33:48Z"
     },
     "1000045315": {
       "allocineId": "1000045315",
@@ -5569,7 +5573,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:15:10Z"
+      "checkedAt": "2026-10-29T11:33:50Z"
     },
     "1000018229": {
       "allocineId": "1000018229",
@@ -5615,7 +5619,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:57Z"
+      "checkedAt": "2026-10-29T11:33:26Z"
     },
     "1000049002": {
       "allocineId": "1000049002",
@@ -5656,12 +5660,12 @@
         "Deva Cassel"
       ],
       "synopsis": "Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris. Alors qu’elle répète l'Orpheus, un opéra maudit qui aurait été composé par le Fantôme",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 1.5,
+      "pressReviews": 4,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:42Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-10-29T11:33:30Z"
     },
     "1000012316": {
       "allocineId": "1000012316",
@@ -5677,12 +5681,12 @@
         "Charlie Rosenzweig"
       ],
       "synopsis": "Lucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'ell",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.8,
+      "pressReviews": 25,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:43Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-10-29T11:33:32Z"
     },
     "1000051934": {
       "allocineId": "1000051934",
@@ -5698,12 +5702,12 @@
         "Nicolas Trouvé"
       ],
       "synopsis": "À 27 ans, Nicolas n’a presque aucun souvenir de son enfance et n’a jamais connu son père. Séparé de sa mère à l’âge de trois ans, il a grandi placé entre familles d’accueil et foye",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.2,
+      "pressReviews": 13,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:44Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-10-29T11:33:31Z"
     },
     "1000036515": {
       "allocineId": "1000036515",
@@ -5719,12 +5723,12 @@
         "Hafsia Herzi"
       ],
       "synopsis": "Sarcelles, 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que son père, qu’elle n’a jamais connu, l’aime en silence quelque part. Lorsqu’elle se met en tê",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.8,
+      "pressReviews": 36,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:44Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-10-29T11:33:32Z"
     },
     "1841": {
       "allocineId": "1841",
@@ -5763,12 +5767,12 @@
         "Mara Taquin"
       ],
       "synopsis": "Margot débute son internat aux urgences, où elle peine à s’adapter. Très vite, elle fait face à des patients de son âge aux symptômes inexpliqués. La récurrence de ces cas exceptio",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.1,
+      "pressReviews": 27,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:45Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-10-29T11:33:34Z"
     },
     "1000051317": {
       "allocineId": "1000051317",
@@ -5806,12 +5810,12 @@
         "Lisa O'Reilly"
       ],
       "synopsis": "Le long d'une route oubliée, la famille O'Reilly vit dans une vieille caravane échouée au milieu des champs. Pa, Lisa et leurs dix enfants traversent les saisons dans ce fragile ch",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 4.1,
+      "pressReviews": 21,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:47Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-10-29T11:33:33Z"
     },
     "204925": {
       "allocineId": "204925",
@@ -5832,9 +5836,9 @@
       "knownActors": [
         "Jennifer Lawrence"
       ],
-      "status": "accepted",
+      "status": "already-present",
       "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
-      "checkedAt": "2026-10-22T10:14:47Z"
+      "checkedAt": "2026-10-29T11:33:34Z"
     },
     "1000028073": {
       "allocineId": "1000028073",
@@ -5850,14 +5854,14 @@
         "Valeria Golino"
       ],
       "synopsis": "À cinquante ans, Gioia vit encore chez ses parents, sous la coupe d'une mère autoritaire. Elle consacre sa vie à l'enseignement de la littérature française. Alessio, un nouvel élèv",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 2.8,
+      "pressReviews": 12,
       "knownActors": [
         "Valeria Golino"
       ],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:48Z"
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-29T11:33:34Z"
     },
     "1000027716": {
       "allocineId": "1000027716",
@@ -5878,7 +5882,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:48Z"
+      "checkedAt": "2026-10-29T11:33:35Z"
     },
     "281367": {
       "allocineId": "281367",
@@ -5894,12 +5898,12 @@
         "Marina De Van"
       ],
       "synopsis": "Paris, de nos jours. Marina de Van bataille avec ses relations sentimentales, sa propre image et sa nudité à une époque où les applis de rencontres et les échanges en ligne sont lé",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.5,
+      "pressReviews": 11,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:49Z"
+      "status": "accepted",
+      "reason": "Nouveaux interprètes et note presse d'au moins 3,5/5.",
+      "checkedAt": "2026-10-29T11:33:35Z"
     },
     "1000048556": {
       "allocineId": "1000048556",
@@ -5918,7 +5922,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:49Z"
+      "checkedAt": "2026-10-29T11:33:36Z"
     },
     "2623": {
       "allocineId": "2623",
@@ -5953,12 +5957,12 @@
         "Guillaume Gallienne"
       ],
       "synopsis": "Marqué par une enfance traumatique et une mère l’ayant fait vivre sous son emprise, le réalisateur Xavier Pestuggia entreprend de raconter son passé en croisant son histoire à cell",
-      "pressScore": null,
-      "pressReviews": 0,
+      "pressScore": 3.0,
+      "pressReviews": 6,
       "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:51Z"
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "checkedAt": "2026-10-29T11:33:38Z"
     },
     "1000000251": {
       "allocineId": "1000000251",
@@ -5971,16 +5975,19 @@
       "genres": [],
       "director": "Marie-Pierre Brêtas",
       "actors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
-      "synopsis": "Derrick vient de laisser son appartement et dort dans sa voiture. À presque 50 ans, épuisé de se débattre dans le labyrinthe ultralibéral et raciste des Etats-Unis, il décide de qu",
-      "pressScore": null,
-      "pressReviews": 0,
-      "knownActors": [],
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:51Z"
+      "synopsis": "Un matin, mon ami Derrick m’appelle depuis Miami : Il m'annonce qu'il vient de laisser son appartement et dort dans sa voiture. À presque 50 ans, il est épuisé de se débattre dans",
+      "pressScore": 3.0,
+      "pressReviews": 7,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-29T11:33:37Z"
     },
     "20248": {
       "allocineId": "20248",
@@ -6014,16 +6021,19 @@
       "genres": [],
       "director": "Helmut Dosantos",
       "actors": [
-        "Jung-Min Hwang",
-        "In-sung Zo"
+        "Timothée Chalamet",
+        "Zendaya"
       ],
       "synopsis": "Gods of Mexico explore les formes de résistance à la modernisation dans le Mexique rural. Nous nous plongerons dans cette « Atlantide perdue » où d’innombrables possibilités d’exis",
       "pressScore": null,
       "pressReviews": 0,
-      "knownActors": [],
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:52Z"
+      "checkedAt": "2026-10-29T11:33:38Z"
     },
     "7122": {
       "allocineId": "7122",
@@ -6046,7 +6056,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:53Z"
+      "checkedAt": "2026-10-29T11:33:39Z"
     },
     "193": {
       "allocineId": "193",
@@ -6069,7 +6079,7 @@
       ],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:54Z"
+      "checkedAt": "2026-10-29T11:33:39Z"
     },
     "617": {
       "allocineId": "617",
@@ -6092,7 +6102,7 @@
       ],
       "status": "pending",
       "reason": "Moins de 3 critiques presse : attente d'un échantillon plus fiable.",
-      "checkedAt": "2026-10-22T10:14:54Z"
+      "checkedAt": "2026-10-29T11:33:40Z"
     },
     "1000053325": {
       "allocineId": "1000053325",
@@ -6111,7 +6121,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:55Z"
+      "checkedAt": "2026-10-29T11:33:42Z"
     },
     "1000054164": {
       "allocineId": "1000054164",
@@ -6153,7 +6163,7 @@
       "knownActors": [],
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "checkedAt": "2026-10-22T10:14:56Z"
+      "checkedAt": "2026-10-29T11:33:36Z"
     },
     "312529": {
       "allocineId": "312529",
@@ -6198,13 +6208,822 @@
       "status": "pending",
       "reason": "Note presse indisponible.",
       "checkedAt": "2026-10-22T10:14:59Z"
+    },
+    "323550": {
+      "allocineId": "323550",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323550.html",
+      "title": "L'Affaire Marie-Claire",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Lauriane Escaffre,",
+      "actors": [
+        "Charlotte Gainsbourg"
+      ],
+      "synopsis": "Novembre 1972. Au tribunal de Bobigny, un procès hors norme secoue la France entière. Marie-Claire Chevalier, 16 ans, est accusée d’avoir avorté illégalement. À la barre, sa mère e",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Charlotte Gainsbourg"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:07Z"
+    },
+    "1000036932": {
+      "allocineId": "1000036932",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036932.html",
+      "title": "Club Kid",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jordan Firstman",
+      "actors": [
+        "Jordan Firstman"
+      ],
+      "synopsis": "Peter (Jordan Firstman), organisateur de soirées branchées à New York, mène une existence aussi effrénée qu’insouciante, rythmée par les nuits festives et les excès. Sa vie bascule",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:07Z"
+    },
+    "1000031925": {
+      "allocineId": "1000031925",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html",
+      "title": "Un bon patron",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Philippe de Chauveron",
+      "actors": [
+        "Didier Bourdon"
+      ],
+      "synopsis": "En quelques jours seulement, tout semble virer à la catastrophe pour Antoine Blanchet, héritier de l’ancestrale fabrique familiale de balances. Un ex-employé viré qui proteste bruy",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:08Z"
+    },
+    "1000026918": {
+      "allocineId": "1000026918",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026918.html",
+      "title": "Ramayana : L'avènement d'une légende",
+      "originalTitle": "Ramayana: Rise of a Legend",
+      "releaseDate": "2026-11-06",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Nitesh Tiwari",
+      "actors": [
+        "Ranbir Kapoor"
+      ],
+      "synopsis": "Dans l’Inde antique, le destin du jeune prince Rama bascule lorsqu’il est contraint à l’exil, peu après son mariage avec la princesse Sita. Arrachés à leur royaume, les deux époux",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:08Z"
+    },
+    "1000014492": {
+      "allocineId": "1000014492",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.html",
+      "title": "Godzilla Minus Zero",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Takashi Yamazaki",
+      "actors": [
+        "Ryûnosuke Kamiki"
+      ],
+      "synopsis": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsqu",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:09Z"
+    },
+    "258080": {
+      "allocineId": "258080",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=258080.html",
+      "title": "Hunger Games: la Ballade du serpent et de l'oiseau chanteur",
+      "originalTitle": "The Hunger Games: The Ballad of Songbirds and Snakes",
+      "releaseDate": "2023-11-15",
+      "year": 2023,
+      "duration": null,
+      "genres": [],
+      "director": "Francis Lawrence",
+      "actors": [
+        "Tom Blyth"
+      ],
+      "synopsis": "Le jeune Coriolanus est le dernier espoir de sa lignée, la famille Snow autrefois riche et fière est aujourd’hui tombée en disgrâce dans un Capitole d'après-guerre. À l’approche de",
+      "pressScore": 3.1,
+      "pressReviews": 22,
+      "knownActors": [
+        "Tom Blyth"
+      ],
+      "status": "accepted",
+      "reason": "Acteur reconnu et note presse d'au moins 2,5/5.",
+      "checkedAt": "2026-10-29T11:33:10Z"
+    },
+    "182758": {
+      "allocineId": "182758",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=182758.html",
+      "title": "Si tu tends l'oreille",
+      "originalTitle": "Mimi wo sumaseba",
+      "releaseDate": null,
+      "year": null,
+      "duration": null,
+      "genres": [],
+      "director": "Yoshifumi Kondo",
+      "actors": [
+        "Youko Honna"
+      ],
+      "synopsis": "Shizuku, 14 ans, est une collégienne passionnée de lecture et de musique. Un jour, elle découvre qu’un mystérieux inconnu emprunte systématiquement les mêmes livres qu’elle à la bi",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:10Z"
+    },
+    "298024": {
+      "allocineId": "298024",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298024.html",
+      "title": "Wild Horse Nine",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Martin McDonagh",
+      "actors": [
+        "Sam Rockwell"
+      ],
+      "synopsis": "Peu avant le coup d'État chilien de 1973, deux agents de la CIA, Chris et Lee, sont envoyés de Santiago vers l'île de Pâques par leur supérieur, MJ. Au milieu des statues emblémati",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Sam Rockwell"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:11Z"
+    },
+    "1000040300": {
+      "allocineId": "1000040300",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040300.html",
+      "title": "Carlo Acutis, un saint pour notre temps",
+      "originalTitle": "Carlo Acutis – The Millennial Saint",
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Luca Salmaso",
+      "actors": [
+        "Jean Dujardin",
+        "l'un des films français les plus chers de l'Histoire est disponible en streaming"
+      ],
+      "synopsis": "Adolescent passionné d’informatique, de jeux vidéo et de football, Carlo Acutis semblait être un jeune comme les autres. Mort à seulement quinze ans, il est canonisé le 7 septembre",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:11Z"
+    },
+    "1000005161": {
+      "allocineId": "1000005161",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.html",
+      "title": "Ma toute petite école",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Pascal Plisson",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "synopsis": "Nichée à 1 600 mètres d’altitude dans le minuscule hameau de La Gurraz (35 habitants), en Haute Tarentaise, se trouve la plus petite école de France : huit élèves, de la maternelle",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:12Z"
+    },
+    "272218": {
+      "allocineId": "272218",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272218.html",
+      "title": "L’Arabe (The Arab)",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Malek Bensmail",
+      "actors": [
+        "Ahmed Benaissa"
+      ],
+      "synopsis": "Dans l’Algérie des années de plomb, sur fond de décennie noire, Kamel, jeune journaliste, tente de faire émerger une parole enfouie. C’est à Oran qu’il rencontre Haroun, un retrait",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:12Z"
+    },
+    "1000053534": {
+      "allocineId": "1000053534",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053534.html",
+      "title": "Stray Kids World Tour <RUN IT> LIVE VIEWING",
+      "originalTitle": null,
+      "releaseDate": "2026-11-07",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Bang Chan"
+      ],
+      "synopsis": "Pour la première fois, Stray Kids investit les salles de cinéma du monde entier avec une projection événement de sa tournée mondiale « Stray Kids World Tour », filmée au Tokyo Dome.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:13Z"
+    },
+    "1000035928": {
+      "allocineId": "1000035928",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035928.html",
+      "title": "Silences",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Patrick Attali,",
+      "actors": [
+        "Moussa Maaskri"
+      ],
+      "synopsis": "Sarah (15 ans), drôle et discrète, voit son monde basculer quand des photos “sexy”, prises naïvement avec sa meilleure amie Chloé, fuitent au collège. Au centre du manège : Charles",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:13Z"
+    },
+    "1000051742": {
+      "allocineId": "1000051742",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051742.html",
+      "title": "Louve, une vie dans les Alpes",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Baptiste Deturche,",
+      "actors": [
+        "Françoise Cadol"
+      ],
+      "synopsis": "Un voyage au cœur des montagnes des Hautes-Alpes, là où le sauvage foisonne et les hivers sont rigoureux, le loup est revenu depuis plusieurs dizaines d’années.Souvent perçus comme",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:14Z"
+    },
+    "1000027255": {
+      "allocineId": "1000027255",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027255.html",
+      "title": "Kwibuka, se souvenir",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jonas d'Adesky",
+      "actors": [
+        "Sonia Rolland"
+      ],
+      "synopsis": "Lia, basketteuse franco-rwandaise, est invitée à rejoindre l'équipe nationale du Rwanda pour le championnat d'Afrique. Ce retour dans le pays qu'elle a fui étant enfant ravive les",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:15Z"
+    },
+    "1000046573": {
+      "allocineId": "1000046573",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046573.html",
+      "title": "Nos âmes libres",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Salomée Stévenin",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "synopsis": "NOS ÂMES LIBRES est une invitation au sensible. Une aventure qui traverse le temps, les pays, les éléments, l’eau, la terre, la forme : une expédition qui interroge intimement notr",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:16Z"
+    },
+    "1000051942": {
+      "allocineId": "1000051942",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051942.html",
+      "title": "Rammstein - Live in Mexico City",
+      "originalTitle": null,
+      "releaseDate": "2026-11-06",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Paul Dugdale",
+      "actors": [
+        "Till Lindemann"
+      ],
+      "synopsis": "Tourné sur trois soirées à guichets fermés au Foro Sol, d’une capacité de 65 000 spectateurs, Rammstein – Live in Mexico City capture l’une des performances emblématiques de la monumentale tournée mondiale des stades du groupe, qui s’est étendue sur cinq ans. Ce spectaculaire film de concert est réalisé par Paul Dugdale, deux fois lauréat des PrimetimeEmmy® Awards.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:16Z"
+    },
+    "1000038090": {
+      "allocineId": "1000038090",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038090.html",
+      "title": "En apparence",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Franck Llopis",
+      "actors": [
+        "Thierry Boudry"
+      ],
+      "synopsis": "Robert Elliott est un éminent psychanalyste. Il a une clientèle parisienne fortunée et anime des conférences un peu partout dans le monde. Il vit dans le Marais,  dans un luxueux a",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:16Z"
+    },
+    "1000051859": {
+      "allocineId": "1000051859",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.html",
+      "title": "Peppa fête Noël",
+      "originalTitle": "Festive Fun With Peppa Cinema Experience",
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Mark Baker,",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "synopsis": "Retrouvez Peppa et toute sa famille au cinéma pour une grande fête de Noël pleine de surprises et d’aventures hivernales. Une sélection de nouveaux épisodes et d'épisodes incontournables de la série à découvrir avec vos proches !",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:17Z"
+    },
+    "1000049510": {
+      "allocineId": "1000049510",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html",
+      "title": "Zones Troubles",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Rodolphe Bouquet-Populus,",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "synopsis": "Et si les monstres d'aujourd'hui étaient moins imaginaires qu'ils n'y paraissent ? Des paysages transformés par le climat aux angoisses qui traversent nos sociétés, Zones troubles",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:18Z"
+    },
+    "1000047396": {
+      "allocineId": "1000047396",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047396.html",
+      "title": "Lorie Party 2026 au cinéma",
+      "originalTitle": null,
+      "releaseDate": "2026-11-05",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Tristan Carné",
+      "actors": [
+        "plus de 8 millions d’albums vendus",
+        "des tubes devenus incontournables et des chorégraphies gravées dans toutes les mémoires",
+        "Lorie s’est imposée comme une artiste emblématique de la pop française. Le temps d’une soirée unique au cinéma",
+        "(re)vivez sur grand écran la Lorie Party et célébrez l’artiste qui a fait chanter",
+        "danser et grandir toute une génération."
+      ],
+      "synopsis": "Lorie signe son grand retour sur scène avec la Lorie Party, le concert événement qui ravive toute l’énergie des années 2000 dans une ambiance euphorique et festive autour des hits « Près de moi », « Je serai (ta meilleure amie) », « Sur un air latino », « La Positive Attitude », « Week-end »…",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:18Z"
+    },
+    "1000046255": {
+      "allocineId": "1000046255",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046255.html",
+      "title": "Roméo et Juliette (Opéra de Paris)",
+      "originalTitle": null,
+      "releaseDate": "2026-11-08",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Julien Condemine",
+      "actors": [
+        "Paul Marque"
+      ],
+      "synopsis": "A Vérone, Roméo Montaigu et Juliette Capulet se rencontrent et tombent éperdument amoureux, mais leurs deux familles se vouent une haine ancestrale. Portés par une passion aussi foudroyante qu'impossible, les deux amants se heurtent à un destin tragique qui les réunit pour toujours.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:19Z"
+    },
+    "1000051422": {
+      "allocineId": "1000051422",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051422.html",
+      "title": "Enhypen vr concert : destiny",
+      "originalTitle": "ENHYPEN VR Concert: Destiny",
+      "releaseDate": "2026-11-06",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Ji-ae Kim,",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "synopsis": "La nuit où une lune cramoisie se lève, les membres d’ENHYPEN se retrouvent face au destin qu’ils attendaient depuis si longtemps : ENGENE. Enfreignant les règles du monde des vampires, ils choisissent l’amour et s’enfuient, pour se heurter encore et encore au même destin cruel. Même alors que le danger se rapproche, aussi tranchant qu’un « Knife », les mots qu’ils échangent pour se réconforter mutuellement, « Big Girls Don’t Cry », les entraînent dans un amour interdit appelé « Criminal Love ». Quelle fin attend cet amour, scellé par le sang ? Votre histoire, face à un destin inéluctable, commence maintenant !",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:20Z"
+    },
+    "12579": {
+      "allocineId": "12579",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=12579.html",
+      "title": "L'Amérique des autres",
+      "originalTitle": "Someone Else's America",
+      "releaseDate": "1995-12-20",
+      "year": 1995,
+      "duration": null,
+      "genres": [],
+      "director": "Goran Paskaljević",
+      "actors": [
+        "Tom Conti"
+      ],
+      "synopsis": "Alonso, émigré espagnol, tient un petit café-restaurant dans un coin délaissé de Brooklyn. Il y héberge Bayo, Monténégrin clandestin. Alonso, Latin excessif et charmeur, et Bayo, S",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:20Z"
+    },
+    "1000051511": {
+      "allocineId": "1000051511",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051511.html",
+      "title": "L’Himalaya Sans Filtre : Sur Les Routes De Lo",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Jean-Pierre Dessens",
+      "actors": [
+        "Jean-Pierre Dessens"
+      ],
+      "synopsis": "Pendant 15 ans, Jean-Pierre Dessens a filmé les effets de la construction d’une route dans le dernier royaume himalayen. Pour certains, c’est une bonne chose, pour d’autres, non. L",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:21Z"
+    },
+    "1000045316": {
+      "allocineId": "1000045316",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045316.html",
+      "title": "Carmen (The Royal Opera)",
+      "originalTitle": "Royal Ballet and Opera: Carmen",
+      "releaseDate": "2026-11-10",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Damiano Michieletto",
+      "actors": [
+        "Adriana González"
+      ],
+      "synopsis": "Sous la chaleur oppressante du soleil espagnol, l’indomptable Carmen attire l’attention de Don José. Elle le met en garde, il ne doit pas tomber amoureux d’elle, mais l’obsession de l’homme est plus forte. La production torride de Michieletto fait son grand retour, et jette une lumière aveuglante sur la luxure, la violence et le désir destructeur au cœur de l’opéra plébiscité de Bizet. Une distribution prestigieuse donne vie à ce drame incandescent : Ginger Costa-Jackson incarne le flamboyant rôle-titre, tandis que Russell Thomas se glisse dans la peau de Don José, rongé par la jalousie et le désespoir. Après ses débuts au Royal Opera en 2023, Sesto Quatrini revient pour diriger la partition électrisante et sensuelle de Bizet.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:22Z"
+    },
+    "1000049344": {
+      "allocineId": "1000049344",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html",
+      "title": "30 ans après... Mémoire d'une féria",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Frédéric Bonnet",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "synopsis": "La Féria Pascale d'Arles fait partie de ces événements qui marquent profondément une ville et plusieurs générations.En croisant images d'archives et témoignages contemporains, le f",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:23Z"
+    },
+    "1000038768": {
+      "allocineId": "1000038768",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038768.html",
+      "title": "Coup de coeur surprise Jeune Public -1- AFCAE Novembre 2026",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "synopsis": "",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:24Z"
+    },
+    "1000038769": {
+      "allocineId": "1000038769",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038769.html",
+      "title": "Coup de coeur surprise Jeune Public -2- AFCAE Novembre 2026",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "synopsis": "",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:24Z"
+    },
+    "1000038770": {
+      "allocineId": "1000038770",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038770.html",
+      "title": "Coup de coeur surprise Jeune Public -3- AFCAE Novembre 2026",
+      "originalTitle": null,
+      "releaseDate": "2026-11-04",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "synopsis": "",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet",
+        "Zendaya"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:25Z"
+    },
+    "324508": {
+      "allocineId": "324508",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html",
+      "title": "Dune : Troisième partie",
+      "originalTitle": "Dune: Part Three",
+      "releaseDate": "2026-12-16",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Timothée Chalamet"
+      ],
+      "synopsis": "Près de vingt ans après avoir pris le contrôle de l’Empire, Paul Atréides règne désormais en empereur impitoyable. Alors que d’anciens alliés refont surface, que de nouvelles menac",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Timothée Chalamet"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:26Z"
+    },
+    "1000051707": {
+      "allocineId": "1000051707",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051707.html",
+      "title": "You Can See Everything",
+      "originalTitle": null,
+      "releaseDate": "2026-12-30",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Nathan Fielder,",
+      "actors": [
+        "Nathan Fielder"
+      ],
+      "synopsis": "Trente-quatre jours avant son incarcération, Elizabeth Holmes, ancienne figure de la Silicon Valley et fondatrice déchue de Theranos, condamnée à plus de onze ans de prison pour av",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:26Z"
+    },
+    "1000034007": {
+      "allocineId": "1000034007",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html",
+      "title": "Scrooge",
+      "originalTitle": "Ebenezer",
+      "releaseDate": "2026-11-11",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Ti West",
+      "actors": [
+        "Johnny Depp"
+      ],
+      "synopsis": "Pour changer son futur, Scrooge va revivre son passé.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Johnny Depp"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:28Z"
+    },
+    "1000022995": {
+      "allocineId": "1000022995",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.html",
+      "title": "Jupiter",
+      "originalTitle": null,
+      "releaseDate": "2026-11-18",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Alexandre Smia",
+      "actors": [
+        "Denis Ménochet"
+      ],
+      "synopsis": "Fraîchement élu, le président Paul Archambault doit affronter une crise sans précédent : son homologue russe, cible d'un attentat, brandit un ultimatum nucléaire menaçant un allié",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:29Z"
+    },
+    "323193": {
+      "allocineId": "323193",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323193.html",
+      "title": "Bad Apples",
+      "originalTitle": null,
+      "releaseDate": null,
+      "year": null,
+      "duration": null,
+      "genres": [],
+      "director": "Jonatan Etzler",
+      "actors": [
+        "Saoirse Ronan"
+      ],
+      "synopsis": "Maria est institutrice. Elle remet en cause son choix de carrière à cause d'un élève turbulent. Elle finit par kidnapper et séquestrer ce dernier chez elle.",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [
+        "Saoirse Ronan"
+      ],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:29Z"
+    },
+    "1000054419": {
+      "allocineId": "1000054419",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054419.html",
+      "title": "Consortium",
+      "originalTitle": null,
+      "releaseDate": "2026-10-28",
+      "year": 2026,
+      "duration": null,
+      "genres": [],
+      "director": "Ayden Casse",
+      "actors": [
+        "Ayden Casse"
+      ],
+      "synopsis": "Ludwig, en recherche d’emploi, décroche un poste au sein d’une société privée, nommée Consortium. Dans cette société aux méthodes opaques, garantissant le secret de ses clients, Lu",
+      "pressScore": null,
+      "pressReviews": 0,
+      "knownActors": [],
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "checkedAt": "2026-10-29T11:33:41Z"
     }
   },
-  "updatedAt": "2026-10-22T10:16:08Z",
+  "updatedAt": "2026-10-29T11:34:25Z",
   "checkedThisRun": 127,
-  "addedThisRun": 8,
-  "pendingThisRun": 68,
-  "rejectedThisRun": 29,
+  "addedThisRun": 9,
+  "pendingThisRun": 71,
+  "rejectedThisRun": 30,
   "failuresThisRun": 0,
   "criteria": {
     "knownActorPressMinimum": 2.5,
