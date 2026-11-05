@@ -1,58 +1,463 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T11:35:11Z",
+  "updatedAt": "2026-11-05T13:16:33Z",
   "policy": "Films : AlloCiné >= 2,5/5 avec acteur reconnu ; >= 3,5/5 pour de nouveaux interprètes. Séries : seuil IMDb équivalent avec un volume minimal de votes.",
-  "count": 101,
+  "count": 98,
   "records": [
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "L'Affaire Marie-Claire",
-      "releaseDate": "2026-11-04",
+      "title": "Scrooge",
+      "releaseDate": "2026-11-11",
       "actors": [
-        "Charlotte Gainsbourg"
+        "Johnny Depp"
       ],
       "knownActors": [
-        "Charlotte Gainsbourg"
+        "Johnny Depp"
       ],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323550.html",
-      "allocineId": "323550"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html",
+      "allocineId": "1000034007"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Club Kid",
-      "releaseDate": "2026-11-04",
+      "title": "Il faut brûler Maman",
+      "releaseDate": "2026-11-11",
       "actors": [
-        "Jordan Firstman"
+        "Louise Coldefy"
+      ],
+      "knownActors": [
+        "Louise Coldefy"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html",
+      "allocineId": "1000039483"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Yeux Verts",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Anamaria Vartolomei"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036932.html",
-      "allocineId": "1000036932"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323956.html",
+      "allocineId": "323956"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Un bon patron",
-      "releaseDate": "2026-11-04",
+      "title": "15/18",
+      "releaseDate": "2026-11-11",
       "actors": [
-        "Didier Bourdon"
+        "Zoé Monpart"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html",
-      "allocineId": "1000031925"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040172.html",
+      "allocineId": "1000040172"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Ce qui nous mène à toi",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Nina Meurisse"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037363.html",
+      "allocineId": "1000037363"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "L'Âge d'Or",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Souheila Yacoub"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310503.html",
+      "allocineId": "310503"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "George Michael: The Faith Tour",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "George Michael"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041856.html",
+      "allocineId": "1000041856"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Infirmary",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Paul Syre"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048020.html",
+      "allocineId": "1000048020"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Comment braquer une banque",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Nicholas Hoult"
+      ],
+      "knownActors": [
+        "Nicholas Hoult"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020289.html",
+      "allocineId": "1000020289"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Good Boy",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Stephen Graham"
+      ],
+      "knownActors": [
+        "Stephen Graham"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=328439.html",
+      "allocineId": "328439"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Everytime",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Birgit Minichmayr"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310509.html",
+      "allocineId": "310509"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Merveilleux hiver de Tom le chat",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.html",
+      "allocineId": "1000032461"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "À jamais les premières",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Aixa Villagran"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020962.html",
+      "allocineId": "1000020962"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "League Of Legends Worlds 26 - Finals In Cinema",
+      "releaseDate": "2026-11-14",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050340.html",
+      "allocineId": "1000050340"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Face à face",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Valérie Mairesse"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040446.html",
+      "allocineId": "1000040446"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Pierre ou les ambiguïtés",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Guillaume Depardieu"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=58916.html",
+      "allocineId": "58916"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Centenaires",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html",
+      "allocineId": "1000053702"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Izolyatsia",
+      "releaseDate": "2026-11-11",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.html",
+      "allocineId": "1000019282"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Demain est un autre jour",
+      "releaseDate": "1956-12-28",
+      "actors": [
+        "Barbara Stanwyck"
+      ],
+      "knownActors": [
+        "Barbara Stanwyck"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=14285.html",
+      "allocineId": "14285"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Faire Santé Commune",
+      "releaseDate": "2026-11-12",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054131.html",
+      "allocineId": "1000054131"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "l'éclipse du bonheur",
+      "releaseDate": "2026-11-17",
+      "actors": [
+        "Eleni Haupt"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=261894.html",
+      "allocineId": "261894"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Martin Roumagnac",
+      "releaseDate": "1946-12-18",
+      "actors": [
+        "Marlene Dietrich"
+      ],
+      "knownActors": [
+        "Marlene Dietrich"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=43056.html",
+      "allocineId": "43056"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "The Front page",
+      "releaseDate": "1931-09-25",
+      "actors": [
+        "Adolphe Menjou"
+      ],
+      "knownActors": [
+        "Adolphe Menjou"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=41324.html",
+      "allocineId": "41324"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Charbonniers d'Ikaria",
+      "releaseDate": "2026-11-15",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034335.html",
+      "allocineId": "1000034335"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Nikos, l'épicier ambulant",
+      "releaseDate": "2026-11-15",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=260324.html",
+      "allocineId": "260324"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Hunger Games : Lever de soleil sur la moisson",
+      "releaseDate": "2026-11-18",
+      "actors": [
+        "Joseph Zada"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html",
+      "allocineId": "1000004528"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Paper Tiger",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Adam Driver"
+      ],
+      "knownActors": [
+        "Adam Driver"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html",
+      "allocineId": "1000014559"
     },
     {
       "source": "AlloCiné",
@@ -69,449 +474,6 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026918.html",
       "allocineId": "1000026918"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Godzilla Minus Zero",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Ryûnosuke Kamiki"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014492.html",
-      "allocineId": "1000014492"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Si tu tends l'oreille",
-      "releaseDate": null,
-      "actors": [
-        "Youko Honna"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=182758.html",
-      "allocineId": "182758"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Wild Horse Nine",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Sam Rockwell"
-      ],
-      "knownActors": [
-        "Sam Rockwell"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298024.html",
-      "allocineId": "298024"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Carlo Acutis, un saint pour notre temps",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Jean Dujardin",
-        "l'un des films français les plus chers de l'Histoire est disponible en streaming"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040300.html",
-      "allocineId": "1000040300"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Ma toute petite école",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.html",
-      "allocineId": "1000005161"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "L’Arabe (The Arab)",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Ahmed Benaissa"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272218.html",
-      "allocineId": "272218"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Stray Kids World Tour <RUN IT> LIVE VIEWING",
-      "releaseDate": "2026-11-07",
-      "actors": [
-        "Bang Chan"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053534.html",
-      "allocineId": "1000053534"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Silences",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Moussa Maaskri"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035928.html",
-      "allocineId": "1000035928"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Louve, une vie dans les Alpes",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Françoise Cadol"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051742.html",
-      "allocineId": "1000051742"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Kwibuka, se souvenir",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Sonia Rolland"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027255.html",
-      "allocineId": "1000027255"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Nos âmes libres",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046573.html",
-      "allocineId": "1000046573"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Rammstein - Live in Mexico City",
-      "releaseDate": "2026-11-06",
-      "actors": [
-        "Till Lindemann"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051942.html",
-      "allocineId": "1000051942"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "En apparence",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Thierry Boudry"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038090.html",
-      "allocineId": "1000038090"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Peppa fête Noël",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.html",
-      "allocineId": "1000051859"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Zones Troubles",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html",
-      "allocineId": "1000049510"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Lorie Party 2026 au cinéma",
-      "releaseDate": "2026-11-05",
-      "actors": [
-        "plus de 8 millions d’albums vendus",
-        "des tubes devenus incontournables et des chorégraphies gravées dans toutes les mémoires",
-        "Lorie s’est imposée comme une artiste emblématique de la pop française. Le temps d’une soirée unique au cinéma",
-        "(re)vivez sur grand écran la Lorie Party et célébrez l’artiste qui a fait chanter",
-        "danser et grandir toute une génération."
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047396.html",
-      "allocineId": "1000047396"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Roméo et Juliette (Opéra de Paris)",
-      "releaseDate": "2026-11-08",
-      "actors": [
-        "Paul Marque"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046255.html",
-      "allocineId": "1000046255"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Enhypen vr concert : destiny",
-      "releaseDate": "2026-11-06",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051422.html",
-      "allocineId": "1000051422"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "L'Amérique des autres",
-      "releaseDate": "1995-12-20",
-      "actors": [
-        "Tom Conti"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=12579.html",
-      "allocineId": "12579"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "L’Himalaya Sans Filtre : Sur Les Routes De Lo",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Jean-Pierre Dessens"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051511.html",
-      "allocineId": "1000051511"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Carmen (The Royal Opera)",
-      "releaseDate": "2026-11-10",
-      "actors": [
-        "Adriana González"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045316.html",
-      "allocineId": "1000045316"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "30 ans après... Mémoire d'une féria",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html",
-      "allocineId": "1000049344"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Coup de coeur surprise Jeune Public -1- AFCAE Novembre 2026",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038768.html",
-      "allocineId": "1000038768"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Coup de coeur surprise Jeune Public -2- AFCAE Novembre 2026",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038769.html",
-      "allocineId": "1000038769"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Coup de coeur surprise Jeune Public -3- AFCAE Novembre 2026",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038770.html",
-      "allocineId": "1000038770"
     },
     {
       "source": "AlloCiné",
@@ -550,22 +512,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Hunger Games : Lever de soleil sur la moisson",
-      "releaseDate": "2026-11-18",
-      "actors": [
-        "Joseph Zada"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html",
-      "allocineId": "1000004528"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Changer l'eau des fleurs",
       "releaseDate": "2026-12-09",
       "actors": [
@@ -582,38 +528,18 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Il faut brûler Maman",
-      "releaseDate": "2026-11-11",
+      "title": "Jupiter",
+      "releaseDate": "2026-11-18",
       "actors": [
-        "Louise Coldefy"
+        "Denis Ménochet"
       ],
-      "knownActors": [
-        "Louise Coldefy"
-      ],
+      "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html",
-      "allocineId": "1000039483"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Scrooge",
-      "releaseDate": "2026-11-11",
-      "actors": [
-        "Johnny Depp"
-      ],
-      "knownActors": [
-        "Johnny Depp"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html",
-      "allocineId": "1000034007"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.html",
+      "allocineId": "1000022995"
     },
     {
       "source": "AlloCiné",
@@ -636,52 +562,335 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Jupiter",
-      "releaseDate": "2026-11-18",
+      "title": "Un bon patron",
+      "releaseDate": "2026-11-04",
       "actors": [
-        "Denis Ménochet"
+        "Didier Bourdon"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.html",
-      "allocineId": "1000022995"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Bad Apples",
-      "releaseDate": null,
-      "actors": [
-        "Saoirse Ronan"
-      ],
-      "knownActors": [
-        "Saoirse Ronan"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=323193.html",
-      "allocineId": "323193"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Le Fantôme de l'Opéra",
-      "releaseDate": "2026-10-28",
-      "actors": [
-        "Deva Cassel"
-      ],
-      "knownActors": [],
-      "pressScore": 1.5,
-      "pressReviews": 4,
+      "pressScore": 2.7,
+      "pressReviews": 3,
       "status": "rejected",
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019622.html",
-      "allocineId": "1000019622"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031925.html",
+      "allocineId": "1000031925"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Ma toute petite école",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": 3.1,
+      "pressReviews": 13,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000005161.html",
+      "allocineId": "1000005161"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Carlo Acutis, un saint pour notre temps",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040300.html",
+      "allocineId": "1000040300"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "L’Arabe",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Ahmed Benaissa"
+      ],
+      "knownActors": [],
+      "pressScore": 3.1,
+      "pressReviews": 19,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=272218.html",
+      "allocineId": "272218"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Silences",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Moussa Maaskri"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035928.html",
+      "allocineId": "1000035928"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Kwibuka, se souvenir",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Sonia Rolland"
+      ],
+      "knownActors": [],
+      "pressScore": 2.8,
+      "pressReviews": 6,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027255.html",
+      "allocineId": "1000027255"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Louve, une vie dans les Alpes",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Françoise Cadol"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051742.html",
+      "allocineId": "1000051742"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Nos âmes libres",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": 2.9,
+      "pressReviews": 10,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046573.html",
+      "allocineId": "1000046573"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Stray Kids World Tour <RUN IT> Live viewing",
+      "releaseDate": "2026-11-07",
+      "actors": [
+        "Bang Chan"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053534.html",
+      "allocineId": "1000053534"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Peppa fête Noël",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.html",
+      "allocineId": "1000051859"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "En apparence",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Thierry Boudry"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038090.html",
+      "allocineId": "1000038090"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Rammstein - Live in Mexico City",
+      "releaseDate": "2026-11-06",
+      "actors": [
+        "Till Lindemann"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051942.html",
+      "allocineId": "1000051942"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Zones Troubles",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html",
+      "allocineId": "1000049510"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Lorie Party 2026 au cinéma",
+      "releaseDate": "2026-11-05",
+      "actors": [
+        "plus de 8 millions d’albums vendus",
+        "des tubes devenus incontournables et des chorégraphies gravées dans toutes les mémoires",
+        "Lorie s’est imposée comme une artiste emblématique de la pop française. Le temps d’une soirée unique au cinéma",
+        "(re)vivez sur grand écran la Lorie Party et célébrez l’artiste qui a fait chanter",
+        "danser et grandir toute une génération."
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047396.html",
+      "allocineId": "1000047396"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "L’Himalaya Sans Filtre : Sur Les Routes De Lo",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Jean-Pierre Dessens"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051511.html",
+      "allocineId": "1000051511"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Coup de coeur surprise Jeune Public -2- AFCAE Novembre 2026",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038769.html",
+      "allocineId": "1000038769"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "30 ans après... Mémoire d'une féria",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html",
+      "allocineId": "1000049344"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Aro Berria",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Maite Ronse"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324536.html",
+      "allocineId": "324536"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Enhypen vr concert : destiny",
+      "releaseDate": "2026-11-06",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051422.html",
+      "allocineId": "1000051422"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Coup de coeur surprise Jeune Public -1- AFCAE Novembre 2026",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038768.html",
+      "allocineId": "1000038768"
     },
     {
       "source": "AlloCiné",
@@ -718,6 +927,22 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "Le Fantôme de l'Opéra",
+      "releaseDate": "2026-10-28",
+      "actors": [
+        "Deva Cassel"
+      ],
+      "knownActors": [],
+      "pressScore": 1.6,
+      "pressReviews": 7,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019622.html",
+      "allocineId": "1000019622"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Sanguine",
       "releaseDate": "2026-10-28",
       "actors": [
@@ -730,36 +955,6 @@
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023600.html",
       "allocineId": "1000023600"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Ozzy & Black Sabbath : Back to the Beginning",
-      "releaseDate": "2026-10-28",
-      "actors": [
-        "Ozzy Osbourne"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.html",
-      "allocineId": "1000027716"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "BTS World Tour 'ARIRANG' In São Paulo : Live viewing",
-      "releaseDate": "2026-10-31",
-      "actors": [],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048556.html",
-      "allocineId": "1000048556"
     },
     {
       "source": "AlloCiné",
@@ -780,6 +975,20 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "BTS World Tour 'ARIRANG' In São Paulo : Live viewing",
+      "releaseDate": "2026-10-31",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048556.html",
+      "allocineId": "1000048556"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Supplique à nos fantômes",
       "releaseDate": "2026-10-28",
       "actors": [
@@ -796,58 +1005,18 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Gods of Mexico",
-      "releaseDate": "2026-10-30",
+      "title": "Ozzy & Black Sabbath : Back to the Beginning",
+      "releaseDate": "2026-10-28",
       "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
+        "Ozzy Osbourne"
       ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
+      "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=278883.html",
-      "allocineId": "278883"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Blonde Vénus",
-      "releaseDate": null,
-      "actors": [
-        "Marlene Dietrich"
-      ],
-      "knownActors": [
-        "Marlene Dietrich"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=7122.html",
-      "allocineId": "7122"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "La Femme et le pantin",
-      "releaseDate": null,
-      "actors": [
-        "Marlene Dietrich"
-      ],
-      "knownActors": [
-        "Marlene Dietrich"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=193.html",
-      "allocineId": "193"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.html",
+      "allocineId": "1000027716"
     },
     {
       "source": "AlloCiné",
@@ -886,9 +1055,48 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "La Femme et le pantin",
+      "releaseDate": null,
+      "actors": [
+        "Marlene Dietrich"
+      ],
+      "knownActors": [
+        "Marlene Dietrich"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=193.html",
+      "allocineId": "193"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Blonde Vénus",
+      "releaseDate": null,
+      "actors": [
+        "Marlene Dietrich"
+      ],
+      "knownActors": [
+        "Marlene Dietrich"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=7122.html",
+      "allocineId": "7122"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Panoptês",
       "releaseDate": "2026-10-31",
-      "actors": [],
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
@@ -932,22 +1140,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Le Roi du Game",
-      "releaseDate": "2026-10-21",
-      "actors": [
-        "Eric Judor"
-      ],
-      "knownActors": [],
-      "pressScore": 2.8,
-      "pressReviews": 28,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030383.html",
-      "allocineId": "1000030383"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Une femme aujourd’hui",
       "releaseDate": "2026-10-21",
       "actors": [
@@ -960,6 +1152,22 @@
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026725.html",
       "allocineId": "1000026725"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Roi du Game",
+      "releaseDate": "2026-10-21",
+      "actors": [
+        "Eric Judor"
+      ],
+      "knownActors": [],
+      "pressScore": 2.8,
+      "pressReviews": 29,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030383.html",
+      "allocineId": "1000030383"
     },
     {
       "source": "AlloCiné",
@@ -1014,22 +1222,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Violence du corps de l’autre",
-      "releaseDate": "2026-10-23",
-      "actors": [
-        "Larissa Corriveau"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042833.html",
-      "allocineId": "1000042833"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Le Printemps vint en riant",
       "releaseDate": "2026-10-21",
       "actors": [
@@ -1046,18 +1238,18 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Mochy",
-      "releaseDate": "2026-10-14",
+      "title": "Violence du corps de l’autre",
+      "releaseDate": "2026-10-23",
       "actors": [
-        "Axel Auriant"
+        "Larissa Corriveau"
       ],
       "knownActors": [],
-      "pressScore": 3.2,
-      "pressReviews": 16,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.html",
-      "allocineId": "1000013643"
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042833.html",
+      "allocineId": "1000042833"
     },
     {
       "source": "AlloCiné",
@@ -1070,12 +1262,28 @@
       "knownActors": [
         "Jessica Chastain"
       ],
-      "pressScore": 1.8,
-      "pressReviews": 5,
+      "pressScore": 2.0,
+      "pressReviews": 6,
       "status": "rejected",
       "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023068.html",
       "allocineId": "1000023068"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Mochy",
+      "releaseDate": "2026-10-14",
+      "actors": [
+        "Axel Auriant"
+      ],
+      "knownActors": [],
+      "pressScore": 3.2,
+      "pressReviews": 16,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.html",
+      "allocineId": "1000013643"
     },
     {
       "source": "AlloCiné",
@@ -1176,22 +1384,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Ducobu et le fantôme de Saint-Potache",
-      "releaseDate": "2026-10-07",
-      "actors": [
-        "Charlie Garnier Naslin"
-      ],
-      "knownActors": [],
-      "pressScore": 2.5,
-      "pressReviews": 11,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019249.html",
-      "allocineId": "1000019249"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "La Maison de nos rêves",
       "releaseDate": "2026-10-07",
       "actors": [
@@ -1204,6 +1396,22 @@
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031247.html",
       "allocineId": "1000031247"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Ducobu et le fantôme de Saint-Potache",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Charlie Garnier Naslin"
+      ],
+      "knownActors": [],
+      "pressScore": 2.5,
+      "pressReviews": 11,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019249.html",
+      "allocineId": "1000019249"
     },
     {
       "source": "AlloCiné",
@@ -1240,26 +1448,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Le Monde à l'envers",
-      "releaseDate": "2026-10-07",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045582.html",
-      "allocineId": "1000045582"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Leviticus",
       "releaseDate": "2026-10-07",
       "actors": [
@@ -1272,6 +1460,23 @@
       "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037443.html",
       "allocineId": "1000037443"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Monde à l'envers",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Joseph Zada",
+        "Whitney Peak"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045582.html",
+      "allocineId": "1000045582"
     },
     {
       "source": "AlloCiné",
@@ -1340,26 +1545,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Le Jardin de Madame Hu",
-      "releaseDate": "2026-10-07",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012178.html",
-      "allocineId": "1000012178"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Queen Budapest",
       "releaseDate": "2026-10-08",
       "actors": [
@@ -1376,18 +1561,19 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Le goût du vin de palme",
+      "title": "Le Jardin de Madame Hu",
       "releaseDate": "2026-10-07",
       "actors": [
-        "Emil Abossolo M'Bo"
+        "Joseph Zada",
+        "Whitney Peak"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038349.html",
-      "allocineId": "1000038349"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012178.html",
+      "allocineId": "1000012178"
     },
     {
       "source": "AlloCiné",
@@ -1408,6 +1594,22 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "Le goût du vin de palme",
+      "releaseDate": "2026-10-07",
+      "actors": [
+        "Emil Abossolo M'Bo"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038349.html",
+      "allocineId": "1000038349"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "No Wifi",
       "releaseDate": "2026-10-07",
       "actors": [
@@ -1420,292 +1622,6 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048424.html",
       "allocineId": "1000048424"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "R. Roussil, Le Cul par Terre",
-      "releaseDate": "2026-10-07",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039188.html",
-      "allocineId": "1000039188"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Mémoire de fille",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Tess Barthélemy"
-      ],
-      "knownActors": [],
-      "pressScore": 3.2,
-      "pressReviews": 27,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026296.html",
-      "allocineId": "1000026296"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Le Monde à l'endroit",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Isild Le Besco"
-      ],
-      "knownActors": [],
-      "pressScore": 3.4,
-      "pressReviews": 22,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000007346.html",
-      "allocineId": "1000007346"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Le Chant des oliviers",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Michela Farrugia"
-      ],
-      "knownActors": [],
-      "pressScore": 3.2,
-      "pressReviews": 14,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038237.html",
-      "allocineId": "1000038237"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Délivre-nous du Mal",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310374.html",
-      "allocineId": "310374"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Melpomène",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Charlotte Dauphin"
-      ],
-      "knownActors": [],
-      "pressScore": 2.8,
-      "pressReviews": 8,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000045261.html",
-      "allocineId": "1000045261"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Linkin Park: Unshatter",
-      "releaseDate": "2026-10-01",
-      "actors": [
-        "Joseph Hahn"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049814.html",
-      "allocineId": "1000049814"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Così fan tutte (Metropolitan Opera)",
-      "releaseDate": "2026-10-03",
-      "actors": [
-        "Federica Lombardi"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043022.html",
-      "allocineId": "1000043022"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "L’idée qu’on s’en faisait",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Laetitia Beauvais"
-      ],
-      "knownActors": [],
-      "pressScore": 1.8,
-      "pressReviews": 5,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050921.html",
-      "allocineId": "1000050921"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Sigma",
-      "releaseDate": "2026-10-02",
-      "actors": [
-        "Sundeep Kishan"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046806.html",
-      "allocineId": "1000046806"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Kadar The Sons of the Lord",
-      "releaseDate": "2026-09-30",
-      "actors": [
-        "Takla Chamoun"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051519.html",
-      "allocineId": "1000051519"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Aaram",
-      "releaseDate": "2026-10-02",
-      "actors": [
-        "Saiju Kurup"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052028.html",
-      "allocineId": "1000052028"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Avarachan & Sons",
-      "releaseDate": "2026-10-02",
-      "actors": [
-        "Biju Menon"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052453.html",
-      "allocineId": "1000052453"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Sham",
-      "releaseDate": "2026-09-16",
-      "actors": [
-        "Gô Ayano"
-      ],
-      "knownActors": [],
-      "pressScore": 3.3,
-      "pressReviews": 24,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014638.html",
-      "allocineId": "1000014638"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "The Transformers: The Movie 40th Anniversary",
-      "releaseDate": "2026-09-17",
-      "actors": [
-        "Peter Cullen"
-      ],
-      "knownActors": [
-        "Peter Cullen"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046254.html",
-      "allocineId": "1000046254"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Maoussi",
-      "releaseDate": "2026-09-16",
-      "actors": [
-        "Moustapha Mbengue"
-      ],
-      "knownActors": [],
-      "pressScore": 2.4,
-      "pressReviews": 5,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014136.html",
-      "allocineId": "1000014136"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Maquisards",
-      "releaseDate": "2026-09-16",
-      "actors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "knownActors": [
-        "Timothée Chalamet",
-        "Zendaya"
-      ],
-      "pressScore": 2.4,
-      "pressReviews": 5,
-      "status": "rejected",
-      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043505.html",
-      "allocineId": "1000043505"
     }
   ]
 }
