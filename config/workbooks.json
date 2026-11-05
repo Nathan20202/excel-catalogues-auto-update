@@ -1650,7 +1650,7 @@
           "sheet": "01 Cours complet",
           "table": "CourseMasterTable",
           "file": "data/gcdl/cours.json",
-          "recordCount": 258,
+          "recordCount": 276,
           "idColumn": "ID",
           "preserveColumns": [],
           "formulaColumns": [],
