@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "catalog": "pokemon-discovery",
-  "cursor": 9,
+  "cursor": 10,
   "checkedThisRun": 0,
   "addedThisRun": 0,
   "failuresThisRun": 0,
-  "areaThisRun": "Belgique",
+  "areaThisRun": "Suisse romande",
   "scannedAreas": [
     "Auvergne-Rhône-Alpes",
     "Belgique",
@@ -15,7 +15,8 @@
     "Occitanie",
     "Pays de la Loire",
     "Provence-Alpes-Côte d’Azur",
+    "Suisse romande",
     "Île-de-France"
   ],
-  "updatedAt": "2026-11-04T12:28:26Z"
+  "updatedAt": "2026-11-11T12:05:59Z"
 }
