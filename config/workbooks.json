@@ -1234,7 +1234,7 @@
           "sheet": "Mende",
           "table": "ActivitiesMende",
           "file": "data/activites/mende.json",
-          "recordCount": 65,
+          "recordCount": 80,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
