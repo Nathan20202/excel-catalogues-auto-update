@@ -1,58 +1,432 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T13:50:16Z",
+  "updatedAt": "2026-11-19T14:29:44Z",
   "policy": "Films : AlloCiné >= 2,5/5 avec acteur reconnu ; >= 3,5/5 pour de nouveaux interprètes. Séries : seuil IMDb équivalent avec un volume minimal de votes.",
-  "count": 373,
+  "count": 101,
   "records": [
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Hunger Games : Lever de soleil sur la moisson",
-      "releaseDate": "2026-11-18",
+      "title": "Billie, à la croisée des mondes",
+      "releaseDate": "2026-11-25",
       "actors": [
-        "Joseph Zada"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html",
-      "allocineId": "1000004528"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Camembert",
-      "releaseDate": "2026-11-18",
-      "actors": [
-        "Kristin Scott Thomas"
+        "Hailee Steinfeld"
       ],
       "knownActors": [
-        "Kristin Scott Thomas"
+        "Hailee Steinfeld"
       ],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=316136.html",
-      "allocineId": "316136"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html",
+      "allocineId": "312529"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Malika",
-      "releaseDate": "2026-11-18",
+      "title": "Mon beau-père, ma belle-fille et moi",
+      "releaseDate": "2026-11-25",
       "actors": [
-        "Lilya Adad"
+        "Robert De Niro"
+      ],
+      "knownActors": [
+        "Robert De Niro"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000016814.html",
+      "allocineId": "1000016814"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Paper Tiger",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Adam Driver"
+      ],
+      "knownActors": [
+        "Adam Driver"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html",
+      "allocineId": "1000014559"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Un bon petit soldat",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Alba Rohrwacher"
+      ],
+      "knownActors": [
+        "Alba Rohrwacher"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027620.html",
+      "allocineId": "1000027620"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Demain je tombe amoureux",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Fabrice Luchini"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html",
-      "allocineId": "1000018671"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004190.html",
+      "allocineId": "1000004190"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Forty Love",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Paul Kircher"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028064.html",
+      "allocineId": "1000028064"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Noël d'Ernest et Célestine",
+      "releaseDate": "2026-11-25",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000041096.html",
+      "allocineId": "1000041096"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Congo Boy",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Bradley Fiomona"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043822.html",
+      "allocineId": "1000043822"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Gruffalo, de père en fils",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Zabou Breitman"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052290.html",
+      "allocineId": "1000052290"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le Sabre des gardiens",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Jing Wu"
+      ],
+      "knownActors": [
+        "Jing Wu"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037949.html",
+      "allocineId": "1000037949"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "3670",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Youhyun Cho"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023042.html",
+      "allocineId": "1000023042"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Merci d'être venu",
+      "releaseDate": "2026-11-25",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044062.html",
+      "allocineId": "1000044062"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La libertad doble",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Misael Saavedra"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000012306.html",
+      "allocineId": "1000012306"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Concert de Noël 2026 d'André Rieu : Let it snow !",
+      "releaseDate": "2026-12-01",
+      "actors": [
+        "André Rieu"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042502.html",
+      "allocineId": "1000042502"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Les Amants du Pont-Neuf",
+      "releaseDate": "1991-10-16",
+      "actors": [
+        "Juliette Binoche"
+      ],
+      "knownActors": [
+        "Juliette Binoche"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=7114.html",
+      "allocineId": "7114"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Espoir-Sierra de Teruel",
+      "releaseDate": "1945-06-13",
+      "actors": [
+        "Andrés Mejuto"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=37047.html",
+      "allocineId": "37047"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Le dernier repas",
+      "releaseDate": "2026-11-25",
+      "actors": [
+        "Gilbert Laumord"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009924.html",
+      "allocineId": "1000009924"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "“Des K-soss” comme vous dites",
+      "releaseDate": "2026-11-26",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044473.html",
+      "allocineId": "1000044473"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Casse-Noisette (The Royal Ballet)",
+      "releaseDate": "2026-12-01",
+      "actors": [
+        "Mayara Magri"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022517.html",
+      "allocineId": "1000022517"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Fractures - mémoire et souvenir",
+      "releaseDate": "2026-11-25",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054743.html",
+      "allocineId": "1000054743"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Changer l'eau des fleurs",
+      "releaseDate": "2026-12-09",
+      "actors": [
+        "Leïla Bekhti"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html",
+      "allocineId": "1000018371"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Astérix - Le Royaume de Nubie",
+      "releaseDate": "2026-12-02",
+      "actors": [
+        "Christian Clavier"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html",
+      "allocineId": "313265"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Avengers: Doomsday",
+      "releaseDate": "2026-12-16",
+      "actors": [
+        "Robert Downey Jr."
+      ],
+      "knownActors": [
+        "Robert Downey Jr."
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=269068.html",
+      "allocineId": "269068"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Dune : Troisième partie",
+      "releaseDate": "2026-12-16",
+      "actors": [
+        "Timothée Chalamet"
+      ],
+      "knownActors": [
+        "Timothée Chalamet"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html",
+      "allocineId": "324508"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Wildwood la prophétie de la forêt",
+      "releaseDate": "2026-12-09",
+      "actors": [
+        "Peyton Elizabeth Lee"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296439.html",
+      "allocineId": "296439"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "La Bola Negra",
+      "releaseDate": "2026-12-16",
+      "actors": [
+        "Guitarricadelafuente"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000024810.html",
+      "allocineId": "1000024810"
     },
     {
       "source": "AlloCiné",
@@ -63,12 +437,44 @@
         "Denis Ménochet"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 3.4,
+      "pressReviews": 33,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022995.html",
       "allocineId": "1000022995"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Hunger Games : Lever de soleil sur la moisson",
+      "releaseDate": "2026-11-18",
+      "actors": [
+        "Joseph Zada"
+      ],
+      "knownActors": [],
+      "pressScore": 3.0,
+      "pressReviews": 25,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html",
+      "allocineId": "1000004528"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Malika",
+      "releaseDate": "2026-11-18",
+      "actors": [
+        "Lilya Adad"
+      ],
+      "knownActors": [],
+      "pressScore": 2.8,
+      "pressReviews": 14,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018671.html",
+      "allocineId": "1000018671"
     },
     {
       "source": "AlloCiné",
@@ -79,29 +485,12 @@
         "Emmanuel Macchia"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 3.3,
+      "pressReviews": 39,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017168.html",
       "allocineId": "1000017168"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Gabin",
-      "releaseDate": "2026-11-18",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=298873.html",
-      "allocineId": "298873"
     },
     {
       "source": "AlloCiné",
@@ -112,10 +501,10 @@
         "Ryô Yoshizawa"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 3.4,
+      "pressReviews": 13,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000010370.html",
       "allocineId": "1000010370"
     },
@@ -124,10 +513,7 @@
       "kind": "film",
       "title": "À la poursuite de l’Affreunard",
       "releaseDate": "2026-11-18",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
@@ -145,59 +531,12 @@
         "Catherine Sorolla"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 2.4,
+      "pressReviews": 8,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000052544.html",
       "allocineId": "1000052544"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Ulya",
-      "releaseDate": "2026-11-18",
-      "actors": [
-        "Kārlis Arnolds Avots"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028480.html",
-      "allocineId": "1000028480"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
-      "releaseDate": "2026-11-21",
-      "actors": [],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054150.html",
-      "allocineId": "1000054150"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Dernier coup de chapeau pour Capelito",
-      "releaseDate": "2026-11-18",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051654.html",
-      "allocineId": "1000051654"
     },
     {
       "source": "AlloCiné",
@@ -208,46 +547,42 @@
         "Alice May Connolly"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 2.6,
+      "pressReviews": 5,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000028451.html",
       "allocineId": "1000028451"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Meeting The Buddha",
-      "releaseDate": "2026-11-18",
+      "title": "O.M Operation Mole",
+      "releaseDate": "2026-11-20",
       "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
+        "Dhanush"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.html",
-      "allocineId": "1000040428"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048062.html",
+      "allocineId": "1000048062"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "La Montagne d'or",
+      "title": "Dernier coup de chapeau pour Capelito",
       "releaseDate": "2026-11-18",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032333.html",
-      "allocineId": "1000032333"
+      "pressScore": 3.3,
+      "pressReviews": 3,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051654.html",
+      "allocineId": "1000051654"
     },
     {
       "source": "AlloCiné",
@@ -258,10 +593,10 @@
         "Monique van De Ven"
       ],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
+      "pressScore": 3.5,
+      "pressReviews": 4,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020268.html",
       "allocineId": "1000020268"
     },
@@ -270,10 +605,7 @@
       "kind": "film",
       "title": "Ohong Village",
       "releaseDate": "2026-11-18",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
@@ -285,52 +617,16 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Un peu, beaucoup, passionnément, à la folie !",
-      "releaseDate": "2026-11-19",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055079.html",
-      "allocineId": "1000055079"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Chicken Shop Date: The Final Series",
-      "releaseDate": "2026-11-24",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054537.html",
-      "allocineId": "1000054537"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "City Exterminator",
+      "title": "La Montagne d'or",
       "releaseDate": "2026-11-18",
-      "actors": [
-        "Fadi Sroor"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048844.html",
-      "allocineId": "1000048844"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032333.html",
+      "allocineId": "1000032333"
     },
     {
       "source": "AlloCiné",
@@ -347,6 +643,50 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022255.html",
       "allocineId": "1000022255"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Meeting The Buddha",
+      "releaseDate": "2026-11-18",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": 2.0,
+      "pressReviews": 3,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000040428.html",
+      "allocineId": "1000040428"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "City Exterminator",
+      "releaseDate": "2026-11-18",
+      "actors": [
+        "Fadi Sroor"
+      ],
+      "knownActors": [],
+      "pressScore": 2.3,
+      "pressReviews": 4,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048844.html",
+      "allocineId": "1000048844"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
+      "releaseDate": "2026-11-21",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054150.html",
+      "allocineId": "1000054150"
     },
     {
       "source": "AlloCiné",
@@ -371,10 +711,7 @@
       "kind": "film",
       "title": "La passion de la liberté, une histoire populaire de  la Grèce",
       "releaseDate": "2026-11-20",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
@@ -386,121 +723,39 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Piou-piou : amis ou ennemis ?",
-      "releaseDate": "2026-11-23",
+      "title": "Un peu, beaucoup, passionnément, à la folie !",
+      "releaseDate": "2026-11-19",
       "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
+        "une palette d émotions et une authenticité bouleversante",
+        "le film nous entraîne dans ce que c’est qu’aimer pendant cinq ou six décennies une même personne",
+        "Ce partage des joies et des peines",
+        "ces complicités si uniques",
+        "nous sont offerts en témoignage pour notre grand plaisir",
+        "et nous chavirent du rire au larmes pour nous parler d’Amour."
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055076.html",
-      "allocineId": "1000055076"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055079.html",
+      "allocineId": "1000055079"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Paper Tiger",
-      "releaseDate": "2026-11-25",
+      "title": "Nowhere",
+      "releaseDate": "2026-11-18",
       "actors": [
-        "Adam Driver"
-      ],
-      "knownActors": [
-        "Adam Driver"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html",
-      "allocineId": "1000014559"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Changer l'eau des fleurs",
-      "releaseDate": "2026-12-09",
-      "actors": [
-        "Leïla Bekhti"
+        "Medhi Ait Si Ali"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html",
-      "allocineId": "1000018371"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Billie, à la croisée des mondes",
-      "releaseDate": "2026-11-25",
-      "actors": [
-        "Hailee Steinfeld"
-      ],
-      "knownActors": [
-        "Hailee Steinfeld"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html",
-      "allocineId": "312529"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Astérix - Le Royaume de Nubie",
-      "releaseDate": "2026-12-02",
-      "actors": [
-        "Christian Clavier"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html",
-      "allocineId": "313265"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Dune : Troisième partie",
-      "releaseDate": "2026-12-16",
-      "actors": [
-        "Timothée Chalamet"
-      ],
-      "knownActors": [
-        "Timothée Chalamet"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html",
-      "allocineId": "324508"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "You Can See Everything",
-      "releaseDate": "2026-12-30",
-      "actors": [
-        "Nathan Fielder"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051707.html",
-      "allocineId": "1000051707"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000055601.html",
+      "allocineId": "1000055601"
     },
     {
       "source": "AlloCiné",
@@ -514,7 +769,7 @@
         "Johnny Depp"
       ],
       "pressScore": 2.4,
-      "pressReviews": 18,
+      "pressReviews": 19,
       "status": "rejected",
       "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034007.html",
@@ -542,7 +797,7 @@
       "title": "Les Yeux Verts",
       "releaseDate": "2026-11-11",
       "actors": [
-        "Anamaria Vartolomei"
+        "Douae Butarbuch Mzaouki"
       ],
       "knownActors": [],
       "pressScore": 3.2,
@@ -571,23 +826,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Le Merveilleux hiver de Tom le chat",
-      "releaseDate": "2026-11-11",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
-      "knownActors": [],
-      "pressScore": 3.3,
-      "pressReviews": 3,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.html",
-      "allocineId": "1000032461"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "À jamais les premières",
       "releaseDate": "2026-11-11",
       "actors": [
@@ -604,19 +842,16 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "League Of Legends Worlds 26 - Finals In Cinema",
-      "releaseDate": "2026-11-14",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "title": "Le Merveilleux hiver de Tom le chat",
+      "releaseDate": "2026-11-11",
+      "actors": [],
       "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050340.html",
-      "allocineId": "1000050340"
+      "pressScore": 3.3,
+      "pressReviews": 3,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000032461.html",
+      "allocineId": "1000032461"
     },
     {
       "source": "AlloCiné",
@@ -637,19 +872,30 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Centenaires",
-      "releaseDate": "2026-11-11",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "title": "League Of Legends Worlds 26 - Finals In Cinema",
+      "releaseDate": "2026-11-14",
+      "actors": [],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html",
-      "allocineId": "1000053702"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000050340.html",
+      "allocineId": "1000050340"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Izolyatsia",
+      "releaseDate": "2026-11-11",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": 3.4,
+      "pressReviews": 11,
+      "status": "rejected",
+      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.html",
+      "allocineId": "1000019282"
     },
     {
       "source": "AlloCiné",
@@ -670,29 +916,23 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Izolyatsia",
+      "title": "Centenaires",
       "releaseDate": "2026-11-11",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
-      "pressScore": 3.4,
-      "pressReviews": 10,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019282.html",
-      "allocineId": "1000019282"
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053702.html",
+      "allocineId": "1000053702"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
       "title": "Faire Santé Commune",
       "releaseDate": "2026-11-12",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
@@ -700,6 +940,22 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054131.html",
       "allocineId": "1000054131"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "John Doe",
+      "releaseDate": "2026-11-13",
+      "actors": [
+        "Arjun Das"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054488.html",
+      "allocineId": "1000054488"
     },
     {
       "source": "AlloCiné",
@@ -738,10 +994,7 @@
       "kind": "film",
       "title": "Carlo Acutis, un saint pour notre temps",
       "releaseDate": "2026-11-04",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
@@ -755,10 +1008,7 @@
       "kind": "film",
       "title": "Ma toute petite école",
       "releaseDate": "2026-11-04",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": 3.1,
       "pressReviews": 13,
@@ -786,22 +1036,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Silences",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Moussa Maaskri"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035928.html",
-      "allocineId": "1000035928"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Louve, une vie dans les Alpes",
       "releaseDate": "2026-11-04",
       "actors": [
@@ -818,12 +1052,23 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "Peppa fête Noël",
+      "releaseDate": "2026-11-04",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.html",
+      "allocineId": "1000051859"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Nos âmes libres",
       "releaseDate": "2026-11-04",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": 2.9,
       "pressReviews": 11,
@@ -851,35 +1096,34 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Peppa fête Noël",
+      "title": "Silences",
       "releaseDate": "2026-11-04",
       "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
+        "Moussa Maaskri"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051859.html",
-      "allocineId": "1000051859"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035928.html",
+      "allocineId": "1000035928"
     },
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Stray Kids World Tour <RUN IT> Live viewing",
-      "releaseDate": "2026-11-07",
+      "title": "En apparence",
+      "releaseDate": "2026-11-04",
       "actors": [
-        "Bang Chan"
+        "Thierry Boudry"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053534.html",
-      "allocineId": "1000053534"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038090.html",
+      "allocineId": "1000038090"
     },
     {
       "source": "AlloCiné",
@@ -900,18 +1144,64 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "En apparence",
-      "releaseDate": "2026-11-04",
+      "title": "Drei Kameradinnen",
+      "releaseDate": "2026-11-05",
       "actors": [
-        "Thierry Boudry"
+        "Manal Raga a Sabit"
       ],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038090.html",
-      "allocineId": "1000038090"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=300613.html",
+      "allocineId": "300613"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "L’Himalaya Sans Filtre : Sur Les Routes De Lo",
+      "releaseDate": "2026-11-04",
+      "actors": [
+        "Jean-Pierre Dessens"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051511.html",
+      "allocineId": "1000051511"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Zones Troubles",
+      "releaseDate": "2026-11-04",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html",
+      "allocineId": "1000049510"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
+      "title": "Stray Kids World Tour <RUN IT> Live viewing",
+      "releaseDate": "2026-11-07",
+      "actors": [
+        "Bang Chan"
+      ],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000053534.html",
+      "allocineId": "1000053534"
     },
     {
       "source": "AlloCiné",
@@ -936,22 +1226,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "L’Himalaya Sans Filtre : Sur Les Routes De Lo",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Jean-Pierre Dessens"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051511.html",
-      "allocineId": "1000051511"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Aro Berria",
       "releaseDate": "2026-11-04",
       "actors": [
@@ -968,68 +1242,16 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "Zones Troubles",
+      "title": "30 ans après... Mémoire d'une féria",
       "releaseDate": "2026-11-04",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
       "status": "pending",
       "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049510.html",
-      "allocineId": "1000049510"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Drei Kameradinnen",
-      "releaseDate": "2026-11-05",
-      "actors": [
-        "Manal Raga a Sabit"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=300613.html",
-      "allocineId": "300613"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Coup de coeur surprise Jeune Public -2- AFCAE Novembre 2026",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038769.html",
-      "allocineId": "1000038769"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "MK-MONARCH",
-      "releaseDate": "2026-11-04",
-      "actors": [
-        "Ayden Casse"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054865.html",
-      "allocineId": "1000054865"
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049344.html",
+      "allocineId": "1000049344"
     },
     {
       "source": "AlloCiné",
@@ -1116,6 +1338,24 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "La Femme et le pantin",
+      "releaseDate": null,
+      "actors": [
+        "Marlene Dietrich"
+      ],
+      "knownActors": [
+        "Marlene Dietrich"
+      ],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=193.html",
+      "allocineId": "193"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Supplique à nos fantômes",
       "releaseDate": "2026-10-28",
       "actors": [
@@ -1150,24 +1390,6 @@
     {
       "source": "AlloCiné",
       "kind": "film",
-      "title": "La Femme et le pantin",
-      "releaseDate": null,
-      "actors": [
-        "Marlene Dietrich"
-      ],
-      "knownActors": [
-        "Marlene Dietrich"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=193.html",
-      "allocineId": "193"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
       "title": "Ozzy & Black Sabbath : Back to the Beginning",
       "releaseDate": "2026-10-28",
       "actors": [
@@ -1180,20 +1402,6 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027716.html",
       "allocineId": "1000027716"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "BTS World Tour 'ARIRANG' In São Paulo : Live viewing",
-      "releaseDate": "2026-10-31",
-      "actors": [],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048556.html",
-      "allocineId": "1000048556"
     },
     {
       "source": "AlloCiné",
@@ -1230,12 +1438,23 @@
     {
       "source": "AlloCiné",
       "kind": "film",
+      "title": "BTS World Tour 'ARIRANG' In São Paulo : Live viewing",
+      "releaseDate": "2026-10-31",
+      "actors": [],
+      "knownActors": [],
+      "pressScore": null,
+      "pressReviews": 0,
+      "status": "pending",
+      "reason": "Note presse indisponible.",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048556.html",
+      "allocineId": "1000048556"
+    },
+    {
+      "source": "AlloCiné",
+      "kind": "film",
       "title": "Panoptês",
       "releaseDate": "2026-10-31",
-      "actors": [
-        "Joseph Zada",
-        "Whitney Peak"
-      ],
+      "actors": [],
       "knownActors": [],
       "pressScore": null,
       "pressReviews": 0,
@@ -1389,1748 +1608,6 @@
       "reason": "Note presse indisponible.",
       "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000042833.html",
       "allocineId": "1000042833"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Malfaisante",
-      "releaseDate": "2026-10-14",
-      "actors": [
-        "Jessica Chastain"
-      ],
-      "knownActors": [
-        "Jessica Chastain"
-      ],
-      "pressScore": 2.0,
-      "pressReviews": 6,
-      "status": "rejected",
-      "reason": "Note presse inférieure à 2,5/5 malgré un acteur reconnu.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023068.html",
-      "allocineId": "1000023068"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Mochy",
-      "releaseDate": "2026-10-14",
-      "actors": [
-        "Axel Auriant"
-      ],
-      "knownActors": [],
-      "pressScore": 3.2,
-      "pressReviews": 16,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013643.html",
-      "allocineId": "1000013643"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Low Expectations",
-      "releaseDate": "2026-10-14",
-      "actors": [
-        "Marie Ulven"
-      ],
-      "knownActors": [],
-      "pressScore": 3.2,
-      "pressReviews": 12,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000019091.html",
-      "allocineId": "1000019091"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Jailer 2",
-      "releaseDate": "2026-10-16",
-      "actors": [
-        "Rajinikanth"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018264.html",
-      "allocineId": "1000018264"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "La Porte des dieux",
-      "releaseDate": "2026-10-14",
-      "actors": [
-        "Rui-zhe Zhang"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000035013.html",
-      "allocineId": "1000035013"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Il était une fois le printemps",
-      "releaseDate": "2026-10-14",
-      "actors": [
-        "Alexandre Triaca"
-      ],
-      "knownActors": [],
-      "pressScore": 2.6,
-      "pressReviews": 5,
-      "status": "rejected",
-      "reason": "Aucun acteur reconnu et note presse inférieure à 3,5/5.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000036827.html",
-      "allocineId": "1000036827"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Macbeth (Metropolitan Opera)",
-      "releaseDate": "2026-10-17",
-      "actors": [
-        "Lise Davidsen"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000043020.html",
-      "allocineId": "1000043020"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Mais qui a tué Marcel ? Un été 76",
-      "releaseDate": "2026-10-14",
-      "actors": [
-        "Philippe Hayot"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051724.html",
-      "allocineId": "1000051724"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "The Transformers: The Movie 40th Anniversary",
-      "releaseDate": "2026-09-17",
-      "actors": [
-        "Peter Cullen"
-      ],
-      "knownActors": [
-        "Peter Cullen"
-      ],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000046254.html",
-      "allocineId": "1000046254"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Horizons de l'Asie Contemporaine",
-      "releaseDate": "2026-09-18",
-      "actors": [
-        "une sélection élargie à six longs métrages et huit courts métrages",
-        "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
-        "chargés d’histoires et de cultures",
-        "en nous emmenant toujours plus loin au cœur du continent."
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051178.html",
-      "allocineId": "1000051178"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Échos de l'Histoire Asiatique",
-      "releaseDate": "2026-09-18",
-      "actors": [
-        "une sélection élargie à six longs métrages et huit courts métrages",
-        "Perspectives traverse cette année des territoires de plus en plus vastes à travers l’Asie",
-        "chargés d’histoires et de cultures",
-        "en nous emmenant toujours plus loin au cœur du continent."
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000051176.html",
-      "allocineId": "1000051176"
-    },
-    {
-      "source": "AlloCiné",
-      "kind": "film",
-      "title": "Daayra",
-      "releaseDate": "2026-09-18",
-      "actors": [
-        "Prithviraj Sukumaran"
-      ],
-      "knownActors": [],
-      "pressScore": null,
-      "pressReviews": 0,
-      "status": "pending",
-      "reason": "Note presse indisponible.",
-      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000049013.html",
-      "allocineId": "1000049013"
-    },
-    {
-      "title": "100 Years",
-      "imdbId": "tt5174640",
-      "releaseDate": "2115-11-18",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q22917333",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "100 Years",
-      "imdbId": "tt5174640",
-      "releaseDate": "2115-11-18",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q22917333",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q29580932",
-      "imdbId": "tt5637536",
-      "releaseDate": "2031-12-19",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q29580932",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q29580932",
-      "imdbId": "tt5637536",
-      "releaseDate": "2031-12-19",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q29580932",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q29580931",
-      "imdbId": "tt3095356",
-      "releaseDate": "2029-12-21",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q29580931",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q29580931",
-      "imdbId": "tt3095356",
-      "releaseDate": "2029-12-21",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q29580931",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Coco 2",
-      "imdbId": "tt36261036",
-      "releaseDate": "2029-11-21",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q133454317",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Coco 2",
-      "imdbId": "tt36261036",
-      "releaseDate": "2029-11-21",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q133454317",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Coco 2",
-      "imdbId": "tt36261036",
-      "releaseDate": "2029-11-21",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q133454317",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Coco 2",
-      "imdbId": "tt36261036",
-      "releaseDate": "2029-11-21",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q133454317",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Age of the Raven",
-      "imdbId": "tt33450879",
-      "releaseDate": "2029-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q130360830",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Rendezvous with Rama",
-      "imdbId": "tt0134933",
-      "releaseDate": "2029-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q104895986",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Rendezvous with Rama",
-      "imdbId": "tt0134933",
-      "releaseDate": "2029-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q104895986",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q139578193",
-      "imdbId": "tt39277458",
-      "releaseDate": "2029-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q139578193",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Age of the Raven",
-      "imdbId": "tt33450879",
-      "releaseDate": "2029-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q130360830",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Rendezvous with Rama",
-      "imdbId": "tt0134933",
-      "releaseDate": "2029-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q104895986",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Black Panther III",
-      "imdbId": "tt37884905",
-      "releaseDate": "2028-12-15",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141085211",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Black Panther III",
-      "imdbId": "tt37884905",
-      "releaseDate": "2028-12-15",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141085211",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Lunar Chronicles",
-      "imdbId": "tt17423726",
-      "releaseDate": "2028-11-03",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q139149167",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Lunar Chronicles",
-      "imdbId": "tt17423726",
-      "releaseDate": "2028-11-03",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q139149167",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Lunar Chronicles",
-      "imdbId": "tt17423726",
-      "releaseDate": "2028-11-03",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q139149167",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Lunar Chronicles",
-      "imdbId": "tt17423726",
-      "releaseDate": "2028-11-03",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q139149167",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Dynamic Duo",
-      "imdbId": "tt33549695",
-      "releaseDate": "2028-09-22",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136555546",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Ghost Rider",
-      "imdbId": "tt43711959",
-      "releaseDate": "2028-07-28",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141137470",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Ghost Rider",
-      "imdbId": "tt43711959",
-      "releaseDate": "2028-07-28",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141137470",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Donkey",
-      "imdbId": "tt43619974",
-      "releaseDate": "2028-06-30",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q140367882",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Les Indestructibles 3",
-      "imdbId": "tt33088418",
-      "releaseDate": "2028-06-16",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q128798950",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Les Indestructibles 3",
-      "imdbId": "tt33088418",
-      "releaseDate": "2028-06-16",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q128798950",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Les Indestructibles 3",
-      "imdbId": "tt33088418",
-      "releaseDate": "2028-06-16",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q128798950",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Les Indestructibles 3",
-      "imdbId": "tt33088418",
-      "releaseDate": "2028-06-16",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q128798950",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Resurrection of the Christ: Part Two",
-      "imdbId": "tt32021219",
-      "releaseDate": "2028-05-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136842477",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Resurrection of the Christ: Part Two",
-      "imdbId": "tt32021219",
-      "releaseDate": "2028-05-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136842477",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Miami Vice '85",
-      "imdbId": "tt36731244",
-      "releaseDate": "2028-05-19",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138679319",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Miami Vice '85",
-      "imdbId": "tt36731244",
-      "releaseDate": "2028-05-19",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138679319",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Final Destination VII",
-      "imdbId": "tt37855651",
-      "releaseDate": "2028-05-12",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141266977",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Final Destination VII",
-      "imdbId": "tt37855651",
-      "releaseDate": "2028-05-12",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141266977",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Marvel X-Men film",
-      "imdbId": "tt29347085",
-      "releaseDate": "2028-05-05",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141084903",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Marvel X-Men film",
-      "imdbId": "tt29347085",
-      "releaseDate": "2028-05-05",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141084903",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Evil Dead Wrath",
-      "imdbId": "tt32219574",
-      "releaseDate": "2028-04-07",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138412188",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Evil Dead Wrath",
-      "imdbId": "tt32219574",
-      "releaseDate": "2028-04-07",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138412188",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Paul McCartney film",
-      "imdbId": "tt31419913",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908274",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Ringo Starr film",
-      "imdbId": "tt31419915",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908276",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled George Harrison film",
-      "imdbId": "tt31419914",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908275",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled John Lennon film",
-      "imdbId": "tt31419912",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q135067635",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled George Harrison film",
-      "imdbId": "tt31419914",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908275",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Ringo Starr film",
-      "imdbId": "tt31419915",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908276",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Paul McCartney film",
-      "imdbId": "tt31419913",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908274",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Paul McCartney film",
-      "imdbId": "tt31419913",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908274",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Ringo Starr film",
-      "imdbId": "tt31419915",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908276",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled George Harrison film",
-      "imdbId": "tt31419914",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908275",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled John Lennon film",
-      "imdbId": "tt31419912",
-      "releaseDate": "2028-04-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q135067635",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Raiponce",
-      "imdbId": "tt28994588",
-      "releaseDate": "2028-03-31",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q137734307",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Raiponce",
-      "imdbId": "tt28994588",
-      "releaseDate": "2028-03-31",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q137734307",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Fast Forever",
-      "imdbId": "tt27550022",
-      "releaseDate": "2028-03-17",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q118720041",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Fast Forever",
-      "imdbId": "tt27550022",
-      "releaseDate": "2028-03-17",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q118720041",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q134546417",
-      "imdbId": "tt32896542",
-      "releaseDate": "2028-03-03",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q134546417",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q134546417",
-      "imdbId": "tt32896542",
-      "releaseDate": "2028-03-03",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q134546417",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Batman: Part II",
-      "imdbId": "tt19850008",
-      "releaseDate": "2028-02-18",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q111187129",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Batman: Part II",
-      "imdbId": "tt19850008",
-      "releaseDate": "2028-02-18",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q111187129",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Ringo Starr film",
-      "imdbId": "tt31419915",
-      "releaseDate": "2028-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908276",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Looney Tunes film",
-      "imdbId": "tt34422569",
-      "releaseDate": "2028-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q133817858",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Hello Kitty (film)",
-      "imdbId": "tt38796554",
-      "releaseDate": "2028-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136713767",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Ringo Starr film",
-      "imdbId": "tt31419915",
-      "releaseDate": "2028-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908276",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Main Bhi Arjun",
-      "imdbId": "tt35584965",
-      "releaseDate": "2028-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q139890571",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Ringo Starr film",
-      "imdbId": "tt31419915",
-      "releaseDate": "2028-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136908276",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Looney Tunes film",
-      "imdbId": "tt34422569",
-      "releaseDate": "2028-01-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q133817858",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Morte",
-      "imdbId": "tt33003764",
-      "releaseDate": "2027-12-31",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136031649",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Morte",
-      "imdbId": "tt33003764",
-      "releaseDate": "2027-12-31",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136031649",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Paris Paramount",
-      "imdbId": "tt19386976",
-      "releaseDate": "2027-12-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q140419780",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q136464552",
-      "imdbId": "tt8483914",
-      "releaseDate": "2027-12-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136464552",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q136464552",
-      "imdbId": "tt8483914",
-      "releaseDate": "2027-12-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136464552",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Paris Paramount",
-      "imdbId": "tt19386976",
-      "releaseDate": "2027-12-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q140419780",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Lord of the Rings: The Hunt for Gollum",
-      "imdbId": "tt32328070",
-      "releaseDate": "2027-12-17",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q125858982",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Avengers: Secret Wars",
-      "imdbId": "tt21361444",
-      "releaseDate": "2027-12-17",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q113244842",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Housemaid's Secret",
-      "imdbId": "tt39310806",
-      "releaseDate": "2027-12-17",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141913322",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Lord of the Rings: The Hunt for Gollum",
-      "imdbId": "tt32328070",
-      "releaseDate": "2027-12-17",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q125858982",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Avengers: Secret Wars",
-      "imdbId": "tt21361444",
-      "releaseDate": "2027-12-17",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q113244842",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "24 Jump Street",
-      "imdbId": "tt32744352",
-      "releaseDate": "2027-12-10",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141612677",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "24 Jump Street",
-      "imdbId": "tt32744352",
-      "releaseDate": "2027-12-10",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141612677",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Johnny",
-      "imdbId": "tt37205945",
-      "releaseDate": "2027-12-08",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q129675883",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Johnny",
-      "imdbId": "tt37205945",
-      "releaseDate": "2027-12-08",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q129675883",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "K-Pop: The Debut",
-      "imdbId": "tt8992304",
-      "releaseDate": "2027-12-02",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136377234",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "K-Pop: The Debut",
-      "imdbId": "tt8992304",
-      "releaseDate": "2027-12-02",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136377234",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Frozen 3",
-      "imdbId": "tt26680923",
-      "releaseDate": "2027-11-24",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q116740642",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Frozen 3",
-      "imdbId": "tt26680923",
-      "releaseDate": "2027-11-24",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q116740642",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Margie Claus",
-      "imdbId": "tt7008874",
-      "releaseDate": "2027-11-12",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q129504248",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Seasons",
-      "imdbId": "tt12850068",
-      "releaseDate": "2027-11-12",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141438720",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Margie Claus",
-      "imdbId": "tt7008874",
-      "releaseDate": "2027-11-12",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q129504248",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Helldivers",
-      "imdbId": "tt39089420",
-      "releaseDate": "2027-11-10",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138196664",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Helldivers",
-      "imdbId": "tt39089420",
-      "releaseDate": "2027-11-10",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138196664",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q136735348",
-      "imdbId": "tt2918116",
-      "releaseDate": "2027-11-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136735348",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q136735348",
-      "imdbId": "tt2918116",
-      "releaseDate": "2027-11-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136735348",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Ramayana: Part 2",
-      "imdbId": "tt34464688",
-      "releaseDate": "2027-10-29",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q135393669",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Ramayana: Part 2",
-      "imdbId": "tt34464688",
-      "releaseDate": "2027-10-29",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q135393669",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "L'Arche et l'Aardvark",
-      "imdbId": "tt1117392",
-      "releaseDate": "2027-10-22",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q29616901",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "L'Arche et l'Aardvark",
-      "imdbId": "tt1117392",
-      "releaseDate": "2027-10-22",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q29616901",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "L'Arche et l'Aardvark",
-      "imdbId": "tt1117392",
-      "releaseDate": "2027-10-22",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q29616901",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "L'Arche et l'Aardvark",
-      "imdbId": "tt1117392",
-      "releaseDate": "2027-10-22",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q29616901",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "La Momie 4",
-      "imdbId": "tt22408968",
-      "releaseDate": "2027-10-15",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q139710483",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "La Momie 4",
-      "imdbId": "tt22408968",
-      "releaseDate": "2027-10-15",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q139710483",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Roshagni",
-      "imdbId": "tt44923829",
-      "releaseDate": "2027-10-10",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141451016",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Haunting of Hotel Transylvania",
-      "imdbId": "tt43674934",
-      "releaseDate": "2027-10-08",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141762309",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "L'Agent Jean! : La fin des mondes",
-      "imdbId": "tt43136190",
-      "releaseDate": "2027-10-08",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138818281",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Haunting of Hotel Transylvania",
-      "imdbId": "tt43674934",
-      "releaseDate": "2027-10-08",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141762309",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "L'Agent Jean! : La fin des mondes",
-      "imdbId": "tt43136190",
-      "releaseDate": "2027-10-08",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138818281",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Haunting of Hotel Transylvania",
-      "imdbId": "tt43674934",
-      "releaseDate": "2027-10-08",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141762309",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q141544516",
-      "imdbId": "tt43856846",
-      "releaseDate": "2027-10-07",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141544516",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q141544516",
-      "imdbId": "tt43856846",
-      "releaseDate": "2027-10-07",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141544516",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Great Beyond",
-      "imdbId": "tt33075482",
-      "releaseDate": "2027-10-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q134114134",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Great Beyond",
-      "imdbId": "tt33075482",
-      "releaseDate": "2027-10-01",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q134114134",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Teenage Mutant Ninja Turtles: Mutant Mayhem sequel",
-      "imdbId": "tt31512072",
-      "releaseDate": "2027-09-17",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q124813515",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "untitled Teenage Mutant Ninja Turtles: Mutant Mayhem sequel",
-      "imdbId": "tt31512072",
-      "releaseDate": "2027-09-17",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q124813515",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Conjuring: First Communion",
-      "imdbId": "tt39372868",
-      "releaseDate": "2027-09-10",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138682385",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Conjuring: First Communion",
-      "imdbId": "tt39372868",
-      "releaseDate": "2027-09-10",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138682385",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The New Simpsons Movie",
-      "imdbId": "tt38561132",
-      "releaseDate": "2027-09-03",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136401922",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The New Simpsons Movie",
-      "imdbId": "tt38561132",
-      "releaseDate": "2027-09-03",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136401922",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Shiver",
-      "imdbId": "tt38810776",
-      "releaseDate": "2027-08-13",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138583014",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Shiver",
-      "imdbId": "tt38810776",
-      "releaseDate": "2027-08-13",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138583014",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Bluey : Le film",
-      "imdbId": "tt35050152",
-      "releaseDate": "2027-08-06",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136661855",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Snoop (film)",
-      "imdbId": "tt30094801",
-      "releaseDate": "2027-08-06",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141781346",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Jason Statham Stole My Bike",
-      "imdbId": "tt39848323",
-      "releaseDate": "2027-08-06",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q140067873",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Bluey : Le film",
-      "imdbId": "tt35050152",
-      "releaseDate": "2027-08-06",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136661855",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Bluey : Le film",
-      "imdbId": "tt35050152",
-      "releaseDate": "2027-08-06",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136661855",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Snoop (film)",
-      "imdbId": "tt30094801",
-      "releaseDate": "2027-08-06",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141781346",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Jason Statham Stole My Bike",
-      "imdbId": "tt39848323",
-      "releaseDate": "2027-08-06",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q140067873",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Bluey : Le film",
-      "imdbId": "tt35050152",
-      "releaseDate": "2027-08-06",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136661855",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Anatole Latuile",
-      "imdbId": "tt43582096",
-      "releaseDate": "2027-08-04",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q140799999",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Anatole Latuile",
-      "imdbId": "tt43582096",
-      "releaseDate": "2027-08-04",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q140799999",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Comebacker",
-      "imdbId": "tt41857193",
-      "releaseDate": "2027-07-30",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141756561",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Sans un bruit 3",
-      "imdbId": "tt36495786",
-      "releaseDate": "2027-07-30",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q101426457",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Sans un bruit 3",
-      "imdbId": "tt36495786",
-      "releaseDate": "2027-07-30",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q101426457",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Comebacker",
-      "imdbId": "tt41857193",
-      "releaseDate": "2027-07-30",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141756561",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "A Minecraft Movie Squared",
-      "imdbId": "tt37788431",
-      "releaseDate": "2027-07-23",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136277238",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "A Minecraft Movie Squared",
-      "imdbId": "tt37788431",
-      "releaseDate": "2027-07-23",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136277238",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Crawl 2",
-      "imdbId": "tt33378087",
-      "releaseDate": "2027-07-16",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141260263",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Crawl 2",
-      "imdbId": "tt33378087",
-      "releaseDate": "2027-07-16",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141260263",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Man of Tomorrow",
-      "imdbId": "tt37833661",
-      "releaseDate": "2027-07-09",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136089308",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Eddie and the Beanstalk",
-      "imdbId": "tt29598202",
-      "releaseDate": "2027-07-09",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q129934505",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Blanco",
-      "imdbId": "tt43739960",
-      "releaseDate": "2027-07-09",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q142107591",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Man of Tomorrow",
-      "imdbId": "tt37833661",
-      "releaseDate": "2027-07-09",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q136089308",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q140470447",
-      "imdbId": "tt31968478",
-      "releaseDate": "2027-07-04",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q140470447",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q30750216",
-      "imdbId": "tt6113186",
-      "releaseDate": "2027-06-30",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q30750216",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q30750216",
-      "imdbId": "tt6113186",
-      "releaseDate": "2027-06-30",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q30750216",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q30750216",
-      "imdbId": "tt6113186",
-      "releaseDate": "2027-06-30",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q30750216",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q30750216",
-      "imdbId": "tt6113186",
-      "releaseDate": "2027-06-30",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q30750216",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Hole",
-      "imdbId": "tt27477734",
-      "releaseDate": "2027-06-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141734405",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Untitled Ocean's Eleven prequel",
-      "imdbId": "tt20374502",
-      "releaseDate": "2027-06-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q116058594",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Untitled Ocean's Eleven prequel",
-      "imdbId": "tt20374502",
-      "releaseDate": "2027-06-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q116058594",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Hole",
-      "imdbId": "tt27477734",
-      "releaseDate": "2027-06-25",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q141734405",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Last Druid",
-      "imdbId": "tt34581186",
-      "releaseDate": "2027-06-24",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138982214",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "The Last Druid",
-      "imdbId": "tt34581186",
-      "releaseDate": "2027-06-24",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q138982214",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q110152284",
-      "imdbId": "tt16360004",
-      "releaseDate": "2027-06-18",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q110152284",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q110152284",
-      "imdbId": "tt16360004",
-      "releaseDate": "2027-06-18",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q110152284",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
-    },
-    {
-      "title": "Q110152284",
-      "imdbId": "tt16360004",
-      "releaseDate": "2027-06-18",
-      "kind": "film",
-      "wikidata": "http://www.wikidata.org/entity/Q110152284",
-      "imdbRating": null,
-      "imdbVotes": null,
-      "reason": "Candidat récent issu de Wikidata, à enrichir avant intégration."
     }
   ]
 }
