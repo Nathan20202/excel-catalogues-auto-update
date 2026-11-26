@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "catalog": "activities-discovery",
-  "cursor": 4,
-  "checkedThisRun": 37,
-  "addedThisRun": 15,
-  "failuresThisRun": 1,
+  "cursor": 0,
+  "checkedThisRun": 0,
+  "addedThisRun": 0,
+  "failuresThisRun": 2,
   "areasThisRun": [
-    "Orsay",
-    "Mende"
+    "Saint-Cyprien",
+    "Boulouris"
   ],
-  "updatedAt": "2026-11-19T13:55:23Z"
+  "updatedAt": "2026-11-26T14:28:33Z"
 }
