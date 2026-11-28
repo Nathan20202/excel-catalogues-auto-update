@@ -921,7 +921,7 @@
           "sheet": "07 - Écrans & projection",
           "table": "TechDisplays",
           "file": "data/tech/ecrans-projection.json",
-          "recordCount": 30,
+          "recordCount": 31,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -971,7 +971,7 @@
           "sheet": "09 - Gaming & VR",
           "table": "TechGamingVr",
           "file": "data/tech/gaming-vr.json",
-          "recordCount": 35,
+          "recordCount": 36,
           "idColumn": "ID",
           "preserveColumns": [
             "Statut perso",
@@ -1146,7 +1146,7 @@
           "sheet": "16 - Sources & méthode",
           "table": "TechSourceRegister",
           "file": "data/tech/sources.json",
-          "recordCount": 397,
+          "recordCount": 399,
           "idColumn": "ID",
           "preserveColumns": [],
           "formulaColumns": [],
